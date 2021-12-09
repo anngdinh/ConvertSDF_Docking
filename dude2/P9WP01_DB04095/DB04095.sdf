@@ -1,0 +1,157 @@
+446221
+  -OEChem-01012023233D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+    1.6483    1.9712    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2648    1.3277    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1776   -1.8414   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0522   -0.3019    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6719   -0.7984   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1825    0.4876   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0759   -0.7582   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4204    0.5794    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2254    0.8209   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5120   -1.4869    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7669   -1.5893    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2250    2.3378    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1093   -2.8149    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3847    1.0679    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1681   -2.3723    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04095
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UWMXUDUWVFWJPX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC=NC2=C1NC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5N3O/c10-6-5-4(1-2-7-5)8-3-9-6/h1-3,7H,(H,8,9,10)
+
+> <INCHI_KEY>
+UWMXUDUWVFWJPX-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5N3O
+
+> <MOLECULAR_WEIGHT>
+135.1234
+
+> <EXACT_MASS>
+135.043261797
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9991032512450457
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.414989744628052
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3H,4H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+
+> <ALOGPS_LOGP>
+-0.33
+
+> <JCHEM_LOGP>
+-0.2753729703333333
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.547214726131996
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.048697690314562
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.046903748086603
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.25
+
+> <JCHEM_REFRACTIVITY>
+37.535700000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.74e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04095
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00359
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Deazahypoxanthine
+
+$$$$

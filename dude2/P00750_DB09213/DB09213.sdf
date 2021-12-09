@@ -1,0 +1,180 @@
+39912
+  -OEChem-10041811203D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+   -4.5796   -0.9495   -0.4356 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5281   -1.8965   -0.2621 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7571   -0.4763   -0.3740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0559    0.7324    0.2769 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5508    0.6822    0.1577 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2093    0.5889   -0.0613 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6949    0.5390   -0.1792 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3137   -1.8044    0.2449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2748   -0.3283   -0.2387 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9382    1.2592   -0.9426 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8124    0.0595    1.1508 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4516    1.2122   -1.0528 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5772    0.0125    1.0404 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4329    1.2624    0.9659 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2293   -0.8934   -0.2903 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5119   -0.5011   -1.4437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4207    1.6621   -0.1801 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3320    0.8033    1.3378 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9880    1.0287   -1.1183 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9119   -2.6321   -0.1526 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4352   -1.7995    1.3334 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2698   -2.0322    0.0098 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6172    0.6023   -0.7035 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5814   -0.3158    0.8128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7927   -1.1571   -0.7330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5202    1.7446   -1.7206 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2929   -0.3875    2.0162 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9275    1.6660   -1.9180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1497   -0.4759    1.8244 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3130    0.7355    1.9191 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0509    2.2815    1.0911 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5071    1.3310    0.7631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9009   -1.8734   -0.5084 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 33  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09213
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HEFNNWSXXWATRW-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)/t10-/m0/s1
+
+> <INCHI_KEY>
+HEFNNWSXXWATRW-JTQLQIEISA-N
+
+> <FORMULA>
+C13H18O2
+
+> <MOLECULAR_WEIGHT>
+206.2808
+
+> <EXACT_MASS>
+206.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.812141997951052
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-[4-(2-methylpropyl)phenyl]propanoic acid
+
+> <ALOGPS_LOGP>
+3.50
+
+> <JCHEM_LOGP>
+3.8435581993333345
+
+> <ALOGPS_LOGS>
+-3.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.851939431757335
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+60.7319
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.84e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dexibuprofen
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09213
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dexibuprofen
+
+> <SYNONYMS>
+(+)-(S)-p-isobutylhydratropic acid; (2S)-2-(4-isobutylphenyl)propanoic acid; (S)-α-methyl-4-(2-methylpropyl)benzeneacetic acid; d-ibuproten; Dexibuprofeno
+
+$$$$

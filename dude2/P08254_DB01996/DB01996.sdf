@@ -1,0 +1,139 @@
+7970
+  -OEChem-10051719463D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    1.1215   -1.2018    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9780   -0.0030   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2949    1.2081   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4648   -0.0443    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2301   -1.1694   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0956    1.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7507   -0.0052    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8351    2.1507    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8828    0.8100   -0.5427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8358   -0.9500   -0.4913 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8417   -0.0253    1.0279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7056   -2.1454    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6490    2.1478    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8347   -0.0537    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01996
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ITQTTZVARXURQS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7N/c1-6-3-2-4-7-5-6/h2-5H,1H3
+
+> <INCHI_KEY>
+ITQTTZVARXURQS-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7N
+
+> <MOLECULAR_WEIGHT>
+93.1265
+
+> <EXACT_MASS>
+93.057849229
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.311548838665844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylpyridine
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+1.2689947783333335
+
+> <ALOGPS_LOGS>
+0.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.627866775155743
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.89
+
+> <JCHEM_REFRACTIVITY>
+28.942299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methylpyridine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01996
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00181
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Methylpyridine
+
+$$$$

@@ -1,0 +1,172 @@
+5531
+  -OEChem-10051722073D
+
+ 30 31  0     0  0  0  0  0  0999 V2000
+    1.7622   -0.0842    0.0136 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4545    0.7416   -0.0480 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4070   -0.6593    0.0278 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1645    2.0669   -0.1270 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4210    1.7613   -0.1199 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4226   -0.3482    0.0228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6215   -0.4809    1.1213 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4377    0.3759   -1.1926 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1018   -1.5823    0.0954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8434    0.5791   -0.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5926   -1.6709    0.0933 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5401    0.5172    2.2639 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7681   -0.7860   -2.1139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1952   -3.0514    0.1757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3722    2.6211   -0.1676 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3494   -1.4777    1.4889 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6667   -0.5589    0.7972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8164    1.0944   -1.7398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3580    0.9133   -0.9327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4936   -2.4846    0.1471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8275    1.5196    1.9294 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5240    0.5771    2.6676 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2111    0.2216    3.0765 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4045   -1.5223   -1.6120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8609   -1.2998   -2.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2986   -0.4268   -3.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8210   -3.1184    1.0704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4255   -3.8257    0.2248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8164   -3.2266   -0.7076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4893    3.6924   -0.2334 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5 10  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09283
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GSNOZLZNQMLSKJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN(CC)C1=CC(C)=NC2=NC=NN12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N5/c1-4-14(5-2)9-6-8(3)13-10-11-7-12-15(9)10/h6-7H,4-5H2,1-3H3
+
+> <INCHI_KEY>
+GSNOZLZNQMLSKJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H15N5
+
+> <MOLECULAR_WEIGHT>
+205.265
+
+> <EXACT_MASS>
+205.132745503
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.547412990630455
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N,N-diethyl-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidin-7-amine
+
+> <ALOGPS_LOGP>
+1.85
+
+> <JCHEM_LOGP>
+1.254873538
+
+> <ALOGPS_LOGS>
+-2.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.0231379719547515
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.32
+
+> <JCHEM_REFRACTIVITY>
+71.3755
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.93e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trapidil
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09283
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Trapidil
+
+$$$$

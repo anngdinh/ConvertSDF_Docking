@@ -1,0 +1,155 @@
+247
+  -OEChem-10051722093D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+    1.6647    1.2167   -0.0588 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2620   -0.9886   -0.0737 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0834   -0.0428   -0.0052 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.1619   -0.4053    0.7909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0382   -0.7338   -1.3605 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3212   -0.4970    0.7548 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1363    1.4649   -0.2061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4905   -0.0141    0.1585 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0791    0.0855    1.7688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1264   -1.4889    0.9618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9745   -1.8137   -1.1971 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9562   -0.4850   -1.9018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1682   -0.3778   -1.9193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3458    0.0231    1.7170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2062   -0.2465    0.1624 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2591   -1.5790    0.9049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9357    1.9597    0.7486 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4275    1.7647   -0.9811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1438    1.7231   -0.5495 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+M  CHG  2   1  -1   3   1
+M  END
+> <DATABASE_ID>
+DB06756
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KWIUHFFTVRNATP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c1-6(2,3)4-5(7)8/h4H2,1-3H3
+
+> <INCHI_KEY>
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.10962349652031
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(trimethylazaniumyl)acetate
+
+> <ALOGPS_LOGP>
+-2.70
+
+> <JCHEM_LOGP>
+-4.494183842471745
+
+> <ALOGPS_LOGS>
+-1.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2595637800263866
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.129999999999995
+
+> <JCHEM_REFRACTIVITY>
+52.8234
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+Bet
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06756
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Glycine betaine
+
+> <SYNONYMS>
+2-(Trimethylammonio)Acetate; 2-N,N,N-trimethylammonio acetate; 2-trimethylammonioacetate; abromine; acidol; betaína anhidra; Betaine; Betaine, anhydrous; Glycinebetaine; N,N,N-trimethylammonioacetate; N,N,N-Trimethylglycine; TMG; Trimethylaminoacetate; Trimethylammonioacetate; Trimethylglycine; trimethylglycocoll
+
+> <PRODUCTS>
+ATONO2 Oxygen Baby; Acididyn Tab; Alka-pan Tablets; Bemosin Tab; Betacol; Betaine HCl Tab 500mg; Betaine HCl and Pepsin; Betasin Tab; Cystadane; Dr.g Pore Purifing Toner; Dygest; EnBrace HR; EnLyte; Enzyme Tablets; Face It Hd Perfect Bb Spf30 Pa 01; Face It Hd Perfect Bb Spf30 Pa 02; Glutamic Acid HCl Betaine HCl W Pepsin; Glutamic Acid Pepsin and Betaine Tablets; HWASAMONG Dr.All Scalp HealingShampoo; Neo Life Beta Gest Tab; PramLyte; Pro Gest Tab; Stomach Aid-digestive Aid; Ultr F/b E.S. Mega Lipotropic Fmla W B6bet; Wizyoung Diamond Collagen Essence Mask Pack; Wizyoung Vitamin Collagen Essence Mask Pack; Zypanax
+
+> <SALTS>
+Betaine citrate; Betaine hydrochloride
+
+$$$$

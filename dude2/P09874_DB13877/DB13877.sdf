@@ -1,0 +1,157 @@
+9796068
+  -OEChem-10061700343D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+   -3.1443   -1.9368    0.0037 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0071    1.5739    0.0112 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7571    2.4224   -0.0028 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.2208    0.7863    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0387    1.2016   -0.0009 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.8037   -0.5763   -0.0029 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4046   -0.1520   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9775    0.2523   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3303    0.7378   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1714   -1.5271   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2107   -1.1230    0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1362   -2.0126    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7682    0.3537   -0.0038 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5335    1.8061   -0.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9555   -2.2746   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2928   -3.0886    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6998   -1.5826   -0.0103 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7647   -0.2487    0.0034 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  CHG  2   3  -1   5   1
+M  END
+> <DATABASE_ID>
+DB13877
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MDOJTZQKHMAPBK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=CC(=C(I)C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5IN2O3/c8-5-2-1-4(7(9)11)3-6(5)10(12)13/h1-3H,(H2,9,11)
+
+> <INCHI_KEY>
+MDOJTZQKHMAPBK-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5IN2O3
+
+> <MOLECULAR_WEIGHT>
+292.032
+
+> <EXACT_MASS>
+291.93449
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.243061864023794
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-iodo-3-nitrobenzamide
+
+> <ALOGPS_LOGP>
+1.38
+
+> <JCHEM_LOGP>
+1.6928147780000002
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.998284356804234
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6830931970570749
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.23
+
+> <JCHEM_REFRACTIVITY>
+54.81940000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iniparib
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13877
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05975
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Iniparib
+
+> <SYNONYMS>
+4-iodo-3-nitrobenzamide
+
+$$$$

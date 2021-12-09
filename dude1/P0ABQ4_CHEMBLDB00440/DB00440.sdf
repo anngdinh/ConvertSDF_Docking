@@ -1,0 +1,205 @@
+5578
+  -OEChem-10051719153D
+
+ 39 40  0     0  0  0  0  0  0999 V2000
+   -2.6987    2.5018    0.5331 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7534   -2.1358   -0.6625 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9726    0.3515   -0.6609 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8404   -0.9052   -0.7646 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8224    1.4185   -0.1267 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2723   -2.4149    0.1769 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3815    0.6079   -1.6816 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0829   -0.3313    1.7553 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2528   -0.1509    1.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2494   -0.1025    0.8154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8913   -1.2361    0.5168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8638    1.1031    1.1202 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1131    1.2718    0.5231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1406   -1.0674   -0.0803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7514    0.1866   -0.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8016   -1.1049    0.0730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7843    1.1476    0.6914 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2945    0.3616   -0.8148 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4122    3.3649   -0.5656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6094   -2.9217    0.1643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0701    0.0555   -2.0521 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1747    0.3682    2.5996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1453   -1.3085    2.2487 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4331   -2.2209    0.5188 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3727    1.9535    1.5870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4058    2.0000    1.2448 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9358   -2.7382    1.0739 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7044   -3.1115   -0.4193 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7431    2.9157   -1.5071 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3408    3.5850   -0.6106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9556    4.3018   -0.4157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4286   -2.3133    0.5606 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0421   -3.3698    0.9863 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0334   -3.7236   -0.4462 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4501   -0.9600   -2.1938 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1133    0.1809   -2.5710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7903    0.7505   -2.4941 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7580    1.5430   -1.7533 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7710   -0.1541   -2.2191 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 16  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 16  1  0  0  0  0
+  6 27  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 38  1  0  0  0  0
+  7 39  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 17 26  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+ 21 36  1  0  0  0  0
+ 21 37  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00440
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IEDVJHCEMCRBQM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H18N4O3/c1-19-10-5-8(6-11(20-2)12(10)21-3)4-9-7-17-14(16)18-13(9)15/h5-7H,4H2,1-3H3,(H4,15,16,17,18)
+
+> <INCHI_KEY>
+IEDVJHCEMCRBQM-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H18N4O3
+
+> <MOLECULAR_WEIGHT>
+290.3177
+
+> <EXACT_MASS>
+290.137890462
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.713702230056416
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(3,4,5-trimethoxyphenyl)methyl]pyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.2839073299999995
+
+> <ALOGPS_LOGS>
+-2.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.33440529178666
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.156319189418069
+
+> <JCHEM_POLAR_SURFACE_AREA>
+105.50999999999999
+
+> <JCHEM_REFRACTIVITY>
+81.5094
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trimethoprim
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00440
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00103
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Trimethoprim
+
+> <SYNONYMS>
+2,4-diamino-5-(3,4,5-trimethoxybenzyl)pyrimidine; 5-[(3,4,5-trimethoxyphenyl)methyl]-2,4-pyrimidinediamine; Trimethoprim; Triméthoprime; Trimethoprimum; Trimetoprima
+
+> <PRODUCTS>
+Apo-sulfatrim Oral Suspension; Bactrim; Bactrim DS; Bactrim DS Roche Tab; Bactrim Roche Inj; Bactrim Roche Suspension Paediatric; Bactrim Roche Tab; Coptin Oral Suspension; Coptin Tab; Nu-cotrimox Sus 40/8mg/ml; Nu-cotrimox Tab 400/80mg; Nu-cotrimox-DS Tab 800/160mg; PMS-polytrimethoprim; POLYMYXIN B SULFATE and TRIMETHOPRIM SULFATE; Polymyxin B Sulfate and Trimethoprim; Polymyxin B Sulfate and Trimethoprim Sulfate; Polytrim; Polytrim Ophthalmic Solution; PrimSol; Primsol; Proloprim; Proloprim 200 Tab 200mg; Proloprim Tab 100mg; Protrin Df Tab; Protrin Tab; Riva-sep DS; Roubac Tab 160/800; Roubac Tab 80/400; SULFAMETHOXAZOLE AND TRIMETHOPRIM double strength; SULFAMETHOXAZOLE and TRIMETHOPRIM; Sandoz Polytrimethoprim; Septra; Septra DS; Septra DS Tablets; Septra Grape; Septra Injection; Septra Pediatric Suspension; Sulfameth/Trimeth-DS; Sulfamethox-TMP DS; Sulfamethoxazole and Trimethoprim; Sulfamethoxazole and Trimethoprim (Double Strength); Sulfamethoxazole and Trimethoprim DS; Sulfamethoxazole and Trimethoprim Double Strength; Sulfamethoxazole and Trimethoprim Tablets; Sulfatrim; Sulfatrim DS; Sulfatrim Pediatric; TRIMPEX trimethoprim hydrochloride; Teva-trimel; Teva-trimel DS; Trimethoprim; Trimethoprim Tablets; Trimethoprim sulfate and Polymyxin B sulfate; Trisulfa DS Tab; Trisulfa S Suspension; Trisulfa Tab; sulfamethoxazole-trimethoprim (SMZ)
+
+> <INTERNATIONAL_BRANDS>
+Alprim; Catin; Eumi; Inflamnil; Lannacher; Lariago; Meprim; Metipine; Monotrim; Motrim; Trimpex; Triprim
+
+> <SALTS>
+Trimethoprim hydrochloride; Trimethoprim sulfate
+
+$$$$

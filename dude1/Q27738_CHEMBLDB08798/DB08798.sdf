@@ -1,0 +1,180 @@
+12894
+  -OEChem-10051721283D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+   -0.3144    1.0098    0.0686 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6770    0.7712    0.0068 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2325    2.1312   -0.8590 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0755    1.1998    1.4603 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5452   -0.3216   -0.5979 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6909   -1.4458   -0.4402 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8826   -1.0751    0.0197 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9492    0.3972    0.0544 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0017   -0.3449   -0.3409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9544    0.3192    0.1449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9583   -1.0263   -0.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4429   -0.2994    1.1573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7618    0.6047   -1.0602 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7492   -0.7886    1.1458 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0681    0.1157   -1.0717 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5617   -0.5810    0.0313 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9735    1.3031    0.5249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0858   -1.9691   -0.1170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0958   -1.2407   -0.6876 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8257   -0.4792    2.0330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3959    1.1387   -1.9326 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1218   -1.3314    2.0108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6912    0.2826   -1.9467 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9583    0.8376    0.6290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0496    2.0892   -0.2327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7184    1.7710    1.4806 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5430   -2.0136    0.8765 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7586   -2.9791   -0.3830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8519   -1.6627   -0.8361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2409   -1.5809    0.8187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4719   -0.9255   -0.7884 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08798
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CYFLXLSBHQBMFT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C)N=C(NS(=O)(=O)C2=CC=C(N)C=C2)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13N3O3S/c1-7-8(2)17-11(13-7)14-18(15,16)10-5-3-9(12)4-6-10/h3-6H,12H2,1-2H3,(H,13,14)
+
+> <INCHI_KEY>
+CYFLXLSBHQBMFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H13N3O3S
+
+> <MOLECULAR_WEIGHT>
+267.304
+
+> <EXACT_MASS>
+267.067761987
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.444221092556525
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(dimethyl-1,3-oxazol-2-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+0.5890580276666666
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.808689436049524
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9356010208077885
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.22
+
+> <JCHEM_REFRACTIVITY>
+67.51450000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfamoxole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08798
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfamoxole
+
+> <SYNONYMS>
+2-(p-Aminobenzenesulfonamido)-4,5-dimethyloxazole; 2-(p-Aminobenzolsulfonamido)-4,5-dimethyloxazol; 4-Amino-N-(4,5-dimethyl-2-oxazolyl)benzenesulfonamide; 4,5-Dimethyl-2-sulfanilamidooxazole; N(sup 1)-(4,5-Dimethyl-2-oxazolyl)sulfanilamide; N1-(4,5-Dimethyl-2-oxazolyl)sulfanilamide; Oxasulfa; p-Aminobenzenesulfonyl-2-amino-4,5-dimethyloxazole; Sulfadimethyloxazole; Sulfamoxol; Sulfamoxole; Sulfamoxolum; Sulphamoxole
+
+> <INTERNATIONAL_BRANDS>
+Sulfmidil; Sulfuno
+
+$$$$

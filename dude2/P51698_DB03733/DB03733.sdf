@@ -1,0 +1,123 @@
+11
+  -OEChem-10051720213D
+
+  8  7  0     0  0  0  0  0  0999 V2000
+    1.6464   -0.7110    0.1375 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6463   -0.7111   -0.1375 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.6836    0.7111   -0.3310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6837    0.7111    0.3310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5957    0.7093   -1.4220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2473    1.6007   -0.0354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2475    1.6007    0.0354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5958    0.7094    1.4219 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03733
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WSLDOOZREJYCGB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClCCCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2
+
+> <INCHI_KEY>
+WSLDOOZREJYCGB-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H4Cl2
+
+> <MOLECULAR_WEIGHT>
+98.959
+
+> <EXACT_MASS>
+97.969005542
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.503389465846086
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2-dichloroethane
+
+> <ALOGPS_LOGP>
+1.48
+
+> <JCHEM_LOGP>
+1.5005046313333332
+
+> <ALOGPS_LOGS>
+-1.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+20.6556
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.94e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethylene dichloride
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03733
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01133
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylene Dichloride
+
+$$$$

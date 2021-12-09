@@ -1,0 +1,189 @@
+2466
+  -OEChem-04261821443D
+
+ 33 33  0     0  0  0  0  0  0999 V2000
+    2.3451   -0.5597   -0.7356 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1539   -0.9308   -0.7940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7102    1.2788   -0.8220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7232    1.0960    0.1556 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6547   -0.1191   -0.2832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6780    0.9219    0.1615 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2480    0.4600   -0.3309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5525   -0.2776    0.6639 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0582   -0.4660   -0.2728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0748    0.3282    0.2493 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9524   -0.1762    1.1672 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9941   -1.5286    0.4021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8010    0.8790    0.4558 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3158   -1.6231   -0.0679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5089    0.7845   -0.0143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9962   -0.0672    0.0653 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9200   -0.5154   -1.2713 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6688   -0.9795    0.3979 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3993    1.3249    1.1421 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6859    1.7611   -0.5439 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0081    0.8391    0.6713 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2058    1.2845   -1.0520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1078   -0.4921    0.9735 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3986   -0.0579   -0.7225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7918    1.0913    0.5678 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0325    0.6699    1.8616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2064   -1.0607    1.7660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5694   -2.4373    0.5587 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2281    1.8597    0.6487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7470   -2.5992   -0.2710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0495    1.7093   -0.1904 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7024    1.7651    0.9164 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2197    1.8222   -1.4618 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 16  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13346
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MXJWRABVEGLYDG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCOC1=CC=C(CC(=O)NO)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17NO3/c1-2-3-8-16-11-6-4-10(5-7-11)9-12(14)13-15/h4-7,15H,2-3,8-9H2,1H3,(H,13,14)
+
+> <INCHI_KEY>
+MXJWRABVEGLYDG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H17NO3
+
+> <MOLECULAR_WEIGHT>
+223.272
+
+> <EXACT_MASS>
+223.120843411
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.582917439231654
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-butoxyphenyl)-N-hydroxyacetamide
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+1.9670975133333335
+
+> <ALOGPS_LOGS>
+-2.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.164112723240702
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.859258213503633
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.840325433523242
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.56
+
+> <JCHEM_REFRACTIVITY>
+61.2892
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.33e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bufexamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13346
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Bufexamac
+
+> <SYNONYMS>
+2-(p-Butoxyphenyl)-acetohydroxamic acid; 4-Butoxy-N-hydroxybenzeneacetamide; 4-Butoxyphenylacetohydroxamic acid; Acide p-butoxyphenylacethydroxamique; Bufexamac; bufexamaco; bufexamacum; Bufexamic acid; p-Butoxyphenylacetohydroxamic acid
+
+> <PRODUCTS>
+Norfemac Cream - 5%; Norfemac Ointment - 5%
+
+$$$$

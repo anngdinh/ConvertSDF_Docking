@@ -1,0 +1,132 @@
+77022
+  -OEChem-10051723563D
+
+  9  9  0     0  0  0  0  0  0999 V2000
+   -2.6852   -0.0674   -0.0002 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4258    0.6699   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5248   -0.6704   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1409    1.1276    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6561    0.0090    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2498   -1.0686    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0792    2.1861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2795    1.2141   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0411   -2.1294    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02721
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LLNQWPTUJJYTTE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+IC1=CNN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H3IN2/c4-3-1-5-6-2-3/h1-2H,(H,5,6)
+
+> <INCHI_KEY>
+LLNQWPTUJJYTTE-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H3IN2
+
+> <MOLECULAR_WEIGHT>
+193.9738
+
+> <EXACT_MASS>
+193.934091526
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.729984733925955
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-iodo-1H-pyrazole
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+1.2063742863333333
+
+> <ALOGPS_LOGS>
+-1.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.511384506943326
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.4505408419750956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+33.1079
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-iodopyrazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02721
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02726
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Iodopyrazole
+
+$$$$

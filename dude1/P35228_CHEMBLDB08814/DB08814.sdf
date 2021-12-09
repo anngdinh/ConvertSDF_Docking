@@ -1,0 +1,168 @@
+9458
+  -OEChem-10051723333D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    4.0532   -0.6663    0.3404 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6031    0.7763   -1.2153 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3398    1.3172    0.8744 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5928    1.1202   -0.7770 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4783   -2.5770    0.7363 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1608   -1.1448   -0.8913 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8219    1.6794    1.4846 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7440   -0.1809   -0.0542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6030    0.2475   -0.4354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8962   -1.0798   -0.1224 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7171    0.6969   -0.4012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4509   -1.5083    0.2589 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1307   -1.9576    0.2249 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1552    0.2994   -0.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2671   -1.5699   -0.1537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1496    1.8083    0.3125 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2243    2.7393   -0.1652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9436    1.7319   -0.6460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2374   -2.2075    0.5290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0641   -3.0004    0.4613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7988    3.4695   -0.8579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6477    3.2739    0.6897 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0196    2.1669   -0.6487 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4037   -2.9015    0.7077 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 16  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08814
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RMWVZGDJPAKBDE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)OC1=C(C=CC(=C1)C(F)(F)F)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7F3O4/c1-5(14)17-8-4-6(10(11,12)13)2-3-7(8)9(15)16/h2-4H,1H3,(H,15,16)
+
+> <INCHI_KEY>
+RMWVZGDJPAKBDE-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7F3O4
+
+> <MOLECULAR_WEIGHT>
+248.157
+
+> <EXACT_MASS>
+248.029643194
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.320605911759145
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(acetyloxy)-4-(trifluoromethyl)benzoic acid
+
+> <ALOGPS_LOGP>
+2.40
+
+> <JCHEM_LOGP>
+2.1159381799999997
+
+> <ALOGPS_LOGS>
+-2.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3857319121006535
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.144951074329635
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+50.420300000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.96e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triflusal
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08814
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Triflusal
+
+> <SYNONYMS>
+Triflusal; Triflusalum
+
+> <INTERNATIONAL_BRANDS>
+Aflen; Disgren; Grendis
+
+$$$$

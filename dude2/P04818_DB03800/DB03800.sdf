@@ -1,0 +1,187 @@
+65063
+  -OEChem-10051720223D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+   -3.5899   -1.5118    0.1252 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3378    1.1731    1.0234 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6722    4.0287   -0.0282 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7278   -0.2308    0.6099 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7074    1.4377    0.3962 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6244   -2.2410   -0.9476 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7368   -0.8450   -0.7995 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0983   -2.3894    1.2314 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7870   -3.1142   -0.3238 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6696    0.3159    0.1806 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7450   -0.8290    0.0369 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8370    2.7627   -0.6633 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4433    1.7670    0.3157 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5175    2.1643   -0.9651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8867    1.5045    0.3535 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2115    0.6484   -0.3762 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0805    0.3913    0.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0382   -0.9041   -0.0231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6853   -2.0589   -0.1942 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1618   -2.0694   -0.1695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4507    2.9189   -1.5554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0780    2.2534    1.0647 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4224    1.4203   -1.7652 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2717    2.8951   -1.2735 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4215    2.2161    0.9937 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5860    0.0918   -1.0777 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0472    1.0787   -0.9381 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2303    4.6174   -0.6637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0400   -0.9216   -0.0354 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7605   -0.8001    0.0598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1601   -2.9936   -0.3476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9074   -3.0956   -1.3371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4560   -1.4140   -1.1476 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 13  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 32  1  0  0  0  0
+  7 33  1  0  0  0  0
+  9 20  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03800
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JSRLJPSBLDHEIO-SHYZEUOFSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@H]1C[C@@H](O[C@@H]1COP(O)(O)=O)N1C=CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h1-2,5-6,8,12H,3-4H2,(H,10,13,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+
+> <INCHI_KEY>
+JSRLJPSBLDHEIO-SHYZEUOFSA-N
+
+> <FORMULA>
+C9H13N2O8P
+
+> <MOLECULAR_WEIGHT>
+308.1819
+
+> <EXACT_MASS>
+308.040951914
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.86153720779655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3-hydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.42
+
+> <JCHEM_LOGP>
+-1.6381701099999995
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.258419473521287
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.232757608087275
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.240343942911336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.63
+
+> <JCHEM_REFRACTIVITY>
+61.927800000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2'-deoxyuridylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03800
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03187
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Deoxyuridine monophosphate
+
+> <SYNONYMS>
+2'-deoxyuridine 5'-monophosphate; 2'-Deoxyuridine 5'-phosphate; Deoxyuridine 5'-phosphate; Deoxyuridylate; Deoxyuridylic acid; dUMP
+
+$$$$

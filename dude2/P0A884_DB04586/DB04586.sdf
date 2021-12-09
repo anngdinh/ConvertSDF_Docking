@@ -1,0 +1,140 @@
+7244
+  -OEChem-10051720383D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+    2.4775   -1.1480    0.0001 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3778    1.7730   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3911    0.8324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6854   -0.5310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9369    1.2593    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3482   -1.4676   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9706    0.3227    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6762   -1.0407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1737    2.3199    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1380   -2.5341   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0046    0.6550    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4812   -1.7699   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2357    1.3142   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04586
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VADKRMSMGWJZCF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=CC=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5BrO/c7-5-3-1-2-4-6(5)8/h1-4,8H
+
+> <INCHI_KEY>
+VADKRMSMGWJZCF-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5BrO
+
+> <MOLECULAR_WEIGHT>
+173.007
+
+> <EXACT_MASS>
+171.952377429
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.05140895799505
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-bromophenol
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.438433119666666
+
+> <ALOGPS_LOGS>
+-1.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.155259313633366
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.676418492388259
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+35.661699999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bromophenol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04586
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+o-Bromophenol
+
+> <SYNONYMS>
+2-Bromfenol; 2-Bromophenol; o-Bromophenol
+
+$$$$

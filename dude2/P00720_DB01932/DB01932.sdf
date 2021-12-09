@@ -1,0 +1,137 @@
+12023
+  -OEChem-10051723573D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+    1.3671    0.7017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7396   -0.0015    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0616    1.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1143   -1.1320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2148   -0.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4113   -0.6680   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1772    2.1735   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1787   -2.1728   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6203    0.8359    0.5507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5962    0.0220   -1.0254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5988   -0.9304    0.4704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1737    1.3108   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3584   -1.1888   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01932
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FEKWWZCCJDUWLY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CNC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7N/c1-5-2-3-6-4-5/h2-4,6H,1H3
+
+> <INCHI_KEY>
+FEKWWZCCJDUWLY-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7N
+
+> <MOLECULAR_WEIGHT>
+81.1158
+
+> <EXACT_MASS>
+81.057849229
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.266695567781142
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methyl-1H-pyrrole
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+1.566551318
+
+> <ALOGPS_LOGS>
+0.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.083703114987447
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.79
+
+> <JCHEM_REFRACTIVITY>
+25.858
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methylpyrrole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01932
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00253
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Methylpyrrole
+
+$$$$

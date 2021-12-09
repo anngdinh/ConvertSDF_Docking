@@ -1,0 +1,151 @@
+9958
+  -OEChem-10051720293D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+   -1.6605    1.8140    0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4977   -0.8362   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5535    0.0722   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6118    1.1013   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1331   -1.2578    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7502    0.8004   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1706   -0.5295   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2289   -1.5587    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0095    0.3943    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9338    2.1399    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8569   -2.0684    0.0024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5427   -2.5991    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2074    1.3260   -0.5408 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3702    0.5014    1.0281 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5895   -0.3922   -0.4945 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5521    1.4243    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5994   -1.8034    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04120
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZBCATMYQYDCTIZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O2/c1-5-2-3-6(8)7(9)4-5/h2-4,8-9H,1H3
+
+> <INCHI_KEY>
+ZBCATMYQYDCTIZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8O2
+
+> <MOLECULAR_WEIGHT>
+124.1372
+
+> <EXACT_MASS>
+124.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.819134798454892
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methylbenzene-1,2-diol
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.8795365619999997
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.01183434905554
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.552176595160123
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.244242730605078
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+35.06099999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.79e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-methyl-1,2-benzenediol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04120
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02138
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Methyl-1,2-Benzenediol
+
+$$$$

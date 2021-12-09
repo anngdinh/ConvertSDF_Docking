@@ -1,0 +1,206 @@
+5284550
+  -OEChem-10051722043D
+
+ 42 44  0     0  0  0  0  0  0999 V2000
+    2.9736   -1.3640    1.2162 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3858    1.0920    0.1207 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3371    0.3980    0.0308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0535   -0.9891   -0.2873 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7256    0.9178   -0.0737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3907   -2.0361    0.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0418    0.7406    0.7458 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6345    1.1930    0.5205 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0207    1.5587   -0.0955 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2706   -1.7425    1.7195 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8734    0.2363    0.3907 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8586   -1.2690   -1.4011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0236   -3.3537    0.2294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8981    2.1560   -0.7354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1393    0.8313    0.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2195   -2.5838   -1.6931 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7792   -3.6246   -0.8790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1580    2.7242   -0.9146 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2806    2.0619   -0.4466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3254    1.8458   -0.7108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7518    1.2074    1.5332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2149    0.9253    1.8139 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2263   -0.3279    0.6130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4126    2.2149    0.8220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9238    2.6271    0.1416 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7611    1.4401   -1.1555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8605   -0.9354    2.3370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3144   -2.6197    2.3754 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2028   -0.4707   -2.0543 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3624   -4.1790    0.8505 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0407    2.6955   -1.1354 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0471    0.3372    0.5382 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8418   -2.7963   -2.5575 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0587   -4.6488   -1.1086 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2580    3.6778   -1.4242 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2673    2.4940   -0.5834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0720    1.7390   -1.7715 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3325    2.9135   -0.4631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3429    1.4567   -0.5928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8211    1.0019    1.6670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5541    2.2067    1.9380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2444    0.4590    2.1499 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 20 37  1  0  0  0  0
+ 20 38  1  0  0  0  0
+ 20 39  1  0  0  0  0
+ 21 40  1  0  0  0  0
+ 21 41  1  0  0  0  0
+ 21 42  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09167
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PHTUQLWOUWZIMZ-GZTJUZNOSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CC\C=C1/C2=CC=CC=C2CSC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H21NS/c1-20(2)13-7-11-17-16-9-4-3-8-15(16)14-21-19-12-6-5-10-18(17)19/h3-6,8-12H,7,13-14H2,1-2H3/b17-11+
+
+> <INCHI_KEY>
+PHTUQLWOUWZIMZ-GZTJUZNOSA-N
+
+> <FORMULA>
+C19H21NS
+
+> <MOLECULAR_WEIGHT>
+295.44
+
+> <EXACT_MASS>
+295.139470854
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.56803602204005
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl({3-[(2E)-9-thiatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-2-ylidene]propyl})amine
+
+> <ALOGPS_LOGP>
+4.98
+
+> <JCHEM_LOGP>
+4.522084514333333
+
+> <ALOGPS_LOGS>
+-5.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.760738579972804
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+104.58970000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.72e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trans-dothiepin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09167
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dosulepin
+
+> <SYNONYMS>
+(3E)-3-dibenzo[b,e]thiepin-11(6H)-ylidene-N,N-dimethylpropan-1-amine; 11-(3-Dimethylaminopropylidene)-6,11-dihydrodibenzo(b,e)thiepin; Dosulepina; Dosulépine; Dosulepinum; Dothiepin; trans-dothiepin
+
+> <INTERNATIONAL_BRANDS>
+Depropin; Dopress; Dothip; Dothitab; Dotopine; Elate; Espin; Harmomed; Othtric; Prothiaden; Qualiaden; Singsong; Thaden; Vick-Thiaden
+
+> <SALTS>
+Dosulepin hydrochloride
+
+$$$$

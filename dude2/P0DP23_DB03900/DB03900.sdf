@@ -1,0 +1,155 @@
+6386
+  -OEChem-02272018533D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    0.0001    0.0886    1.4263 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0001   -0.0042    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2740   -0.7243   -0.4388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0316    1.4186   -0.5526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2423   -0.7788   -0.4361 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1666   -0.1866   -0.0991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3246   -0.8252   -1.5278 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3276   -1.7245    0.0059 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9155    1.9576   -0.1927 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8390    1.9921   -0.2141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0439    1.4248   -1.6474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2468   -1.7838    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2975   -0.8731   -1.5255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1543   -0.2842   -0.0826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7978    0.5741    1.6975 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03900
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DKGAVHZHDRPRBM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3
+
+> <INCHI_KEY>
+DKGAVHZHDRPRBM-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H10O
+
+> <MOLECULAR_WEIGHT>
+74.1216
+
+> <EXACT_MASS>
+74.073164942
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.5518060093902845e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.938792591666179
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylpropan-2-ol
+
+> <ALOGPS_LOGP>
+0.70
+
+> <JCHEM_LOGP>
+0.5353825790000001
+
+> <ALOGPS_LOGS>
+0.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.086988764524413
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.4485511143970207
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+22.0669
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-L-methyl-fucose
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03900
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03021
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+tert-butanol
+
+> <SYNONYMS>
+1,1-dimethylethanol; t-butanol; t-butyl alchohol; t-Butyl alcohol; t-Butylalkohol; tert-butanol; tert-butyl alcohol; tertiary-butyl alcohol; trimethylcarbinol; trimethylmethanol
+
+$$$$

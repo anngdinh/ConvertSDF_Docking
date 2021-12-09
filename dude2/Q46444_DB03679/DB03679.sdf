@@ -1,0 +1,174 @@
+17754204
+  -OEChem-10051723573D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+    0.2002    3.2618    0.2119 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4522   -0.9779    1.7479 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5126   -2.1971    0.1559 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6329    1.8319    0.4513 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8650    0.0623   -0.6169 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1501    0.8971   -0.4835 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5058    0.7027   -1.0389 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8769   -0.0847   -0.4045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5530    0.2334    0.0032 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9846    0.5276    0.1856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3448    2.0647    0.0504 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9708   -1.4397   -0.7798 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1863   -0.1498    0.4201 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1665   -2.1301   -0.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1801   -1.1090    0.6084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2561   -1.4932    0.0400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4577   -0.0243   -1.8612 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8498    1.6418   -1.4931 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6457    0.9698    0.8106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2399    2.5168    0.8801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1346   -1.9523   -1.2462 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0350    0.3452    0.8799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2451   -3.1750   -0.8393 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1754   -2.0484    0.2082 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5585   -0.1493    0.0998 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1579    0.9402   -1.0441 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4588    3.8437    0.6292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2239   -1.8485    2.1379 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03679
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VAUYGGXCASQWHK-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@](N)(CC1=C(O)NC2=CC=CC=C12)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2O3/c12-8(11(15)16)5-7-6-3-1-2-4-9(6)13-10(7)14/h1-4,8,13-14H,5,12H2,(H,15,16)/t8-/m0/s1
+
+> <INCHI_KEY>
+VAUYGGXCASQWHK-QMMMGPOBSA-N
+
+> <FORMULA>
+C11H12N2O3
+
+> <MOLECULAR_WEIGHT>
+220.2246
+
+> <EXACT_MASS>
+220.08479226
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.11412544062044
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(2-hydroxy-1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.54
+
+> <JCHEM_LOGP>
+-1.299836612892686
+
+> <ALOGPS_LOGS>
+-1.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.024779485290585
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.202565154615544
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.639799311407668
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.34000000000002
+
+> <JCHEM_REFRACTIVITY>
+57.43699999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.50e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-hydroxy-tryptophan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03679
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03112
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Hydroxy-Tryptophan
+
+$$$$

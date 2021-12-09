@@ -1,0 +1,183 @@
+7547
+  -OEChem-10061700113D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -5.8228    1.9070   -0.0017 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4305   -1.2715   -0.0008 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.1660   -0.6268   -0.0017 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3646   -1.2567    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8671    0.7312    0.0008 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4410    0.8245    0.0008 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2039    0.2674    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7932    0.4817    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2407    1.1859   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4475   -1.0961    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3121   -0.0310    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7662    1.4813    0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1725   -0.8607   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5583    0.7280   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7651   -1.5540    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8205   -0.6419   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1184    1.1386    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5247   -1.2033   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4976   -0.2037   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7558    1.7420    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2433    1.8221    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0290    2.2527   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6900   -1.8652    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4849    2.5314    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4819   -1.6917   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9527   -2.6250    0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8655    1.9281    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8070   -2.2531   -0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11155
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ICUTUKXCWQYESQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C(NC(=O)NC2=CC(Cl)=C(Cl)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H9Cl3N2O/c14-8-1-3-9(4-2-8)17-13(19)18-10-5-6-11(15)12(16)7-10/h1-7H,(H2,17,18,19)
+
+> <INCHI_KEY>
+ICUTUKXCWQYESQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H9Cl3N2O
+
+> <MOLECULAR_WEIGHT>
+315.58
+
+> <EXACT_MASS>
+313.978046
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.185343458861702
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-chlorophenyl)-1-(3,4-dichlorophenyl)urea
+
+> <ALOGPS_LOGP>
+5.10
+
+> <JCHEM_LOGP>
+4.93078919
+
+> <ALOGPS_LOGS>
+-5.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.943820764495491
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.420053761500927
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.6150776875486175
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.13
+
+> <JCHEM_REFRACTIVITY>
+80.46719999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.90e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triclocarban
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11155
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Triclocarban
+
+> <SYNONYMS>
+1-(3',4'-dichlorophenyl)-3-(4'-chlorophenyl)urea; 3,4,4'-trichloro carbanilide; 3,4,4'-trichlorocarbanilide; 3,4,4'-trichlorodiphenylurea; N-(4-chlorophenyl)-N'-(3,4-dichlorophenyl)urea; Triclocarban
+
+> <PRODUCTS>
+1st Date antibacterial Deodorant (Gold); 1st Date antibacterial Deodorant (Green); 1st Date antibacterial Deodorant (White); AmerFresh Antibacterial Deodorant; Amerfresh Antibacterial Deodorant; Antibacterial Beauty; Antibacterial Deodorant; Antibacterial Gold; Antibacterial Golden Burst; Antibacterial Ocean Fresh; Avon Clearskin Antibacterial Cleansing Cake; Bob Barker Antibacterial wrapped body; Cetaphil Gentle Cleansing Antibacterial Bar; Clearskin 2 Cleansing Cake 1.5%; Coralite Antibacterial; Coralite Antibacterial Natural Oat; Coralite Ultra Antibacterial Deodorant; Cuticura Med Soap Original Formula 1%; Cuticura Medicated Antibacterial Bar; Cuticura Medicated Antibacterial Bar - Dry Skin Formula; Cuticura Medicated Antibacterial Bar - Original Formula; Cuticura Medicated Antibacterial Bar-oily Skin Formula; Cuticura Medicated Soap Unscented 1%; DG Body Antibacterial Deodorant 3.5 oz bar; Deodorant; Dial Aloe Aloe; Dial Gold Bar Antibacterial Deodorant Soap; Dial Odor Armor Odor Armor; Dial White; Dial antibacterial; Dollar General Gold; Freshscent Antibacterial Deodorant; Freshscent Sport Antibacterial; Image Essentials Gold; Lucky antibacterial deodorant; MIMO Aloe Vera Antibacterial; MIMO Deep Clean Antibacterial; MIMO Gold Antibacterial; MIMO Oats Avena Antibacterial; Madina African Black; Madina Antibacterial; MegaFresh Antibacterial Deodorant; NEXT 1 Anti-bacterial; Next 1 Anti-Bacterial Sport; Personal Care Antibacterial; Protex BALANCE ANTIBACTERIAL HAND; Protex Deep Clean; Protex Oats; Rite Aid Renewal Gold Deodorant; Safeguard Antibacterial Bar Beige; Safeguard Antibacterial White with Aloe; Zarina Medicated Antiseptic Soap; a.c.care Bees Foam Cleanser; a.c.care Bees Foam Cleanser Troubled Skin Care 2 pcs Set; a.c.care Bees Troubled Skin Care 2 pcs Set
+
+> <INTERNATIONAL_BRANDS>
+Cutisan; Nobacter; Solubacter
+
+$$$$

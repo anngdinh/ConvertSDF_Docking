@@ -1,0 +1,238 @@
+5573
+  -OEChem-10051722023D
+
+ 57 58  0     1  0  0  0  0  0999 V2000
+    0.6433   -0.9973   -0.2318 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3780   -2.4084   -1.7368 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2447   -1.5492   -0.2262 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7757    2.4571    0.6621 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1873    1.0970    0.5890 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2850   -1.6162   -0.0134 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0318   -0.9043    0.3093 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7297   -1.1451    1.8181 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9109   -1.5763   -0.5282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1015    0.6024    0.0057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -2.6120    2.2347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5572   -1.5198   -1.4420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3851   -1.0638    0.7669 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7393    1.0775   -1.2547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5263    1.4936    0.9911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8020    2.4435   -1.5299 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5890    2.8597    0.7162 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2269    3.3345   -0.5443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4184   -1.5102   -0.9103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6739   -0.8239   -0.5139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6411    0.5093   -0.1049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8867   -1.5117   -0.5530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0668   -0.8663   -0.1832 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8211    1.1547    0.2650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0339    0.4669    0.2257 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6328   -2.2472    0.9555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4961    3.0868    0.6737 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9092    1.7689   -0.4404 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7718   -0.6700    2.0748 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4484   -0.6853    2.5008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0399   -1.4920   -1.6099 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8619   -2.6531   -0.3220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7767   -3.1130    1.7845 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5024   -2.6733    3.3205 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5424   -3.1750    1.9892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6986   -0.5050   -1.8227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5091   -2.0315   -1.6429 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8529   -2.0676   -2.0725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2921   -1.6399    0.5381 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6357   -0.0255    0.5291 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2787   -1.1796    1.8477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4157    0.4364   -2.0657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8402    1.1879    1.9813 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5233    2.8138   -2.5121 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9242    3.5539    1.4814 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2773    4.3980   -0.7590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6800    1.0109   -0.1060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9213   -2.5516   -0.8690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8947   -3.0157    1.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5935   -2.7336    0.7661 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7514   -1.5521    1.7925 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8161    2.6097    1.3880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0679    3.1513   -0.3325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6469    4.1148    1.0194 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2994    2.5619   -0.8845 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2260    1.0617   -1.2135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7996    2.2210    0.0050 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 19  2  0  0  0  0
+  3 23  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+  9 32  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 12 36  1  0  0  0  0
+ 12 37  1  0  0  0  0
+ 12 38  1  0  0  0  0
+ 13 39  1  0  0  0  0
+ 13 40  1  0  0  0  0
+ 13 41  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 42  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 43  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 44  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 18 46  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 47  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 48  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 26 49  1  0  0  0  0
+ 26 50  1  0  0  0  0
+ 26 51  1  0  0  0  0
+ 27 52  1  0  0  0  0
+ 27 53  1  0  0  0  0
+ 27 54  1  0  0  0  0
+ 28 55  1  0  0  0  0
+ 28 56  1  0  0  0  0
+ 28 57  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09089
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LORDFXWUHHSAQU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC(COC(=O)C1=CC(OC)=C(OC)C(OC)=C1)(N(C)C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H29NO5/c1-7-22(23(2)3,17-11-9-8-10-12-17)15-28-21(24)16-13-18(25-4)20(27-6)19(14-16)26-5/h8-14H,7,15H2,1-6H3
+
+> <INCHI_KEY>
+LORDFXWUHHSAQU-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H29NO5
+
+> <MOLECULAR_WEIGHT>
+387.476
+
+> <EXACT_MASS>
+387.204573038
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.42832252590719
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(dimethylamino)-2-phenylbutyl 3,4,5-trimethoxybenzoate
+
+> <ALOGPS_LOGP>
+3.94
+
+> <JCHEM_LOGP>
+4.109692755999999
+
+> <ALOGPS_LOGS>
+-4.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.476314387508435
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.23000000000001
+
+> <JCHEM_REFRACTIVITY>
+108.93700000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trimebutine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09089
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Trimebutine
+
+> <SYNONYMS>
+2-Dimethylamino-2-phenylbutyl 3,4,5-trimethoxybenzoat; Trimebutine; Trimébutine; Trimebutino
+
+> <PRODUCTS>
+Modulon; Modulon Inj 50mg/5ml; Modulon Tab 100mg; Trimebutine
+
+> <INTERNATIONAL_BRANDS>
+Altrip; Anytin; Biorgan; Bumetin; Butikinon; Cerekinon; Cineprac; Colixane; Colonix; Colperin; Coltrim; Colypan; Crobutin; Debretin; Debricalm; Debricol; Debridat; Digerent; Diway; Dolpic Forte; Esun; Eumotil; Eumotrix; Eutransil; Fenatrop; Garapepsin; Gaspat; Gast Reg; Gismotal; Ircolon; Libertrim; Mebucolon; Mebutit; Miopropan; Neotina; Nepten; Newbutin SR; Ni Wei Fu; Normopax; Plidex; Polibutin; Polybutine; Procinet NF; Puridat Fort; Rui Jian; Sakion; Shuang Di; Spabutine; Supeslone; Tarabutine; Tefmetin; Tempolib; Tidomel; Timotor; Transacalm; Trebutel; Tribudat; Tributin; Tributina; Tribux; Trim; Trimebutina; Trimedat; Trimedine; Trimotil; Trimspa; VeM; Yuan Sheng Li Wei
+
+> <SALTS>
+Trimebutine maleate
+
+$$$$

@@ -1,0 +1,196 @@
+3307
+  -OEChem-10051722043D
+
+ 38 41  0     0  0  0  0  0  0999 V2000
+   -1.3675   -1.3624   -2.3303 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9332    2.1379    0.0059 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2694   -0.5025    0.0501 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2866   -1.9247    1.0296 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1082   -2.5406    0.1748 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9687   -1.7679   -0.5652 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3801    0.5507    0.2252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0423    0.4557    0.5630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7400   -0.7852    0.6376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1147   -1.7716    0.5668 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4257    2.7788    0.4846 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4903    1.7837    0.7470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0575   -2.1029    1.5512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4761   -0.5511   -0.6030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2397    4.2441    0.5488 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1610   -0.7325    0.2030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1169    0.5528   -1.3475 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2332    4.8387   -0.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5339   -0.9797   -1.1156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1242   -0.4255    1.1607 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8792   -0.9193   -1.4791 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4696   -0.3650    0.7971 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8471   -0.6118   -0.5228 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5123    2.0014    1.0314 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1679   -3.1531    1.8453 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1919   -1.5191    2.4704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5023    4.4839    1.3209 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1666    4.7445    0.8553 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5270    1.3126   -0.6767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9688    0.1606   -1.9163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4449    1.0000   -2.0854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5003    4.6652   -1.5764 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3783    5.9189   -0.6818 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1833    4.3936   -1.0964 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8436   -0.2332    2.1930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1901   -1.1088   -2.5033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2232   -0.1262    1.5417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8946   -0.5647   -0.8057 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 14  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 36  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 37  1  0  0  0  0
+ 23 38  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09166
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VMZUTJCNQWMAGF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC1=CC2=C(S1)N1C(C)=NN=C1CN=C2C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H15ClN4S/c1-3-11-8-13-16(12-6-4-5-7-14(12)18)19-9-15-21-20-10(2)22(15)17(13)23-11/h4-8H,3,9H2,1-2H3
+
+> <INCHI_KEY>
+VMZUTJCNQWMAGF-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H15ClN4S
+
+> <MOLECULAR_WEIGHT>
+342.846
+
+> <EXACT_MASS>
+342.070594897
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.63885521134385
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-(2-chlorophenyl)-4-ethyl-13-methyl-3-thia-1,8,11,12-tetraazatricyclo[8.3.0.0²,⁶]trideca-2(6),4,7,10,12-pentaene
+
+> <ALOGPS_LOGP>
+2.98
+
+> <JCHEM_LOGP>
+2.9847
+
+> <ALOGPS_LOGS>
+-3.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.276864416178967
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.638754883722318
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.07
+
+> <JCHEM_REFRACTIVITY>
+104.725
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+etizolam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09166
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Etizolam
+
+> <SYNONYMS>
+4-(o-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno(3,2-f)-s-triazolo(4,3-a)(1,4)diazepine
+
+> <INTERNATIONAL_BRANDS>
+Arophalm; Capsafe; Dezolam; E1; Eticalm; Etisedan; Etizolan; Mozun; New Zomnia; Nonnerv; Palgin; Sylkam
+
+$$$$

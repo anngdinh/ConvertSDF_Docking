@@ -1,0 +1,243 @@
+3152
+  -OEChem-10051719243D
+
+ 57 60  0     1  0  0  0  0  0999 V2000
+    2.2815   -2.1288    1.9543 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3453    1.8191   -1.0693 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0636   -0.1212    0.7814 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9852   -0.7888   -0.9485 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0653   -0.9860   -0.7739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1794   -1.6134   -0.1526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0453   -0.5699    0.5272 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9203   -2.0426   -1.4816 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9058   -0.2646    0.2852 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2186   -1.4382   -2.0203 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2049    0.2806   -0.3116 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6075    0.4743   -0.4648 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2700   -1.2024    1.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0843    0.4442   -0.2292 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4659   -0.5208    0.6944 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2467   -0.2616   -1.4685 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0475    1.2382   -0.8305 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7824   -0.7390    1.0561 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0955    0.3384   -0.3793 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3885    1.0429   -0.4833 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7529    0.0609    0.4531 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0048   -0.4623    0.2979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9570    1.6838   -0.0677 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7912    0.0937    1.3069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7433    2.2397    0.9415 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6603    1.4447    1.6288 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6825    3.0370   -0.4101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8022   -1.0578    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7692   -0.2505   -1.5325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1127   -2.3808    0.5764 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7573   -2.1382   -0.9249 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5239   -0.0630    1.3468 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3558   -2.4867   -2.3102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1604   -2.8585   -0.7872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1390   -0.9471    1.1129 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3639    0.5869    0.7090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9877   -0.7261   -2.8236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8117   -2.2475   -2.4633 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9767    1.0858   -1.0222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7303    0.7160    0.5420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4081    0.2187   -1.5105 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1969    1.4672   -0.2534 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0744    0.4867   -2.2550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8186   -1.0675   -1.9482 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7669    1.9939   -1.5576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0522   -1.4997    1.7804 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1135   -1.5160    0.0569 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2589    2.3202   -0.6046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5052   -0.5252    1.8423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6441    3.2924    1.1896 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2732    1.8777    2.4141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4613    3.5375   -0.9919 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8106    3.6962   -0.3526 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0699    2.8380    0.5942 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8283   -1.0842    0.3771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3697   -2.0591    0.0922 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8232   -0.7523   -1.0505 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2 20  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 30  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 33  1  0  0  0  0
+  8 34  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 35  1  0  0  0  0
+  9 36  1  0  0  0  0
+ 10 37  1  0  0  0  0
+ 10 38  1  0  0  0  0
+ 11 39  1  0  0  0  0
+ 11 40  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 41  1  0  0  0  0
+ 12 42  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 16 44  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 46  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 47  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 48  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 24 49  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 50  1  0  0  0  0
+ 26 51  1  0  0  0  0
+ 27 52  1  0  0  0  0
+ 27 53  1  0  0  0  0
+ 27 54  1  0  0  0  0
+ 28 55  1  0  0  0  0
+ 28 56  1  0  0  0  0
+ 28 57  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00843
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ADEBPBSSDYVVLD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=C(OC)C=C2C(=O)C(CC3CCN(CC4=CC=CC=C4)CC3)CC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H29NO3/c1-27-22-14-19-13-20(24(26)21(19)15-23(22)28-2)12-17-8-10-25(11-9-17)16-18-6-4-3-5-7-18/h3-7,14-15,17,20H,8-13,16H2,1-2H3
+
+> <INCHI_KEY>
+ADEBPBSSDYVVLD-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H29NO3
+
+> <MOLECULAR_WEIGHT>
+379.492
+
+> <EXACT_MASS>
+379.214743799
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.33556165455788
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(1-benzylpiperidin-4-yl)methyl]-5,6-dimethoxy-2,3-dihydro-1H-inden-1-one
+
+> <ALOGPS_LOGP>
+4.14
+
+> <JCHEM_LOGP>
+4.207932993666668
+
+> <ALOGPS_LOGS>
+-4.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.021937144753494
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.62472894729726
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.77
+
+> <JCHEM_REFRACTIVITY>
+112.1147
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.50e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+donepezil
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00843
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00039
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Donepezil
+
+> <SYNONYMS>
+Domepezil; Donepezil; Donepezilo; Donepezilum
+
+> <PRODUCTS>
+Accel-donepezil; Act Donepezil; Act Donepezil ODT; Ag-donepezil; Apo-donepezil; Aricept; Aricept ODT; Aricept Rdt; Auro-donepezil; Bio-donepezil; DONEPEZIL HYDROCHLORIDE 10mg; DONEPEZIL HYROCHLORIDE 5mg; Dom-donepezil; Donepezil; Donepezil Hydrochloride; Donepezil Hydrochloride 10 mg; Donepezil Hydrochloride 10mg; Donepezil Hydrochloride 5 mg; Donepezil Hydrochloride ODT; Donepezil Hydrochloride Tablets; Donepezil Hydrochloride Tablets USP; Donepezil Hyrochloride 5mg; Donepezil hydrochloride; Ecl-donepezil; Ipg-donepezil; Jamp-donepezil; Jamp-donepezil Tablets; M-donepezil; Mar-donepezil; Memantine and Donepezil Hydrochlorides Extended-release; Mint-donepezil; Mylan-donepezil; Namzaric; Nat-donepezil; PMS-donepezil; Priva-donepezil; Riva-donepezil; Sandoz Donepezil; Sandoz Donepezil ODT; Septa Donepezil; Taro-donepezil; Teva-donepezil; Van-donepezil; donepezil hydrochloride ODT
+
+> <INTERNATIONAL_BRANDS>
+Alzepil; Davia; Depzil; Donecept; Donecil; Donep; Donepex; Donesyn; Dopezil; Eranz; Memac ; Nomi-Nox; Pezale; Redumas; Zolpezil
+
+> <SALTS>
+Donepezil hydrochloride
+
+$$$$

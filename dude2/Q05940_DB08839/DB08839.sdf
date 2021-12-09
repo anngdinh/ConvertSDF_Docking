@@ -1,0 +1,174 @@
+5202
+  -OEChem-10061700083D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+    2.7352    2.4620    0.0975 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1121   -2.3478   -0.1123 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2402    1.5678   -0.2880 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1857   -0.6040    0.3372 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1487   -0.1361    0.1781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3744    0.2167    0.6440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9428   -1.2499   -0.1030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1761   -1.9673    0.1523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0873    0.7369   -0.6178 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7591    1.1320    0.2466 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3223   -1.1586   -0.3198 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1379    1.2386    0.0320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9057    0.1096   -0.2468 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0828   -0.3736    1.2406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0842    1.0654    1.2769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9688   -2.7018    0.1846 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4109   -3.2968   -0.2895 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4225   -0.1074   -1.2312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3888    1.3212   -1.2284 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1635    2.0149    0.4625 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9207   -2.0371   -0.5368 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9762    0.2086   -0.4111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6455    1.9395   -1.1461 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9363    2.3734    0.2574 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0601    3.1324    0.2995 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08839
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QZAYGJVTTNCVMB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCC1=CNC2=CC=C(O)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O/c11-4-3-7-6-12-10-2-1-8(13)5-9(7)10/h1-2,5-6,12-13H,3-4,11H2
+
+> <INCHI_KEY>
+QZAYGJVTTNCVMB-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12N2O
+
+> <MOLECULAR_WEIGHT>
+176.2151
+
+> <EXACT_MASS>
+176.094963016
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.31341691256239
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2-aminoethyl)-1H-indol-5-ol
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.48154800923293156
+
+> <ALOGPS_LOGS>
+-1.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+18.223535339159515
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.314034178077875
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.004289627293197
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.040000000000006
+
+> <JCHEM_REFRACTIVITY>
+52.3538
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.50e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+serotonin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08839
+
+> <DRUG_GROUPS>
+investigational; nutraceutical
+
+> <GENERIC_NAME>
+Serotonin
+
+> <SYNONYMS>
+3-(2-Aminoethyl)-1H-indol-5-ol; 5-HT; 5-Hydroxytryptamine; Enteramine; sérotonine; thrombocytin; thrombotonin
+
+> <INTERNATIONAL_BRANDS>
+5-HTP; HTP Calm; Natural 5-HTP; Seotonin; Super 5-HTP
+
+> <SALTS>
+Serotonin hydrochloride
+
+$$$$

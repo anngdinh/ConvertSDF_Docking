@@ -1,0 +1,155 @@
+3734162
+  -OEChem-10051720293D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.4119   -0.7657    0.0002 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2885    1.4888    0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3586   -2.2259   -0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.3907   -0.9856   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2617    0.2472   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7846   -1.0371    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4798    1.4287   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5261    0.1444    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8737    1.3774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7341    0.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3071   -1.9902    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0035    2.4053   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9533   -2.2786    0.8365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2699   -3.0391   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9538   -2.2785   -0.8364 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6115    0.1046    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4515    2.2970    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  CHG  2   1  -1   3   1
+M  END
+> <DATABASE_ID>
+DB04166
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RWZYAGGXGHYGMB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c8-6-4-2-1-3-5(6)7(9)10/h1-4H,8H2,(H,9,10)
+
+> <INCHI_KEY>
+RWZYAGGXGHYGMB-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.287028169676379
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminobenzoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+1.4519027699999998
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.44069433947566
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.892673611619119
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9474348350285466
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+38.0146
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.81e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-aminobenzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04166
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00283; EXPT00656; DB04056
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Anthranilic acid
+
+> <SYNONYMS>
+2-Aminobenzoesäure; 2-aminobenzoic acid; 2-carboxyaniline; o-Aminobenzoesäure; o-Aminobenzoic acid; o-carboxyaniline; Vitamin L1
+
+$$$$

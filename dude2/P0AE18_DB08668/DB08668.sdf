@@ -1,0 +1,170 @@
+11840990
+  -OEChem-11111916403D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+   -5.5584    0.3051   -0.0054 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2626    2.1726   -0.0025 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4691    0.0924    0.0025 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5108   -0.7565   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9165    0.3563   -0.0023 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2970    1.4814    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3284   -1.9385   -0.0047 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0353    2.1995    0.0043 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8543   -0.3961    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9271    0.4952    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2355    0.0117    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0898   -1.7710    0.0032 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4711   -1.3631    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3982   -2.2543    0.0022 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6525   -0.1584   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0131   -0.6934   -0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9289    1.2765    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3547    0.9407   -0.0021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7358    1.5660    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2786   -2.4941    0.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4731   -1.7827    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5793    1.0978    0.0054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5814   -3.3250    0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3507   -2.0237   -0.0061 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5002    3.1138    0.0051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3063    0.9400   -0.0076 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 18  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 16  2  0  0  0  0
+  7 24  1  0  0  0  0
+  8 17  2  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08668
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MBYHOWWAJOLPNG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC(NN=C2C(=N)N=NC2=N)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N6O2/c11-8-7(9(12)16-15-8)14-13-6-3-1-2-5(4-6)10(17)18/h1-4,11-13H,(H,17,18)
+
+> <INCHI_KEY>
+MBYHOWWAJOLPNG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8N6O2
+
+> <MOLECULAR_WEIGHT>
+244.214
+
+> <EXACT_MASS>
+244.070873522
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.66585442218538
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[2-(3,5-diimino-4,5-dihydro-3H-pyrazol-4-ylidene)hydrazin-1-yl]benzoic acid
+
+> <ALOGPS_LOGP>
+0.45
+
+> <JCHEM_LOGP>
+0.9298850842581831
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.226372184182015
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.840026309764461
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.3632404689061515
+
+> <JCHEM_POLAR_SURFACE_AREA>
+134.10999999999999
+
+> <JCHEM_REFRACTIVITY>
+84.56689999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08668
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(5-Amino-3-imino-3H-pyrazol-4-ylazo)-benzoic acid
+
+$$$$

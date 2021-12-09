@@ -1,0 +1,201 @@
+179344
+  -OEChem-10051722033D
+
+ 38 40  0     1  0  0  0  0  0999 V2000
+    0.8973   -1.4857   -1.2812 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1729   -1.7827    2.4091 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1663   -1.1981   -0.9555 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3905   -0.1298    0.9247 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9731   -1.0964    2.6078 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7876   -0.1409   -1.7391 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6308    0.1748   -2.1991 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2247    0.8246   -0.6758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7497    0.2224   -1.1761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6344    0.8097    0.5954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6387    0.0386    0.2205 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2365    1.7581   -0.9517 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0343    0.4263   -1.7364 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0692    1.7230    1.5723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8264    0.0635    0.9885 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6594    2.6612    0.0231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2788   -1.0267    2.0175 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0757    2.6437    1.2852 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1863    0.4426   -0.9563 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0814    0.2594    0.4108 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1513   -1.8806   -0.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1145   -3.3071   -0.4630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4345   -0.0504   -2.6229 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9089   -0.5846   -2.9432 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6198    1.1484   -2.7090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7044    1.7875   -1.9328 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1387    0.5655   -2.8115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6155    1.7351    2.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7931   -0.0204    2.0728 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4431    3.3778   -0.2041 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4010    3.3478    2.0454 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1566    0.5994   -1.4169 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9695    0.2817    1.0353 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1340   -1.7258    3.3875 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7913   -0.6132    2.2566 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8122   -3.9536   -1.2905 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4241   -3.4101    0.3780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1123   -3.6067   -0.1301 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3 21  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 34  1  0  0  0  0
+  5 35  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 36  1  0  0  0  0
+ 22 37  1  0  0  0  0
+ 22 38  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09119
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QIALRBLEEWJACW-INIZCTEOSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)O[C@H]1CC2=CC=CC=C2N(C(N)=O)C2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H16N2O3/c1-11(20)22-16-10-12-6-2-4-8-14(12)19(17(18)21)15-9-5-3-7-13(15)16/h2-9,16H,10H2,1H3,(H2,18,21)/t16-/m0/s1
+
+> <INCHI_KEY>
+QIALRBLEEWJACW-INIZCTEOSA-N
+
+> <FORMULA>
+C17H16N2O3
+
+> <MOLECULAR_WEIGHT>
+296.326
+
+> <EXACT_MASS>
+296.116092383
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.191532895148384
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(9S)-2-carbamoyl-2-azatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,11,13-hexaen-9-yl acetate
+
+> <ALOGPS_LOGP>
+1.99
+
+> <JCHEM_LOGP>
+2.172866386333333
+
+> <ALOGPS_LOGS>
+-3.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.959561404853869
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7568349070994844
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+81.43840000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.10e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+eslicarbazepine acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09119
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Eslicarbazepine acetate
+
+> <SYNONYMS>
+(10S)-10-acetoxy-10,11-dihydro-5H-dibenz[b,f]azepine-5-carboxamide; (10S)-5-carbamoyl-10,11-dihydro-5H-dibenzo[b,f]azepin-10-yl acetate; ESL; Eslicarbazepine acetate
+
+> <PRODUCTS>
+Aptiom; Zebinix
+
+> <INTERNATIONAL_BRANDS>
+Eksaliyef; Erelib; Eslicar; Eslify; Eslistar; Eslizen; Exalief ; Normictal; Stedesa; Zefretol
+
+$$$$

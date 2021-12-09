@@ -1,0 +1,155 @@
+439352
+  -OEChem-10051719403D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+   -2.5467   -0.8322   -1.1047 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2219   -0.2242   -0.6293 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9353    1.7559   -0.1319 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7077   -1.4037    0.7239 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7142    0.5281    0.5600 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5108   -0.2041   -0.0236 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0245   -0.2742    0.5487 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7804    0.6543    0.0569 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4990    0.7823    1.6060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3290   -0.4690   -1.0715 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8393    0.3393    0.9480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9315   -1.1592    1.1861 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0156    0.8896    1.1000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6594    1.5925   -0.4926 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6669    2.2181    0.3115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4868   -1.8523    0.3533 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6419    0.3876   -1.6537 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7516   -0.3389   -1.8800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01692
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VHJLVAABSRFDPM-ZXZARUISSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@](O)(CS)[C@]([H])(O)CS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2/t3-,4+
+
+> <INCHI_KEY>
+VHJLVAABSRFDPM-ZXZARUISSA-N
+
+> <FORMULA>
+C4H10O2S2
+
+> <MOLECULAR_WEIGHT>
+154.251
+
+> <EXACT_MASS>
+154.012220944
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.514661761571668
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-1,4-disulfanylbutane-2,3-diol
+
+> <ALOGPS_LOGP>
+0.18
+
+> <JCHEM_LOGP>
+-0.27842509266666665
+
+> <ALOGPS_LOGS>
+-1.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.219099376080758
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.616219832236466
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2867962949581777
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+38.8438
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dithioerythritol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01692
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01292
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dithioerythritol
+
+> <SYNONYMS>
+(2R,3S)-1,4-dimercaptobutane-2,3-diol; (2R*,3S*)-1,4-dimercapto-2,3-butanediol; 1,4-dithioerythritol; DTE; erythro-1,4-Dimercapto-2,3-butanediol
+
+$$$$

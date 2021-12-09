@@ -1,0 +1,157 @@
+446144
+  -OEChem-10051720013D
+
+ 20 20  0     1  0  0  0  0  0999 V2000
+    0.2783   -1.1886   -0.0687 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9396   -0.0373    1.3383 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7698    2.3801    0.1352 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7234   -2.4134   -0.1594 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7927   -1.1789    0.3134 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0198    1.0845    0.0771 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8833   -0.0211   -0.0918 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2149    1.2723   -0.5629 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0642   -1.2204   -0.5767 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2711    1.2075   -0.3670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8934    0.0419   -0.1298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3398    0.0734    0.0924 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9203   -0.0744   -0.4396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4138    1.4190   -1.6313 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0234   -1.2285   -1.6738 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8188    2.1437   -0.4285 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0331   -0.0801    1.6851 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3448    3.1873   -0.2021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4710   -3.1132   -0.7852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7615   -1.1988    0.4669 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02734
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IAKKJSVSFCTLRY-NVFHJIOMSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)OC(=C[C@]([H])(O)[C@]1([H])O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O6/c7-2-1-3(5(9)10)12-6(11)4(2)8/h1-2,4,6-8,11H,(H,9,10)/t2-,4-,6+/m0/s1
+
+> <INCHI_KEY>
+IAKKJSVSFCTLRY-NVFHJIOMSA-N
+
+> <FORMULA>
+C6H8O6
+
+> <MOLECULAR_WEIGHT>
+176.1241
+
+> <EXACT_MASS>
+176.032087988
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.76409522675397
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S)-2,3,4-trihydroxy-3,4-dihydro-2H-pyran-6-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.67
+
+> <JCHEM_LOGP>
+-1.8733359183333338
+
+> <ALOGPS_LOGS>
+0.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.261990852909776
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.2728429413694355
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4543177068355373
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+36.1518
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4S,5S,6R)-4,5,6-trihydroxy-5,6-dihydro-4H-pyran-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02734
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02117
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Deoxy-D-Mannuronic Acid
+
+$$$$

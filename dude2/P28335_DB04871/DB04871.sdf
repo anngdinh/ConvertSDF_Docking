@@ -1,0 +1,178 @@
+11658860
+  -OEChem-10051722103D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -3.9872    0.8218    0.4880 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0809   -0.1473    0.4195 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1794    1.2771   -0.4290 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0545    0.3953   -0.2505 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2228    1.0110    0.6789 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0623   -1.0090   -0.3516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3922   -1.6758   -0.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3968   -1.4343    0.5183 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8875    2.7862   -0.4847 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3268    0.9359    0.0131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0779   -1.8200   -0.2049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4495    0.1184    0.1611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3260   -1.2595    0.0498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6152    1.0345   -1.4086 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9003    1.8718    0.7395 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7479    0.9278    1.6651 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2446   -2.7598   -0.7004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7894   -1.3539   -1.5789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9360   -1.5578    1.5063 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1714   -2.2067    0.4387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8450   -0.1378    1.0958 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1642    3.0230   -1.2729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4994    3.1607    0.4691 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8025    3.3460   -0.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4617    2.0099    0.1104 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9976   -2.9018   -0.2829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1890   -1.9102    0.1622 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04871
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XTTZERNUQAFMOF-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H]1CNCCC2=CC=C(Cl)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14ClN/c1-8-7-13-5-4-9-2-3-10(12)6-11(8)9/h2-3,6,8,13H,4-5,7H2,1H3/t8-/m0/s1
+
+> <INCHI_KEY>
+XTTZERNUQAFMOF-QMMMGPOBSA-N
+
+> <FORMULA>
+C11H14ClN
+
+> <MOLECULAR_WEIGHT>
+195.69
+
+> <EXACT_MASS>
+195.0814772
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.50943402813011
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R)-8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine
+
+> <ALOGPS_LOGP>
+3.00
+
+> <JCHEM_LOGP>
+2.829161859666667
+
+> <ALOGPS_LOGS>
+-3.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.121865303742185
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+56.647
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.09e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lorcaserin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04871
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Lorcaserin
+
+> <SYNONYMS>
+Lorcaserin; Lorqess
+
+> <PRODUCTS>
+Belviq; Belviq XR
+
+> <INTERNATIONAL_BRANDS>
+Lorqess
+
+> <SALTS>
+Lorcaserin hydrochloride; Lorcaserin hydrochloride hemihydrate
+
+$$$$

@@ -1,0 +1,174 @@
+10168
+  -OEChem-10051723553D
+
+ 29 31  0     0  0  0  0  0  0999 V2000
+    1.2271   -3.0172   -0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2663   -2.4301    0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2178    2.8101    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7941   -2.0120    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2897   -0.4138    0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7522    1.7947   -0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3693   -0.7448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6434    0.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1272   -0.2450   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8530    1.1243   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0260   -1.2297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4577    1.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4222   -1.6677   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9704    1.0709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4542   -0.6914   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0166    0.1478   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9058    2.0472   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7432   -1.2185   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5003    0.2317   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2267    1.5981   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3951    0.6121   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1891    2.1360   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7190    3.1177   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5424   -1.9554   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5331   -0.1070   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0429    2.3147   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0852   -3.4744   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0031   -2.5712   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2159   -0.0905    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4 15  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 21  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13174
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FCDLCPWAQCPTKC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC2=C(C(O)=C1)C(=O)C1=C(C=CC=C1O)C2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H8O6/c16-9-3-1-2-7-11(9)14(19)12-8(13(7)18)4-6(15(20)21)5-10(12)17/h1-5,16-17H,(H,20,21)
+
+> <INCHI_KEY>
+FCDLCPWAQCPTKC-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H8O6
+
+> <MOLECULAR_WEIGHT>
+284.2204
+
+> <EXACT_MASS>
+284.032087988
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.620896626424145
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4,5-dihydroxy-9,10-dioxo-9,10-dihydroanthracene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.18
+
+> <JCHEM_LOGP>
+3.269158339333333
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.088754562545892
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3988243915354075
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.446915529565238
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.89999999999999
+
+> <JCHEM_REFRACTIVITY>
+72.369
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+monorhein
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13174
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Rhein
+
+$$$$

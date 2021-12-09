@@ -1,0 +1,148 @@
+938
+  -OEChem-10051719193D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+   -2.2827   -1.2029   -0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4704    1.0624    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7570   -1.2165    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3036    0.0481    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4175    1.2369   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4071   -1.1414    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8075    1.2006   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4237   -0.0404   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7560    0.0531    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0859    2.1999   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0752   -2.1137    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3902    2.1147   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5056   -0.1232   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2636   -1.1870   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00627
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PVNIIMVLHYAWGP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5NO2/c8-6(9)5-2-1-3-7-4-5/h1-4H,(H,8,9)
+
+> <INCHI_KEY>
+PVNIIMVLHYAWGP-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5NO2
+
+> <MOLECULAR_WEIGHT>
+123.1094
+
+> <EXACT_MASS>
+123.032028409
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.303434426527122
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.29
+
+> <JCHEM_LOGP>
+-0.16644564754087304
+
+> <ALOGPS_LOGS>
+-0.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.785610419861248
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.193250855836253
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.19
+
+> <JCHEM_REFRACTIVITY>
+31.157299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.31e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+niacin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00627
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00042; APRD00536
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Niacin
+
+> <SYNONYMS>
+3-carboxypyridine; 3-Pyridinecarboxylic acid; 3-Pyridylcarboxylic acid; Acide nicotinique; ácido nicotínico; Acidum Nicotinicum; anti-pellagra vitamin; m-pyridinecarboxylic acid; Niacin; Niacina; Nicotinic acid; Nikotinsäure; pyridine-β-carboxylic acid; β-pyridinecarboxylic acid
+
+> <PRODUCTS>
+24 Multivitamins + Minerals; 50 Plus; Acti-niacin Caplet 500mg; Advicor; American Eagle Energizer Plus Vitamin Supplement Drink; American Plus Energy & Vitamin Drink; Animal Shapes; Antivert Tab; Armax; B 6 Plus; B-3 500mg Continuous Released; B-complex Tab; B3; B6 Plus Tab; Bev 29 Tab; Body Rox; C-B Complex; Cal M Tab; Cavan Heme OB; Cavan Prenatal; Cc II; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Children's Chewable Tab; Chromemate; Complex 5 - Pwr; Concept DHA; Concept OB; Cool B; Daily-Vite; DermaNIC; Doctor's Choice Brand for Men; Dothelle DHA; Envirocomplex; Escavite D; Escavite Lq; Extra Once A Day; Flush Free Niacin With Inositol; Folika-T; Folivane-F; Folivane-OB; Folivane-Plus with Ascorbic Acid Precursors; Formula # 7 Tab 50mg; Formula Cp Cap; Formula Cw; Formula Cw-caplet; Formula F L W; Formula Hh; Formula Lf; Formula O.C.; Fortistress Tab; Fusion Activator Formula Tab; Genicin Vita-S; Gesticare DHA; Grand Master Formula Tab; Gtf Support Caplet; Gtf-vitamin-minerals & Pancreatin Tab; Harvest Of Values All B Complex Tab; Hemocyte Plus; Hi Potency B Complex W Chelated Minerals; Hsn Formula; Hyporyl - Tab; Ifb; Innersource Tab; Integra; Integra F; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron, Vit & Min Supp; Irospan 24/6; JEUNCELL Hair restorer and Hair Growth Solution; Kindervites; Lip - Fac Formula; Lipall Plus Tab; Lipo-B-C Tab; Lipotropic Ctr; Lipovitan; Luna Vitamin and Mineral Bar for Women; Lustime Angel; Lustime Unicorn; Lutime; M-Natal Plus; MVC-Fluoride; Master Key Formula 3 Tab; Master Key Multi Vitamin Multi Mineral Formula 2; Maximum Once A Day; Mega 13 Multivitamin Formula; Mega Capsules; Mega Vitaminerals; Men's; Men's 50+; Metacinamide Tab; Mhb; Multi #2; Multi Tabs; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi-Vitamin; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-actin; Multi-force for Women Tab; Multi-phyto Capsules; Multicaps; Multitabs; Multivit with Fluoride; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamins and Minerals With Betacarotene Tablets; Multivitamins and Minerals for Young Men; Multivitamins and Minerals for Young Women; My Favorite Niacin and Inositol Tab; Myhephron Dialysis and Stress Supplement; NESTABS ABC Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; Nata Komplete; Natural Source Spectrum With Beta Carotene; Nephrocaps; Nephrocaps-QT; Ni-C-E-LE Plus; Niachrom Capsule; Niacin; Niacin 100 Mg Tablets; Niacin 100 mg; Niacin 100mg; Niacin 100mg Tab; Niacin 100mg Tablets USP; Niacin 250mg; Niacin 500 Mg and Inositol; Niacin 500mg; Niacin 50mg; Niacin Cap 250mg; Niacin Caps 100mg; Niacin Ctr Srt 500mg; Niacin Inj 100mg/ml; Niacin Pwr 800mg/1.25ml; Niacin Src 400mg; Niacin Tab 100mg; Niacin Tab 100mg USP; Niacin Tab 100mg Yeast Free; Niacin Tab 250mg; Niacin Tab 475mg; Niacin Tab 500mg; Niacin Tab 50mg; Niacin Tablets 500mg USP; Niacin-100 Tab 100mg; Niacin-niacinamide Tab; Niacor; Niaspan; Niaspan ER; Niaspan Fct; Nicaprin; Nicazyme; Niodan 500 Mg Time Release Tablets; NovaFerrum Multivitamin with Iron Pediatric Drops; NovaMV Multivitamin; Nutra Boost; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; OB Complete 400; One A Day Advance Adults; One A Day Advance Adults 50+; One-A-day Advance Men's; Only One - Tablet; Orange Flavored Crystal Chews Tab; Phytopure; Phytovim Cap; Poly-Vi-Flor; Poly-Vi-Sol; PreNatal Vitamins Plus; Prenatal; Prenatal Formula Tab; Prenatal Mega Antioxidant; Prenatal Vitamins Plus Low Iron; Prenatal, DHA; Pro Enz Tab; Pro Hers Vanilla; Puralor; Reaphirm Plant Source DHA; Red American Eagle Vitamin Supplement Drink; Red Bull; Remedium - Liq Orl; Reno Caps; Revit Multi-vitamins and Minerals; Revitalize Multi-vitamin and Mineral Complex; Rogenic; Se-Natal; Select OB; Shen Min Vitamin Supplement; Simcor; Spectrum 2 Cap; Stress Formula Multi-B Comp + 500mg Vit C Cap; Strovite Forte Caplet; Super Daily No 2; Super Stress Mega B Plus 1000mg Vit C Tab; Sustained Release Niacin 500mg; Sveets; Swiss One Timed Release Tab; TL-Fluorivite; Taron-C DHA; Tendera-OB; Time Released Niacin 500 mg; Timed Release Vita-vim Srt; Tri B3 Src 300mg; TriStart DHA; TriStart ONE; Usana Megavitamin Tablets - Tab; VITAFOL Gummies; Vasodyn Tab; Vc II; Vege Swiss One Multivitamin W Chel Mins Tab; Virt-C DHA; Vita B Complex Tab; Vita Balance 2000; Vita Day Tab; Vita Vim Multivitamins and Minerals Tab; Vita Vim With Beta Carotene-caplet; Vita-Rx Diabetic Vitamin; Vita-vim - Tab; Vita-vim With Beta-carotene - Tab; Vitafol Caplet; Vitafol Fe Plus; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol-OB Plus DHA Prenatal Supplement Plus DHA; Vitalife - Capsule; Vitamin & Mineral Formula 1 Dietary Supplement; Vitamin B + C Cap; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Compound Tab; Vitamin B3 Tab 10mg USP Chewable; Vp-heme Ob DHA; Vp-pnv-dha; Vtb Vitamin and Mineral Supplement; Vyo Cylate - Pwr; Wellness Formula; WestGel DHA; ahoSAN; bioJET; healthy mamaBE WELL ROUNDED BE WELL ROUNDED
+
+$$$$

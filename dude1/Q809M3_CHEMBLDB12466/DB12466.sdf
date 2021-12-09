@@ -1,0 +1,156 @@
+492405
+  -OEChem-12041918283D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    2.6924    1.6377   -0.0017 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0192   -2.1677    0.0071 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4032    0.8017    1.1292 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2342   -1.6108   -0.0163 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4419    1.0594    0.0219 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4023    0.8152   -1.1973 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4657    0.1294    0.0236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1165   -1.3449    0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1574   -0.6077   -0.0182 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7535    0.6653    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8725    0.6225    0.0480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5608   -2.5721   -0.0304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1981   -0.9025   -0.0348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3531    1.1487   -1.3156 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8742    0.6352   -2.0453 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12466
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZCGNOVWYSGBHAU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=NC(F)=CN=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4FN3O2/c6-2-1-8-5(11)3(9-2)4(7)10/h1H,(H2,7,10)(H,8,11)
+
+> <INCHI_KEY>
+ZCGNOVWYSGBHAU-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4FN3O2
+
+> <MOLECULAR_WEIGHT>
+157.104
+
+> <EXACT_MASS>
+157.028754544
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.123878906367722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-fluoro-3-hydroxypyrazine-2-carboxamide
+
+> <ALOGPS_LOGP>
+0.49
+
+> <JCHEM_LOGP>
+0.25191639600000004
+
+> <ALOGPS_LOGS>
+-1.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.579307723139335
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.39401731404919
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6791532864267253
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.1
+
+> <JCHEM_REFRACTIVITY>
+33.9761
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.70e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12466
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB06046; DB15625
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Favipiravir
+
+> <SYNONYMS>
+Fapilavir; Favilavir; Favipiravir
+
+> <INTERNATIONAL_BRANDS>
+Avigan
+
+$$$$

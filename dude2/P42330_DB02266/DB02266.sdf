@@ -1,0 +1,184 @@
+3371
+  -OEChem-11201814093D
+
+ 30 31  0     0  0  0  0  0  0999 V2000
+    4.9158   -0.6777    0.5175 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3519   -1.0850    1.9717 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3543   -2.1278    0.0573 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7343    1.3114    0.8399 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6344    1.9750    1.4025 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8311    0.9582   -0.4526 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5721    1.0537   -0.4912 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7137   -0.1447   -0.4420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7504    0.1441    0.0373 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3593    0.0497    0.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9535   -0.0637    0.1918 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1832    2.1525   -1.0993 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3579    1.2426   -0.5706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3309   -1.3261   -1.0771 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5743    2.2469   -1.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8106   -1.1642    0.1906 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5887   -0.9289    0.6451 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1880   -2.4265   -1.0784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4279   -2.3456   -0.4445 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3834    1.1559    0.8642 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3003    1.8591   -0.4708 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9046   -0.8028    0.5758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5840    2.9414   -1.5471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4396    1.3359   -0.6126 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3826   -1.4126   -1.6004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0471    3.1022   -1.6128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7774   -1.1384    0.6865 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8923   -3.3450   -1.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0941   -3.2035   -0.4441 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0154    2.1343    1.2939 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 20  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02266
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LPEPZBJOKDYZAD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC=CC=C1NC1=CC(=CC=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10F3NO2/c15-14(16,17)9-4-3-5-10(8-9)18-12-7-2-1-6-11(12)13(19)20/h1-8,18H,(H,19,20)
+
+> <INCHI_KEY>
+LPEPZBJOKDYZAD-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H10F3NO2
+
+> <MOLECULAR_WEIGHT>
+281.2299
+
+> <EXACT_MASS>
+281.066363184
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.67040769730003
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[3-(trifluoromethyl)phenyl]amino}benzoic acid
+
+> <ALOGPS_LOGP>
+4.60
+
+> <JCHEM_LOGP>
+5.2486029809999994
+
+> <ALOGPS_LOGS>
+-4.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+17.531634709985443
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.878311076295253
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.1355613140048764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+67.77410000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.00e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flufenamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02266
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01442
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Flufenamic acid
+
+> <SYNONYMS>
+acide flufénamique; ácido flufenámico; Acidum flufenamicum; Flufenamic acid
+
+$$$$

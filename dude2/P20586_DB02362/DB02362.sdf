@@ -1,0 +1,160 @@
+978
+  -OEChem-10051719543D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+   -2.6893   -1.1938   -0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8521    1.0734   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5031   -0.0257   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6965    0.0353    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929   -0.0053   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0183    1.2330    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0167   -1.1828    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4130    1.2127   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3780   -1.2032    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1506    0.0564    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4926    2.1924    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5336   -2.1384    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9589    2.1527   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8968   -2.1585    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9966   -0.9084   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0219    0.8424   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6700   -1.1685   -0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02362
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ALYNCZNDIQEVRV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c8-6-3-1-5(2-4-6)7(9)10/h1-4H,8H2,(H,9,10)
+
+> <INCHI_KEY>
+ALYNCZNDIQEVRV-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.443489193840373
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-aminobenzoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+0.8019027699999998
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.769893805764377
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.6912772144052126
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+38.0146
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sunbrella
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02362
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02486
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Aminobenzoic acid
+
+> <SYNONYMS>
+1-Amino-4-carboxybenzene; 4-aminobenzoic acid; 4-Carboxyaniline; p-Aminobenzoic acid; p-Carboxyaniline; p-Carboxyphenylamine; para-Aminobenzoic acid
+
+> <PRODUCTS>
+Neutral C + Coenzyme Q10 Plus Vitamins & Minerals; Potaba Cap 0.5gm; Potaba Pwr 2gm/pck; Potaba Tab 0.5gm; Presun 15 Lotion
+
+> <INTERNATIONAL_BRANDS>
+Pabagel; Pabalate; Pabanol
+
+> <SALTS>
+Aminobenzoate potassium; Aminobenzoate sodium
+
+$$$$

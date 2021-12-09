@@ -1,0 +1,184 @@
+451448
+  -OEChem-10061700063D
+
+ 30 31  0     1  0  0  0  0  0999 V2000
+    1.3853   -0.5493   -1.0033 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8816    2.3460    1.0682 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8582    1.0975   -0.3172 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8626   -3.2180   -0.2869 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4755    0.7939   -0.4007 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1722   -0.3008   -0.0600 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5423    1.5025   -0.3815 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7880   -0.0486    0.2197 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3589   -1.9072    0.5611 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0369    0.2676    0.5042 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7230    0.9718    0.7802 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5919   -0.9435   -0.3097 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9793    0.7484   -0.5277 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2743   -2.1554    0.5550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2968    1.8611   -0.5903 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4170    0.1807   -0.0624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5423   -0.6468    0.2514 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2033    0.4949    1.6193 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6011    0.0294    1.4103 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3206   -1.2174   -1.0810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2474    1.4897   -1.2909 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4604   -1.9560    1.2592 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1549   -2.4812    1.1163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3901    2.7484    0.3437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6699    0.5989   -0.5130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9470    2.8450   -0.8691 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0822   -2.9147   -0.7817 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6266   -0.5764    0.4368 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9075    0.9308   -0.0183 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2741   -2.3285    0.7563 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7 15  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 17  2  0  0  0  0
+  9 30  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06408
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NHKZSTHOYNWEEZ-AFCXAGJDSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N5O4/c9-6(10)7-11-2-13(12-7)8-5(16)4(15)3(1-14)17-8/h2-5,8,14-16H,1H2,(H3,9,10)/t3-,4-,5-,8-/m1/s1
+
+> <INCHI_KEY>
+NHKZSTHOYNWEEZ-AFCXAGJDSA-N
+
+> <FORMULA>
+C8H13N5O4
+
+> <MOLECULAR_WEIGHT>
+243.223
+
+> <EXACT_MASS>
+243.096753919
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.590335333210696
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-1,2,4-triazole-3-carboximidamide
+
+> <ALOGPS_LOGP>
+-2.03
+
+> <JCHEM_LOGP>
+-2.5372573163333336
+
+> <ALOGPS_LOGS>
+-1.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.879327260513541
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.420824853309774
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.341789750262809
+
+> <JCHEM_POLAR_SURFACE_AREA>
+150.50000000000003
+
+> <JCHEM_REFRACTIVITY>
+77.1685
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+taribavirin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06408
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Taribavirin
+
+> <SYNONYMS>
+Ribavirin amidine; Taribavirin; Viramidine
+
+> <SALTS>
+Taribavirin hydrochloride
+
+$$$$

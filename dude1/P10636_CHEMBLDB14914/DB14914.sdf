@@ -1,0 +1,184 @@
+70957463
+  -OEChem-05201910343D
+
+ 30 33  0     0  0  0  0  0  0999 V2000
+   -6.5966    0.3031    0.0679 F  -1  0  0  0  0  0  0  0  0  0  0  0
+    2.1384    1.5613    0.2054 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4511   -0.8408   -0.0948 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7272   -0.9767    0.4791 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6731   -0.6011   -0.0797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1047    0.6626    0.0836 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0937   -0.4364   -0.0523 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3527    0.9216    0.1268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2789    0.8732    0.1059 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1066   -0.2427   -0.0435 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8164   -1.7120   -0.2288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5693   -1.5172   -0.2085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1820   -1.3100   -0.1624 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6448    1.4340    0.1996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5440   -0.0698   -0.0270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6479    0.4856    0.0801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1296    1.1090   -0.4755 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3793   -1.0733    0.4365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5130    1.2460   -0.4473 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2603    0.1836    0.0349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0211    2.5567    0.3353 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6586    1.8772    0.2637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2211   -2.7110   -0.3648 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1922   -2.3960   -0.3558 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0734   -2.3789   -0.3031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8509    2.4872    0.3386 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6905    0.7867    0.1245 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5493    1.9334   -0.8802 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0102   -2.0141    0.8326 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9917    2.1533   -0.7975 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 30  1  0  0  0  0
+M  ISO  1   1  18
+M  END
+> <DATABASE_ID>
+DB14914
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GETAAWDSFUCLBS-SJPDSGJFSA-N/SDF?record_type=3d
+
+> <SMILES>
+[18F]C1=CC=C(C=N1)C1=CC=C2C(NC3=C2C=NC=C3)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H10FN3/c17-16-4-2-11(8-19-16)10-1-3-12-13-9-18-6-5-14(13)20-15(12)7-10/h1-9,20H/i17-1
+
+> <INCHI_KEY>
+GETAAWDSFUCLBS-SJPDSGJFSA-N
+
+> <FORMULA>
+C16H10FN3
+
+> <MOLECULAR_WEIGHT>
+262.278
+
+> <EXACT_MASS>
+262.088410001
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.2277583307518
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(¹⁸F)fluoro-5-{5H-pyrido[4,3-b]indol-7-yl}pyridine
+
+> <ALOGPS_LOGP>
+3.52
+
+> <JCHEM_LOGP>
+2.8393988029999995
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.025842016356648
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.130200587294405
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+75.5257
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14914
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Flortaucipir F-18
+
+> <SYNONYMS>
+Flortaucipir (18F); Flortaucipir F 18
+
+> <PRODUCTS>
+Tauvid
+
+$$$$

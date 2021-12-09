@@ -1,0 +1,205 @@
+123600
+  -OEChem-12211812493D
+
+ 38 38  0     1  0  0  0  0  0999 V2000
+    0.7810   -0.5082   -2.1924 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5721   -0.3760    1.0118 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7480    2.3351   -0.8880 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0762   -0.3870   -0.4599 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0256    0.3441    0.3858 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7189   -0.2163    0.0303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7215   -0.9820   -0.8476 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4366    0.1424   -0.1767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6569    1.8312    0.3604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9481   -0.1937    1.8196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6974   -0.8145   -0.3497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2297    0.4586   -0.2407 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4323   -1.9382   -0.0138 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5378    0.6126    0.2186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2931   -0.5087    0.5616 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7404   -1.7841    0.4454 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1140    1.9849    0.3355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5901   -0.5833    1.0534 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4393    0.8389   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3143   -1.3785   -0.4743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9886   -2.0462   -0.8685 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7193   -0.9169   -0.1774 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1817    0.6818    0.4191 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5108    0.5083   -1.2076 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7753    2.0768    0.9621 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4959    2.1937   -0.6620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4760    2.4289    0.7802 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0453    0.1158    2.3563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7909    0.1867    2.4106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0113   -1.2880    1.8472 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6554    1.3355   -0.5256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0131   -2.9364   -0.0998 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7052   -0.5831   -2.4858 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3235   -2.6618    0.7109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8229    2.0820    1.1640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3186    2.7150    0.5274 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9430    0.4740    0.7264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0919    3.2386   -0.7826 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 33  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 37  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 38  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 17 36  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13139
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NDAUXUAQIAJITI-LBPRGKRZSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)(C)NC[C@H](O)C1=CC(CO)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H21NO3/c1-13(2,3)14-7-12(17)9-4-5-11(16)10(6-9)8-15/h4-6,12,14-17H,7-8H2,1-3H3/t12-/m0/s1
+
+> <INCHI_KEY>
+NDAUXUAQIAJITI-LBPRGKRZSA-N
+
+> <FORMULA>
+C13H21NO3
+
+> <MOLECULAR_WEIGHT>
+239.3107
+
+> <EXACT_MASS>
+239.152143543
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.866307645499337
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(1R)-2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol
+
+> <ALOGPS_LOGP>
+0.44
+
+> <JCHEM_LOGP>
+0.3444161509994905
+
+> <ALOGPS_LOGS>
+-2.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.17970015088174
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.121162873207071
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.403548944560061
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.72
+
+> <JCHEM_REFRACTIVITY>
+67.87090000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.15e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ventolin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13139
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05761
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Levosalbutamol
+
+> <SYNONYMS>
+(-)-Albuterol; (-)-Salbutamol; (R)-salbutamol; Levalbuterol; Levosalbutamol; R-salbutamol
+
+> <PRODUCTS>
+Levalbuterol; Levalbuterol Hydrochloride; Levalbuterol Inhalation; Levalbuterol Inhalation Solution; Levalbuterol tartrate HFA inhalation; Xopenex; Xopenex HFA
+
+> <SALTS>
+Levosalbutamol hydrochloride; Levosalbutamol sulfate; Levosalbutamol tartrate
+
+$$$$

@@ -1,0 +1,153 @@
+668
+  -OEChem-10051720333D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -2.2396    0.0551    0.0022 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6860    0.5196   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3365   -0.9491    1.2661 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3258   -0.9392   -1.2702 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0899   -0.1120    0.0028 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8569    1.3752    0.0051 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2347    1.1785   -0.0027 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3175   -0.4735    0.0042 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6956    0.1557    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8627   -0.8102   -0.0085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2243   -1.0887    0.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2239   -1.0966   -0.8898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8167   -1.4149   -0.9180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8123   -1.4599    0.8697 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2129   -1.3091    1.5200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2013   -1.2891   -1.5407 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1520    0.3568    0.8526 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04326
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GNGACRATGGDKBX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC(=O)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7O6P/c4-1-3(5)2-9-10(6,7)8/h4H,1-2H2,(H2,6,7,8)
+
+> <INCHI_KEY>
+GNGACRATGGDKBX-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H7O6P
+
+> <MOLECULAR_WEIGHT>
+170.0578
+
+> <EXACT_MASS>
+169.998024468
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.641516377396004
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3-hydroxy-2-oxopropoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.49
+
+> <JCHEM_LOGP>
+-1.6517823150000002
+
+> <ALOGPS_LOGS>
+-0.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.220373471836065
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.1902795898513006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3227461112640855
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+30.472099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.19e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dihydroxyacetone-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04326
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00026; DB12496
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dihydroxyacetone phosphate
+
+> <SYNONYMS>
+1-hydroxy-3-(phosphonooxy)-2-Propanone; 1-Hydroxy-3-(phosphonooxy)acetone; 1,3-Dihydroxy-2-propanone monodihydrogen phosphate; 1,3-Dihydroxy-2-propanone phosphate; 1,3-Dihydroxyacetone 1-phosphate; 3-hydroxy-2-oxopropyl phosphate; DHAP; Dihydroxyacetone monophosphate; Glycerone monophosphate; Glycerone phosphate
+
+$$$$

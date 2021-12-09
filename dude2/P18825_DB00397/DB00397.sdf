@@ -1,0 +1,177 @@
+10297
+  -OEChem-12141812103D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+   -1.4627   -0.7780   -1.4851 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4340    0.6148    0.1154 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1151    0.3432   -0.6680 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0495    0.4120    0.5609 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3478    0.1872   -0.3115 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0070   -0.8636    1.4042 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1225    1.3191   -0.1275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8784   -1.0840   -0.1781 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4707    1.1753    0.2005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2265   -1.2278    0.1501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0225   -0.0981    0.3392 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2367    1.2375   -1.2928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7614    1.2612    1.1922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0281   -1.0016    1.8730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7353   -0.8102    2.2224 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2397   -1.7582    0.8163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7002    2.3142   -0.2315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2821   -1.9820   -0.3082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4983    1.4853   -0.4108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0423    0.7242    0.9259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4035   -0.6880   -1.7145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0904    2.0548    0.3485 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -2.2192    0.2610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0720   -0.2102    0.5956 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00397
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DLNKOYKMWOXYQA-CBAPKCEASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](C)(N)[C@]([H])(O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO/c1-7(10)9(11)8-5-3-2-4-6-8/h2-7,9,11H,10H2,1H3/t7-,9-/m0/s1
+
+> <INCHI_KEY>
+DLNKOYKMWOXYQA-CBAPKCEASA-N
+
+> <FORMULA>
+C9H13NO
+
+> <MOLECULAR_WEIGHT>
+151.209
+
+> <EXACT_MASS>
+151.099714043
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.894570859327885
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2S)-2-amino-1-phenylpropan-1-ol
+
+> <ALOGPS_LOGP>
+0.57
+
+> <JCHEM_LOGP>
+0.8852543346666666
+
+> <ALOGPS_LOGS>
+-0.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.896164133633945
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.370138989147625
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+44.912699999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fenilpropanolamina
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00397
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00457; DB09441
+
+> <DRUG_GROUPS>
+approved; vet_approved; withdrawn
+
+> <GENERIC_NAME>
+Phenylpropanolamine
+
+> <SYNONYMS>
+(+-)-Norephedrine; (+-)-Phenylpropanolamine; Fenilpropanolamina; Norephedrine; Phenylpropanolamin; Phenylpropanolamina; Phenylpropanolamine; Phénylpropanolamine; Phenylpropanolaminum; PPA
+
+> <PRODUCTS>
+Antitussive Decong Antihistamine Syr; Bronchodex D Cap; Bronchosirum Pour Enfants; Caldomine Dh Adulte; Caldomine Dh Enfant; Centracol DM - Syr; Chlor Tripolon Decongest Syr; Cold & Allergy Relief - Liq; Cold Decongestant Long Acting Cap; Cold Relief; Cold Relief DM; Contac Cold Capsules; Contac Cold Extra Strength Capsules; Contac Cough Cold and Flu Caplets; Contact C Src; Coricidin D Long Acting Tab; Coricidin D Tab; Coricidin Nd Tab; Coricidin Sinus Headache Tab; Corsym Suspension; Cough, Cold & Allergy Relief; Counteract Sinus and Allergy; Decongestant Antihistaminic Syrup; Dilotab; Dimetane Expectorant Liq; Dimetane Expectorant-C Syr; Dimetane Expectorant-DC Syr; Dimetapp Chewable Tablets; Dimetapp Children's Cold & Allergy Tablets; Dimetapp Children's Cold & Fever; Dimetapp Clear; Dimetapp Cold & Sinus; Dimetapp Cough & Cold Liqui-gels - Cap; Dimetapp Cough, Cold & Flu; Dimetapp DM Elixir; Dimetapp DM Tab; Dimetapp Elixir; Dimetapp Extentabs; Dimetapp Liqui-gels Cap; Dimetapp Oral Infant Drops; Dimetapp Tab; Dimetapp-C Syr; Dristan Capsules; Emercidin D Tab; Emertabs Tab; Entex LA; Entex LA Tablets Srt; Extra Strength Contac C - Src; Hycomine; Oradrine 2 Tab; Oradrine Tablets; Ornade AF Liquid; Ornade AF Spansule Src; Ornade DM 10 Liq; Ornade DM 15 Liq; Ornade DM 30 Liq; Ornade Expectorant Cough Formula; Ornade Liquid; Ornade Spansule Src; Pharmacol DM Syr; Pharmetapp Elixir; Pharminicol DM Syrup; Sine Off Nd Extra Strength Caplet; Sine-off Allergy Tab; Sine-off N.D. Tab; Sine-off N.D. Tablet; Sinutab Sa Tab; Tantacol DM Syr; Tantapp Elixir; Tavist-D Tablets; Triaminic Cold and Allergy Syrup; Triaminic DM Daytime Syr; Triaminic Expectorant Dh Syrup; Triaminic Time Release Tab; Triaminicin Colds & Flu Caplets; Trisulfaminic Sus; Trisulfaminic Tab; Tussaminic C Forte Syrup; Tussaminic C Pediatric Syrup; Tussaminic Dh Forte Syrup; Tussaminic Dh Pediatric Syrup
+
+> <INTERNATIONAL_BRANDS>
+Acutrim; Boxogetten; Dexatrim; Disudrin; Naldec; Nasadec; Nasathera; Propagest; Recatol mono; Rhindecon; Rinexin
+
+> <SALTS>
+Phenylpropanolamine hydrochloride
+
+$$$$

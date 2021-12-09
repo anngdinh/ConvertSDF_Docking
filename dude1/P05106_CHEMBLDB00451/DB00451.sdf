@@ -1,0 +1,200 @@
+5819
+  -OEChem-10051719153D
+
+ 35 36  0     1  0  0  0  0  0999 V2000
+    0.1456   -0.7021   -3.2374 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6342   -2.5402    2.5616 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5942   -0.2322   -0.4190 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8786    3.3285    1.1090 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4387   -1.8017   -0.4835 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2006    2.1698   -0.5863 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3952    1.8399   -1.0559 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9129    2.3590    0.5438 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6938    0.6242    1.3862 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0749   -0.8508    0.2824 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3742    0.5785    0.7604 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5991   -1.1048    0.0776 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8410   -1.5827    1.1336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0343   -0.8548   -1.1620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1052   -1.5708   -0.2980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6725   -1.0897   -1.3512 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4791   -1.8174    0.9443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4040    1.5710   -0.3892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.7591   -0.2258 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8017    0.4555    0.2026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6685   -0.9539   -0.4023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5469    0.0980   -0.1425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6802    1.5074    0.4622 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0527    1.3287    0.2896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6165   -1.0719   -0.6477 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4434   -1.5837    1.0139 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6447    0.9214    1.5033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3090   -1.7676    2.0973 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6522   -0.4826   -1.9753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7088    0.0053    2.1963 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3949    0.2563    0.7433 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7444    0.6444    0.3516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0312   -1.9213   -0.7398 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2310    2.8182   -1.3217 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8199    2.0536    0.3702 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 34  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 24  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00451
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XUIIKFGFIJCVMT-LBPRGKRZSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H11I4NO4/c16-8-4-7(5-9(17)13(8)21)24-14-10(18)1-6(2-11(14)19)3-12(20)15(22)23/h1-2,4-5,12,21H,3,20H2,(H,22,23)/t12-/m0/s1
+
+> <INCHI_KEY>
+XUIIKFGFIJCVMT-LBPRGKRZSA-N
+
+> <FORMULA>
+C15H11I4NO4
+
+> <MOLECULAR_WEIGHT>
+776.87
+
+> <EXACT_MASS>
+776.686681525
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.40155461610982
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoic acid
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+3.727307065150786
+
+> <ALOGPS_LOGS>
+-4.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.426761076903324
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.2733674568179616
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.433364269994815
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.78
+
+> <JCHEM_REFRACTIVITY>
+126.78799999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.98e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levothyroxine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00451
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00235; EXPT02993
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Levothyroxine
+
+> <SYNONYMS>
+3,3',5,5'-Tetraiodo-L-thyronine; 3,5,3',5'-Tetraiodo-L-thyronine; 4-(4-Hydroxy-3,5-diiodophenoxy)-3,5-diiodo-L-phenylalanine; L-T4; L-Thyroxine; Levothyroxin; LT4; O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine; O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-L-tyrosine; T4; Thyroxine
+
+> <PRODUCTS>
+Eltroxin; Eltroxin 150 Tab; Eltroxin Tab 100mcg; Eltroxin Tab 200mcg; Eltroxin Tab 300mcg; Eltroxin Tab 50mcg; Euthyrox; Levo-T; Levo-T 100mcg - Tab; Levo-T 125mcg - Tab; Levo-T 150mcg - Tab; Levo-T 200mcg - Tab; Levo-T 25mcg - Tab; Levo-T 300mcg - Tab; Levo-T 50mcg - Tab; Levo-T 75mcg - Tab; Levotec 100mcg Tablets USP; Levotec 112mcg Tablets USP; Levotec 125mcg Tablets USP; Levotec 150mcg Tablets USP; Levotec 175mcg Tablets USP; Levotec 200mcg Tablets USP; Levotec 25mcg Tablets USP; Levotec 300mcg Tablets USP; Levotec 50mcg Tablets USP; Levotec 75mcg Tablets USP; Levothroid; Levothroxine Sodium; Levothyroxine; Levothyroxine Sodium; Levothyroxine Sodium Injection; Levothyroxine Sodium for Injection; Levothyroxine and Liothyronine Thyroid; Levothyroxine sodium; Levoxyl; NP Thyroid 120; NP Thyroid 15; NP Thyroid 30; NP Thyroid 60; NP Thyroid 90; Novothyrox; Np Thyroid 60; Np Thyroid 90; PMS-levothyroxine Sodium Tab 100mcg; PMS-levothyroxine Sodium Tab 125mcg; PMS-levothyroxine Sodium Tab 150mcg; PMS-levothyroxine Sodium Tab 200mcg; PMS-levothyroxine Sodium Tab 25mcg; PMS-levothyroxine Sodium Tab 300mcg; PMS-levothyroxine Sodium Tab 50mcg; PMS-levothyroxine Sodium Tab 75mcg; Sertraline Hydrochloride; Synthroid; Synthroid Liq Inj 500mcg/vial USP; Synthroid Tab 100mcg USP; Synthroid Tab 112mcg USP; Synthroid Tab 125mcg USP; Synthroid Tab 150mcg USP; Synthroid Tab 175mcg USP; Synthroid Tab 200mcg USP; Synthroid Tab 25mcg USP; Synthroid Tab 300mcg Tab; Synthroid Tab 50mcg USP; Synthroid Tab 75mcg USP; Synthroid Tab 88mcg USP; Thyroid; Thyrolar; Tirosint; Tirosint SOL; Unithroid
+
+> <INTERNATIONAL_BRANDS>
+Eutirox; Letrox; Levaxin; Levothyrox; Oroxine; Thyrax
+
+> <SALTS>
+Levothyroxine sodium
+
+$$$$

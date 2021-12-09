@@ -1,0 +1,190 @@
+5365247
+  -OEChem-03101921093D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+   -5.9872    0.2794   -0.3297 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7148    2.6165    0.0303 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8956   -2.9928    0.9368 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1121    0.2300    0.3212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1729    1.6238    0.9574 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7105    1.3810    0.7013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3658    0.2421    0.1635 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9178   -0.9863    0.0729 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1538   -0.0726    1.2508 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9014    0.5676   -1.0651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5657    2.1604   -1.3513 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1208    2.8835    0.3315 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4172   -1.2367   -1.1847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1677   -1.8647    1.0956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5408   -0.0615    1.1029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2883    0.5789   -1.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1081    0.2642   -0.1291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1708   -2.3874   -1.3875 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3795   -3.2254   -0.3039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2582    2.0009    1.9848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7580    0.6977    0.9209 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0809    2.2559    0.8726 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7228   -0.3273    2.2150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2726    0.8150   -1.9158 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5168    2.0755   -1.6527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0717    1.2053   -1.5302 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0031    2.8967   -2.0366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5148    3.6631   -0.3301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7461    1.9899    0.2216 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2310    3.2577    1.3555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2319   -0.5665   -2.0188 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7945   -1.7053    2.1022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1652   -0.3089    1.9575 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7144    0.8352   -2.1796 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5805   -2.6218   -2.3632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9603   -4.1357   -0.4097 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04832
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OYPPVKRFBIWMSX-SXGWCWSVSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)C\C=C(\C1=CC=C(Br)C=C1)C1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H17BrN2/c1-19(2)11-9-16(14-4-3-10-18-12-14)13-5-7-15(17)8-6-13/h3-10,12H,11H2,1-2H3/b16-9-
+
+> <INCHI_KEY>
+OYPPVKRFBIWMSX-SXGWCWSVSA-N
+
+> <FORMULA>
+C16H17BrN2
+
+> <MOLECULAR_WEIGHT>
+317.23
+
+> <EXACT_MASS>
+316.057512
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.935501916614633
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2Z)-3-(4-bromophenyl)-3-(pyridin-3-yl)prop-2-en-1-yl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.39
+
+> <JCHEM_LOGP>
+3.5088370323333335
+
+> <ALOGPS_LOGS>
+-4.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.615206433244522
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+93.93790000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.39e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+zimelidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04832
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Zimelidine
+
+> <SYNONYMS>
+(Z)-3-(4'-Bromophenyl)-3-(3''-pyridyl)dimethylallylamine; (Z)-zimelidine; cis-zimelidine; Zimeldina; Zimeldine; Zimeldinum
+
+> <SALTS>
+Zimelidine hydrochloride
+
+$$$$

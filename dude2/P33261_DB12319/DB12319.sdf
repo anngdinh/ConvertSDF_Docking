@@ -1,0 +1,187 @@
+2333
+  -OEChem-10051722443D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    3.9515   -0.4876    2.7594 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7445    0.1490   -2.9447 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5850   -0.0255    0.1914 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3554    2.7104    0.3688 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9162   -0.5951   -0.1789 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4278    0.6146    0.1851 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4676   -0.7961    0.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7356    1.0313    0.2792 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8155   -1.1398    0.0388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3663    2.3489    0.4510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2812    1.4744    0.2401 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5147   -1.8190   -0.1202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1038    0.9219    0.1284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2904   -2.4438   -0.0896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6733    3.0441   -0.8830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9621   -3.1408   -0.2514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3257   -3.4450   -0.2359 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6687    0.8135   -1.1203 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7557    0.5462    1.2791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0480    0.0315    1.1752 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9612    0.2990   -1.2245 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6508   -0.0920   -0.0768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3075    2.2322    1.0028 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7419    3.0046    1.0666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5526   -1.6419   -0.1390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3496   -2.6719   -0.0768 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7557    3.2178   -1.4549 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1547    4.0103   -0.7035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3441    2.4339   -1.4972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2359   -3.9415   -0.3669 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6432   -4.4796   -0.3398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1196    1.1224   -2.0057 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2738    0.6485    2.2477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2348   -0.8110    0.7146 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 22  1  0  0  0  0
+  5 34  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12319
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WHQCHUCQKNIQEC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC1=C(C(=O)C2=CC(Br)=C(O)C(Br)=C2)C2=CC=CC=C2O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H12Br2O3/c1-2-13-15(10-5-3-4-6-14(10)22-13)16(20)9-7-11(18)17(21)12(19)8-9/h3-8,21H,2H2,1H3
+
+> <INCHI_KEY>
+WHQCHUCQKNIQEC-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H12Br2O3
+
+> <MOLECULAR_WEIGHT>
+424.083
+
+> <EXACT_MASS>
+421.915319544
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.64614561636836
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,6-dibromo-4-(2-ethyl-1-benzofuran-3-carbonyl)phenol
+
+> <ALOGPS_LOGP>
+5.52
+
+> <JCHEM_LOGP>
+5.547745900999999
+
+> <ALOGPS_LOGS>
+-4.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.11079144308044
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.842504364936835
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.44
+
+> <JCHEM_REFRACTIVITY>
+92.37480000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.31e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+benzbromarone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12319
+
+> <DRUG_GROUPS>
+investigational; withdrawn
+
+> <GENERIC_NAME>
+Benzbromarone
+
+> <SYNONYMS>
+2-ethyl-3-(3,5-dibrom-4-hydroxybenzoyl)benzofuran; 3,5-dibromo-4-hydroxyphenyl-2-ethyl-3-benzofuranyl ketone; Benzbromarona
+
+> <INTERNATIONAL_BRANDS>
+Uroleap
+
+$$$$

@@ -1,0 +1,148 @@
+1188
+  -OEChem-10191719373D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+   -0.2090   -2.6604    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9954    1.0526    0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7173    1.4160   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0788   -0.6662    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5971   -0.7967   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7283    1.5418   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7253   -0.4947   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5448    0.8645   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3471   -1.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8502    0.5965   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6388    0.5879    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8041    2.4268    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5785   -1.5458    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4147   -1.4004   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7098    0.7326    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02134
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LRFVTYWOQMYALW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC2=C(NC=N2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+LRFVTYWOQMYALW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N4O2
+
+> <MOLECULAR_WEIGHT>
+152.1109
+
+> <EXACT_MASS>
+152.033425392
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.70210977018667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+-0.65
+
+> <JCHEM_LOGP>
+-0.20706379166666647
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.766811632389617
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.954237880526347
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7029128013721097
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.88
+
+> <JCHEM_REFRACTIVITY>
+36.9219
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.91e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+xanthine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02134
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03251
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Xanthine
+
+$$$$

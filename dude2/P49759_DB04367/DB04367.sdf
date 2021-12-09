@@ -1,0 +1,180 @@
+5288032
+  -OEChem-12121913303D
+
+ 29 31  0     0  0  0  0  0  0999 V2000
+   -4.3596    0.4303    0.2496 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2643    2.3624   -0.4288 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6166    1.8480    0.3922 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7756   -1.8358   -0.0210 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1526   -1.0152    0.1825 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152    0.5807    0.0602 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3667   -1.6881    0.5509 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1273    0.3215   -0.2882 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3672    1.7051   -0.6159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8747   -0.7058   -0.2092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2309    2.2558    0.5047 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2445   -0.5551    0.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4421    0.1058   -0.1031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1338    0.5780    0.2199 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6160   -2.1049   -0.3521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8075   -2.7715   -0.2296 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4802    1.1859   -0.1879 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4779   -0.6970    0.2699 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3452    2.4643   -0.9038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9723    1.6265   -1.5336 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8660    1.9678    1.4972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2352    3.3508    0.4604 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3039    2.5803    0.5437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3061   -2.6116   -0.5903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7570   -2.0436    0.0998 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0527   -3.8222   -0.2918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7532   -1.8990    0.4516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3604   -1.4996    0.6255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0629   -2.6451    0.6931 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2 17  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 18  1  0  0  0  0
+  7 28  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04367
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JYRJOQGKGMHTOO-VURMDHGXSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)\C(N1)=C1/CCNC(=O)C2=C1C=CN2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11N5O2/c12-11-15-8(10(18)16-11)6-2-4-14-9(17)7-5(6)1-3-13-7/h1,3,13H,2,4H2,(H,14,17)(H3,12,15,16,18)/b8-6-
+
+> <INCHI_KEY>
+JYRJOQGKGMHTOO-VURMDHGXSA-N
+
+> <FORMULA>
+C11H11N5O2
+
+> <MOLECULAR_WEIGHT>
+245.2373
+
+> <EXACT_MASS>
+245.091274621
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.857747172188667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-5-[(4Z)-8-oxo-1H,4H,5H,6H,7H,8H-pyrrolo[2,3-c]azepin-4-ylidene]-4,5-dihydro-1H-imidazol-4-one
+
+> <ALOGPS_LOGP>
+-0.13
+
+> <JCHEM_LOGP>
+-1.6936090673333333
+
+> <ALOGPS_LOGS>
+-2.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.918004011154949
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.485880874315592
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.669209365778914
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.37
+
+> <JCHEM_REFRACTIVITY>
+64.8685
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.00e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tert-butyl N-[(2S,5S)-5-benzyl-5-{[(1S)-3-carbamoyl-1-{[(1S)-1-carbamoyl-2-phenylethyl]carbamoyl}propyl]carbamoyl}-3-oxo-1-phenylpentan-2-yl]carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04367
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01124
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Debromohymenialdisine
+
+$$$$

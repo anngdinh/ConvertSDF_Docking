@@ -1,0 +1,163 @@
+167842
+  -OEChem-10051720263D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+    3.5732   -2.0488    0.5892 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6014    0.4995    1.8128 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5927    1.8891   -1.0148 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3626    1.0629    0.4983 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6719    1.0413    0.4756 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0468   -0.3310   -0.6902 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4862   -1.5424   -0.3806 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5313    1.4470   -0.2706 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2379   -0.8861   -1.1005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1949   -1.0386    0.0826 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2538    1.0551   -0.6863 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0373   -1.2143   -0.3116 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4685    0.2788    0.7885 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2564   -0.8321    0.0844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5736    0.6196    0.1234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6754   -0.2079   -1.8452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0777   -1.8468   -1.6070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7925   -1.7477    0.8159 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7692   -2.2660   -0.3485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0859   -1.7377    0.4203 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3545   -2.4329   -0.8590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7147    2.4465   -0.2562 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7829    1.3493    2.2680 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5 15  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04000
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AEKIJKSVXKWGRJ-BYPYZUCNSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CN1C=C(Br)C(=O)NC1=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8BrN3O4/c8-3-1-11(2-4(9)6(13)14)7(15)10-5(3)12/h1,4H,2,9H2,(H,13,14)(H,10,12,15)/t4-/m0/s1
+
+> <INCHI_KEY>
+AEKIJKSVXKWGRJ-BYPYZUCNSA-N
+
+> <FORMULA>
+C7H8BrN3O4
+
+> <MOLECULAR_WEIGHT>
+278.06
+
+> <EXACT_MASS>
+276.969818406
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.99704343549432
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(5-bromo-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.80
+
+> <JCHEM_LOGP>
+-3.175918628378595
+
+> <ALOGPS_LOGS>
+-1.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.939700191593019
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.0056188194609117
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.637042417058767
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+52.255
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bromo-willardiine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04000
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00785
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bromo-Willardiine
+
+$$$$

@@ -1,0 +1,148 @@
+7419
+  -OEChem-10051719473D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.8376   -0.7301    0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4093    1.5022   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7596    1.5166    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5950   -0.0574   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7475    0.5340    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4056    0.9146   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2536   -1.4098   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0889   -0.8184    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0884   -1.7903   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9945    0.3386   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1473    1.9713    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9998   -2.1993   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1310   -1.1277    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3549   -2.8433   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5131    2.4974    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7326    1.2408    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7786   -0.4526    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02054
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XFDUHJPVQKIXHO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=CC(=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c8-6-3-1-2-5(4-6)7(9)10/h1-4H,8H2,(H,9,10)
+
+> <INCHI_KEY>
+XFDUHJPVQKIXHO-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.405718816946655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-aminobenzoic acid
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+0.6308152429896937
+
+> <ALOGPS_LOGS>
+-1.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.810833625289855
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.2715362421122087
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+38.0146
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+gabaculine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02054
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01542
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Gabaculine
+
+$$$$

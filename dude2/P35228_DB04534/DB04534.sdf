@@ -1,0 +1,162 @@
+21501
+  -OEChem-02232018333D
+
+ 17 18  0     0  0  0  0  0  0999 V2000
+    3.4652   -0.6736    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9758    1.4664   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8054   -0.6867    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3497    0.5415   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6288    0.2611    0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0636    0.6456    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4366   -0.6938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3009    0.9801    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2435   -0.0557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5131   -1.7415   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8414   -1.3926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2870    1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5868    2.0276    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8278   -2.7791   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5643   -2.2058   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4467    2.4184   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4278   -1.4852   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  CHG  2   1  -1   5   1
+M  END
+> <DATABASE_ID>
+DB04534
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WSGURAYTCUVDQL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C2NN=CC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5N3O2/c11-10(12)6-1-2-7-5(3-6)4-8-9-7/h1-4H,(H,8,9)
+
+> <INCHI_KEY>
+WSGURAYTCUVDQL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5N3O2
+
+> <MOLECULAR_WEIGHT>
+163.1335
+
+> <EXACT_MASS>
+163.038176419
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00029317281635722137
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.536614668525361
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-nitro-1H-indazole
+
+> <ALOGPS_LOGP>
+1.54
+
+> <JCHEM_LOGP>
+1.2362918776666667
+
+> <ALOGPS_LOGS>
+-1.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.531044092594698
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.06175512803451
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.82
+
+> <JCHEM_REFRACTIVITY>
+42.393600000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-vinyl-phenol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04534
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00255
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Nitroindazole
+
+> <SYNONYMS>
+5-Nitro-1H-indazole
+
+$$$$

@@ -1,0 +1,223 @@
+3957
+  -OEChem-10051719153D
+
+ 50 53  0     0  0  0  0  0  0999 V2000
+   -3.8155   -5.0246    0.1273 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.0284   -0.7628   -0.2382 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0836    1.5199   -0.1345 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0509    0.4133   -0.3468 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4869    2.4290    1.4314 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3457    0.3090    0.5458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1380    1.5838    0.6906 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1790   -0.9476    0.5254 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9887    0.2956    0.4211 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2501    1.6411   -0.3575 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2929   -0.8347   -0.5175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7066   -1.0010    0.2820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6404    1.6187    0.3533 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7617   -1.2108   -0.6341 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3295   -0.1847   -1.5988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4914    1.0440   -1.9493 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3614    1.9818   -0.7835 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3501   -2.0566    1.1519 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4423    0.4752   -0.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4048   -2.4696   -0.6507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9533    3.2474   -0.7969 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9935   -3.2933    1.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0218   -3.5014    0.2030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8135    4.0951    0.2960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0770    3.6430    1.3756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4559   -0.7860   -0.1238 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9292   -2.2238   -0.1480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6037    2.5248    0.5785 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5849    1.5934    1.6934 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6215   -1.0968    1.5182 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6877   -1.8702    0.2288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8280    1.7448   -1.3648 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8854    2.5142   -0.1766 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9474   -1.7086   -0.4531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8728   -0.8169   -1.5310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5305   -0.7012   -2.5476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3012    0.1398   -1.2021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9743    1.5676   -2.7843 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4964    0.7562   -2.3116 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6301   -1.9161    1.9566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2238   -2.6365   -1.3498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5273    3.5803   -1.6576 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6942   -4.0727    1.8038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2672    5.0795    0.3004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9360    4.2655    2.2528 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8979   -0.2367   -0.9624 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7538   -0.3142    0.8191 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0180   -2.2788   -0.0623 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4803   -2.7910    0.6741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6221   -2.7148   -1.0774 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 25  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 28  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 30  1  0  0  0  0
+  8 31  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 15 37  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 38  1  0  0  0  0
+ 16 39  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  2  0  0  0  0
+ 18 40  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 20 41  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 42  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 43  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 44  1  0  0  0  0
+ 25 45  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 46  1  0  0  0  0
+ 26 47  1  0  0  0  0
+ 27 48  1  0  0  0  0
+ 27 49  1  0  0  0  0
+ 27 50  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00455
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JCCNYMKQOSZNPW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(=O)N1CCC(CC1)=C1C2=C(CCC3=C1N=CC=C3)C=C(Cl)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H23ClN2O2/c1-2-27-22(26)25-12-9-15(10-13-25)20-19-8-7-18(23)14-17(19)6-5-16-4-3-11-24-21(16)20/h3-4,7-8,11,14H,2,5-6,9-10,12-13H2,1H3
+
+> <INCHI_KEY>
+JCCNYMKQOSZNPW-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H23ClN2O2
+
+> <MOLECULAR_WEIGHT>
+382.883
+
+> <EXACT_MASS>
+382.144805697
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.674891946302814
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 4-{13-chloro-4-azatricyclo[9.4.0.0³,⁸]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-ylidene}piperidine-1-carboxylate
+
+> <ALOGPS_LOGP>
+4.80
+
+> <JCHEM_LOGP>
+4.554579307
+
+> <ALOGPS_LOGS>
+-4.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.333617086511285
+
+> <JCHEM_POLAR_SURFACE_AREA>
+42.43
+
+> <JCHEM_REFRACTIVITY>
+116.9769
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.34e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+loratadine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00455
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00384
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Loratadine
+
+> <SYNONYMS>
+Loratadina; Loratadine; Loratadinum
+
+> <PRODUCTS>
+12 Hour Allergy and Congestion; 24 Hour Allergy Relief; 24 Hour Allergy Remedy; 7 Select Allergy Relief; ALLERCLEAR-D 24 Hour; Alavert Allergy; Alavert Allergy Sinus D-12; All Day Allergy Relief; Allegy Relief 24 hour non drowsy; Allergy; Allergy Childrens; Allergy Relief; Allergy Relief 24 hour; Allergy Relief Childrens; Allergy Relief D; Allergy Relief D 12; Allergy Relief D 12 Hour; Allergy Relief D 24 Hour; Allergy Relief Medication; Allergy Relief Non Drowsy; Allergy Relief Non drowsy; Allergy Relief d 12; Allergy Relief-D; Allergy Relief-D 24 Hour; Allergy Relief-D 24 Hour 24 Hour; Allergy Relief-D24 Hour 24 Hour; Allergy Remedy; Allergy and Congestion Relief; Allergy and Congestion Relief Non Drowsy; Allergy and congestion relief; Allergy relief; Allertin; Allertin Tablets 10mg; AlloPAX; Apo-loratadine; Assured Allergy Relief; Bactimicina Allergy; Basic Care Allergy Relief; Basic Care Childrens Allergy Relief; Basic Care allergy relief; Being Well Allergy Relief; Berkley and Jensen Allergy Relief; Berkley and Jensen Loratadine Non Drowsy; Best Choice Childrens Loratadine; Best Choice Childrens Loratadine Sugar Free; CAREALL Loratadine; Care One Childrens Loratadine; CareOne Allergy Relief 24 Hour; CareOne Allergy and congestion relief; Careone Allergy and Congestion Relief; Careone Childrens Allergy Relief; Children Claritin Allergy; Childrens 24 hour allergy; Childrens Allergy; Childrens Allergy Dye Free; Childrens Allergy Relief; Childrens Dimetapp Non-drowsy Allergy ODT; Childrens Loratadine; Childrens Loratadine ODT; Childrens Loratadine Oral; Childrens Loratadine Sugar Free; Childrens Non-Drowsy 24-Hour Allergy Relief; Childrens Non-Drowsy Allergy Relief 24-Hour; Childrens Wal-itin; Childrens Walitin; Childrens allergy relief; Chlor-tripolon Nd Srt; Claritin; Claritin Allergy; Claritin Allergy + Sinus; Claritin Allergy + Sinus Extra Strength; Claritin Chewable Cool Mint Flavor; Claritin Kids; Claritin Kids Rapid Dissolve; Claritin Liqui-Gels; Claritin Liquid Capsules; Claritin Rapid Dissolve; Claritin Reditabs; Claritin Syrup 1mg/ml; Claritin-D 12 Hour; Claritin-D 24 Hour; Cleartime; Core Values Allergy Relief; CounterAct Allergy; Crane Safety Allergy Relief; Curist Allergy Relief; Dg Health Allergy Relief; Dg Health Childrens Allergy; Dg Health Childrens Allergy Relief; Dye-Free Childrens Loratadine; Dye-free Childrens Loratadine; Equaline Allergy Relief; Equaline Allergy and Congestion Relief; Equaline Allergy relief non drowsy; Equaline Childrens Allergy Relief; Equate Allergy Relief; Equate Allergy and Congestion Relief; Equate Childrens Allergy; Exchange Select Allergy Relief; Fad First Aid Direct Allergy Relief; Family Dollar Allergy Relief; Family Wellness Allergy Relief; FormuCare Allergy Relief; Good Neighbor Pharmacy Allergy Relief; Good Neighbor Pharmacy Childrens Loratadine; Good Neighbor Pharmacy Cleartime; Good Neighbor Pharmacy Loratadine; Good Neighbor Pharmacy Loratadine D; Good Neighbor Pharmacy loratadine d 24 hour; Good Sense Allergy Relief; Good Sense Allergy and Congestion Relief; Good Sense Allergy and Congestion Relief Non Drowsy 24 Hour; Good Sense Childrens Allergy Relief; Good Sense Childrens Loratadine; Good Sense childrens allergy relief; Guardian Loratadine; Handy Solutions 24 Hour Allergy; Harmon Face Values Allergy Relief; Harris Teeter Allergy Relief; Harris Teeter Allergy and Congestion Relief; Health Mart Allergy Relief; Health Mart Allergy and Congestion; Health Mart Childrens Allergy Relief; Health Mart Loratadine; Health Mart Pharmacy Childrens Loratadine; HealthMart Childrens Loratadine; HealthMart Loratadine ODT; Healthy Accents Allergy and Congestion Relief 24 Hour Non Drowsy; Healthy accents allergy relief; Help I have allergies; Humana Pharmacy Allergy Relief; Hy-Vee Childrens Loratadine; Indoor Outdoor Allergy Relief; KIRKLAND SIGNATURE ALLERCLEAR D 12 HR Extended Release; Kirkland Signature AllerClear D 12 hr; Kirkland Signature Allerclear; Kirkland Signature Allerclear D 12 Hr; Kirkland Signature Allerclear D 24hr; LEADER Loratadine; Leader Allergy Relief; Leader Allergy Relief D-24; Leader Allergy Relief D12; Leader Childrens Allergy Relief; Leader allergy relief; Liberator; Lil Drug Store Claritin Non-Drowsy, 24 Hour; Live Better Loratadine; Loratadine; Loratadine Allergy Relief; Loratadine Antihistamine; Loratadine D; Loratadine D 24 Hour; Loratadine Non drowsy; Loratadine OD; Loratadine ODT; Loratadine Soft Gel Capsules; Loratadine Soft Gelatin Capsules; Loratadine Softgels; Loratadine Tablets 10mg; Loratadine and Pseudoephedrine; Loratadine and Pseudoephedrine Sulfate; Loratadine antihistamine; Loratadineantihistamine antihistamine; MEDIQUE Loradamed; Medi First Plus Allergy Relief; Medicine Shoppe Allergy Relief D24; Medicine Shoppe Loratadine Allergy Relief; Members Mark Aller-itin; Members Mark Loratadine; Moore Medical Loratadine; Nazirex Compounding Kit; Non Drowsy Allergy Relief; Novo-loratadine; Preferred Plus (Kinray) Childrens Loratadine; Preferred Plus Allergy Relief; Preferred Plus Allergy and Congestion Relief; Premier Value Childrens Loratadine; Quality Choice Childrens Allergy Relief; Rexall Allergy Relief Non Drowsy; ShopRite Allergy Relief; Shoprite Allergy and Congestion Relief; Signature Care Allergy Relief; Signature Care Allergy and Congestion Relief; Simply Right Loratadine; Smart Sense Allergy Relief non drowsy; Smart Sense Allergy and Congestion Relief; Smart Sense Allergy and Congestion Relief D; Smart Sense Allergy and Congestion Relief-D; Smart Sense allergy and congestion relief indoor and outdoor allergies; Sound Body Allergy Relief; Sunmark Allergy Relief; Sunmark Childrens Loratadine Srp Sf Grape; Sunmark Loratadine; Sunmark Loratadine D; Sunmark Loratadine ODT; Sunmark Loratadine allergy relief; Sunmark childrens loratadine; Taro-loratadine; TopCare Allergy Relief 24 hour; TopCare Allergy Relief D; TopCare Childrens Loratadine; Topcare Allergy Relief; Topcare Allergy Relief D; Topcare Allergy and Congestion Relief; Topcare Childrens Allergy; Topcare Childrens Allergy Relief; Topcare Clear Time; Topcare childrens allergy relief 24 hour non drowsy; Up and Up Allergy Plus Congestion Relief D; Up and Up Allergy Relief; Up and Up Childrens Allergy Relief; Up and Up allergy and congestion relief; Vicks QlearQuil All Day And All Night 24 Hour Allergy Relief; Wal Itin; Wal Itin D; Wal Itin D Non Drowsy; Wal Itin D Non Drowsy 24 Hour Allergy and Congestion; Wal itin; Wal itin D; Wal itin D 12 hour allergy and congestion; Wal itin D non drowsy; Wal-itin; Wal-itin Allergy Relief; Wal-itin D 24 Hour; Welby health allergy relief; Western Family Childrens Allergy Relief; childrens allergy Sugar Free; equaline Childrens Loratadine; equate Childrens Allergy Relief; loratadine D; meijer Childrens 24 Hour Allergy; sunmark Childrens Loratadine
+
+> <INTERNATIONAL_BRANDS>
+Aerotina; Alavert; Biloina; Civeran; Fristamin; Histaloran; Lomilan; Loracert; Loradex; Loranox; Lorastine; Loratyne; Loritine; Nularef; Restamine; Roletra; Sensibit
+
+$$$$

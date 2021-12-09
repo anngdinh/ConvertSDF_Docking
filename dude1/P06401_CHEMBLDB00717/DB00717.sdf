@@ -1,0 +1,231 @@
+6230
+  -OEChem-12121823433D
+
+ 48 51  0     1  0  0  0  0  0999 V2000
+    4.6613   -0.6933   -0.6765 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5179   -0.8407    1.3244 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4363    0.7693    0.2466 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2400   -0.2344   -0.6110 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0468    1.0605   -0.3263 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7593   -0.2815   -0.4030 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4645   -1.5644   -0.6482 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6015   -0.2271    0.1482 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4067    1.9313    0.4412 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0229   -1.3800   -1.1589 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1614    0.0046   -1.0054 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8011    1.2732    0.4902 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7098    2.1194    0.5005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4654    0.2387   -2.0778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1339    2.3403   -0.0181 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8446    1.0164   -0.1023 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0585   -1.2180   -1.2507 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5896   -1.0322    1.3856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7096   -1.7292    0.0225 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9319    0.7540    0.6386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4895   -0.6198    0.6884 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5803   -1.6869    2.3917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2721    0.3334    1.2451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1472    1.4684   -1.3398 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8943   -0.6475    0.6265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3987   -2.0063    0.3527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9858   -2.2973   -1.2756 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1976    2.4841    1.3630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3528    2.6434   -0.3898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0287   -1.1614   -2.2327 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4876   -2.3430   -1.0441 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0138    0.4711   -1.9904 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4662    1.7625   -0.2317 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2561    1.4166    1.4778 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1721    3.0743    0.4719 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7488    1.8082    1.5527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0430    1.1666   -2.1354 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0153   -0.5193   -2.6478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5319    0.4170   -2.6172 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1072    2.8041   -1.0115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6564    3.0396    0.6450 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5189   -2.0259   -1.7530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8559   -0.9202   -1.9470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4479   -1.6004   -0.9553 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9672   -2.1126    0.7300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4024   -2.5405   -0.2258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3883    1.5001    1.2794 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5712   -2.2678    3.2841 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 44  1  0  0  0  0
+  2 21  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 26  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 28  1  0  0  0  0
+  9 29  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 12 34  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 35  1  0  0  0  0
+ 13 36  1  0  0  0  0
+ 14 37  1  0  0  0  0
+ 14 38  1  0  0  0  0
+ 14 39  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 15 41  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 42  1  0  0  0  0
+ 17 43  1  0  0  0  0
+ 18 22  3  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 45  1  0  0  0  0
+ 19 46  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 47  1  0  0  0  0
+ 22 48  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00717
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VIKNJXKGJWUCNN-XGXHKTLJSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H26O2/c1-3-20(22)11-9-18-17-6-4-13-12-14(21)5-7-15(13)16(17)8-10-19(18,20)2/h1,12,15-18,22H,4-11H2,2H3/t15-,16+,17+,18-,19-,20-/m0/s1
+
+> <INCHI_KEY>
+VIKNJXKGJWUCNN-XGXHKTLJSA-N
+
+> <FORMULA>
+C20H26O2
+
+> <MOLECULAR_WEIGHT>
+298.4192
+
+> <EXACT_MASS>
+298.193280076
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.59020487980803
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3aS,3bR,9aR,9bS,11aS)-1-ethynyl-1-hydroxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+2.72
+
+> <JCHEM_LOGP>
+3.2172279373333335
+
+> <ALOGPS_LOGS>
+-4.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.2510585579962
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.594932036943536
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.6634024140734995
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+87.4245
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.68e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+norethindrone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00717
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00679
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Norethisterone
+
+> <SYNONYMS>
+(17alpha)-17-ethynyl-17-hydroxyestra-4,8(14),9-trien-3-one; 17-hydroxy-19-nor-17-α-pregn-4-en-20-yn-3-one; 17-hydroxy-19-nor-17α-pregn-4-en-20-yn-3-one; 17-α-ethynyl-17-hydroxy-4-estren-3-one; 17-α-ethynyl-19-norandrost-4-en-17-β-ol-3-one; 17-α-ethynyl-19-nortestosterone; 17-α-ethynyl-4-estren-17-ol-3-one; 17-β-hydroxy-19-norpregn-4-en-20-yn-3-one; 17α-ethinyl-19-nortestosterone; 17α-ethinylestra-4-en-17β-ol-3-one; 17α-ethynyl-17-hydroxy-4-estren-3-one; 17α-ethynyl-17β-hydroxy-19-norandrost-4-en-3-one; 17α-ethynyl-19-nor-4-androsten-17β-ol-3-one; 17α-ethynyl-19-norandrost-4-en-17β-ol-3-one; 17α-ethynyl-19-nortestosterone; 17α-ethynyl-4-estren-17-ol-3-one; 17β-hydroxy-19-norpregn-4-en-20-yn-3-one; 19-nor-17-α-ethynyl-17-β-hydroxy-4-androsten-3-one; 19-nor-17-α-ethynylandrosten-17-β-ol-3-one; 19-nor-17-α-ethynyltestosterone; 19-Nor-17alpha-ethynyl-17beta-hydroxy-4-androsten-3-one; 19-nor-17α-ethynyl-17β-hydroxy-4-androsten-3-one; 19-nor-17α-ethynylandrosten-17β-ol-3-one; 19-nor-17α-ethynyltestosterone; 19-nor-ethindrone; 19-norethisterone; 4-estren-17α-ethynyl-17β-ol-3-one; Norethindrone; Norethisteron; Norethisterone; Noréthistérone; Norethisteronum; Noretisterona
+
+> <PRODUCTS>
+AUROVELA Fe; Activella; Activelle; Activelle Ld; Alyacen 1/35; Alyacen 7/7/7; Amabelz; Aranelle; Aurovela 1.5/30; Aurovela 1/20; Aurovela 24 Fe; Aurovela Fe 1/20; Aygestin; Balziva; Blisovi 24 Fe; Blisovi Fe 1.5/30; Blisovi Fe 1/20; Brevicon; Brevicon 0.5/35 21 Tab; Brevicon 0.5/35 28 Tab; Brevicon 0.5/35 Tablets (21-day Pack); Brevicon 0.5/35 Tablets (28-day Pack); Brevicon 1/35 21 Tab; Brevicon 1/35 28 Tab; Brevicon 1/35 Tablets (21-day Pack); Brevicon 1/35 Tablets (28-day Pack); Briellyn; Camila; Charlotte 24Fe; CombiPatch; CombiPatch (estradiol/norethindrone acetate transdermal system); Cyclafem 1/35; Cyclafem 7/7/7; Cyonanz; Dasetta 1/35; Dasetta 7/7/7; Deblitane; ESTROSTEP Fe; Errin; Estalis 140/50 Mcg; Estalis 250/50 Mcg; Estalis Sequi; Estracomb; Estradiol / Norethindrone Acetate; Estradiol and Norethindrone Acetate; FEMCON Fe; Femhrt; Fyavolv; GENERESS Fe; Gemmily; Generess; Gildagia; Gildess 1.5/30; Gildess 1/20; Gildess 24 Fe; Gildess Fe 1.5/30; Gildess Fe 1/20; HAILEY Fe 1/20; Hailey 1.5/30; Hailey 24 Fe; Hailey Fe 1.5/30; Heather; Incassia; Jencycla; Jevantique; Jevantique Lo; Jinteli; Jolivette; Junel 1.5/30; Junel 21 Day; Junel Fe 1.5/30; Junel Fe 1/20; Junel Fe 24; Junel Fe 28 Day; Kaitlib Fe; LOESTRIN 1.5/30 21 Day; LOESTRIN 1/20 21 Day; LOESTRIN Fe 1.5/30; LOESTRIN Fe 1.5/30 28 Day; LOESTRIN Fe 1/20; LOESTRIN Fe 1/20 28 Day; Larin 1.5/30; Larin 1/20; Larin 24 Fe; Larin Fe 1.5/30; Larin Fe 1/20; Layolis Fe; Leena; Lo Loestrin Fe; Lo Minastrin Fe; Loestrin 1.5/30; Loestrin 21 1.5/30; Loestrin 21 1/20; Loestrin 21 Day; Loestrin 24 Fe; Loestrin Fe 28 Day; Lolo; Lomedia 24 Fe; Lopreeza; Lupaneta Pack; Lyleq; Lyza; MICROGESTIN Fe 1.5/30; MICROGESTIN Fe 1/20; Melodetta 24 Fe; Merzee; Mibelas 24 Fe; Microgestin; Microgestin 1.5/30; Microgestin 1/20; Microgestin 24 Fe; Microgestin Fe; Microgestin Fe 1.5/30; Microgestin Fe 1/20; Micronor; Micronor Tablets 28-day; Mimvey; Mimvey Lo; Minastrin 24 Fe; Minestrin 1/20; Modicon; Movisse; Necon; Necon (28 Day Regimen); Necon 0.5/35; Necon 1/35; Necon 1/35 (28 Day Regimen); Necon 10/11; Necon 777; Necon 777 777; Nexesta Fe; Nor QD; Nora BE; Nora-BE; Norethindrone; Norethindrone Acetate; Norethindrone Acetate and Ethinyl Estradiol; Norethindrone Acetate and Ethinyl Estradiol and Ferrous Fumarate; Norethindrone Tablets, USP; Norethindrone acetate; Norethindrone and Ethinyl Estradiol and Ferrous Fumarate; Norethindrone and Ethinyl Estradiol, and Ferrous Fumarate; Norethindrone and ethinyl estradiol; Norinyl; Norinyl 1/50 -(21-day Regimen); Norinyl 1/50 -(28-day Regimen); Norinyl 1/50 21 Tab; Norinyl 1/50 28 Tab; Norlutate; Norlyda; Norlyroc; Nortrel (21 Day Regimen); Nortrel 21 Day; Nortrel 28 Day; Nortrel 7/7/7 (28 Day Regimen); Nylia 1/35; Nylia 7/7/7; Oriahnn; Ortho 0.5/35 Tablets (21 Day); Ortho 0.5/35 Tablets (28 Day); Ortho 1/35 Tablets (21 Day); Ortho 1/35 Tablets (28 Day); Ortho 10/11 Tablets (21 Day); Ortho 10/11 Tablets (28 Day); Ortho 7/7/7 Tablets (21 Day); Ortho 7/7/7 Tablets (28 Day); Ortho Micronor; Ortho Novum 1/35; Ortho Novum 135; Ortho-Novum 777; Ortho-novum; Ortho-novum 1/50 Tablets (21 Day); Ortho-novum 1/50 Tablets (28 Day); Ortho-novum 10/11; Ovcon 35; Ovcon 50; Philith; Pirmella 1/35; Pirmella 7/7/7; Select 1/35 (21-day); Select 1/35 (28-day); Sharobel; Synphasic 21 Tablets; Synphasic 28 Tablets; Synphasic-28 Tablets; TARINA Fe 1/20; Tarina 24 Fe; Tarina Fe 1/20 EQ; Taytulla; Tilia Fe; Tri-Legest Fe 28 Day; Tri-Norinyl; Tulana; Vyfemla; WYMZYA Fe; Wera; Wymzya Fe; Zenchent; Zenchent 0.4/35; Zenchent FE; Zeosa
+
+> <INTERNATIONAL_BRANDS>
+Conludag; Micronovum; Mini-PE; Mini-pill; Norcolut; Noriday; Norluten; Norlutin; Primolut-N; Utovlan
+
+> <SALTS>
+Norethisterone acetate
+
+$$$$

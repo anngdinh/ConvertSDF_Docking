@@ -1,0 +1,214 @@
+4011971
+  -OEChem-10051719173D
+
+ 42 45  0     0  0  0  0  0  0999 V2000
+   -2.2440    2.7617    0.4028 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7870    2.5394    0.2885 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2396    1.6629    0.1129 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.5383   -0.5760   -0.2493 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5322   -1.2949   -0.3033 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1357    0.1667    0.0036 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8640   -0.5071   -0.2358 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1615   -2.7095   -0.5228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7119   -3.7884    0.3498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2592   -3.4210    0.4302 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5464   -0.2819   -0.1261 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8707   -0.9561   -0.2701 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9587    0.8265   -1.0215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5954   -1.1543    0.4499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4176    0.8708   -0.5912 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0579   -1.1009    0.8689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7686    0.4670    0.0294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9515    1.0551    0.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8311   -0.5544   -0.1481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3571    0.2744   -0.0808 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3996    1.3911    0.1126 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3485    1.7787    0.2322 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0113    2.0773    0.2587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8555    0.4728   -0.0715 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0458   -2.9382   -1.5775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3383   -3.5214    1.1921 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9682   -4.7327   -0.1147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4599   -4.1203    0.0208 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0621   -2.9350    1.3435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8620    0.2731   -1.9647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6319    1.8518   -1.2236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0118   -1.5009    1.3118 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4714   -1.8851   -0.3595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5133   -1.8154   -0.4279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5674    1.4990    0.2935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0658    1.2211   -1.3996 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4590   -2.1003    1.0611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2094   -0.4729    1.7535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8553   -0.4836    0.0402 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8188   -1.1140   -1.0663 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1828   -1.5561   -0.3658 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3188    3.1070    0.4182 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 21  2  0  0  0  0
+  3 24  1  0  0  0  0
+  4 24  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 39  1  0  0  0  0
+  7 40  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  2  0  0  0  0
+ 12 20  2  0  0  0  0
+ 12 34  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 16 38  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 41  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 42  1  0  0  0  0
+M  CHG  2   3  -1   7   1
+M  END
+> <DATABASE_ID>
+DB00537
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MYSWGUAQZAJSOK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H18FN3O3/c18-13-7-11-14(8-15(13)20-5-3-19-4-6-20)21(10-1-2-10)9-12(16(11)22)17(23)24/h7-10,19H,1-6H2,(H,23,24)
+
+> <INCHI_KEY>
+MYSWGUAQZAJSOK-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H18FN3O3
+
+> <MOLECULAR_WEIGHT>
+331.3415
+
+> <EXACT_MASS>
+331.133219662
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.118176211269244
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-cyclopropyl-6-fluoro-4-oxo-7-(piperazin-1-yl)-1,4-dihydroquinoline-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.57
+
+> <JCHEM_LOGP>
+-0.8145960428525316
+
+> <ALOGPS_LOGS>
+-2.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.755554705438363
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.678038228921855
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.88
+
+> <JCHEM_REFRACTIVITY>
+87.93939999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ciprofloxacin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00537
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00424; EXPT00999
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Ciprofloxacin
+
+> <SYNONYMS>
+1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylic acid; 1-cyclopropyl-6-fluoro-4-oxo-7-(piperazin-1-yl)-1,4-dihydroquinoline-3-carboxylic acid; 1-Cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-yl-1,4-dihydro-quinoline-3-carboxylic acid; 1-cyclopropyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid; 1-Cyclopropyl-6-fluoro-7-(4-methyl-piperazin-1-yl)-4-oxo-1,4-dihydro-quinoline-3-carboxylic acid; 1-cyclopropyl-6-fluoro-7-hexahydro-1-pyrazinyl-4-oxo-1,4-dihydro-3-quinolinecarboxylic acid; Ciprofloxacin; Ciprofloxacine; Ciprofloxacino; Ciprofloxacinum
+
+> <PRODUCTS>
+Act Ciprofloxacin; Ag-ciprofloxacin; Apo-ciproflox; Auro-ciprofloxacin; Bio-ciprofloxacin; Cetraxal; Ciloxan; Cipro; Cipro 100 - Tab 100mg; Cipro HC; Cipro HC Otic Suspension; Cipro I.V. - Liq 10mg/ml; Cipro I.V. Minibags 2mg/ml; Cipro IV 10mg/ml; Cipro Oral Suspension; Cipro Tab 100mg; Cipro Tab 250mg; Cipro Tab 500mg; Cipro Tab 750mg; Cipro XL; Cipro XR; Ciprodex; Ciprofloxacin; Ciprofloxacin HCl Ophthalmic; Ciprofloxacin Hydrochloride; Ciprofloxacin Injection; Ciprofloxacin Injection USP; Ciprofloxacin Injection, USP; Ciprofloxacin Intravenous Infusion; Ciprofloxacin Intravenous Infusion BP; Ciprofloxacin Intravenous Infusion, BP; Ciprofloxacin Omega; Ciprofloxacin Otic; Ciprofloxacin Tablets; Ciprofloxacin Tablets USP - 100 mg; Ciprofloxacin Tablets USP - 250 mg; Ciprofloxacin Tablets USP - 500 mg; Ciprofloxacin Tablets USP - 750 mg; Ciprofloxacin and Dexamethasone; Ciprofloxacin and Dextrose; Ciprofloxacin and Fluocinolone Acetonide; Ciprofloxacin hydrochloride; Ciprofloxacin-250; Ciprofloxacin-500; Ciprofloxacin-750; Dom-ciprofloxacin; Ipg-ciprofloxacin; Jamp-ciprofloxacin; Mar-ciprofloxacin; Mint-ciproflox; Mint-ciprofloxacin; Mylan-ciprofloxacin; Mylan-ciprofloxacin XL; Nra-ciprofloxacin; Nu-ciproflox; Nu-ciprofloxacin Tablets; Otiprio; Otixal; Otovel; PHL-ciprofloxacin; PMS-ciprofloxacin; PMS-ciprofloxacin 0.3%; PMS-ciprofloxacin XL; Priva-ciprofloxacin; Pro-ciprofloxacin; ProQuin XR; Proquin XR; Q-ciprofloxacin; Ran-ciprofloxacin; Ratio-ciprofloxacin; Riva-ciprofloxacin; Sandoz Ciprofloxacin; Sandoz Ciprofloxacin / Dexamethasone; Septa-ciprofloxacin; Taro-ciproflox; Taro-ciprofloxacin; Taro-ciprofloxacin/dexamethasone; Teva-ciprofloxacin; Van-ciprofloxacin
+
+> <INTERNATIONAL_BRANDS>
+Bacquinor; Baycip; Ciflox; Cifloxin; Ciprinol; Ciprobay; Ciprocinol; Ciprodar; Ciproxan; Ciproxin; Flociprin; Proquin
+
+> <SALTS>
+Ciprofloxacin hydrochloride; Ciprofloxacin lactate
+
+$$$$

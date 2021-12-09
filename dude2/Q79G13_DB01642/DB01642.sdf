@@ -1,0 +1,174 @@
+445238
+  -OEChem-10051719393D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+    0.1142   -1.1030    0.2740 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2330    1.8166   -0.3588 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2849    2.9805    0.4547 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5349    1.3070   -0.4496 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1995   -1.4037    0.2905 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4948   -2.4027   -0.1727 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572    1.0844    0.2225 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1699    1.7156   -0.1990 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2337   -0.3746   -0.2332 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3529    0.8305    0.1933 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1276   -0.6201   -0.2332 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4975   -1.0600    0.2765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0607   -2.7705   -0.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2641    1.1542    1.3120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1827    1.9216   -1.2764 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2277   -0.4462   -1.3295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5324    0.8929    1.2732 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1439   -0.7070   -1.3282 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5324   -1.0741    1.3710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4020   -0.5729   -0.0989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1507    1.7543   -1.3257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4868    3.5130    0.1961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3948    1.2615   -1.4108 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6848   -2.8237    0.1627 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1926   -3.2193    0.4271 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9841   -2.8871   -1.1505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9538   -3.3023    0.2750 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01642
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HOVAGTYPODGVJG-XUUWZHRGSA-N/SDF?record_type=3d
+
+> <SMILES>
+CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O6/c1-12-7-6(11)5(10)4(9)3(2-8)13-7/h3-11H,2H2,1H3/t3-,4-,5+,6-,7-/m1/s1
+
+> <INCHI_KEY>
+HOVAGTYPODGVJG-XUUWZHRGSA-N
+
+> <FORMULA>
+C7H14O6
+
+> <MOLECULAR_WEIGHT>
+194.1825
+
+> <EXACT_MASS>
+194.07903818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.295652520297054
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.49
+
+> <JCHEM_LOGP>
+-2.2894127143333334
+
+> <ALOGPS_LOGS>
+0.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.200415670112982
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.21139322915757
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981083281156967
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+40.67459999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.62e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl β-d-glucoside
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01642
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02166
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+methyl beta-D-glucopyranoside
+
+> <SYNONYMS>
+1-O-Methyl-beta-D-glucopyranoside; beta-methyl-D-glucoside; beta-Methylglucoside; methyl beta-D-glucoside; Methyl hexopyranoside; O1-methyl-glucose; β-d-Methylglucopyranoside
+
+$$$$

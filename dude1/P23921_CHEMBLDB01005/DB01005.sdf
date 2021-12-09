@@ -1,0 +1,143 @@
+3657
+  -OEChem-10051719273D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    1.8879   -0.0095   -0.0027 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4855   -1.3044   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761    0.6946    0.0026 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6135    0.6939   -0.0029 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4649   -0.0745    0.0033 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7173    1.6897    0.1878 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5733    1.7075   -0.0026 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5334    0.2660   -0.0067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0835   -0.0076   -0.9550 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01005
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VSNHCAURESNICA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH4N2O2/c2-1(4)3-5/h5H,(H3,2,3,4)
+
+> <INCHI_KEY>
+VSNHCAURESNICA-UHFFFAOYSA-N
+
+> <FORMULA>
+CH4N2O2
+
+> <MOLECULAR_WEIGHT>
+76.0547
+
+> <EXACT_MASS>
+76.027277382
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.944994473280919
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hydroxyurea
+
+> <ALOGPS_LOGP>
+-1.83
+
+> <JCHEM_LOGP>
+-1.3670155889999998
+
+> <ALOGPS_LOGS>
+0.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.9604954045192
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.140479514021132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.909055692225128
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.35
+
+> <JCHEM_REFRACTIVITY>
+14.9072
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.69e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxyurea
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01005
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00023
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Hydroxyurea
+
+> <SYNONYMS>
+Carbamohydroxamic acid; Carbamohydroximic acid; Carbamoyl oxime; Carbamyl hydroxamate; Hidroxicarbamida; Hydrea; Hydroxycarbamid; Hydroxycarbamide; Hydroxycarbamidum; Hydroxyharnstoff; Hydroxyurea; N-Carbamoylhydroxylamine; N-Hydroxyurea; Oxyurea
+
+> <PRODUCTS>
+Apo-hydroxyurea; Droxia; Hydrea; Hydrea Cap 500mg; Hydroxyurea; Mylan-hydroxyurea; Siklos; Xromi
+
+> <INTERNATIONAL_BRANDS>
+Litalir; Onco-Carbide
+
+$$$$

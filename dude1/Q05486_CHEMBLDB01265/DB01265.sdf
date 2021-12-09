@@ -1,0 +1,183 @@
+159269
+  -OEChem-10051719333D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+    1.5971    0.1926   -0.9747 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7373   -1.6882    0.0910 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4367    2.8489   -0.5952 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1740   -2.8041   -0.3779 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3689    0.4504    0.2139 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4600   -0.5903   -0.1781 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7569   -1.1708   -0.0831 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0350   -0.6230    0.7270 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9358   -0.8922   -0.3098 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6300   -1.0884    1.0281 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8128    0.5083   -0.2681 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6250    1.8614    0.4052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8373    0.7350   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4357   -1.6091   -0.2250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1024    1.1510    0.1330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1879    0.1352    0.0948 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4866    2.5835    0.3212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6010   -0.3323    1.6157 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0582   -1.7838   -0.9362 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5668   -2.1280    1.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1855   -0.4521    1.8027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6112    0.5674   -1.0163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5205    2.1250    0.9777 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7674    1.8821    1.0820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0527    1.4762    0.0261 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3226   -1.8693   -0.7691 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4769   -1.8874   -0.1134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3309    3.7014   -0.1396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0172    2.7155    1.2698 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1406    2.9140   -0.4923 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6131    3.2438    0.3344 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 16  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01265
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IQFYYKKMVGJFEH-CSMHCCOUSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CN([C@@H]2C[C@@H](O)[C@H](CO)O2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2O5/c1-5-3-12(10(16)11-9(5)15)8-2-6(14)7(4-13)17-8/h3,6-8,13-14H,2,4H2,1H3,(H,11,15,16)/t6-,7+,8+/m1/s1
+
+> <INCHI_KEY>
+IQFYYKKMVGJFEH-CSMHCCOUSA-N
+
+> <FORMULA>
+C10H14N2O5
+
+> <MOLECULAR_WEIGHT>
+242.2286
+
+> <EXACT_MASS>
+242.090271568
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.25380466939506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2S,4R,5S)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.32
+
+> <JCHEM_LOGP>
+-1.1190535893333329
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.907922676786033
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.960276156373078
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9780835894464888
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.09999999999998
+
+> <JCHEM_REFRACTIVITY>
+55.412000000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.68e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+telbivudine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01265
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Telbivudine
+
+> <SYNONYMS>
+1-(2-deoxy-β-L-ribofuranosyl)-5-methyluracil; 2'-Deoxy-L-thymidine; Beta-l-thymidine; Epavudine; L-deoxythymidine; L-DT; L-thymidine; LDT; Telbivudin; Telbivudina; Telbivudine; β-L-2'-deoxythymidine
+
+> <PRODUCTS>
+Sebivo; Tyzeka
+
+$$$$

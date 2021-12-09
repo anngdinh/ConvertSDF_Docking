@@ -1,0 +1,144 @@
+10430
+  -OEChem-10051720213D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -1.5764   -0.8043    0.9946 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0917    0.7023   -0.6305 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1977   -0.1330    0.2549 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0376   -0.4874   -0.6882 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1993    1.3697    0.5424 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5472   -0.5476   -0.3373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3138   -0.0997   -0.1360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0666   -0.6623    1.2068 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0218   -1.5626   -0.9025 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1619    0.0223   -1.6518 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2897    1.6811    1.0657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2781    1.9527   -0.3817 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0472    1.6389    1.1819 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7415   -0.0313   -1.2836 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3646   -0.3128    0.3526 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5689   -1.6256   -0.5287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4562   -0.5827    1.3675 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03750
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GWYFCOCPABKNJV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O2/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+GWYFCOCPABKNJV-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O2
+
+> <MOLECULAR_WEIGHT>
+102.1317
+
+> <EXACT_MASS>
+102.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.98666636521121
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylbutanoic acid
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.208777894
+
+> <ALOGPS_LOGS>
+-0.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.01023295557517
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+26.4202
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.49e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isovaleric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03750
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01947
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Isovaleric Acid
+
+$$$$

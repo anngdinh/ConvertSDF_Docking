@@ -1,0 +1,179 @@
+447634
+  -OEChem-03192019153D
+
+ 25 25  0     1  0  0  0  0  0999 V2000
+    3.2263   -0.0826   -0.1205 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9797   -1.0199   -0.6086 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9453    2.2401    0.5356 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4172    0.6528   -1.1537 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3779   -2.0754    0.9625 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6728   -0.0609   -0.5740 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2057   -0.8872    1.2821 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4910    1.4471    0.3320 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1802   -0.6130   -1.1506 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7835    0.8394    0.6046 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6650    0.3496   -0.3004 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9728    0.0692    0.0670 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.3422   -1.2856   -0.2202 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7078    0.4266    0.3441 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6021    0.5536    1.6482 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6399    0.8996   -1.2495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8133    0.0418    0.7658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8462   -1.8217   -1.0311 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7378   -0.1977    1.2430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9463    1.4593    0.6152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1166    2.6482    0.8385 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7399    0.5167   -1.8368 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2933   -3.0040    0.6877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0569   -1.0896    1.7255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4025    1.7208    0.5694 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04352
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KTVPXOYAKDPRHY-TXICZTDVSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11O8P/c6-3-2(1-12-14(9,10)11)13-5(8)4(3)7/h2-8H,1H2,(H2,9,10,11)/t2-,3-,4-,5-/m1/s1
+
+> <INCHI_KEY>
+KTVPXOYAKDPRHY-TXICZTDVSA-N
+
+> <FORMULA>
+C5H11O8P
+
+> <MOLECULAR_WEIGHT>
+230.1098
+
+> <EXACT_MASS>
+230.01915384
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9186532079554481
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.289768379017048
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-3,4,5-trihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.07
+
+> <JCHEM_LOGP>
+-2.425770307333333
+
+> <ALOGPS_LOGS>
+-0.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.248502666590342
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.222686661213393
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6800845195803054
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.68
+
+> <JCHEM_REFRACTIVITY>
+40.8338
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.36e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ribose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04352
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02809
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+beta-D-Ribose-5-phosphate
+
+> <SYNONYMS>
+5-O-phosphono-beta-D-ribofuranose; 5-O-phosphono-β-D-ribofuranose; β-D-ribofuranose 5-phosphate
+
+$$$$

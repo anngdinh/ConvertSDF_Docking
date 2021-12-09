@@ -1,0 +1,154 @@
+233240
+  -OEChem-10051723563D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+    3.2761   -1.1937    0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4490    1.0727   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4874    1.1519   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5894   -1.0684   -0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8160    0.7257   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7257   -0.6636   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2888    0.0444   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0292    1.4149    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9056   -1.4265   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1935    0.6398    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1350   -0.7558    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7142    0.0586   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7981    2.1145   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0719    2.4981    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8708   -2.5113   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1620    1.1338    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0573   -1.3311    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2562   -1.1499    0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03028
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RHXSYTACTOMVLJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=NC2=CC=CC=C2N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6N2O2/c11-8(12)7-9-5-3-1-2-4-6(5)10-7/h1-4H,(H,9,10)(H,11,12)
+
+> <INCHI_KEY>
+RHXSYTACTOMVLJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H6N2O2
+
+> <MOLECULAR_WEIGHT>
+162.1454
+
+> <EXACT_MASS>
+162.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.648907621725442
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H-1,3-benzodiazole-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.30
+
+> <JCHEM_LOGP>
+0.7669174686255896
+
+> <ALOGPS_LOGS>
+-1.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.876584835887824
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8267355930530105
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6389521662016757
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.97999999999999
+
+> <JCHEM_REFRACTIVITY>
+41.7019
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.12e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1H-1,3-benzodiazole-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03028
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03110
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1h-Benoximidazole-2-Carboxylic Acid
+
+$$$$

@@ -1,0 +1,192 @@
+6842999
+  -OEChem-08092015273D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+    4.4209   -0.7417    0.0504 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3873    0.0593    0.7764 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8273   -1.9430   -0.6521 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8541    0.3531    0.4865 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1521   -0.5524   -0.2434 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -5.3092    0.7798    1.2843 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7173    0.7757    0.4831 N   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6686    0.1777   -0.1258 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1490   -0.0085    0.3060 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7405    1.3792   -0.3917 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5788    0.3176   -1.1108 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1066   -1.1776    1.1705 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3176    0.0500    1.6113 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1069    2.3392   -1.4033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4761    0.4931    0.3869 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7423   -0.0525   -0.1334 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9597   -0.9056   -1.1468 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3656   -1.0647   -1.1806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8637   -0.2787   -0.1676 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4044    1.9887    0.2361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9603   -0.3233   -1.7488 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3517    0.7789   -1.7344 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5662   -1.6739    2.0307 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4642   -1.9010    0.6575 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5318   -0.2610    2.3105 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9653    0.7309    2.1777 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4652    1.8149   -2.1198 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5033    3.1001   -0.8961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8838    2.8602   -1.9736 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5636    1.1914    1.2411 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2318   -1.3708   -1.7958 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9385   -1.6779   -1.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 32  1  0  0  0  0
+M  CHG  2   5  -1   9   1
+M  END
+> <DATABASE_ID>
+DB11820
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ARFHIAQFJWUCFH-IZZDOVSWSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1CS(=O)(=O)CCN1\N=C\C1=CC=C(O1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N3O5S/c1-8-7-19(16,17)5-4-12(8)11-6-9-2-3-10(18-9)13(14)15/h2-3,6,8H,4-5,7H2,1H3/b11-6+
+
+> <INCHI_KEY>
+ARFHIAQFJWUCFH-IZZDOVSWSA-N
+
+> <FORMULA>
+C10H13N3O5S
+
+> <MOLECULAR_WEIGHT>
+287.29
+
+> <EXACT_MASS>
+287.057591705
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.205579743399248e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.73783571259445
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-methyl-4-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]-1lambda6-thiomorpholine-1,1-dione
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-0.2658421970000004
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.3436165016121127
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.02000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.7778
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.85e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11820
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Nifurtimox
+
+> <SYNONYMS>
+Nifurtimox; Nifurtimoxum
+
+> <PRODUCTS>
+Lampit
+
+> <INTERNATIONAL_BRANDS>
+Lampit
+
+$$$$

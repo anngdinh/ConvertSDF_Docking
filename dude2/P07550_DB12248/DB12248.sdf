@@ -1,0 +1,183 @@
+5606
+  -OEChem-10051722433D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    1.5586    2.5355   -0.6737 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0026   -1.3873   -1.7454 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3052   -0.0583   -0.6428 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3862    0.0613    0.3411 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0107   -0.0523    0.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1244   -0.1729   -1.0070 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.7268    0.0394   -0.4008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3003   -1.1253    1.3070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2309    1.3787    1.1099 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4799   -0.1679   -0.3349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1813    1.0128   -0.1518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -1.3838    0.0897 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4282    0.9774    0.4725 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2398   -1.4189    0.7138 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9575   -0.2384    0.9051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3545    0.7119   -1.3095 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8355    0.8633    0.5893 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9093   -0.9072    0.6933 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0575    0.6247   -1.7543 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8527   -0.8896   -0.9693 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5677    0.1150    0.2980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8076    0.8754   -1.1054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4835   -1.0440    2.0320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2010   -2.0782    0.7733 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2192   -1.1927    1.9031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0873    2.2297    0.4333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1391    1.5858    1.6897 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4110    1.3696    1.8355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4498   -2.3167   -0.0296 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8958   -1.4021   -2.1299 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0001    1.8885    0.6295 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6504   -2.3650    1.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9279   -0.2659    1.3920 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12248
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YREYLAVBNPACJM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)(C)NCC(O)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18ClNO/c1-12(2,3)14-8-11(15)9-6-4-5-7-10(9)13/h4-7,11,14-15H,8H2,1-3H3
+
+> <INCHI_KEY>
+YREYLAVBNPACJM-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H18ClNO
+
+> <MOLECULAR_WEIGHT>
+227.73
+
+> <EXACT_MASS>
+227.1076919
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.530580426292648
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethan-1-ol
+
+> <ALOGPS_LOGP>
+2.95
+
+> <JCHEM_LOGP>
+2.5592640276666674
+
+> <ALOGPS_LOGS>
+-2.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.904786821314847
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.54735884701832
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.26
+
+> <JCHEM_REFRACTIVITY>
+63.8789
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.66e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tulobuterol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12248
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tulobuterol
+
+> <SALTS>
+Tulobuterol Hydrochloride
+
+$$$$

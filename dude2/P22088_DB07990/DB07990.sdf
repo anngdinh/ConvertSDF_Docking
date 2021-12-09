@@ -1,0 +1,172 @@
+46937114
+  -OEChem-10051721123D
+
+ 32 32  0     1  0  0  0  0  0999 V2000
+    3.3296   -1.9247    1.8767 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1009   -1.0221    0.1033 P   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7938   -0.1152    0.3625 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8519    0.1711   -1.0242 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3374   -0.2811   -0.3127 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4285    0.8551   -0.6187 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3055    2.0953   -0.4366 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0494    1.1947   -0.4450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0977    2.7559    0.9200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0869   -0.0314   -0.4679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5765   -2.3019   -1.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7685    1.0321    0.1235 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6632   -1.3014   -0.4930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0264    0.8258    0.6900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9210   -1.5078    0.0734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6026   -0.4443    0.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5948    0.4285   -1.6144 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0743    2.8240   -1.2230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3651    1.8560   -0.5422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2589    1.2893    0.6283 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2856    2.1335   -0.9593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2821    2.0575    1.7421 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7965    3.5917    1.0333 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0885    3.1643    1.0266 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6840   -2.8101   -0.6398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3408   -1.8842   -1.9988 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3670   -3.0465   -1.1453 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3695    2.0420    0.1391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1365   -2.1336   -0.9521 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5605    1.6550    1.1448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3699   -2.4966    0.0537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5827   -0.6047    1.1046 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07990
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YEIXDWIEYXZUBR-QLJPJBMISA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CC)(COC1=CC=CC=C1)O[P@](C)(Cl)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16ClO3P/c1-3-10(15-16(2,12)13)9-14-11-7-5-4-6-8-11/h4-8,10H,3,9H2,1-2H3/t10-,16-/m1/s1
+
+> <INCHI_KEY>
+YEIXDWIEYXZUBR-QLJPJBMISA-N
+
+> <FORMULA>
+C11H16ClO3P
+
+> <MOLECULAR_WEIGHT>
+262.67
+
+> <EXACT_MASS>
+262.052558597
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.609804250195502
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(R)-((2R)-1-phenoxybutan-2-yl chloro(methyl)phosphinate)
+
+> <ALOGPS_LOGP>
+2.24
+
+> <JCHEM_LOGP>
+2.817480814
+
+> <ALOGPS_LOGS>
+-2.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.851898084960938
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+64.72700000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(R)-((2R)-1-phenoxybutan-2-yl chloro(methyl)phosphinate)
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07990
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(RP,SP)-O-(2R)-(1-PHENOXYBUT-2-YL)-METHYLPHOSPHONIC ACID CHLORIDE
+
+$$$$

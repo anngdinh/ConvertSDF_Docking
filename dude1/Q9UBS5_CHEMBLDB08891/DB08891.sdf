@@ -1,0 +1,167 @@
+6918881
+  -OEChem-10051723583D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+   -4.9163    0.5050    0.3965 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8106    0.8747   -0.9079 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9001    0.5315    1.3488 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7732   -2.6412   -0.7730 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9873   -0.1917   -0.4326 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4738   -1.5846    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5103   -0.0139   -0.2213 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7921    0.8914    0.3111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1121   -0.6469    0.8462 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2185    0.7739   -1.1049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3183    0.7444    0.2494 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4842   -0.4850    1.0388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5905    0.9358   -0.9122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2234    0.3064    0.1596 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1981   -0.0980   -1.5077 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3496   -1.8111    1.0640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5331   -1.7200   -0.2397 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5380    1.8814   -0.0906 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4924    0.9138    1.3680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1681   -3.5680   -0.5644 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8687   -2.4930   -1.7866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2312   -2.6910   -0.5603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5741   -1.2435    1.5726 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7328    1.2686   -1.9405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9634   -0.9756    1.8822 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1538    1.5556   -1.6052 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 26  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB08891
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KPYSYYIEGFHWSV-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](CN)(CC(O)=O)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClNO2/c11-9-3-1-7(2-4-9)8(6-12)5-10(13)14/h1-4,8H,5-6,12H2,(H,13,14)/t8-/m0/s1
+
+> <INCHI_KEY>
+KPYSYYIEGFHWSV-QMMMGPOBSA-N
+
+> <FORMULA>
+C10H12ClNO2
+
+> <MOLECULAR_WEIGHT>
+213.661
+
+> <EXACT_MASS>
+213.05565634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.11014904667783
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R)-4-amino-3-(4-chlorophenyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-0.82
+
+> <JCHEM_LOGP>
+-0.7824002601230235
+
+> <ALOGPS_LOGS>
+-2.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.88689479330878
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.792014945506153
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+54.82920000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-4-amino-3-(4-chlorophenyl)butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08891
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Arbaclofen
+
+> <SYNONYMS>
+(R)-4-amino-3-(4-chlorophenyl)butan­oic acid; (R)-Baclofen
+
+$$$$

@@ -1,0 +1,144 @@
+6318
+  -OEChem-10051720213D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    3.7826    0.0264    0.0006 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7202    1.1948    0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8834   -1.0723    0.0011 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7276   -0.0347   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0136   -1.2331   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0468    1.1827   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3811   -1.2139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    1.2018    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0619    0.0036    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1819   -0.0554   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5252   -2.1920   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5630    2.1386   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9245   -2.1553    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8657    2.1576    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7009    1.1699    0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03728
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XRHGYUZYPHTUJZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5ClO2/c8-6-3-1-5(2-4-6)7(9)10/h1-4H,(H,9,10)
+
+> <INCHI_KEY>
+XRHGYUZYPHTUJZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5ClO2
+
+> <MOLECULAR_WEIGHT>
+156.566
+
+> <EXACT_MASS>
+155.997807111
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.257667558846693
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-chlorobenzoic acid
+
+> <ALOGPS_LOGP>
+2.22
+
+> <JCHEM_LOGP>
+2.234873400333333
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.068247388493656
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+38.119
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.10e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-chlorobenzoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03728
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00054
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+p-Chlorobenzoic acid
+
+> <SYNONYMS>
+4-chlorobenzoic acid; Chlorodracylic acid
+
+$$$$

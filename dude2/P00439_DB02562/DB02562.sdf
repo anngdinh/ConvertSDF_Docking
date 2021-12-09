@@ -1,0 +1,178 @@
+133246
+  -OEChem-10051719573D
+
+ 30 31  0     1  0  0  0  0  0999 V2000
+   -3.5324    1.4411    0.2263 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5893   -1.2082    0.2769 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3499   -2.4574    0.8487 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4387   -0.5282    0.2130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6151    2.1495    0.1967 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6986    1.0907   -0.2987 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1163   -1.2478   -0.0097 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934    0.2311   -0.7278 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2991    0.6281   -0.0597 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7039    0.2981    0.4301 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.3029   -0.9287   -0.2718 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7541    1.8697    0.6349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8231   -0.2728    0.2292 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3649    1.1143    0.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4484   -0.7243   -1.7753 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7995   -1.4175    0.3813 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5079   -0.0376   -0.3300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3050    0.8269   -1.1387 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6973    0.1135    1.5115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3667    2.7447    0.3926 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7657    1.7590    1.7265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6850   -1.8156   -0.0936 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0944    0.1274   -2.0111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9374   -1.5999   -2.2186 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4867   -0.5971   -2.2780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4286    1.7383   -0.6932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1401    1.9843   -0.4990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4740   -1.3659    1.2294 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4873   -0.5059   -0.7904 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0877    1.1697   -0.9743 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02562
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZHQJVZLJDXWFFX-RPDRRWSUSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(CN=C2NC(N)=NC(=O)C2=N1)[C@@H](O)[C@H](C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3-4,6,15-16H,2H2,1H3,(H3,10,11,13,14,17)/t3-,4+,6-/m0/s1
+
+> <INCHI_KEY>
+ZHQJVZLJDXWFFX-RPDRRWSUSA-N
+
+> <FORMULA>
+C9H13N5O3
+
+> <MOLECULAR_WEIGHT>
+239.2312
+
+> <EXACT_MASS>
+239.101839307
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.767269838087163
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R)-2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-1,4,6,7-tetrahydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.41
+
+> <JCHEM_LOGP>
+-1.9607441773333334
+
+> <ALOGPS_LOGS>
+-2.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.306047403596985
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.687962413210548
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8206611525535423
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.66
+
+> <JCHEM_REFRACTIVITY>
+57.03320000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.45e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(6R)-2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-6,7-dihydro-1H-pteridin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02562
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01676
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Quinonoid 7,8-Tetrahydrobiopterin
+
+$$$$

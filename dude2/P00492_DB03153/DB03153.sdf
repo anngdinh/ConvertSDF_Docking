@@ -1,0 +1,149 @@
+3318551
+  -OEChem-11241922183D
+
+ 14 15  0     0  0  0  0  0  0999 V2000
+    1.3949    2.0839   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3997   -1.8084   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4340    0.4796   -0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4056    1.2279    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0922   -0.1263   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5585   -0.8546    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0231   -0.9644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2921    0.4441    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1277    0.8863    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6989   -1.3682   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4070   -1.4572   -0.8977 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4074   -1.4566    0.8979 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1365   -2.7860   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4328   -2.1891   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03153
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OGCXIHWGXUQTCQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=NC=NC2=C1N=NC2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O/c10-5-4-3(1-8-9-4)6-2-7-5/h2H,1H2,(H,6,7,10)
+
+> <INCHI_KEY>
+OGCXIHWGXUQTCQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N4O
+
+> <MOLECULAR_WEIGHT>
+136.1115
+
+> <EXACT_MASS>
+136.03851077
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.72479344997842
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3H-pyrazolo[4,3-d]pyrimidin-7-ol
+
+> <ALOGPS_LOGP>
+0.00
+
+> <JCHEM_LOGP>
+0.4873724986666667
+
+> <ALOGPS_LOGS>
+-1.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.073847817390885
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.666662036963892
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.15108929875176008
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.73
+
+> <JCHEM_REFRACTIVITY>
+35.5763
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1lambda4-thia-2,3,4,5-tetracupratetracyclo[2.1.0.0^{1,3}.0^{2,5}]pentane
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03153
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02643
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3H-pyrazolo[4,3-d]pyrimidin-7-ol
+
+$$$$

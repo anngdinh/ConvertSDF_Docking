@@ -1,0 +1,175 @@
+444200
+  -OEChem-02212011563D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+   -0.8908   -1.2090   -0.5987 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3157    2.1711    0.3816 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1257    1.6647   -0.8359 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6465   -0.2911   -0.2840 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8277   -2.0930    0.7676 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7033    0.8953    0.5477 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8159    1.0200    0.4021 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2569   -0.0699   -0.5006 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4668   -0.3693    0.4141 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5170   -1.4089   -0.4455 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.9679   -0.3100    0.1517 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9563    0.5478    1.5565 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2206    1.6550    1.1973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1557    0.3784   -1.4961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3105   -0.8420    1.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8607   -2.0432   -1.2704 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4725    0.3357    0.8765 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1869    0.0512   -0.8589 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4017   -1.3138    0.2203 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2773    2.0439    0.4519 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9492    1.0406   -1.5597 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9561   -0.9070   -0.9699 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7125   -3.0433    0.5974 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03485
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SHZGCJCMOBCMKK-PHYPRBDBSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5/c1-2-3(7)4(8)5(9)6(10)11-2/h2-10H,1H3/t2-,3+,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+SHZGCJCMOBCMKK-PHYPRBDBSA-N
+
+> <FORMULA>
+C6H12O5
+
+> <MOLECULAR_WEIGHT>
+164.1565
+
+> <EXACT_MASS>
+164.068473494
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.252303369875948e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.180936111756239
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4S,5R,6R)-6-methyloxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.39
+
+> <JCHEM_LOGP>
+-1.885629251333333
+
+> <ALOGPS_LOGS>
+0.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.72441919550951
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.30218058050956
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.612173827247777
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+34.3797
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.27e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-bromopropane-2-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03485
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01400
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+alpha-D-Fucopyranose
+
+> <SYNONYMS>
+6-deoxy-alpha-D-galactopyranose; 6-deoxy-α-D-galactopyranose; alpha-D-fucose; α-D-fucopyranose
+
+$$$$

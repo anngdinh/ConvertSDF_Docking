@@ -1,0 +1,181 @@
+72443
+  -OEChem-10051723563D
+
+ 31 33  0     1  0  0  0  0  0999 V2000
+   -2.0205    0.5041   -0.9727 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4169   -2.3618    1.1039 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6845   -2.0261   -0.3773 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6130    2.7279   -0.3634 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5149    1.4718    0.4723 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3641    1.4177    0.2004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9810   -1.5818   -0.5572 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6490    1.7961    0.3875 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2260   -0.7320   -0.1743 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8162   -1.0378    0.8114 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1374   -0.5043   -0.4411 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.2847   -0.9306    0.4460 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3270    0.3565   -0.3709 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2153    0.1133   -0.1817 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6041    1.5887    0.4788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842   -0.3760   -0.2438 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3331    0.6826    0.1113 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7776    0.5439    0.1619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3594   -1.6522   -0.4912 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0309   -1.2879   -1.2019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6057   -0.4050    1.6824 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9477   -0.9209    1.3163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0483    0.2998   -1.1940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8242    1.7393    1.2319 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5762    1.5110    0.9753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4563   -2.3528    1.2543 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3622    2.1063    0.3528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5306   -2.8400    0.1322 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4218   -2.3867   -0.8204 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7931    3.4997    0.1999 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7260   -2.6575   -0.7550 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04198
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MTCJZZBQNCXKAP-KSYZLYKTSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(C2=C3N=CNC(=O)C3=NN2)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N4O5/c15-1-3-7(16)8(17)9(19-3)5-4-6(14-13-5)10(18)12-2-11-4/h2-3,7-9,15-17H,1H2,(H,13,14)(H,11,12,18)/t3-,7-,8-,9+/m1/s1
+
+> <INCHI_KEY>
+MTCJZZBQNCXKAP-KSYZLYKTSA-N
+
+> <FORMULA>
+C10H12N4O5
+
+> <MOLECULAR_WEIGHT>
+268.2261
+
+> <EXACT_MASS>
+268.080769514
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.57625809462606
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2H,6H,7H-pyrazolo[4,3-d]pyrimidin-7-one
+
+> <ALOGPS_LOGP>
+-1.88
+
+> <JCHEM_LOGP>
+-2.792208728333333
+
+> <ALOGPS_LOGS>
+-1.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.738373222609376
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.6275875240444
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2302755314676883
+
+> <JCHEM_POLAR_SURFACE_AREA>
+140.06
+
+> <JCHEM_REFRACTIVITY>
+63.248099999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.00e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2H,6H-pyrazolo[4,3-d]pyrimidin-7-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04198
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01452
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Formycin B
+
+$$$$

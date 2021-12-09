@@ -1,0 +1,178 @@
+2482
+  -OEChem-04231811593D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+    1.2295    0.1188   -0.0191 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4465    2.2571   -0.3561 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8841   -1.2569    0.1679 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5101   -0.6006    0.1036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9736   -0.1710    0.0598 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5711    0.5824   -0.0851 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9072   -1.3483    0.2917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0896    0.4545   -0.0807 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2610    1.0644   -0.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1329    1.2136    0.4087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2604   -0.8522   -0.4902 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6004   -0.6781    0.0848 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4021    0.6410    0.4924 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5296   -1.4247   -0.4065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3106   -1.3517   -0.6709 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2866   -1.0902    1.0599 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1618    0.5908    0.8254 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1994    0.2831   -0.9121 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7391    1.3246    0.7042 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7486    1.0501   -1.0607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7295   -1.8030    1.2714 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7666   -2.1171   -0.4749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9500   -1.0181    0.2546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9902    2.2404    0.7320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4463   -1.4501   -0.8890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2285    1.2330    0.8774 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6723   -2.4526   -0.7304 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0276   -2.2141   -0.1253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6604   -0.7169    0.5262 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 28  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11148
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IUWVALYLNVXWKX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCOC(=O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15NO2/c1-2-3-8-14-11(13)9-4-6-10(12)7-5-9/h4-7H,2-3,8,12H2,1H3
+
+> <INCHI_KEY>
+IUWVALYLNVXWKX-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H15NO2
+
+> <MOLECULAR_WEIGHT>
+193.246
+
+> <EXACT_MASS>
+193.110278727
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.963313915935288
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+butyl 4-aminobenzoate
+
+> <ALOGPS_LOGP>
+2.88
+
+> <JCHEM_LOGP>
+2.471695840666667
+
+> <ALOGPS_LOGS>
+-2.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.7610947055773134
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+56.657300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butamben
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11148
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Butamben
+
+> <SYNONYMS>
+Butamben; Butyl aminobenzoate
+
+> <PRODUCTS>
+Cetacaine Anesthetic; Cetacaine Liquid; Cetacaine Spray; Cetacaine Topical Anesthetic; Exactacain Topical Anesthetic; One Touch Advanced Topical Anesthetic Bubble Gum; One Touch Advanced Topical Anesthetic Cherry; One Touch Advanced Topical Anesthetic Gel Cool Mint; One Touch Advanced Topical Anesthetic Strawberry Ice
+
+> <SALTS>
+Butamben picrate
+
+$$$$

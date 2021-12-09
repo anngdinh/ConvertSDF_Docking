@@ -1,0 +1,150 @@
+1893
+  -OEChem-10061700023D
+
+ 17 18  0     0  0  0  0  0  0999 V2000
+   -3.1888    0.0380   -0.0001 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.9982   -1.8062   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8336   -1.6274    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1709   -1.7571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0843   -0.5554    0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.3956   -0.3305    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5494    0.4454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8896    0.2158    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4370    1.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9853    1.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6028   -0.4939   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1569    2.4141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3179    2.4804   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2728   -2.4702    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9481    2.1181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6677   -0.3086   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0533    3.4962   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  CHG  2   1  -1   5   1
+M  END
+> <DATABASE_ID>
+DB02207
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PQCAUHUKTBHUSA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=N(=O)C1=CC=CC2=CNN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5N3O2/c11-10(12)6-3-1-2-5-4-8-9-7(5)6/h1-4H,(H,8,9)
+
+> <INCHI_KEY>
+PQCAUHUKTBHUSA-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5N3O2
+
+> <MOLECULAR_WEIGHT>
+163.1335
+
+> <EXACT_MASS>
+163.038176419
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.487080004932423
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-nitro-2H-indazole
+
+> <ALOGPS_LOGP>
+1.76
+
+> <JCHEM_LOGP>
+1.5927410796666668
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.224168955776706
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.391077947285177
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.5
+
+> <JCHEM_REFRACTIVITY>
+43.1483
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.23e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-nitroindazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02207
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00314
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-Nitroindazole
+
+$$$$

@@ -1,0 +1,185 @@
+160024
+  -OEChem-11061915393D
+
+ 30 32  0     1  0  0  0  0  0999 V2000
+   -3.9512    2.1312    0.0801 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5136    1.5808   -0.1400 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0102   -1.3565    2.2327 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8746   -3.7932   -1.1595 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9617    1.4224   -0.6818 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7555   -1.7408   -1.1362 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0063   -2.8455    0.7778 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2538   -0.6627    0.2464 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0844   -0.8830   -0.1729 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4144   -0.8344   -0.4881 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6835    0.5024   -0.0974 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0619    0.3245    0.2548 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3362   -1.6914    1.1077 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1434    1.6373   -0.0871 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2791   -2.9026   -0.5691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0745    0.6906   -0.0285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5071    0.4365   -0.1067 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4084    2.9219   -0.0548 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6226    1.9736    0.0206 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7900    3.0887    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5521   -0.6849   -1.5693 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8910   -1.7922   -0.2461 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9862    0.2210    1.3444 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8337   -1.5227   -2.1249 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2831   -3.5552    1.4463 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7484   -0.1625   -0.0168 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2358    3.7975   -0.0642 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2167    4.0866    0.0344 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2467   -0.7036    0.0419 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8623   -1.4539    0.7469 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 27  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02021
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WAAPEIZFCHNLKK-UFBFGSQYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)[C@@H]1C[C@]2(NC(=O)NC2=O)C2=C(O1)C=CC(F)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10FN3O4/c13-5-1-2-7-6(3-5)12(4-8(20-7)9(14)17)10(18)15-11(19)16-12/h1-3,8H,4H2,(H2,14,17)(H2,15,16,18,19)/t8-,12-/m0/s1
+
+> <INCHI_KEY>
+WAAPEIZFCHNLKK-UFBFGSQYSA-N
+
+> <FORMULA>
+C12H10FN3O4
+
+> <MOLECULAR_WEIGHT>
+279.2239
+
+> <EXACT_MASS>
+279.065534028
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.501076078895938
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4S)-6-fluoro-2',5'-dioxo-2,3-dihydrospiro[1-benzopyran-4,4'-imidazolidine]-2-carboxamide
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+-0.681370682666667
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.6053774846628
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.673463279784094
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.906567185078478
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+62.596800000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.66e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-carbamoyl-1-[(2R,3R,4S,5R)-5-[({[(2R,3S,4R,5R)-3,4-dihydroxy-5-{imidazo[2,1-f]purin-3-yl}oxolan-2-yl]methoxy(hydroxy)phosphoryl phosphonato}oxy)methyl]-3,4-dihydroxyoxolan-2-yl]-1lambda5-pyridin-1-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02021
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01433
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fidarestat
+
+> <SYNONYMS>
+(S,S)-fidarestat; Aldos; Fidarestat
+
+$$$$

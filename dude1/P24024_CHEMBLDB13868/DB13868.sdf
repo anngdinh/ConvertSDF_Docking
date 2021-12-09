@@ -1,0 +1,178 @@
+60172
+  -OEChem-10061700343D
+
+ 30 31  0     0  0  0  0  0  0999 V2000
+   -3.4830   -0.8408   -0.2498 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8039    1.0123    0.2331 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3927   -1.5867   -1.1811 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8500   -0.9691   -1.1025 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5660   -1.3397    1.1619 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0352    1.6426    0.2483 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6805    1.1264   -1.1373 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7620   -0.4669    1.4141 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3420   -2.1307    0.5824 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9166   -1.6515   -1.1549 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0083    2.4459    0.9082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3415    2.3556    0.2093 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310    0.3470    0.5123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3614    0.0400   -0.3619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8591    2.0764   -0.7416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0644    0.8824   -0.4104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8696   -1.2539   -0.3055 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3358   -1.6892    1.3754 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0622    2.0861    1.9409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3669    3.4808    0.9306 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0611    2.9995    0.7276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2529    2.6925   -0.8305 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8242    3.0815   -1.1394 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8132    1.5047    0.0895 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9867    1.1701   -1.4637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9369   -2.4175    2.0734 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2688   -2.5971   -1.0948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3121   -0.9990   -1.8182 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4012   -2.5663   -1.2308 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3075   -1.8360   -1.1386 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 30  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 13  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13868
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SUPKOOSCJHTBAH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=C2N=CN(CCOCP(O)(O)=O)C2=NC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N5O4P/c9-7-6-8(11-3-10-7)13(4-12-6)1-2-17-5-18(14,15)16/h3-4H,1-2,5H2,(H2,9,10,11)(H2,14,15,16)
+
+> <INCHI_KEY>
+SUPKOOSCJHTBAH-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12N5O4P
+
+> <MOLECULAR_WEIGHT>
+273.1857
+
+> <EXACT_MASS>
+273.062690409
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.561935668723052
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[2-(6-amino-9H-purin-9-yl)ethoxy]methyl}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.84
+
+> <JCHEM_LOGP>
+-4.540009757986324
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.905802752952131
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.3507168400959584
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.124993052440949
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.38
+
+> <JCHEM_REFRACTIVITY>
+63.1162
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.02e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+adefovir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13868
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Adefovir
+
+> <SYNONYMS>
+9-(2-(phosphonomethoxy)ethyl)adenine; 9-(2-phosphonylmethoxyethyl)adenine; Adéfovir; Adefovir; Adefovirum
+
+$$$$

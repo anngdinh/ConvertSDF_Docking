@@ -1,0 +1,166 @@
+3007
+  -OEChem-10051719093D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+   -3.5849   -0.4599    0.1218 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2239   -0.1762   -0.3436 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2222   -0.4574    0.7925 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2121   -0.2349    0.4021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1745    1.2729   -0.8278 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9484   -1.2846   -0.1323 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7852    1.0179    0.5809 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2797   -1.0783   -0.4941 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1164    1.2243    0.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8637    0.1762   -0.3184 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0069   -0.8349   -1.1935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3381   -1.4935    1.1401 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4580    0.1652    1.6671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2278    1.4959   -1.3291 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3048    1.9800   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9665    1.4674   -1.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5027   -2.2651   -0.2755 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2158    1.8413    1.0029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6534   -1.4374    0.4021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2436   -0.3352   -0.6460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8614   -1.8941   -0.9132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5715    2.2008    0.3567 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9002    0.3369   -0.5999 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00182
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KWTSXDURSIMDCE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(N)CC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N/c1-8(10)7-9-5-3-2-4-6-9/h2-6,8H,7,10H2,1H3
+
+> <INCHI_KEY>
+KWTSXDURSIMDCE-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13N
+
+> <MOLECULAR_WEIGHT>
+135.2062
+
+> <EXACT_MASS>
+135.104799421
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.174738885675872
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-phenylpropan-2-amine
+
+> <ALOGPS_LOGP>
+1.85
+
+> <JCHEM_LOGP>
+1.8042504816666665
+
+> <ALOGPS_LOGS>
+-1.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.01443581771614
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+43.7052
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.74e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+adderall
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00182
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00480
+
+> <DRUG_GROUPS>
+approved; illicit; investigational
+
+> <GENERIC_NAME>
+Amphetamine
+
+> <SYNONYMS>
+(+-)-alpha-Methylphenylethylamine; 1-phenyl-2-aminopropane; alpha-Methylbenzeneethaneamine; Amfetamina; Amfetamine; Amfetaminum; Amphetamine; beta-Aminopropylbenzene; beta-Phenylisopropylamin; Desoxynorephedrine; rac-(2R)-1-phenylpropan-2-amine; rac-amphetamine; α-methylbenzeneethaneamine; α-methylphenethylamine; β-aminopropylbenzene; β-phenylisopropylamine
+
+> <PRODUCTS>
+Act Amphetamine XR; Adderall; Adderall XR; Adzenys ER; Adzenys XR-ODT; Amphetamine Extended-Release Oral Suspension; Amphetamine Sulfate; Amphetamine sulfate; Apo-amphetamine XR; Dextroamphetamine Saccharate and Amphetamine Aspartate and Dextroamphetamine Sulfate and Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate (monohydrate), Dextroamphetamine Sulfate, Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate, Amphetamine Sulfate Extended-Release; Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate, and Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate, and Amphetamine Sulfate Extended-Release; Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Suflate; Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, Amphetamine Sulfate; Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, Amphetamine Sulfate Tablets,CII; Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate; Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate; Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate; Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate ER; Dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate, and amphetamine sulfate; Dyanavel XR; Evekeo; Evekeo ODT; Mixed Salts of a Single Entity Amphetamine Product XR; Mydayis; PMS-amphetamines XR; Sandoz Amphetamine XR
+
+> <SALTS>
+Amphetamine adipate; Amphetamine aspartate; Amphetamine aspartate monohydrate; Amphetamine sulfate
+
+$$$$

@@ -1,0 +1,131 @@
+178
+  -OEChem-10051720013D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    0.6073   -1.1657    0.0018 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7522    1.1306    0.0015 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4275    0.0969    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0680   -0.0618   -0.0046 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8768   -0.6906   -0.6101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7917    0.0140    1.0288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7274    1.0655   -0.4084 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7667    1.1492    0.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2815    2.0298    0.0081 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02736
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DLFVBJFMPXGRIB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO/c1-2(3)4/h1H3,(H2,3,4)
+
+> <INCHI_KEY>
+DLFVBJFMPXGRIB-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5NO
+
+> <MOLECULAR_WEIGHT>
+59.0672
+
+> <EXACT_MASS>
+59.037113787
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.756158253961301
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+acetamide
+
+> <ALOGPS_LOGP>
+-1.10
+
+> <JCHEM_LOGP>
+-1.030288328
+
+> <ALOGPS_LOGS>
+0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.745128983357276
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2748662613926913
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+14.4659
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02736
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00414
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Acetamide
+
+$$$$

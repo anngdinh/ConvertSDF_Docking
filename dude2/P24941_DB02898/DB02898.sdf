@@ -1,0 +1,173 @@
+445966
+  -OEChem-11151916343D
+
+ 30 32  0     1  0  0  0  0  0999 V2000
+   -0.3908   -0.3977    0.6016 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6931   -1.0223   -1.7477 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1489   -1.0430    0.0129 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1771   -2.0975    0.2915 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0267    1.3871    0.0485 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4027    1.0866   -0.4159 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1527   -1.2202   -0.2528 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4037    3.2006   -0.4991 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7218   -0.1515    1.0629 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.9035    0.8016    1.1931 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5011    0.8495   -0.2108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4294    0.5619    0.6886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1709   -0.5136   -0.7679 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8582    0.0650    0.2697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9608   -0.7564    0.1495 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018   -0.2338   -0.1884 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2715    1.8107   -0.2762 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5042   -2.3270    0.0406 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5792   -0.7460    1.9718 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6352    1.7918    1.5732 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6443    0.3723    1.8801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0188    1.6123   -0.8294 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5812    1.0123   -0.1868 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1862    1.2988    1.4645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5391    1.0780   -0.2739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7273   -1.9499   -0.1615 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4870   -2.7951    0.5366 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9306   -3.3189    0.0888 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3076    3.5803   -0.7444 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5928    3.7970   -0.4093 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 14  2  0  0  0  0
+  5 17  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 16  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 18 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02898
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UYPMMHCTXQIWDX-RXMQYKEDSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC2=C(N=CN2)C(OC[C@H]2CCC(=O)N2)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N6O2/c11-10-15-8-7(12-4-13-8)9(16-10)18-3-5-1-2-6(17)14-5/h4-5H,1-3H2,(H,14,17)(H3,11,12,13,15,16)/t5-/m1/s1
+
+> <INCHI_KEY>
+UYPMMHCTXQIWDX-RXMQYKEDSA-N
+
+> <FORMULA>
+C10H12N6O2
+
+> <MOLECULAR_WEIGHT>
+248.2413
+
+> <EXACT_MASS>
+248.102173658
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.17588217919722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5R)-5-{[(2-amino-9H-purin-6-yl)oxy]methyl}pyrrolidin-2-one
+
+> <JCHEM_LOGP>
+-0.7012651453333336
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.786788099877635
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.983438002924327
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.745982322276771
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.81
+
+> <JCHEM_REFRACTIVITY>
+62.9676
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R)-2-(4-aminobutanamido)-3-{[(4-methoxyphenyl)methyl]sulfanyl}propanamido]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02898
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03189
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(5R)-5-{[(2-Amino-3H-purin-6-yl)oxy]methyl}-2-pyrrolidinone
+
+$$$$

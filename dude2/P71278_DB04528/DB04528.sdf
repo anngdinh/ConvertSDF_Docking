@@ -1,0 +1,152 @@
+1493
+  -OEChem-10051720373D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+   -2.4316   -1.7531    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9409    2.2955    0.0008 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.2877    0.5621    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6796   -0.3388    0.0020 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8270    1.6841   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1358    1.0571    0.0003 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6931    0.4366    0.0003 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0128    0.1845   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3845   -0.1150   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2723    0.7269   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1858   -1.1995   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2116   -1.4991   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0736   -2.0413   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4102    1.8057   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0546   -2.1854   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1935   -3.1215    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3495   -2.7222    0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  CHG  4   2  -1   4  -1   6   1   7   1
+M  END
+> <DATABASE_ID>
+DB04528
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UFBJCMHMOXMLKC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1[N+]([O-])=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4N2O5/c9-6-2-1-4(7(10)11)3-5(6)8(12)13/h1-3,9H
+
+> <INCHI_KEY>
+UFBJCMHMOXMLKC-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H4N2O5
+
+> <MOLECULAR_WEIGHT>
+184.1064
+
+> <EXACT_MASS>
+184.012021248
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.476199987585646
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,4-dinitrophenol
+
+> <ALOGPS_LOGP>
+1.89
+
+> <JCHEM_LOGP>
+1.549648873
+
+> <ALOGPS_LOGS>
+-2.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.035165331985295
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.796771782423179
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.87
+
+> <JCHEM_REFRACTIVITY>
+42.6883
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.76e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,4-dinitrophenol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04528
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01235
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Dinitrophenol
+
+> <SYNONYMS>
+Dinitrophenol
+
+$$$$

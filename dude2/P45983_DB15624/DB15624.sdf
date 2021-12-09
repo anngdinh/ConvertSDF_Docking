@@ -1,0 +1,161 @@
+11837140
+  -OEChem-03042013253D
+
+ 18 19  0     0  0  0  0  0  0999 V2000
+    1.8488    1.1052    0.8412 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9072    2.0700    0.0076 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7057    0.9278   -0.3576 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4732   -1.3984   -0.5250 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.4767   -0.1009    1.2458 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6098    0.2667   -1.2670 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9037   -0.5369    0.2056 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.7417   -0.4140    0.5955 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8206   -1.2807    0.5932 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1170   -1.3096   -0.0018 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5140    1.0778   -0.2371 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6331   -0.0634   -0.1388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8255   -0.3867   -1.2090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0856    0.7502    0.1265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9067   -0.7070    0.1209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0700   -1.0981   -1.9871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2641   -2.2751    0.2733 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9236   -0.8188   -0.3736 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  CHG  2   4  -1   7   1
+M  END
+> <DATABASE_ID>
+DB15624
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NQQBNZBOOHHVQP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NN=C(SC2=NC=C(S2)[N+]([O-])=O)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H3N5O2S3/c6-3-8-9-5(14-3)15-4-7-1-2(13-4)10(11)12/h1H,(H2,6,8)
+
+> <INCHI_KEY>
+NQQBNZBOOHHVQP-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H3N5O2S3
+
+> <MOLECULAR_WEIGHT>
+261.29
+
+> <EXACT_MASS>
+260.944887879
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3350610964657502
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.176652557879226
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-[(5-nitro-1,3-thiazol-2-yl)sulfanyl]-1,3,4-thiadiazol-2-amine
+
+> <ALOGPS_LOGP>
+1.01
+
+> <JCHEM_LOGP>
+1.9256383650000002
+
+> <ALOGPS_LOGS>
+-2.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.110443919669079
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.22067330175291827
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+57.882400000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-[(5-nitro-1,3-thiazol-2-yl)sulfanyl]-1,3,4-thiadiazol-2-amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15624
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Halicin
+
+> <SYNONYMS>
+2-amino-5-[(5-nitro-2-thiazolyl)thio]-1,3,4-thiadiazole
+
+$$$$

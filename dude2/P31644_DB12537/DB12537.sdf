@@ -1,0 +1,153 @@
+134664
+  -OEChem-10051722483D
+
+ 19 20  0     0  0  0  0  0  0999 V2000
+   -0.9530   -1.4142   -0.4464 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0457   -1.2653    0.3375 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2512    0.7288   -0.1063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2301   -0.6718   -0.2312 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4748    1.3831    0.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4419   -1.3806   -0.1102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9338    1.5660   -0.3253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620    0.6630    0.2513 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6462   -0.7205    0.1314 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2006    1.2080   -0.1024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5731   -0.0965    0.4766 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5157    2.4679    0.2047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4507   -2.4655   -0.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7476    2.5708   -0.6986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5971    1.1839    0.4341 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5678   -1.2870    0.2247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7873   -2.3685   -0.7554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0094    1.9101   -0.2743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4768   -0.0459    1.1082 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12537
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SVUOLADPCWQTTE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1N=CC=CC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2/c1-2-6-9-8(4-1)5-3-7-10-11-9/h1-7,11H
+
+> <INCHI_KEY>
+SVUOLADPCWQTTE-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N2
+
+> <MOLECULAR_WEIGHT>
+144.177
+
+> <EXACT_MASS>
+144.068748266
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.194398989596225
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H-1,2-benzodiazepine
+
+> <ALOGPS_LOGP>
+2.90
+
+> <JCHEM_LOGP>
+2.1190887829999996
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.545953746826277
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+16.867441280241884
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.39
+
+> <JCHEM_REFRACTIVITY>
+47.8142
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1H-1,2-benzodiazepine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12537
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Benzodiazepine
+
+$$$$

@@ -1,0 +1,163 @@
+126569
+  -OEChem-10051720063D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+    3.1711   -1.7754    0.5664 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5773    0.6063    1.7824 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4956    1.8362   -1.0937 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3061    1.1692    0.4255 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7349    0.8830    0.4858 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0639   -0.3907   -0.6636 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5106   -1.4672   -0.3380 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6095    1.3613   -0.3068 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2348   -0.9199   -1.0624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2073   -0.9869    0.1161 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3198    0.9907   -0.7191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0204   -1.2887   -0.2355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4421    0.3692    0.7597 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2355   -0.9034    0.1488 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6188    0.5163    0.1344 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6418   -0.2616   -1.8413 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1021   -1.9075   -1.5229 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8360   -1.6755    0.8844 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7405   -2.3361   -0.2201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1241   -1.6062    0.4644 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4052   -2.3822   -0.7749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8258    2.3539   -0.3351 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7338    1.4813    2.1973 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5 15  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02966
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DBWPFHJYSTVBCZ-BYPYZUCNSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CN1C=C(F)C(=O)NC1=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8FN3O4/c8-3-1-11(2-4(9)6(13)14)7(15)10-5(3)12/h1,4H,2,9H2,(H,13,14)(H,10,12,15)/t4-/m0/s1
+
+> <INCHI_KEY>
+DBWPFHJYSTVBCZ-BYPYZUCNSA-N
+
+> <FORMULA>
+C7H8FN3O4
+
+> <MOLECULAR_WEIGHT>
+217.1545
+
+> <EXACT_MASS>
+217.049883964
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.71795168624327
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(5-fluoro-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.73
+
+> <JCHEM_LOGP>
+-3.8016579039263028
+
+> <ALOGPS_LOGS>
+-1.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.655025151928454
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7217032326320747
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.560068722270687
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+44.848600000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.83e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-fluorowillardiine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02966
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01513
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fluoro-Willardiine
+
+$$$$

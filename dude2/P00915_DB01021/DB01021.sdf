@@ -1,0 +1,180 @@
+5560
+  -OEChem-10051719283D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+   -4.8016   -1.9280    0.8883 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2215   -0.9315   -1.7863 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7541   -2.8402   -0.0042 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1984    2.0150    0.1052 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8657    0.1902   -0.1818 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7982    2.8986   -0.9717 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2731    2.4718    1.4786 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4837   -0.9826   -0.7934 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9271    1.4875   -0.8464 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6699    1.2642   -0.3323 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9689   -0.9845    0.2685 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5277    0.3628    1.3958 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9904    0.0341    0.4265 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1081    0.6268    0.1025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6180   -0.6778    0.1901 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2609    0.8863   -0.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1582   -0.1762   -0.0418 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3280   -0.5051   -0.0646 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3133   -1.7283    0.1442 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6856   -1.4832    0.0347 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0749    0.3001    1.4880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8896    1.2268   -1.3361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2280   -1.9529    0.4223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6078    1.9146   -0.0603 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1185    0.2447    0.0398 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0449   -2.7561    0.1963 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8456    1.3102    1.6412 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9723   -0.0417    2.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01021
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LMJSLTNSBFUCMU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=C(Cl)C=C2NC(NS(=O)(=O)C2=C1)C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8Cl3N3O4S2/c9-3-1-4-6(2-5(3)19(12,15)16)20(17,18)14-8(13-4)7(10)11/h1-2,7-8,13-14H,(H2,12,15,16)
+
+> <INCHI_KEY>
+LMJSLTNSBFUCMU-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8Cl3N3O4S2
+
+> <MOLECULAR_WEIGHT>
+380.656
+
+> <EXACT_MASS>
+378.90218026
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.970887949352836
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-chloro-3-(dichloromethyl)-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.9733494586666664
+
+> <ALOGPS_LOGS>
+-2.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.80221331927889
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.322179814553696
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.055106429314077
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.36
+
+> <JCHEM_REFRACTIVITY>
+77.4351
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trichlormethiazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01021
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00031
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Trichlormethiazide
+
+> <SYNONYMS>
+Trichlormethiazide; triclormetiazida
+
+> <INTERNATIONAL_BRANDS>
+Anistadin; Carvacron; Diu-Hydrin; Diurese; Fluitran; Kubacron; Metahydrin; Naqua
+
+$$$$

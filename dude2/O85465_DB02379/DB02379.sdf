@@ -1,0 +1,168 @@
+64689
+  -OEChem-10051719543D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+   -0.6679    1.1587    0.2570 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8870   -2.4483   -0.3388 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8623   -2.0693    0.4696 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8609    0.5414   -0.4619 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1222    2.6552    0.2574 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3742    0.9717   -0.1865 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3727   -1.2470    0.2300 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0856   -1.0709   -0.1940 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2211   -0.0621   -0.2375 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6082    0.3151    0.1839 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6388    1.4132   -0.2534 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.6550   -0.1577    0.2740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4248   -1.3522    1.3206 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2066   -1.2487   -1.2697 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2548   -0.0098   -1.3343 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7952    0.3598    1.2636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5967    1.5141   -1.3440 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6916   -0.1535    1.3685 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1564   -1.0581   -0.0922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8514   -2.3615   -1.3066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4973   -2.9356    0.2200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7165    0.4989   -1.4227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4876    2.5033    1.1448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9192    1.7652    0.1440 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02379
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WQZGKKKJIJFFOK-VFUOTHLCSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+WQZGKKKJIJFFOK-VFUOTHLCSA-N
+
+> <FORMULA>
+C6H12O6
+
+> <MOLECULAR_WEIGHT>
+180.1559
+
+> <EXACT_MASS>
+180.063388116
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.42792642492866
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.57
+
+> <JCHEM_LOGP>
+-2.932539218
+
+> <ALOGPS_LOGS>
+0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.687538461190869
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.298101552080594
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9810792051782764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+35.9234
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glucoside
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02379
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00685; EXPT00455; EXPT01603
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-D-Glucose
+
+> <SYNONYMS>
+beta-D-glucopyranose; Beta-D-glucose anhydrous; Beta-D-glucose, anhydrous; Glucoside; β-D-glucose
+
+$$$$

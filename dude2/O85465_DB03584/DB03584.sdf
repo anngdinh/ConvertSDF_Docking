@@ -1,0 +1,168 @@
+445564
+  -OEChem-10051720183D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+    1.0842   -2.7947    0.3864 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6234    1.2017   -0.2474 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8490   -2.0685   -0.4978 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8961    0.4659    0.4369 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2030    2.6520   -0.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3174    1.1472    0.1788 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4026   -1.2179   -0.2540 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0652   -1.0831    0.1777 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2279   -0.0104    0.2250 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6182    0.2995   -0.1781 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6817    1.4130    0.2821 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6578   -0.0047   -0.3126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4448   -1.2777   -1.3489 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1851   -1.2569    1.2544 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2586    0.0411    1.3220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7813    0.3660   -1.2614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6461    1.4716    1.3772 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6622    0.0486   -1.4065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2247   -0.8824    0.0079 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2284   -3.6027   -0.2565 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7516   -1.9280   -1.4549 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2130    1.3573    0.2115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8564    3.3505    0.3837 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2202    1.1376   -0.1822 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03584
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KGSURTOFVLAWDC-QZABAPFNSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)O[C@]([H])(CO)[C@@]([H])(S)[C@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5S/c7-1-2-5(12)3(8)4(9)6(10)11-2/h2-10,12H,1H2/t2-,3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+KGSURTOFVLAWDC-QZABAPFNSA-N
+
+> <FORMULA>
+C6H12O5S
+
+> <MOLECULAR_WEIGHT>
+196.221
+
+> <EXACT_MASS>
+196.040544184
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.362153526720718
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4R,5S,6R)-6-(hydroxymethyl)-5-sulfanyloxane-2,3,4-triol
+
+> <ALOGPS_LOGP>
+-1.36
+
+> <JCHEM_LOGP>
+-1.977252249333333
+
+> <ALOGPS_LOGS>
+-0.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.33903653750651
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.493529658123693
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9603616911099078
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+42.133399999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.30e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-thio-β-D-glucopyranose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03584
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01645; EXPT02895; EXPT01648; DB03188; DB03599
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Thio-beta-D-glucopyranose
+
+> <SYNONYMS>
+4-deoxy-4-Thio-beta-D-glucopyranose; 4-Thio-β-D-glucopyranose
+
+$$$$

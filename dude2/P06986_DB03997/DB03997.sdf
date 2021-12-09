@@ -1,0 +1,172 @@
+439398
+  -OEChem-10051723563D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+   -2.4334    0.9219   -0.1138 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8121   -0.5667   -0.2254 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1394    1.8625    0.1230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1495    0.9026    1.3360 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3213    1.3271   -1.2539 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6137   -3.1853   -0.2520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1646    0.7370   -1.1091 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0446    1.1818    0.8809 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0856   -2.0210    0.3039 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0200   -1.4504   -0.7804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9605   -1.0225    0.8176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8417   -0.2802   -0.2910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3741   -0.0151    0.9184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8994    1.6083   -0.3541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6829   -2.3688    1.1550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7156   -2.2305   -1.1173 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4371   -1.1440   -1.6593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5942   -1.5013    1.5737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4709   -0.1800    1.3146 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2094   -2.8905   -1.0253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2395   -3.5770    0.4510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9203    0.8474   -2.0849 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3302   -0.5987    1.8263 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2954    2.5278   -0.7609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2594    2.8353    0.1578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6884    1.6751    1.6094 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 26  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03997
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CWNDERHTHMWBSI-YFKPBYRVSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@H](COP(O)(O)=O)CC1=CNC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N3O4P/c7-5(3-13-14(10,11)12)1-6-2-8-4-9-6/h2,4-5H,1,3,7H2,(H,8,9)(H2,10,11,12)/t5-/m0/s1
+
+> <INCHI_KEY>
+CWNDERHTHMWBSI-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H12N3O4P
+
+> <MOLECULAR_WEIGHT>
+221.1509
+
+> <EXACT_MASS>
+221.056542399
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.40789171621973
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2S)-2-amino-3-(1H-imidazol-4-yl)propoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.38
+
+> <JCHEM_LOGP>
+-2.9241371802886
+
+> <ALOGPS_LOGS>
+-0.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.733002703308064
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5852216576798401
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.668584795241904
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.46
+
+> <JCHEM_REFRACTIVITY>
+48.498799999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-histidinol phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03997
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01781
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-histidinol phosphate
+
+> <SYNONYMS>
+phosphoric acid mono-[2-amino-3-(3H-imidazol-4-yl)-propyl]ester
+
+$$$$

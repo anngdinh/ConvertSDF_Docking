@@ -1,0 +1,193 @@
+449094
+  -OEChem-02132010563D
+
+ 31 33  0     1  0  0  0  0  0999 V2000
+    0.4093   -1.5583    0.8929 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9891    2.4188    0.0434 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6374   -0.8104    0.1082 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8425    1.6815    0.4705 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4795   -0.4560    0.7989 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2763   -0.1943   -1.2575 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3707    0.1889   -0.6563 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.8102   -0.3099   -0.6231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4225   -2.0122    0.3269 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6422   -1.8268   -0.5651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2160    0.7365    0.1252 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3058   -0.6589    0.4589 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1457    1.5269    0.0158 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5021    1.0564    0.8701 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6779    0.4366    0.1774 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1676    0.5941   -1.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4374   -0.8131   -0.1089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9694    0.2126   -1.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3841    0.0153   -1.4959 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3345    0.0410    0.2745 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6978   -2.0394    1.3865 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8421   -2.9077    0.0872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5275   -2.3409   -0.1810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4317   -2.2117   -1.5703 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3466    0.7976   -0.9626 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5884    2.5792    0.8723 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4454    0.7298    1.9163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6682    2.1416    0.8936 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3960   -0.7994    1.7470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7969    1.2268   -1.8706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2165   -1.5236    0.1279 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  2  0  0  0  0
+  2 13  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02414
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NAKUGCPAQTUSBE-IUCAKERBSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]12CCCN1C(=O)[C@H](CC1=CN=CN1)NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O2/c16-10-9-2-1-3-15(9)11(17)8(14-10)4-7-5-12-6-13-7/h5-6,8-9H,1-4H2,(H,12,13)(H,14,16)/t8-,9-/m0/s1
+
+> <INCHI_KEY>
+NAKUGCPAQTUSBE-IUCAKERBSA-N
+
+> <FORMULA>
+C11H14N4O2
+
+> <MOLECULAR_WEIGHT>
+234.2545
+
+> <EXACT_MASS>
+234.111675712
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3560550501626426
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.45743493145523
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3S,8aS)-3-[(1H-imidazol-5-yl)methyl]-octahydropyrrolo[1,2-a]pyrazine-1,4-dione
+
+> <ALOGPS_LOGP>
+-0.64
+
+> <JCHEM_LOGP>
+-1.5712164146666663
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.939081488387869
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.86492289720056
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.742928834966469
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.09
+
+> <JCHEM_REFRACTIVITY>
+59.845600000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-oxo-4-thiomethylbutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02414
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00911
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cyclo(his-pro)
+
+> <SYNONYMS>
+(3S,8aS)-3-(1H-Imidazol-4-ylmethyl)hexahydropyrrolo[1,2-a]pyrazine-1,4-dione; cyclo(histidyl-prolyl); cyclo(L-His-L-Pro); Histidyl-proline diketopiperazine; Histidyl-proline-diketopiperazine
+
+$$$$

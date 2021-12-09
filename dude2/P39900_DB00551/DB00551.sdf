@@ -1,0 +1,142 @@
+1990
+  -OEChem-10051719173D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+    1.9089   -0.0435    0.0031 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4241    1.3276    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6744   -0.7068   -0.0029 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4342    0.0984   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7250   -0.6756    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1539   -0.6449    1.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4215   -0.2189   -0.7057 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5720   -1.7190   -0.2869 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6883   -1.7169    0.0839 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4228   -0.6366    0.5767 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00551
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RRUDCFGSUDOHDG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO2/c1-2(4)3-5/h5H,1H3,(H,3,4)
+
+> <INCHI_KEY>
+RRUDCFGSUDOHDG-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5NO2
+
+> <MOLECULAR_WEIGHT>
+75.0666
+
+> <EXACT_MASS>
+75.032028409
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.603745685886922
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-hydroxyacetamide
+
+> <ALOGPS_LOGP>
+-1.46
+
+> <JCHEM_LOGP>
+-1.0334700553333331
+
+> <ALOGPS_LOGS>
+0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.377702380221294
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.943521799436219
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.447093399828362
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+16.2305
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.09e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetohydroxamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00551
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00774; EXPT01688
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Acetohydroxamic acid
+
+> <SYNONYMS>
+Acethydroxamsaeure; Acetic acid, oxime; Acetohydroxamate; Acetohydroxamic acid; Acetohydroximic acid; Acetyl hydroxyamino; Acetylhydroxamic acid; Acide acetohydroxamique; Acido acetohidroxamico; Acidum acetohydroxamicum; AHA; Cetohyroxamic acid; Methylhydroxamic acid; N-Acetyl hydroxyacetamide; N-Acetylhydroxylamine; N-Hydroxyacetamide
+
+> <PRODUCTS>
+Lithostat
+
+$$$$

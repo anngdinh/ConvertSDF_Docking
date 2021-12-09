@@ -1,0 +1,161 @@
+12597
+  -OEChem-10061700003D
+
+ 20 21  0     1  0  0  0  0  0999 V2000
+    0.1199   -1.3674   -0.3762 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2545    1.6680   -0.3199 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5892   -1.0137    0.1159 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7022   -0.2010    0.7102 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2744   -0.4826    0.6864 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5277    0.7924    0.5149 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6940    0.0008    0.5118 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7637    0.3324   -0.2162 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2368   -0.7970   -1.0787 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5383    1.0681   -0.5483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0992   -1.0008    1.6336 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7259    1.2997    1.4642 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0523    0.4577    1.4421 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2505    1.1141   -0.8066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8600   -0.4227   -2.0362 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9713   -1.5850   -1.2679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5605    0.6546   -1.5629 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3172    1.8339   -0.4839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5571   -1.7115    0.7924 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4616   -0.5304    0.1998 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09401
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KLDXJTOLSGUMSJ-JGWLITMVSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)CO[C@]2([H])[C@]([H])(O)CO[C@]12[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O4/c7-3-1-9-6-4(8)2-10-5(3)6/h3-8H,1-2H2/t3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+KLDXJTOLSGUMSJ-JGWLITMVSA-N
+
+> <FORMULA>
+C6H10O4
+
+> <MOLECULAR_WEIGHT>
+146.1412
+
+> <EXACT_MASS>
+146.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.539993710018317
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R,3aR,6S,6aR)-hexahydrofuro[3,2-b]furan-3,6-diol
+
+> <ALOGPS_LOGP>
+-1.50
+
+> <JCHEM_LOGP>
+-1.406611704
+
+> <ALOGPS_LOGS>
+0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.643410080149245
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.034376302842013
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.526893285033477
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.92
+
+> <JCHEM_REFRACTIVITY>
+31.383399999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.21e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isosorbide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09401
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05707
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Isosorbide
+
+> <PRODUCTS>
+Ismotic
+
+$$$$

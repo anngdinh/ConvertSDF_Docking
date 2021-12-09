@@ -1,0 +1,192 @@
+66377
+  -OEChem-04201810473D
+
+ 34 35  0     1  0  0  0  0  0999 V2000
+    1.7099    0.2976    0.9719 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1794   -1.2388    0.0163 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0643    3.0208    0.4129 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6042   -3.0846    0.5032 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1895   -0.3439   -0.3812 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1912   -0.8102    0.1762 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3833   -1.7064    0.0607 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2268   -0.9083    0.3631 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2827   -0.3697   -0.6719 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9824   -1.0906   -0.9431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8602    0.7701    0.2445 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4497    2.0229   -0.5185 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7385    0.4369   -0.0965 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0203   -1.9489    0.2648 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0431    0.6655   -0.2914 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9813   -0.4857   -0.2131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6116    2.0169   -0.5838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9924    2.7564    0.6859 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4548   -1.7329    1.0489 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7871   -0.0281   -1.5806 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4574   -0.6043   -1.7741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1009   -2.1494   -1.1939 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6287    1.0147    0.9862 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6271    1.8506   -1.2161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3013    2.4068   -1.0903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0685    1.2798   -0.1447 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3785   -1.9817   -0.5789 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9999   -2.5120    0.1201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8762    2.6181   -1.1339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4813    1.9391   -1.2464 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8201    3.8109   -0.0987 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3965    3.7439    0.4407 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1250    2.9016    1.3389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7564    2.2114    1.2504 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 16  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13421
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XACKNLSZYYIACO-DJLDLDEBSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16N2O5/c1-2-6-4-13(11(17)12-10(6)16)9-3-7(15)8(5-14)18-9/h4,7-9,14-15H,2-3,5H2,1H3,(H,12,16,17)/t7-,8+,9+/m0/s1
+
+> <INCHI_KEY>
+XACKNLSZYYIACO-DJLDLDEBSA-N
+
+> <FORMULA>
+C11H16N2O5
+
+> <MOLECULAR_WEIGHT>
+256.258
+
+> <EXACT_MASS>
+256.105921623
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.928746922959377
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-ethyl-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.73
+
+> <JCHEM_LOGP>
+-0.674484924333333
+
+> <ALOGPS_LOGS>
+-0.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.90792197358829
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.953265333434105
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9780835894497937
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.1
+
+> <JCHEM_REFRACTIVITY>
+60.01299999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-ethyl-2'-deoxyuridine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13421
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Edoxudine
+
+> <SYNONYMS>
+2'-Deoxy-5-ethyluridine; 5-Ethyl-2'-deoxyuridine
+
+> <PRODUCTS>
+Virostat Cream 3%
+
+$$$$

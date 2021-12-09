@@ -1,0 +1,131 @@
+17754199
+  -OEChem-10051719453D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+   -1.6762   -0.5685    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4275   -0.6787    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7849    0.5182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5361    0.7290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4733    1.3561    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9202    1.7433   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4393   -0.7040    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8950   -1.5396    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7967    0.1685   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01968
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JLZMZFJVTNYDOT-UPHRSURJSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]\C(N)=C(/[H])S
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NS/c3-1-2-4/h1-2,4H,3H2/b2-1-
+
+> <INCHI_KEY>
+JLZMZFJVTNYDOT-UPHRSURJSA-N
+
+> <FORMULA>
+C2H5NS
+
+> <MOLECULAR_WEIGHT>
+75.133
+
+> <EXACT_MASS>
+75.014269855
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.641545752690934
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(Z)-2-aminoethene-1-thiol
+
+> <ALOGPS_LOGP>
+0.26
+
+> <JCHEM_LOGP>
+-0.27438754633333323
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.68769198297871
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.703721231059542
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+21.8091
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.77e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(Z)-2-aminoethenethiol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01968
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03035
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Thioethenamine
+
+$$$$

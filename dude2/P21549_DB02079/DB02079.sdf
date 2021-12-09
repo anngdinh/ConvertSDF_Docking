@@ -1,0 +1,138 @@
+286
+  -OEChem-10191719373D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+    1.3242   -0.4316    0.0098 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9861    0.9194    0.0078 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2705   -1.2428   -0.0031 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6272    0.2199   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3365    0.5796   -0.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0313   -0.0446   -0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4339    1.2114    0.8785 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4364    1.1777   -0.9247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539   -0.2320   -0.8074 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0504   -0.2004    0.8259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8903    0.5389    0.0144 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02079
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NQRKYASMKDDGHT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NOCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO3/c3-6-1-2(4)5/h1,3H2,(H,4,5)
+
+> <INCHI_KEY>
+NQRKYASMKDDGHT-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5NO3
+
+> <MOLECULAR_WEIGHT>
+91.066
+
+> <EXACT_MASS>
+91.026943031
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.60539663718207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(aminooxy)acetic acid
+
+> <ALOGPS_LOGP>
+-0.79
+
+> <JCHEM_LOGP>
+-2.215683103769614
+
+> <ALOGPS_LOGS>
+0.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.158509820286874
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.519374165342256
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+18.4156
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.26e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(aminooxy)acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02079
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00528
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aminooxyacetic acid
+
+> <SYNONYMS>
+(aminooxy)acetic acid; aminoxyacetic acid; AOAA; carboxymethoxyamine; Carboxymethoxylamine
+
+$$$$

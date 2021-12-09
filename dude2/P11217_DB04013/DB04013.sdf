@@ -1,0 +1,196 @@
+444456
+  -OEChem-01132009033D
+
+ 35 35  0     1  0  0  0  0  0999 V2000
+    0.2773    1.0403   -0.0520 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3631   -2.5585    0.4451 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8695   -2.5432   -1.3692 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5779   -0.2459   -1.0246 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6651    3.3957   -0.0168 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6124   -1.1508    2.5240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8057    0.3212   -0.1791 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0971    0.1141   -1.6998 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7137    0.0601    0.5875 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2535    0.9729    2.7085 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0912   -1.3847   -0.2248 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2803   -0.1172    0.5537 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6001   -1.4917   -0.4399 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1537   -0.1900   -1.0166 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7018    1.0128   -0.1844 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1225    2.3305   -0.8294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0820   -0.1661    2.0155 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4980    0.1605   -0.5415 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7420    0.4401   -1.2562 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3792   -1.4041   -1.2119 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1266   -1.7659    0.4806 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8219   -0.0745   -2.0564 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1503    0.9783    0.8171 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6745    2.4514   -1.8213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2096    2.4079   -0.9220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1915    0.1156    1.4833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1587   -2.6714    1.2570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4273   -2.3281   -2.2081 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8352   -1.0288   -1.5410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0649    1.0559    3.7018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6893    1.7708    2.2571 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6993    3.3125    0.0617 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7313   -0.4666   -1.8685 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5105    1.3205   -1.8631 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7400    0.5621   -0.8268 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 18  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04013
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZQTAMPRAONLFQI-FMTWGGRWSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N([H])C(=O)[C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)N([H])C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N2O8/c1-18-8(17)11-9(7(10)16)6(15)5(14)4(13)3(2-12)19-9/h3-6,12-15H,2H2,1H3,(H2,10,16)(H,11,17)/t3-,4-,5+,6-,9+/m1/s1
+
+> <INCHI_KEY>
+ZQTAMPRAONLFQI-FMTWGGRWSA-N
+
+> <FORMULA>
+C9H16N2O8
+
+> <MOLECULAR_WEIGHT>
+280.2319
+
+> <EXACT_MASS>
+280.090665498
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8561662156994973e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.80666632482086
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+methyl N-[(2S,3R,4S,5S,6R)-2-carbamoyl-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]carbamate
+
+> <ALOGPS_LOGP>
+-2.42
+
+> <JCHEM_LOGP>
+-3.3915571756666667
+
+> <ALOGPS_LOGS>
+-0.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.485677350886883
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.951047358724086
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.980878065530314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+171.57000000000002
+
+> <JCHEM_REFRACTIVITY>
+56.8129
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.29e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-9-[(2R,3R,4S,5R)-5-({[({[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy(hydroxy)phosphoryl}oxy(hydroxy)phosphoryl)oxy(hydroxy)phosphoryl]oxy}methyl)-3,4-dihydroxyoxolan-2-yl]-7-methyl-6-oxo-3H-9lambda5-purin-9-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04013
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01017
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Deoxy-1-methoxycarbamido-beta-D-gluco-2-heptulopyranosonamide
+
+$$$$

@@ -1,0 +1,145 @@
+8007
+  -OEChem-10051720203D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+   -2.4641   -0.3382   -0.0033 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0131   -0.3523   -0.0048 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2458    0.5157   -0.0114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2762    0.5071    0.0114 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5076   -0.3323    0.0082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0143   -0.9999   -0.8908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0002   -1.0089    0.8744 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2461    1.1782    0.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2535    1.1536   -0.9029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2922    1.1408    0.9049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2958    1.1645   -0.8644 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3950    0.3084    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5464   -0.9574    0.9059 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5544   -0.9861   -0.8685 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2961    0.2470    0.0602 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4711   -0.9353    0.8227 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03659
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HQABUPZFAYXKJW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3
+
+> <INCHI_KEY>
+HQABUPZFAYXKJW-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11N
+
+> <MOLECULAR_WEIGHT>
+73.1368
+
+> <EXACT_MASS>
+73.089149357
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.662872628275652
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butan-1-amine
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+0.6984401493333334
+
+> <ALOGPS_LOGS>
+0.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.205799730941068
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+23.7924
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.07e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03659
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02080
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butylamine
+
+> <SYNONYMS>
+1-aminobutane; 1-butanamine; n-butylamine
+
+$$$$

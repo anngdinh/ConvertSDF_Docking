@@ -1,0 +1,187 @@
+170361
+  -OEChem-02122017383D
+
+ 29 32  0     1  0  0  0  0  0999 V2000
+    2.8074    0.0000    1.5899 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7478   -1.3914    0.1019 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7476    1.3915    0.1017 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1814   -1.1870   -0.5669 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1814    1.1869   -0.5668 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7468   -0.0001   -1.3661 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7633   -0.6995   -0.4056 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7633    0.6995   -0.4054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9163   -1.2371    0.7885 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9167    1.2370    0.7884 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4073   -1.4073   -0.2307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4072    1.4073   -0.2305 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6025   -0.7098   -0.0633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6025    0.7097   -0.0632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8808   -0.6848    0.2642 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8808    0.6849    0.2638 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2519   -2.1261   -1.1225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2520    2.1260   -1.1225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8410   -0.0001   -1.4191 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3604   -0.0001   -2.3953 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5245   -2.0652    1.3911 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9789   -1.4489    0.6192 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9793    1.4486    0.6189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5251    2.0653    1.3908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8952    0.0002    2.0480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3927   -2.4933   -0.2214 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3926    2.4933   -0.2212 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7885   -1.2604    0.3946 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7884    1.2607    0.3941 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2 13  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3 14  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01273
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JQSHBVHOMNKWFT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1C2CNCC1C1=C2C=C2N=CC=NC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13N3/c1-2-16-13-5-11-9-3-8(6-14-7-9)10(11)4-12(13)15-1/h1-2,4-5,8-9,14H,3,6-7H2
+
+> <INCHI_KEY>
+JQSHBVHOMNKWFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H13N3
+
+> <MOLECULAR_WEIGHT>
+211.268
+
+> <EXACT_MASS>
+211.110947431
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9981314405062162
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.119343352344917
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,8,14-triazatetracyclo[10.3.1.0^{2,11}.0^{4,9}]hexadeca-2(11),3,5,7,9-pentaene
+
+> <ALOGPS_LOGP>
+1.39
+
+> <JCHEM_LOGP>
+1.0076279959999996
+
+> <ALOGPS_LOGS>
+-3.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.726333010947785
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.81
+
+> <JCHEM_REFRACTIVITY>
+61.303
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.77e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5,8,14-triazatetracyclo[10.3.1.0^{2,11}.0^{4,9}]hexadeca-2(11),3,5,7,9-pentaene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01273
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Varenicline
+
+> <SYNONYMS>
+Vareniclina; Varenicline; Vareniclinum
+
+> <PRODUCTS>
+Apo-varenicline; Champix; Chantix; Gd-varenicline; PMS-varenicline; Teva-varenicline
+
+> <SALTS>
+Varenicline tartrate
+
+$$$$

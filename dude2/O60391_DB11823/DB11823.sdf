@@ -1,0 +1,191 @@
+182137
+  -OEChem-03081911263D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+   -1.0930   -2.3689    0.8746 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7756   -1.8773    1.0186 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6919   -1.4616   -1.4164 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7369   -0.2910   -0.5223 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5949    0.7776   -1.2486 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9760    1.9575   -0.3486 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7509    1.4760    0.8743 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5425   -0.7039    0.7254 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9798    0.4191    1.6480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6921    0.1239   -0.1511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5703   -0.7583    0.4784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1065    1.4198   -0.4584 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0471   -1.1534   -2.6305 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8629   -0.3445    0.8003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3992    1.8335   -0.1366 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2774    0.9514    0.4928 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1036    1.1877   -2.1381 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5333    0.3259   -1.6040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1345    2.5592   -0.0046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6152    2.6412   -0.9211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9796    2.3245    1.5289 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7115    1.0578    0.5472 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0900    0.8464    2.1222 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6121    0.0038    2.4401 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6370   -1.7554   -1.6628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5200    2.1304   -1.0236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1220   -2.0784   -3.2146 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4597   -0.4368   -3.2823 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0795   -0.8333   -2.4656 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5597   -1.0201    1.2899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7299    2.8357   -0.3938 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2855    1.2721    0.7390 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11823
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YQEZLKZALYSWHR-ZDUSSCGKSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN[C@@]1(CCCCC1=O)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16ClNO/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14/h2-3,6-7,15H,4-5,8-9H2,1H3/t13-/m0/s1
+
+> <INCHI_KEY>
+YQEZLKZALYSWHR-ZDUSSCGKSA-N
+
+> <FORMULA>
+C13H16ClNO
+
+> <MOLECULAR_WEIGHT>
+237.73
+
+> <EXACT_MASS>
+237.0920418
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.972297629708343
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+3.347302666
+
+> <ALOGPS_LOGS>
+-3.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.77106698197995
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.16418132166686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+65.55380000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.64e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+esketamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11823
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Esketamine
+
+> <SYNONYMS>
+(-)-Ketamine; (−)-ketamine; (S)-(−)-ketamine; (S)-2-(o-chlorophenyl)-2-(methylamino)cyclohexanone; (S)-ketamine; Esketamine; L-ketamine; S-(-)-Ketamine; S-ketamine
+
+> <PRODUCTS>
+Spravato
+
+> <INTERNATIONAL_BRANDS>
+Keta-S; Ketanest S; Ketaved
+
+> <SALTS>
+Esketamine hydrochloride
+
+$$$$

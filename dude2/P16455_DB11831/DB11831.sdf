@@ -1,0 +1,144 @@
+6
+  -OEChem-10051722353D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -2.7807   -1.8469   -0.0007 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8312    2.3619    0.0010 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.2454    0.6829   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6914   -0.4204    0.0004 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8887    1.6228   -0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0760    1.1330    0.0003 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7240    0.3788    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.9871    0.2159   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4025   -0.1404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3106    0.7276   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1928   -1.1636   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1968   -1.5199    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1009   -2.0315    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4779    1.8021   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0232   -2.2262    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2440   -3.1093    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  CHG  4   2  -1   4  -1   6   1   7   1
+M  END
+> <DATABASE_ID>
+DB11831
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VYZAHLCBVHPDDF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=C(C=C(C=C1)N(=O)=O)N(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H3ClN2O4/c7-5-2-1-4(8(10)11)3-6(5)9(12)13/h1-3H
+
+> <INCHI_KEY>
+VYZAHLCBVHPDDF-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H3ClN2O4
+
+> <MOLECULAR_WEIGHT>
+202.552
+
+> <EXACT_MASS>
+201.978134301
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.726781813685436
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-chloro-2,4-dinitrobenzene
+
+> <ALOGPS_LOGP>
+2.29
+
+> <JCHEM_LOGP>
+2.457258871
+
+> <ALOGPS_LOGS>
+-3.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.936760959463875
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.63999999999999
+
+> <JCHEM_REFRACTIVITY>
+45.5122
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.66e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+Cdnb
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11831
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dinitrochlorobenzene
+
+> <SYNONYMS>
+1-chloro-2,4-dinitrobenzene
+
+$$$$

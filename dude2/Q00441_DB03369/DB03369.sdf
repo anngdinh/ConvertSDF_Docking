@@ -1,0 +1,177 @@
+13695
+  -OEChem-02212011423D
+
+ 26 28  0     0  0  0  0  0  0999 V2000
+    1.5714    2.9376   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5626   -0.6759    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8694   -0.5253    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3811    0.4837    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4280    0.7797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7939    1.7516    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5895    1.8973    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2304   -1.9261    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7836   -1.6087    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7819    0.3702   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8217    0.9608   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6245   -2.0249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4004   -0.8762   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1674   -1.4145    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6865   -0.1292   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0220    2.8974    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6744   -2.8602    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4346   -2.6382    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4471    1.2276   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2497    1.9618   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0982   -3.0023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4837   -0.9487   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8347   -2.2715    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7609    0.0269   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5790    2.9317    0.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0982    3.8326    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 25  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03369
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KIHQWOBUUIPWAN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC2=CC=CC=C2C2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11N/c15-14-9-10-5-1-2-6-11(10)12-7-3-4-8-13(12)14/h1-9H,15H2
+
+> <INCHI_KEY>
+KIHQWOBUUIPWAN-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H11N
+
+> <MOLECULAR_WEIGHT>
+193.2438
+
+> <EXACT_MASS>
+193.089149357
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0006320160086336526
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.857192284832028
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+phenanthren-9-amine
+
+> <ALOGPS_LOGP>
+3.65
+
+> <JCHEM_LOGP>
+3.1232733753333335
+
+> <ALOGPS_LOGS>
+-4.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.801002646712703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+63.658800000000014
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.81e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-bromopropane-2-ol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03369
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00353
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Aminophenanthrene
+
+> <SYNONYMS>
+9-phenanthrenamine; 9-phenanthrylamine; phenanthren-9-amine; Phenanthren-9-ylamine
+
+$$$$

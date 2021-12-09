@@ -1,0 +1,221 @@
+5991
+  -OEChem-10051719273D
+
+ 46 49  0     1  0  0  0  0  0999 V2000
+   -4.6386    0.7554   -1.1201 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2927    0.2345   -0.1534 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2464    0.3876   -0.5904 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5687   -0.7806    0.1613 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0661   -0.8643   -0.1173 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.7375    0.1400   -0.2097 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6102    0.4559    0.3603 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6073    1.7016   -0.1072 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4468   -1.9816   -0.1806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0745    1.6968   -0.2712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8704   -1.4017   -0.3128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5960   -2.0468    0.5939 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0889    0.3105   -2.1382 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1258    0.3961    0.1867 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0537   -2.1623    0.1589 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7934   -0.8471    0.1353 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0856    0.5812    1.1554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9024    1.5682    0.1634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1933   -0.8862    0.0085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2932    1.5150    0.0473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9386    0.2882   -0.0357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3686    0.9396    2.2656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6751   -0.6191    1.2458 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1007   -0.9951   -1.1941 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4521    0.5358    1.4471 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8179    1.8701    0.9553 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0325    2.5574   -0.6452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4047   -2.7493    0.5989 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1387   -2.4503   -1.1220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1924    1.7711   -1.3320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2982    2.6144    0.1986 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3021   -1.7048   -1.2747 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5249   -1.8161    0.4636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0835   -2.9874    0.3636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5400   -1.9109    1.6817 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0457    0.3255   -2.4632 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5373   -0.5936   -2.5614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5782    1.1672   -2.6165 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0920   -2.5875   -0.8523 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5642   -2.8639    0.8298 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5334    0.4229   -0.9326 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4432    2.5489    0.2432 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6974   -1.8487   -0.0531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8649    2.4390    0.0258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6188    1.2575    3.2507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5693   -0.6970   -0.1965 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 41  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 46  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 28  1  0  0  0  0
+  9 29  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 34  1  0  0  0  0
+ 12 35  1  0  0  0  0
+ 13 36  1  0  0  0  0
+ 13 37  1  0  0  0  0
+ 13 38  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 22  3  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 42  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 43  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 44  1  0  0  0  0
+ 22 45  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00977
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BFPYWIDHMRZLRN-SLHNCBLASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H24O2/c1-3-20(22)11-9-18-17-6-4-13-12-14(21)5-7-15(13)16(17)8-10-19(18,20)2/h1,5,7,12,16-18,21-22H,4,6,8-11H2,2H3/t16-,17-,18+,19+,20+/m1/s1
+
+> <INCHI_KEY>
+BFPYWIDHMRZLRN-SLHNCBLASA-N
+
+> <FORMULA>
+C20H24O2
+
+> <MOLECULAR_WEIGHT>
+296.4034
+
+> <EXACT_MASS>
+296.177630012
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.53354161278888
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,10R,11S,14R,15S)-14-ethynyl-15-methyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-2(7),3,5-triene-5,14-diol
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.897353088000001
+
+> <ALOGPS_LOGS>
+-4.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.594918895355708
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.327053739938252
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.6637824751718564
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+87.3745
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.77e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethinyl estradiol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00977
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00691
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ethinylestradiol
+
+> <SYNONYMS>
+17-ethinyl-3,17-estradiol; 17-ethinyl-3,17-oestradiol; 17-ethinylestradiol; 17alpha-Ethinyl estradiol; 17α-ethynylestradiol; Ethinyl estradiol; Ethinylestradiol; Ethinylestradiolum; Ethinyloestradiol; Ethynyl estradiol; Etinilestradiol
+
+> <PRODUCTS>
+AUROVELA Fe; Afirmelle; Alesse 21; Alesse 28; Altavera; Alyacen 1/35; Alyacen 7/7/7; Alysena 21; Alysena 28; Amethia; Amethia Lo; Amethyst; Annovera; Apri; Apri 21; Apri 28; Apri 28 Day; Aranelle; Ashlyna; Aubra; Aubra EQ; Aurovela 1.5/30; Aurovela 1/20; Aurovela 24 Fe; Aurovela Fe 1/20; Aviane; Aviane 21; Aviane 28; Aviane 28 Day; Ayuna; Azurette; Balcoltra; Balziva; Bekyree; Beyaz; Blisovi 24 Fe; Blisovi Fe 1.5/30; Blisovi Fe 1/20; Brevicon; Brevicon 0.5/35 21 Tab; Brevicon 0.5/35 28 Tab; Brevicon 0.5/35 Tablets (21-day Pack); Brevicon 0.5/35 Tablets (28-day Pack); Brevicon 1/35 21 Tab; Brevicon 1/35 28 Tab; Brevicon 1/35 Tablets (21-day Pack); Brevicon 1/35 Tablets (28-day Pack); Briellyn; Camrese; Caziant; Caziant Triphasic Regimen; Centrisa 21; Centrisa 28; Centrisa Lo 21; Centrisa Lo 28; Cesia; Charlotte 24Fe; Chateal; Chateal EQ; Cléo -35; Cryselle; Cyclafem 1/35; Cyclafem 7/7/7; Cyclen Tablets (21 Day); Cyclen Tablets (28 Day); Cyclessa; Cyestra-35; Cyonanz; Cyred; Cyred EQ; Dasetta 1/35; Dasetta 7/7/7; Daysee; Delyla; Demulen 30 (21 Day Pack); Demulen 30 (28 Day Pack); Demulen 50 (21 Day Pack); Demulen 50 (28 Day Pack); Desogen; Desogestrel and Ethinyl Estradiol; Desogestrel and Ethinyl Estradiol and Ethinyl Estradiol; Desogestrel/Ethinyl Estradiol and Ethinyl Estradiol; Diane-35; Drospirenone and Ethinyl Estradiol; Drospirenone and Ethinyl Estradiol Tablets; Drospirenone and Ethinyl Estradiol Tablets 21; Drospirenone and Ethinyl Estradiol Tablets 28; Drospirenone and Ethinyl Estradiol Tablets USP; Drospirenone and Ethinyl Estradiol Tablets USP (21-day Regimen); Drospirenone and Ethinyl Estradiol Tablets USP (28-day Regimen); Drospirenone and Ethinyl estradiol; Drospirenone and ethinyl estradiol; Drospirenone, Ethinyl Estradiol and Levomefolate Calcium and Levomefolate Calcium; Drospirenone/Ethinyl Estradiol/Levomefolate Calcium and Levomefolate Calcium; Drospirenone/ethinyl estradiol/levomefolate calcium and levomefolate calcium; ESTROSTEP Fe; Elinest; EluRyng; Emoquette; Enpresse; Enskyce; Esme 21; Esme 28; Estarylla; Estinyl Tab 0.05mg; Estinyl Tab 0.5mg; Estinyl Tablets 0.02 Mg.; Ethynodiol Diacetate and Ethinyl Estradiol; Etonogestrel/Ethinyl Estradiol; Evra; Evra -(6/0.75); FEMCON Fe; Falessa; Falmina; Fayosim; Femhrt; Femynor; Freya 21; Freya 28; Fyavolv; GENERESS Fe; Gemmily; Generess; Gianvi; Gildagia; Gildess 1.5/30; Gildess 1/20; Gildess 24 Fe; Gildess Fe 1.5/30; Gildess Fe 1/20; HAILEY Fe 1/20; Hailey 1.5/30; Hailey 24 Fe; Hailey Fe 1.5/30; Iclevia; Indayo; Introvale; Isibloom; Jaimiess; Jasmiel; Jevantique; Jevantique Lo; Jinteli; Jolessa; Juleber; Junel 1.5/30; Junel 21 Day; Junel Fe 1.5/30; Junel Fe 1/20; Junel Fe 24; Junel Fe 28 Day; Kaitlib Fe; Kalliga; Kariva; Kelnor 1/35; Kelnor 1/50; Kimidess; Kurvelo; LOESTRIN 1.5/30 21 Day; LOESTRIN 1/20 21 Day; LOESTRIN Fe 1.5/30; LOESTRIN Fe 1.5/30 28 Day; LOESTRIN Fe 1/20; LOESTRIN Fe 1/20 28 Day; Larin 1.5/30; Larin 1/20; Larin 24 Fe; Larin Fe 1.5/30; Larin Fe 1/20; Larissia; Layolis Fe; Leena; Lessina; Levlite; Levonest; Levonorgestrel and Ethinyl Estradiol; Levonorgestrel and Ethinyl Estradiol Tablets, 0.1 Mg/0.02 mg; Levonorgestrel and Ethinyl Estradiol and Ethinyl Estradiol; Levonorgestrel and Ethinyl Estradoil; Levora; Lillow; Linessa 21; Linessa 28; Lo Loestrin Fe; Lo Minastrin Fe; Lo Simpesse; Lo-Zumandimine; Lo-femenal 21 Tablets; Lo-ovral-28; Lo/Ovral; Lo/Ovral-28; Lo/ovral-28; LoJaimiess; LoSeasonique; Loestrin 1.5/30; Loestrin 21 1.5/30; Loestrin 21 1/20; Loestrin 21 Day; Loestrin 24 Fe; Loestrin Fe 28 Day; Lolo; Lomedia 24 Fe; Loryna; Low-Ogestrel; Lutera; Lutera 21; Lutera 28; Lybrel; MICROGESTIN Fe 1.5/30; MICROGESTIN Fe 1/20; Marfem 21; Marfem 28; Marlissa; Marvelon 21; Marvelon 28; Melodetta 24 Fe; Mercilon; Merzee; Mibelas 24 Fe; Microgestin; Microgestin 1.5/30; Microgestin 1/20; Microgestin 24 Fe; Microgestin Fe; Microgestin Fe 1.5/30; Microgestin Fe 1/20; Mili; Min-ovral 21; Min-ovral 21 Tab; Min-ovral 28; Min-ovral 28 Tab; Minastrin 24 Fe; Minestrin 1/20; Minivlar 30; Mircette; Mirvala 21; Mirvala 28; Modicon; Mono-Linyah; MonoNessa; Mya; Mylan-cyproterone / Ethinylestradiol; Myvlar; Myzilra; Necon; Necon (28 Day Regimen); Necon 0.5/35; Necon 1/35; Necon 1/35 (28 Day Regimen); Necon 10/11; Necon 777; Necon 777 777; Nexesta Fe; Nikki; Nordette; Norethindrone Acetate and Ethinyl Estradiol; Norethindrone Acetate and Ethinyl Estradiol and Ferrous Fumarate; Norethindrone and Ethinyl Estradiol and Ferrous Fumarate; Norethindrone and Ethinyl Estradiol, and Ferrous Fumarate; Norethindrone and ethinyl estradiol; Norgestimate and Ethinyl Estradiol; Norgestimate and ethinyl estradiol; Norgestrel/Ethinyl Estradiol; Norinyl; Nortrel (21 Day Regimen); Nortrel 21 Day; Nortrel 28 Day; Nortrel 7/7/7 (28 Day Regimen); NuvaRing; Nuvaring; Nylia 1/35; Nylia 7/7/7; Nymyo; ORTHO TRI CYCLEN Lo; Ocella; Ogestrel; Orsythia; Ortho 0.5/35 Tablets (21 Day); Ortho 0.5/35 Tablets (28 Day); Ortho 1/35 Tablets (21 Day); Ortho 1/35 Tablets (28 Day); Ortho 10/11 Tablets (21 Day); Ortho 10/11 Tablets (28 Day); Ortho 7/7/7 Tablets (21 Day); Ortho 7/7/7 Tablets (28 Day); Ortho Cept; Ortho Cyclen; Ortho Evra; Ortho Novum 1/35; Ortho Novum 135; Ortho Tri Cyclen; Ortho Tri-Cyclen; Ortho-Novum 777; Ortho-cept Tablets (21 Day); Ortho-cept Tablets (28 Day); Ortho-novum 10/11; Ovcon 35; Ovcon 50; Ovima 21; Ovima 28; Ovral 21; Ovral 21 Tab; Ovral 28 Tablets; Ovral 28tab; Philith; Pimtrea; Pirmella 1/35; Pirmella 7/7/7; Portia; Portia 21; Portia 28; Preven Emergency Contraceptive; Preven Tablets; Previfem; Previfem (21day); Previfem (28day); Qismette 21; Qismette 28; Quartette; Quasense; Rajani; Reclipsen; Reclipsen 21; Reclipsen 28; Reclipsen 28 Day; Rivelsa; Safyral; Sarensis 21; Sarensis 28; Seasonale; Seasonique; Select 1/35 (21-day); Select 1/35 (28-day); Setlakin; Simliya; Simpesse; Solia; Sprintec; Sronyx; Syeda; Synphasic 21 Tablets; Synphasic 28 Tablets; Synphasic-28 Tablets; TARINA Fe 1/20; Tarina 24 Fe; Tarina Fe 1/20 EQ; Taro-cyproterone/ethinyl Estradiol; Taytulla; Teva-cyproterone / Ethinyl Estradiol; Tilia Fe; Tri Femynor; Tri-Estarylla; Tri-LO-marzia; Tri-Legest Fe 28 Day; Tri-Linyah; Tri-Lo- Estarylla; Tri-Lo-Mili; Tri-Lo-Sprintec; Tri-Mili; Tri-Norinyl; Tri-Nymyo; Tri-Previfem; Tri-Sprintec; Tri-VyLibra; Tri-VyLibra Lo; Tri-cira 21; Tri-cira 28; Tri-cyclen Lo (-21 Day); Tri-cyclen Lo (28 Day); Tri-cyclen Tablets - 21-day; Tri-cyclen Tablets - 28-day; Tri-jordyna 21; Tri-jordyna 28; Tri-lena 21; Tri-lena 28; Tri-lena Lo 21; Tri-lena Lo 28; Tri-previfem (21 Day); Tri-previfem (28 Day); TriNessa; TriNessa Lo; Tricira Lo; Triphasil 21; Triphasil 21 Tab; Triphasil 28; Triphasil 28 Tab; Triphasil-21; Triquilar 21; Triquilar 28; Trivora; Twirla; Tyblume; Tydemy; Velivet Triphasic Regimen; Vestura; Vienva TM; Viorele; Volnea; VyLibra; Vyfemla; WYMZYA Fe; Wera; Wymzya Fe; Xulane; Yasmin; Yasmin 21; Yasmin 28; Yasmin Plus; Yaz; Yaz Plus; Zamine 21; Zamine 28; Zarah; Zarah 21; Zarah 28; Zenchent; Zenchent 0.4/35; Zenchent FE; Zeosa; Zovia 1/35; Zovia 1/35E-28; Zovia 1/50E-28; Zumandimine; camrese Lo
+
+> <INTERNATIONAL_BRANDS>
+Estinyl
+
+$$$$

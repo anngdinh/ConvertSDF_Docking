@@ -1,0 +1,136 @@
+3396559
+  -OEChem-12161915403D
+
+  8  7  0     1  0  0  0  0  0999 V2000
+    0.1398    0.0004    0.3819 P   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7289   -1.3061   -0.1427 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.7221    1.3097   -0.1427 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5907   -0.0039   -0.0966 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0868    0.0003    1.7919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0941    0.8816    0.3007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6875   -0.0041   -1.1857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0897   -0.8921    0.3006 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <DATABASE_ID>
+DB02825
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BCDIWLCKOCHCIH-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+CP([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH5O2P/c1-4(2)3/h4H,1H3,(H,2,3)/p-1
+
+> <INCHI_KEY>
+BCDIWLCKOCHCIH-UHFFFAOYSA-M
+
+> <FORMULA>
+CH4O2P
+
+> <MOLECULAR_WEIGHT>
+79.015
+
+> <EXACT_MASS>
+78.994890884
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+8
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.004837420517647618
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.835175978251829
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+methylphosphinate
+
+> <ALOGPS_LOGP>
+-1.26
+
+> <JCHEM_LOGP>
+-1.1868999999999998
+
+> <ALOGPS_LOGS>
+0.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.3132801948218016
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.129999999999995
+
+> <JCHEM_REFRACTIVITY>
+14.8315
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.94e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylphosphonic acid ester group
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02825
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03237
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methylphosphinate
+
+$$$$

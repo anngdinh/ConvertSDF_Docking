@@ -1,0 +1,223 @@
+444795
+  -OEChem-05231917203D
+
+ 50 50  0     0  0  0  0  0  0999 V2000
+    7.9777    1.3595    1.2054 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0170   -0.1977   -0.4568 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8986   -0.8277    0.4507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2894   -0.1446    0.3408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2322    1.3333    0.6831 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7885    0.0349   -0.1948 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2935    2.0538   -0.2729 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9888    1.3311   -0.5417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0439   -2.2043   -0.2429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5700   -1.0618    1.9431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5082   -0.6273   -0.3826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9820    2.2288   -1.2235 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295   -0.0284   -0.1470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0052   -0.6280   -0.3137 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0543   -2.0586   -0.7984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560    0.0152   -0.0634 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5130   -0.4843   -0.1952 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5907    0.2675    0.0895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9979   -0.1363   -0.0146 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2798   -1.5465   -0.4657 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9399    0.7688    0.3194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4034    0.5524    0.2811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0142   -0.6423    0.9976 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6793   -0.2504   -0.6813 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8993    1.4764    1.7174 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2339    1.7733    0.6145 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0866    3.0493    0.1396 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8045    2.2063   -1.2324 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1391   -2.0955   -1.3295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1945   -2.8651   -0.0389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9368   -2.7301    0.1166 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3760   -1.6100    2.4443 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6541   -1.6520    2.0641 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4217   -0.1192    2.4811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5374   -1.6385   -0.7711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2540    1.6871   -1.8325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4649    2.8562   -0.4909 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4948    2.8974   -1.9257 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3019    0.9743    0.2737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4010   -2.1352   -1.7930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0428   -2.5069   -0.8843 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5045   -2.7086   -0.1141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0874    1.0467    0.2847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6649   -1.4955   -0.5452 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4233    1.2881    0.4348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9695   -1.6851   -1.5070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3320   -1.8275   -0.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7428   -2.2676    0.1611 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6419    1.7555    0.6714 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9541    1.2649    1.2192 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  1 50  1  0  0  0  0
+  2 22  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 23  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 27  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 29  1  0  0  0  0
+  9 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 35  1  0  0  0  0
+ 12 36  1  0  0  0  0
+ 12 37  1  0  0  0  0
+ 12 38  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 39  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 40  1  0  0  0  0
+ 15 41  1  0  0  0  0
+ 15 42  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 44  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 45  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 46  1  0  0  0  0
+ 20 47  1  0  0  0  0
+ 20 48  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 49  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00755
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SHGAZHPCJJPHSC-YCNIQYBTSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C/C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H28O2/c1-15(8-6-9-16(2)14-19(21)22)11-12-18-17(3)10-7-13-20(18,4)5/h6,8-9,11-12,14H,7,10,13H2,1-5H3,(H,21,22)/b9-6+,12-11+,15-8+,16-14+
+
+> <INCHI_KEY>
+SHGAZHPCJJPHSC-YCNIQYBTSA-N
+
+> <FORMULA>
+C20H28O2
+
+> <MOLECULAR_WEIGHT>
+300.442
+
+> <EXACT_MASS>
+300.208930142
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.845994315681
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenoic acid
+
+> <ALOGPS_LOGP>
+5.66
+
+> <JCHEM_LOGP>
+5.014367711
+
+> <ALOGPS_LOGS>
+-4.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.757033385475081
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+97.79079999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.77e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(R)-6-hydroxywarfarin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00755
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00051; APRD00362
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Tretinoin
+
+> <SYNONYMS>
+(all-E)-3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid; 3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexene-1-yl)-2,4,6,8-nonatetraenoic acid (ECL); Acide retinoique; all trans Retinoic acid; all trans-Retinoic acid; all-(E)-Retinoic acid; all-trans-beta-Retinoic acid; all-trans-Retinoic acid; all-trans-Tretinoin; all-trans-Vitamin A acid; all-trans-Vitamin A1 acid; ATRA; beta-Retinoic acid; Retinoic acid; Retionic acid; trans-Retinoic acid; Tretin M; Tretinoin; Tretinoina; Trétinoïne; Tretinoinum; Vitamin A acid
+
+> <PRODUCTS>
+011010 Niacinamide 4% / Tretinoin 0.025%; 011013 Niacinamide 4% / Tretinoin 0.025%; 011020 Niacinamide 4% / Tretinoin 0.05%; 011021 Niacinamide 4% / Tretinoin 0.05%; 011218 Niacinamide 2% / Spironolactone 5% / Tretinoin 0.025%; 011220 Niacinamide 2% / Spironolactone 5% / Tretinoin 0.05%; 141016 Hydrocortisone 0.5% / Hydroquinone 4% / Tretinoin 0.025%; 141017 Hydrocortisone 0.5% / Hydroquinone 6% / Tretinoin 0.025%; 141060 Hydrocortisone 0.5% / Hydroquinone 4% / Tretinoin 0.025%; 141061 Hydrocortisone 0.5% / Hydroquinone 8% / Tretinoin 0.025%; Altreno; Ascorbyl Palmitate 2% / Hyaluronic Acid Sodium Salt 0.2% / Niacinamide 5% / Tretinoin 0.025%; Atralin; Avita; Benzoyl Peroxide 2.5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.025%; Benzoyl Peroxide 2.5%, Clindamycin Phosphate 1%, Niacinamide 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Spironolactone 2% / Tretinoin 0.025%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Spironolactone 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.1%; Benzoyl Peroxide 5% / Clindamycin1% / Niacinamide 2% / Tretinoin 0.025%; Benzoyl Peroxide 5% / Niacinamide 2% / Tretinoin 0.025%; Biacna Topical Gel; Cenovia; Clindamycin 1% / Niacinamide 4% / Spironolactone 2% / Tretinoin 0.025%; Clindamycin 1% / Niacinamide 4% / Tretinoin 0.025%; Clindamycin 1% / Niacinamide 4% / Tretinoin 0.05%; Clindamycin 1% / Sodium Sulfacetamide Monohydrate 5% / Tretinoin 0.025%; Clindamycin Phosphate 1.2% and Tretinoin 0.025%; Clindamycin Phosphate and Tretinion; Clindamycin Phosphate and Tretinoin; Dapsone 6% / Niacinamide 2% / Tretinoin 0.025%; Dapsone 8.5% / Niacinamide 2% / Tretinoin 0.025%; Dermapak Plus; Dermawerx Zmt Pak; Desoximetasone 0.05% / Hydroquinone 6% / Tretinoin 0.05%; Dexamethasone Sodium Phosphate 0.1% / Finasteride 0.1% / Minoxidil 5% / Tretinoin 0.025%; Dr. Throwers Hydrotet; Dr. Throwers Pbc No. 1; Finasteride 0.1% / Minoxidil 7% / Tretinoin 0.025%; Fluocinolone Acetonide 0.01% / Minoxidil 5% / Tretinoin 0.025%; Hyaluronic Acid Sodium Salt 0.5% / Hydroquinone 4% / Tretinoin 0.05%; Hyaluronic Acid Sodium Salt 0.5% / Niacinamide 4% / Tretinoin 0.025%; Hyaluronic Acid Sodium Salt 0.5% / Niacinamide 4% / Tretinoin 0.05%; Hyaluronic Acid Sodium Salt 0.5% / Niacinamide 4% / Tretinoin 0.1%; Hydrocortisone 0.5% / Hydroquinone 4% / Tretinoin 0.025%; Hydrocortisone 0.5% / Hydroquinone 6% / Tretinoin 0.025%; Hydrocortisone 0.5% / Hydroquinone 6% / Tretinoin 0.05%; Hydrocortisone 0.5% / Hydroquinone 8% / Tretinoin 0.025%; Hydrocortisone 0.5% / Hydroquinone 8% / Tretinoin 0.05%; Hydrocortisone 1% / Hydroquinone 8% / Tretinoin 0.05%; Hydroquinone 4% / Tretinoin 0.025%; Hydroquinone 4% / Tretinoin 0.025% / Triamcinolone Acetonide 0.025%; Hydroquinone 5% / Tretinoin 0.025% / Triamcinolone Acetonide 0.025%; Hydroquinone 6% / Tretinoin 0.05% / Triamcinolone 0.025%; Hydroquinone 6% /tretinoin 0.05%; Hydroquinone 8% / Tretinoin 0.025%; Hydroquinone 8% / Tretinoin 0.025%.; Imiquimod 5% / Levocetirizine Dihydrochloride 1% / Tretinoin 0.05%; Imiquimod 5% / Salicylic Acid 30% / Tretinoin 0.1%; Imiquimod 5% / Tretinoin 0.025%; Minoxidil 5% / Progesterone 0.1% / Tretinoin 0.025%; Minoxidil 7% / Progesterone 0.1% / Tretinoin 0.025%; Minoxidil 7% / Tretinoin 0.025%; Niacinamide 2% / Spironolactone 5% / Tretinoin 0.025%; Niacinamide 2% / Spironolactone 5% / Tretinoin 0.05%; Niacinamide 4% / Tretinoin 0.025%; Niacinamide 4% / Tretinoin 0.05%; Niacinamide 4% / Tretinoin 0.1%; OLIVIA QUIDO FIRM and FADE I; OLIVIA QUIDO FIRM and FADE II; Obagi; Refissa; Refissa Tretinoin (Emollient); Rejuva-A; Renova; Retin-A; Retin-A MICRO; Retisol-A; Solage; Solagé; Stie Vaa Sol 0.05%; Stieva-A Cream; Stieva-A Gel; Stieva-A Solution; Stievaa Gel 0.01%; Stievamycin Forte; Stievamycin Mild; Stievamycin Regular; TRETIN-X Cream 0.025%; TRETIN-X Cream 0.05%; TRETIN-X Cream 0.1%; TRETIN-X Gel 0.01%; TRETIN-X Gel 0.025%; Tretin-X; Tretin.x; TretinX; Tretinoin; Tretinoin (Emollient); Tretinoin Cream; Tretinoin Gel; Tretinoin Gel Microsphere; Tretinopak; Tri-luma; Veltin; Vesanoid; Vitamin A Acid; Vitamin A Acid 0.01% Cream; Vitamin A Acid 0.025% Cream; Vitamin A Acid 0.05% Cream; Vitamin A Acid 0.1% Cream; Vitinoin - Crm 0.025%; Vitinoin - Crm 0.05%; Vitinoin - Crm 0.1%; Vitinoin Gel - 0.025%; Ziana
+
+> <INTERNATIONAL_BRANDS>
+Aberel; Aberela; Airol; Dermairol; Eudyna; Kétrel; Sotret; Stieva-A; Vitinoin
+
+$$$$

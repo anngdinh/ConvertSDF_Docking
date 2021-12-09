@@ -1,0 +1,231 @@
+445354
+  -OEChem-04101817223D
+
+ 51 51  0     0  0  0  0  0  0999 V2000
+    8.2309    1.0896    1.4385 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5065   -0.7529    0.5327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8652   -0.0058    0.4386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7242    1.4800    0.7163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3782    0.0258   -0.1836 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7844    2.1131   -0.2986 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5265    1.3155   -0.5783 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7424   -2.1475   -0.0974 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1392   -0.9426    2.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1389   -0.7068   -0.3844 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5008    2.1331   -1.3291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9258   -0.1585   -0.2117 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3701   -0.8224   -0.3918 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3489   -2.2702   -0.8147 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4922   -0.1038   -0.1705 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8689   -0.5477   -0.2866 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9131    0.2624   -0.0392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3345   -0.0870   -0.1274 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6815   -1.4939   -0.5391 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2495    0.8629    0.1595 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7425    0.7566    0.1444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5908   -0.4394    1.1385 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2944   -0.1331   -0.5652 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3496    1.6479    1.7325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7048    1.9667    0.6613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5152    3.1128    0.0646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3197    2.2521   -1.2469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8695   -2.0780   -1.1840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9195   -2.8411    0.1065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6470   -2.6130    0.3126 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9535   -1.4288    2.5717 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2497   -1.5728    2.1388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9269    0.0123    2.5152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2283   -1.7305   -0.7287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0040    2.7968   -2.0429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8205    1.5315   -1.9370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9299    2.7639   -0.6407 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8539    0.8581    0.1698 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3408   -2.7136   -0.9219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1849   -2.8781   -0.0756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1482   -2.3789   -1.7852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3867    0.9392    0.1316 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0428   -1.5740   -0.5854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7032    1.2896    0.2596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2698   -2.2157    0.1751 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7554   -1.6833   -0.5901 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2783   -1.7140   -1.5339 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8939    1.8551    0.4406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1527    1.4805   -0.5665 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1286   -0.2276   -0.1227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9099    0.4112    2.0573 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  1 51  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+  9 32  1  0  0  0  0
+  9 33  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 11 36  1  0  0  0  0
+ 11 37  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 38  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 39  1  0  0  0  0
+ 14 40  1  0  0  0  0
+ 14 41  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 42  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 43  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 44  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 45  1  0  0  0  0
+ 19 46  1  0  0  0  0
+ 19 47  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 48  1  0  0  0  0
+ 21 49  1  0  0  0  0
+ 21 50  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00162
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FPIPGXGPPPQFEQ-OVSJKPMPSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H30O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,21H,7,10,14-15H2,1-5H3/b9-6+,12-11+,16-8+,17-13+
+
+> <INCHI_KEY>
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+
+> <FORMULA>
+C20H30O
+
+> <MOLECULAR_WEIGHT>
+286.4516
+
+> <EXACT_MASS>
+286.229665582
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.5403584594368
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraen-1-ol
+
+> <ALOGPS_LOGP>
+6.38
+
+> <JCHEM_LOGP>
+4.694093173000001
+
+> <ALOGPS_LOGS>
+-4.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.435769749539965
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.1707943115512176
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+97.92339999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.58e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+vitamin A
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00162
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00007; APRD00486
+
+> <DRUG_GROUPS>
+approved; nutraceutical; vet_approved
+
+> <GENERIC_NAME>
+Vitamin A
+
+> <SYNONYMS>
+(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraen-1-ol; all-trans-retinol; all-trans-retinyl alcohol; all-trans-vitamin A alcohol; Retinol; Retinolum; Vitamin A1
+
+> <PRODUCTS>
+24 Multivitamins + Minerals; 400 Vitamin A 10000iu; 50 Plus; 50 Plus Multiple Vitamins & Minerals; A & C Powder; A + D Ointment; A + Zinc; A Caps 10000 I.U.; A D Calcium Tab; A Mulsion 10; A and D Ointment; A-D Calcium Cap; Aces Tab; Acti-retinol & Zn Caplet; Ad & Calcium Cap; Ad Calcium Cap; Adc Comprimes; Adult Formula 50+; Adult Infuvite Multiple Vitamins; Alsimine W Vitamins A D; Amerix Multivitamin; Anaplex Tab; Animal Shapes; Animal Shapes w/Iron Chewtabs; Antiseptic Skin Cream; Appedrine; Aquasol A; Aquasol A & D Drops; Aquasol A Cap 25000unit; Aquasol A Cap 50000unit; Aquasol A Cream; Arovit Vitamine A Tab 10000unit; Avon Vitadvance Multi-kids Complete; B.E.T. Complex; Bacmin; Bear Essentials; Beta Green Enriching Formula; Beta-retinol + Zinc Caplet; Biovim Tab; Budpak Vitamin A and D; Bugs Bunny Chew Multi Vit Plus Iron; Bugs Bunny and Friends Multiple Vitamins; C 106 Tab; C-Mask Pack; C. Vit-min Formula; Calci A and D Tab; Calcitol; Calcium A D; Cataplex A Tab 1500unit; Cataplex A-C Tab; Central-vite 18 Essential; Century Complete; Ch-P Cap; Chew.multiple Vits.with Extra C for Children; Chewable Adult Multivitamins With Minerals; Chewable Children's Complete Multivitamins With Essential Minerals; Chewable Multiple Vit Plus Iron for Children; Chewable Multiple Vitamins Plus Extra C; Chewable Multiple Vitamins Plus Iron Tab; Chewable Multiple Vitamins Tab; Chewable Multiple Vitamins for Children; Chewable Multivitamins; Chewable Multivitamins Plus Iron; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children Pediatric Vitamins Drops; Children Vitamin Drops; Children's Chew Multi & Min Tab; Children's Chewable Multi Vit W Iron; Children's Chewable Multi Vitamins; Children's Chewable Multi Vitamins With Iron Tablets; Children's Chewable Multi-vitamin; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins (chewable Tablets); Children's Chewable Multiple Vitamins - Tab; Children's Chewable Multiple Vitamins With Extra Vitamin C (chewable Tablets); Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets); Children's Chewable Multivitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Children's Chewable Multivitamins With Minerals; Children's Chewable Multivitamins and Minerals; Children's Chewable Tab; Children's Chewable With Iron; Children's Multivitamins; Children's Multivitamins With Iron; Children's Vitamins Chewable; Children's Vitamins W Iron Chewable; Childrens Chew Multi Vitamin Tab; Childrens Chewab Vitamin W Chel Minerals; Childrens Chewable Multiple Vitamins; Childrens Chewable Multiple Vitamins Plus Fe; Childrens Chewable Multiple Vitamins Tab; Childrens Chewable Multiple Vitamins W.iron; Childrens Chewable Multivitamins; Childrens Chewable Multivitamins W Iron; Childrens Chewable Tab; Childrens Chewable Vitamin Tab; Childrens Chewable Vitamins; Childrens Chewable Vitamins W Iron; Childrens Multiple Vit and Min Chew Tab; Cilobana Cpa Tab; Classic Swiss One 10 Multivitamin and Mineral Tab; Cod Liver Oil; Cod Liver Oil Cap; Cod Liver Oil Capsule; Cod Liver Oil Capsules; Cod Liver Oil Capsules 10 Min; Cod Liver Oil Cherry; Cod Liver Oil Mint Flavoured; Cod Liver Oil Oleovitamin A & D Caps 20min; Cod Liver Oil USP; Cod Liver Oil W Added Vit A&d; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Croq-vit Pour Enfants; Cyroplex; Daily Balance Tab; Daily Energy Brand Vitamin & Mineral Drink Mix; Daily-Vite; Deriton; Dermamed Nutrition for troubled skin; Dexatrim Tablets; Doctor's Choice Brand for Men; Dry Super Vitamin A Plus D - Cap; Dynam Ampoule Et Tablet; E & I Formulae; E.S.T. Complex; E.V.C. Vitamins Tab; EC + Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Elite OB Prenatal Multivitamin; Emulsified Norwegian Cod Liver Oil Caps; Enrich Core Pack - Children Vitamin and Mineral Supplement; Escavite; Escavite Lq; Essential Vitamins and Minerals; Evc - Liq; Evc Liquid Vitamins A,c,b6 With Beta Caro&zn; Everyday Multiple Vitamins; Everyday Multiple Vitamins With Iron; Extra Once A Day; Extra P.N. Vitamin-mineral Drink Mix; Fem - Control; Fem - Protect; Feminex 300 Tab; Femitab Tab; Fizz Multivitamins for Kids W C Loz; Fletanol Capsules; Flexadyn Tab; Flinstones Multiple Plus Iron; Flintstones Multiple Vitamins; Flintstones Multiple Vitamins Plus Iron; Flintstones Multiple Vitamins Tab; Flintstones W Extra C Tab; Floriva; Floriva Plus; Food Nutrition Inc. Men's Vitamin and Mineral Supplement; For Kids Only Chewable Multivit. Plus Iron; For Kids Only Chewable Multivitamins; For Kids Only Chewable Multivitamins - Tab; For-2; Formula 7115 Tab 700unit; Formula Csp With Vitamins A C and Zinc Loz; Formula Fe-vitamin and Mineral Tab; Formula Gly; Formula Hh; Formula Im-vitamins and Minerals Tab; Formula L.G.I.; Formula O; Formula Osg; Formula R Tab; Formula U - Tab; Formule 7561 Caps; Fortamines 10 Capsules; Fortamines-10 Comprimes; Forty Plus Vitamin Supplement; G.A.S. Complex; Garfield Chewable Multivitamins Tab; Garfield Chewable Multivits Plus Iron Tab; Gemvites Jr Tab Chewable; Gestamine Comprimes; Globucel - Methode; Grand Master Formula Tab; Great Day/am Formula Tab; Guardyn Tab; Halibut Liver Oil Cap; Halibut Oil; Hemarexin Tab; High Potency Multivitamins & Minerals Caplets; Huile De Foie De Fletan Capsules; Huile De Foie De Morue Cap 10min; Huile De Foie De Morue Cap 20 Min; Huile De Foie De Morue Capsules; Huile Foie Morue Cap; Hypo Vites Tab; INATAL Ultra; Imm Formula Cap; Inatal Advance; Infa Drops Multivitamins; Infant Multivitamin Drops; Infant's Multiple Vitamin Drops; Infantol Drops; Infants' Multiple Vitamin Drops; Infants' Vitamin Drops; Infuvite Adult Multiple Vitamins; Innersource Tab; Insur-all Vitamin Supplement; Isotonix Multitech Vitamin Mineral Supplemen; Junior Multi Vitamins - Regular; K.L. Vitamin-mineral; Kenwood Liquid Supplement; Kid's Choice Children's Chewable Vitamins - Tab; Kidmag Vitamins W Magnesium Tab; Kids Stuff Tablets; Kids Stuff With Iron Tablets; Kimchi Vitamin chewable multivitamin; Kindervites; L.C. Supplement; L.I.P. Complex; Le Stick A Levres Onybel; Liqui Infant Vitamins; Liqui Vita; Lustime Angel; Lustime Unicorn; Lutime; M-Natal Plus; M.V.I. 12; M.V.I. Adult; M.V.I. Paediatric; M.V.I. Pediatric; M.V.I.-12; MVC-Fluoride; Mag-A-folic Tab; Magnum-75 Vitamin and Mineral Supplement; Maltlevol 12 Liq; Maltlevol Liq; Master Key Multi Vitamin Multi Mineral Formula 2; Materna; Materna - Tab; Materna-tab; Maxi 10 Tab; Maxi 6 Liq; Maximum Once A Day; Maxine Vitamin and Mineral Supplement; Mega Balance; Mega Capsules; Mega Vitaminerals; Mega-vim 75 With Beta-carotene - Tablets; Megavite Rx; Men's; Men's 50+; Men's Multi Master Formula; Milltrium Senior Vitamin and Mineral Supplement; Mor-vites Tab; Mr. Tumee Multi-vitamin; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 1000; Multi 12 Injection; Multi Enfants Tab; Multi II IV Vi Tab; Multi Rol; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin Drops with Fluoride; Multi Vitamin Drops with Fluoride and Iron; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Plus Iron; Multi Vitamin and Fluoride; Multi Vitamin and Mineral vitamin; Multi Vitamin with Fluoride; Multi Vitamin, Iron and Fluoride; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi Vite Liq Adult; Multi Vite Liq Junior; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-Vit with Fluoride; Multi-Vit with Fluoride and Iron; Multi-Vitamin; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-Vitamin with Fluoride; Multi-actin; Multi-force for Women Tab; Multi-kid; Multi-phyto Capsules; Multi-vitamin Dietary Supplement; Multi-vitamines Enfants Comprime; Multi-vitamins; Multi-vitamins With Minerals; MultiVitamin Drops with Fluoride and Iron; MultiVitamin with Fluoride; MultiVitamin with Fluoride Chewable; MultiVitamin with Fluoride Drops; MultiVitamin, Iron and Fluoride Drops; Multicaps; Multiple Vit Plus Iron Tab; Multiple Vitamin Plus Minerals Tab; Multiple Vitamin Tab; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multiple Vitamins - Tablet; Multiple Vitamins Childrens Chewable; Multiple Vitamins Plus Iron - Tab; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins Tab; Multiple Vitamins W Iron Tab; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Iron; Multiple Vitamins With Iron Tablets; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multitabs; Multivit Et Fer Ampoules Et Comprimes; Multivit with Fluoride; Multivitamin; Multivitamin & Multimineral; Multivitamin Drops with Fluoride; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamines; Multivitamines Et Mineraux; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamines Pour Enfants (chewable Tablets); Multivitamins; Multivitamins W Iron; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Minerals Tablets; Multivitamins and Minerals With Betacarotene Tablets; Multivitamins and Multiminerals Formula Regular Tablet; Multivitamins for Children; Multra With Iron; Munit-E Tablet; Mvc; Mvc 9 Plus 3 Inj; Mvc 9+4 Inj; Nata Komplete; Natavite; Natural Source Spectrum With Beta Carotene; Neo Vites Tab; Neo-vites & Minerals Tab; Neomultivite; Neonatal Plus Vitamin; Neonatal Vitamin; Niva-Plus; No440 Cap; NovaFerrum Multivitamin with Iron Pediatric Drops; NovaMV Multivitamin; Nrg Plus Liq; Numark Multivitamins; Nutra-clear; Nutria; Nutrifer Plus Tablets; Nutrol Ad; Nutrol Ad Cap; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; Olympian Multi Vit Plus Minerals Tab; Omega-3 Rx Complete; Onccor; Oncovite; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; One Daily Vitamin and Mineral Dietary Supplement; One Per Day Vitamin and Mineral Dietary Supplement; One Tablet Daily Mens Formula; One-A-day Advance Fem - Tablets; One-A-day Advance Men's; Only One - Tablet; Orifer F; P.N. Vitamin-mineral Drink; P.R.O. Complex; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV-Select; Palm Springs Multvit and Min Tab; Paramettes Adults; Paramettes Chewable Multivitamins Plus Iron; Paramettes Chewable Multivits With Iron Tab; Paramettes Multivits Plus Iron Tab (teens); Paramettes Syrup; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Perfect Harvest; Permathene-12 - Caplet; Phaze 18 Clearskin; Phytofortis + Calcium A-D; Phytopure; Phytovim Cap; Ply Vi Sol Chewable Tab; Poly Vi Flor Chewable Tab; Poly-VI-sol Drops; Poly-Vi-Flor; Poly-Vi-Sol; Poly-Vitamin with Fluoride; PreGen DHA; PreNatal Vitamins Plus; PreQue 10; Premium Prenatal; Premium Prenatal - Tablets; Prenara; Prenatal; Prenatal Formula Tab; Prenatal Mega Antioxidant; Prenatal Plus; Prenatal Plus Iron; Prenatal Plus Multivitamin Plus DHA MiniCaps; Prenatal Supplement - Tab; Prenatal Vi-min; Prenatal Vitamin and Mineral Supplement; Prenatal Vitamin and Mineral Supplement -tab; Prenatal Vitamin and Mineral Supplement Tab; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal Vitamins and Minerals Tablets; Prenatal and Post Partum Supplement; Prenate Elite; Prenatrix; Prenatryl; Prenatvite; Prenatvite Complete; Prenatvite Plus; Prenavite Forte; Prenavite Forte Tablets; Prenavite Tablets; Preplus; Prevital Tab; Pro His Mint; Pro-sol A Liq 5000unit/min; Q.T. Vitamin and Mineral Drink Mix; Quflora FE; Quflora FE Pediatric Drops; Quflora Gummies; Quflora Pediatric; Quflora Pediatric Drops; RE FAC-x; RE Prenatal Multivitamin with Iron; Real Vitamin Supplement Cap; Reaphirm Plant Source DHA; Renadyn Tab; Revit Plus Cap; Revit Tab; Revitex Ampoules Et Comprimes; Revival 1 Tab; Right Choice A.M. Multi Formula - Caplet; Se-Natal; Se-Natal One; Select OB; Select-OB Plus DHA Prenatal Supplement Plus DHA; Shen Min Vitamin Supplement; Sincera - Tablets; Skineez; Sopalamine 3b Plus; Sopalamine/3b Plus C; Spectrum 2 Cap; Spectrum Performa Multivitamins and Minerals Tablets; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super A 40; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Vita Vim Multivitamins and Minerals; Super Vita-vim With Beta-carotene - Tab; Super-A Vitamins With Selenium Dietary Supplement; Super-pote Vitamin Supplement; Supravite Pour Enfants; Sveets; Sweet Sixteen - Tab; Swical-energy 3e Age; Swiss One; Swiss One Multi Vit & Chel Min Tab; Swiss One Timed Release Tab; Swiss Total One; T.A. Vit A & D Ointment; TL-Fluorivite; Tender Age Multi Vitamins; Tender Age Vit Adc Drops; Theraplex Acp; Thymunase Tab; Timed Release Vita-vim Srt; Tonicol Et A-D-C Ampoules/comprimes; Tonimol Cap Liq; Total Living Concepts Formula One - Tab; Totalvit Plus; Tozal; Tri Vi Flor Tab; Tri-VI-sol Drops; Tri-Vi-Flor; Tri-Vit With Fluoride And Iron Drops; Tri-Vit with Fluoride Drops; Tri-Vitamin with Fluoride; Tri-Vitamin with iron and fluoride; Tri-Vite Drops with Fluoride; Trinatal Ultra; Triple Vitamin Drops with Fluoride; Triple-Vitamin Drops with Fluoride; V & M Vitamin and Mineral Supplement; VIL-Rx; VITAFOL Gummies; VITAMINS A, C, D and FLUORIDE; Vasculine; Vege 1 Daily Tab; Vi-daylin Adc Vitamins Drops for Infants; Vimeral Tab; Vit-HA Multi Vitamin and Zinc Supplement; Vita A + D Capsules; Vita Balance 2000; Vita Day Tab; Vita Plex Tab; Vita Vim Multivitamins and Minerals Tab; Vita Vim With Beta Carotene-caplet; Vita-vim - Tab; Vita-vim With Beta-carotene - Tab; Vitaday Junior Tab; Vitaday Tab; Vitafant; Vitafol Caplet; Vitafol Fe Plus; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol-OB Plus DHA Prenatal Supplement Plus DHA; Vitalife - Capsule; Vitamin & Mineral Formula 1 Dietary Supplement; Vitamin A; Vitamin A (100,000 Iu) and Vitamin E (20 Iu) Oral Liquid Preparation; Vitamin A (200,000 Iu) and Vitamin E (40 Iu) Oral Liquid Preparation; Vitamin A 10000I.U. Cap; Vitamin A 5000 I.U. Dietary Supplement; Vitamin A C E W.niacinam.beta Car.and Min.; Vitamin A Cap 10000iu; Vitamin A Cap 10000iu Natural Source; Vitamin A Cap 10000unit; Vitamin A Cap 10000unit Naturelle; Vitamin A Cap 10000unit USP; Vitamin A Cap 25000iu; Vitamin A Cap 50000iu; Vitamin A Tab 10000unit; Vitamin A Tab 2000unit Chewable; Vitamin A and D; Vitamin A and D Cap; Vitamin A&d Tab; Vitamin Ad Cap; Vitamin E Cream W Vitamins A and D; Vitamine A Cap 10000unit; Vitamines A - D Calcium; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitamines Pour Bebes Et Enfants; Vitamins A and D Capsules; Vitamins A, C, D and Fluoride Drops; Vitaplex; Vitogen Multiple Vitamins Tab; Vitrexate; Vitrexate FE; Vitrexyl; Vitrexyl plus Iron; Viva Kids - Tab; Vol-Plus; Vp-pnv-dha; Vtb Vitamin and Mineral Supplement; Wellness Formula; WesTab Plus; Women's Change Formula; Women's Formula; Zinc Amino Acid Chelate Tab; Zoo Chews; Zoo Chews Plus Iron
+
+> <INTERNATIONAL_BRANDS>
+Alphalin; Chocola A
+
+> <SALTS>
+Vitamin A acetate; Vitamin A palmitate
+
+$$$$

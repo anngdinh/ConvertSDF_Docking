@@ -1,0 +1,181 @@
+446103
+  -OEChem-02232018143D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+   -1.2924   -1.2053    0.1096 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2871   -0.5722   -0.3182 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1737    2.1169    0.0215 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2260    1.4271    1.2064 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5170   -2.6157    0.5374 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4548    0.9925   -0.4773 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0340    1.1888   -0.1898 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9713   -0.2975    0.1620 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8116   -0.0687   -0.5917 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0715   -1.4808   -0.2050 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.2950    0.0344   -0.2567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1835    0.4805    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6232    0.9628   -1.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4077    2.0733   -0.7167 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0258   -0.1909    1.2539 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7102   -0.2454   -1.6701 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1585   -1.7419   -1.2659 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7520    0.9022   -0.7417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8202   -0.8669   -0.5917 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4606    0.1035    0.8238 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9721    2.2015    0.9692 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0466    0.6004    1.6851 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7689   -2.3226    1.4288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0417    0.8696    1.0151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1682    1.2609   -0.7639 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1931    0.0563   -0.0301 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03863
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YLAMTMNJXPWCQN-XUVCUMPTSA-N/SDF?record_type=3d
+
+> <SMILES>
+CO[C@@H]1[C@@H](O)O[C@@H](C)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O5/c1-3-4(8)5(9)6(11-2)7(10)12-3/h3-10H,1-2H3/t3-,4+,5+,6-,7-/m0/s1
+
+> <INCHI_KEY>
+YLAMTMNJXPWCQN-XUVCUMPTSA-N
+
+> <FORMULA>
+C7H14O5
+
+> <MOLECULAR_WEIGHT>
+178.1831
+
+> <EXACT_MASS>
+178.084123558
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.826481231803151e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.397374002216992
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S,4R,5S,6S)-3-methoxy-6-methyloxane-2,4,5-triol
+
+> <ALOGPS_LOGP>
+-1.65
+
+> <JCHEM_LOGP>
+-1.2425027476666664
+
+> <ALOGPS_LOGS>
+0.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.836801300230196
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.331138579425708
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.612384333073441
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.15
+
+> <JCHEM_REFRACTIVITY>
+39.130900000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.23e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-vinyl-phenol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03863
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02262
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-O-Methyl-beta-L-fucopyranose
+
+> <SYNONYMS>
+6-Deoxy-2-O-methyl-beta-L-galactopyranose; 6-Deoxy-2-O-methyl-β-L-galactopyranose
+
+$$$$

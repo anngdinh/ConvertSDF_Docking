@@ -1,0 +1,170 @@
+447568
+  -OEChem-10051720293D
+
+ 25 25  0     1  0  0  0  0  0999 V2000
+    3.1135   -0.1356   -0.0402 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0440   -0.5413   -1.0530 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6738    2.1014   -0.4755 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0053   -0.6434    1.7530 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5965   -2.2094   -0.3885 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6301    0.1211   -0.6359 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8553   -1.1049    1.2283 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4784    1.2834    0.6443 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1186   -0.6360   -1.0360 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8391    1.2551    0.3111 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6713    0.7565   -0.5438 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.6046   -0.0106    0.6282 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3838   -0.8306   -0.6333 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6224    0.5944    0.2411 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5158    1.8199    1.1902 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4961    1.3999   -1.4140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6697    0.1332    0.8339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0563   -0.5201   -1.4400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4975   -0.1330    1.0485 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9279    1.5547    0.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8559    1.6665   -1.3250 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1253   -0.0538    2.5169 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3435   -2.3970    0.5310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6268   -1.4589    1.7198 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3804    1.4182    1.0052 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04127
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KTVPXOYAKDPRHY-SQOUGZDYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]1(O)O[C@]([H])(COP(O)(O)=O)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11O8P/c6-3-2(1-12-14(9,10)11)13-5(8)4(3)7/h2-8H,1H2,(H2,9,10,11)/t2-,3-,4+,5-/m1/s1
+
+> <INCHI_KEY>
+KTVPXOYAKDPRHY-SQOUGZDYSA-N
+
+> <FORMULA>
+C5H11O8P
+
+> <MOLECULAR_WEIGHT>
+230.1098
+
+> <EXACT_MASS>
+230.01915384
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.185189212110444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4S,5R)-3,4,5-trihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.07
+
+> <JCHEM_LOGP>
+-2.425770307333333
+
+> <ALOGPS_LOGS>
+-0.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.248502666590342
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2226866612133929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.680084519580305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.68
+
+> <JCHEM_REFRACTIVITY>
+40.8338
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.36e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4S,5R)-3,4,5-trihydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04127
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00395
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+beta-D-arabinofuranose 5-phosphate
+
+> <SYNONYMS>
+5-O-phosphono-β-D-arabinofuranose; β-D-arabinofuranose 5-phosphate
+
+$$$$

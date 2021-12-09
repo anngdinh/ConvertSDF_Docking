@@ -1,0 +1,181 @@
+5816
+  -OEChem-10051719203D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+    1.7394   -2.1169   -1.0894 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2941    1.0781   -1.7979 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6584    0.5842    0.5722 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6359    1.0243    0.7030 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6787   -1.1447   -0.0373 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2684   -0.6866    0.1208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6376    0.0193   -0.3576 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658   -0.0099   -0.9212 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4164   -0.9343    1.3105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6849    0.4191   -0.7732 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7353   -0.5053    1.4585 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3696    0.1713    0.4166 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5645    2.1013    0.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0210   -1.6511    0.8741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3808    0.4742   -1.3225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6478   -0.3931   -0.4831 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1501    0.1801   -1.8589 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0640   -1.4598    2.1315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9013    0.5888    1.5858 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2571   -0.7050    2.3907 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6646   -2.4067   -1.1652 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2862    2.6124   -0.5325 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5925    1.7346    0.3078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5401    2.8441    1.1985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2008    1.2997   -1.5231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9690    0.3259    1.4570 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00668
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UCTWMZQNUQWSLP-VIFPVBQESA-N/SDF?record_type=3d
+
+> <SMILES>
+CNC[C@H](O)C1=CC(O)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1
+
+> <INCHI_KEY>
+UCTWMZQNUQWSLP-VIFPVBQESA-N
+
+> <FORMULA>
+C9H13NO3
+
+> <MOLECULAR_WEIGHT>
+183.2044
+
+> <EXACT_MASS>
+183.089543287
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.03570370907126
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol
+
+> <ALOGPS_LOGP>
+-0.82
+
+> <JCHEM_LOGP>
+-0.42952928501713206
+
+> <ALOGPS_LOGS>
+-0.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.652804138341846
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.694259402931468
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.912171883219303
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.72
+
+> <JCHEM_REFRACTIVITY>
+49.2303
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+epinephrine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00668
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00450; EXPT00496
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Epinephrine
+
+> <SYNONYMS>
+(−)-(R)-epinephrine; (−)-3,4-dihydroxy-α-((methylamino)methyl)benzyl alcohol; (−)-adrenaline; (R)-(-)-Adnephrine; (R)-(-)-Adrenaline; (R)-(-)-Epinephrine; (R)-(-)-Epirenamine; (R)-(−)-adrenaline; 4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol; Adrenaline; Adrénaline; Epinefrin; Epinefrina; Epinephrin; Epinephrine; Epinephrinum; L-Adrenaline; Levoepinephrine
+
+> <PRODUCTS>
+2% Lidocaine and Epinephrine 1:100,000 Injection USP; 4% Astracaine Dental With Epinephrine 1:200,000 (0.005mg/ml); 4% Astracaine Dental With Epinephrine Forte 1:100,000 (0.01mg/ml); 4% Citanest Forte Dental With Epinephrine 1:200,000; Adrenaclick; Adrenaclick 0.15mg Auto-injector; Adrenaclick 0.30mg Auto-injector; Adrenalin; Adrenalin (epinephrine); Adrenalin Chloride Sol 1:1000; Adrenalin Chloride Sol 1:1000 Amp; Adrenalin(r); Adyphren Amp II Kit; Adyphren Amp Kit; Adyphren II Kit; Adyphren Kit; Allerject; Ana-kit; Ana-kit (2mg/tab Orl, 1mg/ml Liq Sc Im); Anakit Insect Sting Treatment Kit; Anapen; Anapen Junior; Articadent; Articaine; Articaine HCl and Epinephrine; Articaine Hydrochloride and Epinephrine; Articaine Hydrochloride and Epinephrine Bitartrate Injection; Auvi-Q; Bronkaid Mistometer Aem 0.5%; Bupivacaine HCl 0.5% and Epinephrine 1:200,000 Injection; Bupivacaine Hci and Epinephrine; Bupivacaine Hydrochloride and Epinephrine; Bupivacaine Hydrochloride with Epinephrine; CLIN-LIDO-Single Use Kit; Certa Dose Epinephrine Convenience Kit; Citanest Forte; Citanest Forte DENTAL; Crown-pak Max 4-ply; D-Care 100X; Dentsply 2% Lidocaine With Epinephrine 1:100,000; Dentsply 2% Lidocaine With Epinephrine 1:50,000; Dentsply 4% Prilocaine and Epinephrine Injection 1:200,000; Dysne Inhal; E-pilo 1 Ophthalmic Solution; E-pilo 2 Ophthalmic Solution; E-pilo 4 Ophthalmic Solution; E-pilo 6 Ophthalmic Solution; E-pilo-1 Oph Soln; E-pilo-2 Oph Soln; E-pilo-4 Oph Soln; E-pilo-6 Oph Soln; EPIsnap Epinephrine Convenience Kit; EPY II Kit; EPY Kit; Emerade; Ephinephrine; Epi E-Z Pen - Liquid - 0.3mg/0.3ml; EpiPen; EpiPen Jr; Epinephrine; Epinephrine 1:1000 Inj 1mg/ml USP; Epinephrine Chloride Solution; Epinephrine Convenience Kit; Epinephrine Inj 0.1mg/ml USP; Epinephrine Injection USP; Epinephrine Injection USP 1 mg/ml; Epinephrine Professional; Epinephrine Professional EMS; EpinephrineSnap-EMS; EpinephrineSnap-V; Epinephrinesnap-V; Epipen; Epipen Jr; Gingi Pak Cord No 1; Gingi-pak Cotton Coil; Gingi-pak Max 2-ply; Gingi-pak Max Soft-twist No 1; Gingi-pak Max Soft-twist No 2; Gingi-pak Max Soft-twist No 3; Gingi-pak Max Z-twist No 00; Gingi-pak Max Z-twist No 1; Gingi-pak Max Z-twist No 2; Gingi-pak Max Z-twist No 3; Gingi-pak Pellets; LIDOCAINE HCl; LIDOCAINE HCl AND EPINEPHRINE; Leep RediKit; Lidocaine; Lidocaine 2% and Epinephrine 1:100 000; Lidocaine 2% and Epinephrine 1:100,000; Lidocaine 2% and Epinephrine 1:50 000; Lidocaine 2% and Epinephrine 1:50,000; Lidocaine Hci; Lidocaine Hci and Epinephrine; Lidocaine Hci and Epinephrine With Epinephrine; Lidocaine Hydrochloride 0.5% and Epinephrine 1:200000 Injection USP; Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP; Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP Test Dose; Lidocaine Hydrochloride and Epinephrine; Lidocaine Hydrochloride and Epinephrine Bitartrate; Lidocaine Hydrochloride and Epinephrine Injection USP; Lidocaine and Epinephrine Inj.usp 2% 1:100000; Lidosite; Lignospan Forte; Lignospan Speciale Inj; Lignospan Standard; Lixtraxen 1%; Marcaine; Marcaine 0.5% and Epinephrine 1:200,000 Liq; Marcaine E; Marcaine E 0.25% Liq Prt; Marcaine E Liq Prt 0.50%; Marcaine With Epinephrine; Marcaine with Epinephrine; Medihaler-Epi; Numbing Hemorrhoidal Label; Numquick Analgesic; Numquick Topical Analgesic; Octocaine 100; Octocaine 100 Needleject Inj; Octocaine 50; Octocaine HCl 2% Epinephrine 1:100000; Octocaine HCl 2% Epinephrine 1:50000; Orabloc; Orabloc 1:100,000; Orabloc 1:200,000; Orostat 8%; Posicaine N; Posicaine Sp; Prilocaine HCl 4% Epineph 1:200000inj; Prilocaine Hydrochloride with Epinephrine; Primatene Mist; Primatene Mist Refill; Prime Asthma Relief; QKit Procedure Tray; SENSORCAINE MPF with Epinephrine; Scandonest 2% Special Inj; Sensorcaine; Sensorcaine Forte; Sensorcaine Mpf; Sensorcaine With Epinephrine; Sensorcaine(r) (bupivacaine Hci and Epinephrine); Septanest N; Septanest Sp; Septocaine; Septocaine and Epinephrine; Spinal Anaesthesia Tray; Spinal Anesthesia Tray; Symjepi; Taro-epinephrine Auto-injector; Taroclick Epinephrine; Taroclick Epinephrine Junior; Twinject; Twinject 0.15mg Auto-injector; Twinject 0.3mg Auto-injector; Ultacan; Ultacan Forte; Ultracaine D-S Forte Injection; Ultracaine D-S Injection; Ultracaine DS Forte Inj; Ultracaine DS Inj; Vasocaine; Vivacaine; Xylocaine; Xylocaine 0.5% W Epinephrine 1:100000; Xylocaine 0.5% W Epinephrine 1:200000; Xylocaine 1% W Epinephrine 1:100000; Xylocaine 1% W Epinephrine 1:200000; Xylocaine 1.5% W Epinephrine 1:200000; Xylocaine 1.5% W Epinephrine 1:200000 Test Dose; Xylocaine 2% W Epinephrine 1:100000; Xylocaine 2% W Epinephrine 1:200000; Xylocaine 2% With Epinephrine 1:200000; Xylocaine Dental Lidocaine HCl 2% and Epinephrine 1:100,000; Xylocaine Dental Lidocaine Hydrochloride 2% and Epinephrine 1:50,000; Xylocaine MPF; Xylocaine Mpf 1.5% With Epinephrine; Xylocaine with epinephrine; Xylocaine(r) -mpf (lidocaine Hci and Epinephrine); Zorcaine
+
+> <INTERNATIONAL_BRANDS>
+Epi EZ Pen JR
+
+> <SALTS>
+Epinephrine acetate; Epinephrine bitartrate; Epinephrine hydrochloride
+
+$$$$

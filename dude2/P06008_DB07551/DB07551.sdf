@@ -1,0 +1,181 @@
+449582
+  -OEChem-10311712363D
+
+ 32 32  0     1  0  0  0  0  0999 V2000
+   -3.0505   -3.2961    0.1992 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4518   -1.2456    0.1684 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3941    0.1922    0.0045 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2795    1.5782   -0.1567 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6976   -2.1817    0.1784 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6064   -0.7372    0.0122 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9785    1.4982    2.1270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3991   -0.1468    0.1096 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2622    0.5877   -1.2422 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8101   -0.7389    0.2293 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4562   -0.2943   -2.4740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0823   -1.0733    0.1154 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1626    0.7744    1.2386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7332    0.2815   -0.0411 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4727    2.7563   -0.2240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0169   -1.9387    0.1215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3519    3.9839   -0.3663 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0142    1.3887   -1.2863 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3066    1.1114   -1.3422 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5801    0.0330    0.1134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9609   -1.1992    1.2145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9987   -1.5242   -0.5107 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7916   -2.1978    0.2431 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028    0.3027   -3.3796 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7411   -1.1214   -2.5014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4687   -0.7034   -2.5273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8647    2.8558    0.6825 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7931    2.7064   -1.0824 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2906    1.6414   -0.1888 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9601    3.9295   -1.2756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0328    4.0816    0.4861 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7388    4.8889   -0.4190 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 12  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7 13  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07551
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IUCVBFHDSFSEIK-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+CCNC1=NC(Cl)=NC(NC(C)(CC)C#N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15ClN6/c1-4-10(3,6-12)17-9-15-7(11)14-8(16-9)13-5-2/h4-5H2,1-3H3,(H2,13,14,15,16,17)/t10-/m0/s1
+
+> <INCHI_KEY>
+IUCVBFHDSFSEIK-JTQLQIEISA-N
+
+> <FORMULA>
+C10H15ClN6
+
+> <MOLECULAR_WEIGHT>
+254.719
+
+> <EXACT_MASS>
+254.104672217
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.00266512580952
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <ALOGPS_LOGP>
+2.57
+
+> <JCHEM_LOGP>
+2.484203314
+
+> <ALOGPS_LOGS>
+-2.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.691303571116542
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.3986828844777
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.5659886160050501
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.8435
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.96e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07551
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+$$$$

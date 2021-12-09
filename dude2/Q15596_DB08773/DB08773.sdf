@@ -1,0 +1,173 @@
+445920
+  -OEChem-10051721273D
+
+ 27 29  0     0  0  0  0  0  0999 V2000
+    0.5022   -1.4041   -0.0003 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6702   -0.9051   -0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9579   -0.1032   -0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8561    0.7987    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3672    0.0620    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0221   -0.5897    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4658    1.1556    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8104    0.0198    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0155    1.6114    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3020   -1.1785   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5059    0.0005   -1.2079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5063   -0.0020    1.2080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4258   -0.3501   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2864    1.0306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9002   -0.0405   -1.2082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9006   -0.0430    1.2079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5976   -0.0624   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1060    2.1779    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9223    2.6947    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4083   -2.2600   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9778    0.0179   -2.1584 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9784    0.0134    2.1587 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1648    1.6708   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4376   -0.0553   -2.1524 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4321   -0.0597    2.1556 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5841   -1.8739   -0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2731   -0.1136    0.9194 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08773
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MDGWZLQPNOETLH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(S1)C=C(O)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10O2S/c15-11-4-1-9(2-5-11)13-7-10-3-6-12(16)8-14(10)17-13/h1-8,15-16H
+
+> <INCHI_KEY>
+MDGWZLQPNOETLH-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H10O2S
+
+> <MOLECULAR_WEIGHT>
+242.293
+
+> <EXACT_MASS>
+242.040150254
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.889961395588337
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-hydroxyphenyl)-1-benzothiophen-6-ol
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.8860714176666664
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.80455042669491
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.182101422341843
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.5047039235277575
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+68.28020000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+raloxifene core
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08773
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-hydroxyphenyl)benzo[b]thiophen-6-ol
+
+> <SYNONYMS>
+2-(4-hydroxyphenyl)benzo(b)thiophene-6-ol; Raloxifene core
+
+$$$$

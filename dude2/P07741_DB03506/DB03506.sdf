@@ -1,0 +1,159 @@
+5287565
+  -OEChem-12201913193D
+
+ 16 17  0     0  0  0  0  0  0999 V2000
+    1.2619    1.3402   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1719   -1.8775   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0302   -0.3059   -0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6933    2.0641    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1720    0.5079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6501   -0.7992    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1902    0.7520    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0648   -0.7378    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4143    0.5952    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4773   -1.5392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2253    2.3503   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7556   -1.5694    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3800    1.0807    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1780   -2.3671   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0676    2.8579   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6944    2.2061   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03506
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YRVFQPBPZCRUDX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N([H])C1=NC=NC2=C1N([H])C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4/c7-6-5-4(1-2-8-5)9-3-10-6/h1-3,8H,(H2,7,9,10)
+
+> <INCHI_KEY>
+YRVFQPBPZCRUDX-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6N4
+
+> <MOLECULAR_WEIGHT>
+134.1386
+
+> <EXACT_MASS>
+134.059246212
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0992440759339783
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.93107269541169
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5H-pyrrolo[3,2-d]pyrimidin-4-amine
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+0.29987935066666666
+
+> <ALOGPS_LOGS>
+-1.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.996768668807327
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.087303873510724
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.59
+
+> <JCHEM_REFRACTIVITY>
+38.4507
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.29e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{3-[4-(3-aminopropyl)piperazin-1-yl]propyl}-3-[2-(thiophen-2-yl)acetamido]-5-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03506
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00355
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Deazaadenine
+
+> <SYNONYMS>
+5H-Pyrrolo[3,2-d]pyrimidin-4-amine
+
+$$$$

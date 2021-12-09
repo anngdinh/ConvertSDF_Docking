@@ -1,0 +1,154 @@
+697993
+  -OEChem-10051722153D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+   -1.3166   -1.5477   -0.0002 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7713    0.2707    0.0006 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1804    1.0406   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1509    0.6094   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2808   -0.7778   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2565    1.4430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5302   -1.3737    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1277    0.0312   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5210    0.8512    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6568   -0.5468    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4203    2.0259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536    2.5228    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6436   -2.4528    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4095    1.4766    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6495   -0.9889    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11496
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YXIWHUQXZSMYRE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+S=C1NC2=C(S1)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5NS2/c9-7-8-5-3-1-2-4-6(5)10-7/h1-4H,(H,8,9)
+
+> <INCHI_KEY>
+YXIWHUQXZSMYRE-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5NS2
+
+> <MOLECULAR_WEIGHT>
+167.251
+
+> <EXACT_MASS>
+166.986340545
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.888767164331263
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-dihydro-1,3-benzothiazole-2-thione
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+2.879384047333333
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.898007105435802
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.162116074374314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+50.69840000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2(3H)-benzothiazolethione
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11496
+
+> <DRUG_GROUPS>
+approved; experimental; vet_approved
+
+> <GENERIC_NAME>
+2-mercaptobenzothiazole
+
+> <SYNONYMS>
+1,3-Benzothiazol-2-yl hydrosulfide; 1,3-Benzothiazol-2-yl hydrosulphide; 1,3-benzothiazole-2-thiol; 2-Benzothiazolethiol; 2-MBT; 2-Sulfanyl-1,3-benzothiazole; 2-Sulphanyl-1,3-benzothiazole; Benzothiazole-2-thiol; Benzothiazolethiol; Benzothiazolyl mercaptan; MBT; Mercaptobenzothiazole
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+> <INTERNATIONAL_BRANDS>
+Captax
+
+> <SALTS>
+Sodium 2-mercaptobenzothiazole
+
+$$$$

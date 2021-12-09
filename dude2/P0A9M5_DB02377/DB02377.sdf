@@ -1,0 +1,150 @@
+764
+  -OEChem-10051719543D
+
+ 16 17  0     0  0  0  0  0  0999 V2000
+    0.2823    2.6356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6610   -1.4308   -0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0357    0.7135    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7649   -1.5059    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6520    0.7775    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9476   -1.1758    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6876    0.4956   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5602   -0.8699   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4151    1.4175   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7307   -0.5374   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6403   -0.5199    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8216   -2.4326   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5039    1.6101    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7159   -0.6258    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0148   -2.1877    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8151   -0.6504    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02377
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UYTPUPDQBNUYGX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)C2=C(N1)N=CN2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H5N5O/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H4,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+UYTPUPDQBNUYGX-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H5N5O
+
+> <MOLECULAR_WEIGHT>
+151.1261
+
+> <EXACT_MASS>
+151.049409807
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.339986140369142
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6,7-dihydro-3H-purin-6-one
+
+> <ALOGPS_LOGP>
+-0.92
+
+> <JCHEM_LOGP>
+-0.5893389343333332
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.544398435574733
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.949098340351599
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.216889736723759
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.16
+
+> <JCHEM_REFRACTIVITY>
+38.9011
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.31e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-aminohypoxanthine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02377
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01672
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Guanine
+
+$$$$

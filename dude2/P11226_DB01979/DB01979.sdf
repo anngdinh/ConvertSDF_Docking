@@ -1,0 +1,171 @@
+101798
+  -OEChem-10051719463D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+   -0.9139    0.4319    0.7481 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6252   -2.3766   -1.0492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9155   -0.7013   -0.3781 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7825    0.7444    1.6919 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3843    2.0291   -0.9253 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1312   -1.1380    0.4520 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5795   -1.3043   -0.1115 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5808   -0.2227   -0.5209 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8409   -0.7256   -0.0885 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4112    1.0289    0.3420 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0433    1.4966    0.3501 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8489   -1.7382    0.4476 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7322    2.4759   -0.9582 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8567   -1.7070    0.8708 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4471    0.0262   -1.5802 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1570   -0.4488   -1.1028 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0720    1.8245   -0.0215 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1546    2.2878    1.1018 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6083   -2.0188    1.4785 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8922   -2.6381   -0.1721 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1721   -3.1391   -0.6519 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0114   -1.0729    0.5149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7400    0.5767    1.7020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7553   -1.7961    0.8028 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9160    3.2151   -0.1723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4334    1.6421   -0.8637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9064    2.9544   -1.9261 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01979
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HOVAGTYPODGVJG-VEIUFWFVSA-N/SDF?record_type=3d
+
+> <SMILES>
+CO[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O6/c1-12-7-6(11)5(10)4(9)3(2-8)13-7/h3-11H,2H2,1H3/t3-,4-,5+,6+,7+/m1/s1
+
+> <INCHI_KEY>
+HOVAGTYPODGVJG-VEIUFWFVSA-N
+
+> <FORMULA>
+C7H14O6
+
+> <MOLECULAR_WEIGHT>
+194.1825
+
+> <EXACT_MASS>
+194.07903818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.1841142941057
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5S,6S)-2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.49
+
+> <JCHEM_LOGP>
+-2.2894127143333334
+
+> <ALOGPS_LOGS>
+0.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.200415670112982
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.21139322915757
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981083281156967
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+40.67459999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.62e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl α-D-mannoside
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01979
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02195; DB02284
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl alpha-D-mannoside
+
+$$$$

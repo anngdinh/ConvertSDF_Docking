@@ -1,0 +1,184 @@
+6305
+  -OEChem-11291911533D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+    1.4762   -0.8154    1.7282 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5598   -1.9472    0.0879 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6474    2.0044    0.5482 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8759    0.3655   -0.5832 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1475    1.1323   -0.4236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5065    0.9845   -0.9830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8667    0.1349   -0.3859 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5601    0.4881    0.0402 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9823    0.7078    0.2286 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3625    2.2702    0.1579 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9431   -1.2045   -0.8169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1751    0.0055    0.4346 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2083   -0.8852    0.5860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1298   -1.9193   -0.6176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2274   -1.3216   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4724    0.2941   -1.8370 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8346    1.9497   -1.3927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6391    1.1902    0.8789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0723    3.2449    0.3304 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2620    2.6639    1.0051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1001   -1.6864   -1.3035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0301    0.4699    0.9143 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1948   -2.9522   -0.9490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5715    0.1348    0.1255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1549    1.2657   -0.9717 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1393   -1.8953    0.1434 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2617   -1.7057    2.0797 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00150
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QIVBCDIJIAJPQS-VIFPVBQESA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1
+
+> <INCHI_KEY>
+QIVBCDIJIAJPQS-VIFPVBQESA-N
+
+> <FORMULA>
+C11H12N2O2
+
+> <MOLECULAR_WEIGHT>
+204.2252
+
+> <EXACT_MASS>
+204.089877638
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.047414013171778
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.10
+
+> <JCHEM_LOGP>
+-1.0854569138833579
+
+> <ALOGPS_LOGS>
+-2.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.1565885064574
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5439286383469866
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.396082567807317
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11
+
+> <JCHEM_REFRACTIVITY>
+56.20280000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+palladium(2+) (4S,5S,14R,15R)-10-acetyl-4-(2-carboxyethyl)-15-ethyl-2-(2-methoxy-2-oxoethyl)-5,9,14,19-tetramethyl-20-[(2-sulfoethyl)carbamoyl]-21,22,23,24-tetraazapentacyclo[16.2.1.1^{3,6}.1^{8,11}.1^{13,16}]tetracosa-1,3(24),6,8,10,12,16(22),17,19-nonaene-21,23-diide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00150
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00058; EXPT02064
+
+> <DRUG_GROUPS>
+approved; nutraceutical; withdrawn
+
+> <GENERIC_NAME>
+Tryptophan
+
+> <SYNONYMS>
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid; (S)-Tryptophan; (S)-α-amino-1H-indole-3-propanoic acid; L-(-)-Tryptophan; L-(−)-tryptophan; L-Tryptophan; L-β-3-indolylalanine; Triptofano; Trp; Tryptophan; Tryptophane; Tryptophanum; W
+
+> <PRODUCTS>
+2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 2.5% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose Clinimix; 2.5% Travasol Amino Acid Injection Without Electrolytes In 10% Dextrose Quickmix; 2.5%travasol Amino Acid InJ.W.eleC.W.25%dex; 2.75% Travas. Amino Acid InJ.W.elecw.25%dex; 2.75% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose Quickmix; 2.75% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 2.75%travasol Amino Acid InJ.W.eleC.W.5%dex.; 20% Prosol; 4.25% Amino Acid Injection Without Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection With Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Injection With Electrolytes In 5% Dextrose Quickmix; 4.25% Travasol Amino Acid Injection Without Electrlytes In 10% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 4.25% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 4.25% Travasol Amino Acid Without Electrolytes In 5% Dextrose Quickmix; 4.25%trav. Amino Acid InJ.W.O.elect.5%dext.; 4.25%travasol Amino Acid InJ.W.elecw.5%dex.; 5% Travasol Amino Acid Injection With Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 20% Dextrose; 5% Travasol Amino Acid Injection Without Electrolytes In 25% Dextrose; 8.5% Freamine III; Aminosyn; Aminosyn 10% W Electrolytes; Aminosyn 3.5% M; Aminosyn 5%; Aminosyn 7%; Aminosyn 8.5%; Aminosyn 8.5% Injection With Electrolytes; Aminosyn HF; Aminosyn II; Aminosyn II 10% With Electrolytes; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II and Dextrose; Aminosyn II in Dextrose; Aminosyn II with Electrolytes; Aminosyn II with Electrolytes in Dextrose with Calcium; Aminosyn RF; Aminosyn RF Injection; Aminosyn Sulfite Free; Aminosyn-PF; Aminosyn-PF 10%; Aminosyn-PF 7%; Apo-tryptophan; Clinimix; Clinimix 2.5% Travasol Aa Without Electrolytes In 10% Dextrose Injec; Clinimix E; Clinisol; Dom-tryptophan; FreAmine HBC; FreAmine III; HepatAmine; Hepatasol; Kabiven; NephrAmine; Nephramine Liq IV; Novamine; Nutrineal Pd4; Olimel 3.3% E; Olimel 4.4%; Olimel 4.4% E; Olimel 5.7%; Olimel 5.7% E; Olimel 7.6%; Olimel 7.6% E; PHL-tryptophan; PMS-tryptophan; Perikabiven; Periolimel 2.5% E; Plenamine; Premasol - sulfite-free (Amino Acid); Primene; Primene 10%; Primene 10%-liq IV; ProSol; ProcalAmine; Quick Mix 2.5% Travasol Aa With Electrolytes With 25% Dextrose Injec; RenAmin; Renamin (amino Acids) Injection; Smofkabiven; Smofkabiven Electrolyte Free; Smofkabiven Extra Nitrogen; Smofkabiven Extra Nitrogen Electrolyte Free; Smofkabiven Peripheral; Synthamin; Teva-tryptophan; Travasol; Travasol Amino Acid Inj 5.5%; Travasol Amino Acid Inj 8.5%; Travasol E; Travasol Inj Without Electrolytes 5.5%; Travasol Inj Without Electrolytes 8.5%; TrophAmine; Tryptan Cap 500mg; Tryptan Tab 1000mg; Tryptan Tab 250mg; Tryptan Tab 500mg; Tryptan Tab 750mg; Vamin 18 Electrolyte-free; Vamin N
+
+> <INTERNATIONAL_BRANDS>
+Alti-Tryptophan
+
+$$$$

@@ -1,0 +1,185 @@
+50248
+  -OEChem-10051722433D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+   -0.2074    3.8201    0.1743 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9433   -0.8973    2.3462 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9437   -2.5557    0.4467 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.4101   -1.5906   -0.4271 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4171    1.1727    0.8689 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8661    0.6108   -0.3675 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7724   -1.2447    0.1805 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5801    1.0079   -0.1051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9173   -0.1681    0.2347 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0913    1.1294    0.5442 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5533   -0.1138    0.5673 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9586    2.2568   -0.1349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6008    2.2924    0.1988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9309   -0.7423   -0.1833 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2901    0.4352    0.0906 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0673   -0.5660    0.6487 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3588    0.7333   -1.2612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9374   -1.2898   -0.1665 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2289    0.0094   -2.0762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0182   -1.0022   -1.5289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9141   -3.2975   -0.0501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0297   -1.0232    0.8441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5105    3.1509   -0.4054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6306    1.2107   -0.6473 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7611    1.5246   -1.7033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2938    0.2351   -3.1366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6911   -1.5556   -2.1792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1279   -3.6269   -0.7350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5564   -3.3726    0.9805 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7786   -3.9560   -0.1685 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 27  1  0  0  0  0
+ 21 28  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 21 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12245
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NQPDXQQQCQDHHW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSC1=NC2=C(N1)C=C(Cl)C(OC1=CC=CC(Cl)=C1Cl)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H9Cl3N2OS/c1-21-14-18-9-5-8(16)12(6-10(9)19-14)20-11-4-2-3-7(15)13(11)17/h2-6H,1H3,(H,18,19)
+
+> <INCHI_KEY>
+NQPDXQQQCQDHHW-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H9Cl3N2OS
+
+> <MOLECULAR_WEIGHT>
+359.65
+
+> <EXACT_MASS>
+357.9501172
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.01811180668874
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-chloro-5-(2,3-dichlorophenoxy)-2-(methylsulfanyl)-1H-1,3-benzodiazole
+
+> <ALOGPS_LOGP>
+5.50
+
+> <JCHEM_LOGP>
+5.8843923543333325
+
+> <ALOGPS_LOGS>
+-5.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.456478383138528
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.54357029345663
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.91
+
+> <JCHEM_REFRACTIVITY>
+87.85589999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.08e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triclabendazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12245
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Triclabendazole
+
+> <SYNONYMS>
+Triclabendazole
+
+> <PRODUCTS>
+Egaten
+
+> <INTERNATIONAL_BRANDS>
+Fasinex
+
+$$$$

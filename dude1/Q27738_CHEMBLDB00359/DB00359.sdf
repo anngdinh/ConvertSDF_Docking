@@ -1,0 +1,181 @@
+5215
+  -OEChem-10051719133D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    0.1398    2.1322   -0.1283 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4247    3.2677    0.5914 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6069    2.3289   -1.4952 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4133    1.4731    0.8269 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9120   -2.2199   -0.1088 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6710   -0.8093    1.3641 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5685    0.0813   -0.6873 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0497    0.8542   -0.1226 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0260    0.8146    0.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0239   -0.1274   -1.1134 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9505   -1.1878   -0.1128 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9763   -0.2065    0.8778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9743   -1.1484   -1.1085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9145    0.1704    0.4806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1542   -2.0175    1.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0241   -1.1541   -0.9808 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8452   -2.2516   -0.1636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0610    1.5638    1.6588 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2730   -0.1174   -1.8983 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3068    1.6038    1.8414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7310   -0.2274    1.6598 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9434   -1.9077   -1.8857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6190   -2.2502    0.6136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8924   -2.9327   -0.8259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9637   -2.8194    1.7129 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5544   -1.2408   -1.9231 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2213   -3.2316   -0.4246 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 14  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00359
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SEEPANYCNGTZFQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N4O2S/c11-8-2-4-9(5-3-8)17(15,16)14-10-12-6-1-7-13-10/h1-7H,11H2,(H,12,13,14)
+
+> <INCHI_KEY>
+SEEPANYCNGTZFQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N4O2S
+
+> <MOLECULAR_WEIGHT>
+250.277
+
+> <EXACT_MASS>
+250.052446274
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.391364892131367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(pyrimidin-2-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+0.38726080800000007
+
+> <ALOGPS_LOGS>
+-2.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.989915444982717
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.013677898293487
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+64.20090000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfadiazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00359
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00190
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+Sulfadiazine
+
+> <SYNONYMS>
+2-sulfanilamidopyrimidine; 2-sulfanilylaminopyrimidine; 4-amino-N-2-pyrimidinylbenzenesulfonamide; N(1)-2-Pyrimidinylsulfanilamide; N(1)-2-Pyrimidylsulfanilamide; Sulfadiazin; Sulfadiazina; Sulfadiazine; Sulfadiazinum; Sulfapyrimidine; Sulphadiazine
+
+> <PRODUCTS>
+Coptin Oral Suspension; Coptin Tab; Ovoquinol Cones; Ovoquinol Crm Vaginale; Sulfadiazine; Sulfadiazine Sodium; Sulfadiazine Tab 7.7gr; Trisulfaminic Sus; Trisulfaminic Tab
+
+> <INTERNATIONAL_BRANDS>
+Adiazine
+
+> <SALTS>
+Sulfadiazine sodium
+
+$$$$

@@ -1,0 +1,214 @@
+969472
+  -OEChem-10051719143D
+
+ 44 47  0     1  0  0  0  0  0999 V2000
+   -6.1906   -2.9773   -0.1657 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2421   -0.5864    0.6290 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6031   -0.3115    2.4452 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2506    2.2608   -1.6812 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3878   -1.4186    0.5589 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -2.1170   -1.0905 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6669    0.7158    0.0320 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4004    2.2055    1.2531 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1703    3.6541   -0.8777 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7384    0.0721   -0.9110 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1698   -1.9219   -0.7989 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6616   -1.7993    1.1635 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3713   -1.6220   -1.6963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8304   -1.4977    0.2262 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5266    0.5784    0.9511 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4240   -0.7357    1.3050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7548   -1.8565   -1.9710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2725    1.8067    0.6556 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3030    2.5153   -0.3685 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5266    1.8497   -0.7927 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7452   -0.1611   -0.0169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7449   -1.2384    0.8612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9106    3.3591    0.7585 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3114    4.0647   -0.2806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8181   -2.1216    0.8198 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7648   -0.8078   -0.9222 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8514   -1.9093   -0.0860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2678   -1.4882   -1.2404 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0091   -3.0039   -0.7189 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6086   -2.8735    1.3791 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8047   -1.2813    2.1173 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2074   -2.1059   -2.6665 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4334   -0.5397   -1.8732 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9484   -0.4104    0.1259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7485   -1.8887    0.6808 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8796    0.5686    1.9893 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6148   -2.3538   -2.9373 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6758   -2.2637   -1.5393 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9028   -0.7858   -2.1523 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9624   -1.4296    1.5859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8258    3.7067    1.2233 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7391    4.9856   -0.6591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8382   -2.9694    1.4995 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5388   -0.5871   -1.6510 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4 20  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 18  2  0  0  0  0
+  8 23  1  0  0  0  0
+  9 19  2  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 21  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 17 37  1  0  0  0  0
+ 17 38  1  0  0  0  0
+ 17 39  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 22 40  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 41  1  0  0  0  0
+ 24 42  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 43  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 44  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00402
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GBBSUAFBMRNDJC-INIZCTEOSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1CCN(CC1)C(=O)O[C@@H]1N(C(=O)C2=NC=CN=C12)C1=NC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17ClN6O3/c1-22-6-8-23(9-7-22)17(26)27-16-14-13(19-4-5-20-14)15(25)24(16)12-3-2-11(18)10-21-12/h2-5,10,16H,6-9H2,1H3/t16-/m0/s1
+
+> <INCHI_KEY>
+GBBSUAFBMRNDJC-INIZCTEOSA-N
+
+> <FORMULA>
+C17H17ClN6O3
+
+> <MOLECULAR_WEIGHT>
+388.808
+
+> <EXACT_MASS>
+388.105066147
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.666054873402665
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5S)-6-(5-chloropyridin-2-yl)-7-oxo-5H,6H,7H-pyrrolo[3,4-b]pyrazin-5-yl 4-methylpiperazine-1-carboxylate
+
+> <ALOGPS_LOGP>
+0.97
+
+> <JCHEM_LOGP>
+0.8065430329999994
+
+> <ALOGPS_LOGS>
+-2.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.038308435946096
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.887477179199521
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.76000000000002
+
+> <JCHEM_REFRACTIVITY>
+95.8855
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.85e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lunesta
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00402
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00431
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Eszopiclone
+
+> <SYNONYMS>
+(+)-(5S)-6-(5-Chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo(3,4-b)pyrazin-5-yl 4-methylpiperazine-1-carboxylate; (+)-(5S)-6-(5-chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-yl-4-methylpiperazine-1-carboxylate; (+)-Zopiclone; (S)-6-(5-Chloro-2-pyridinyl)- 7-oxo- 6,7-dihydro- 5H-pyrrolo[3,4-b]pyrazin-5-yl- 4-methyl- 1-piperazinecarboxylate; (S)-Zopiclone; 1-Piperazinecarobxylic acid,4-methyl-,(5S)-6-(5-chloro-2-pyridinyl)-6,7-dihydro-7-oxo-5H-pyrrolo[3,4-b]pyrazin-5-yl ester; Esopiclone; Eszopiclone
+
+> <PRODUCTS>
+Eszopiclone; Lunesta
+
+> <INTERNATIONAL_BRANDS>
+Dorplen; Esleep; Eszop; Fulnite; Inductal; Isoklon; Nirvan; Noptic; Plessir; Sanilent; Sleepil; Sono; Valnoc; Wen Fei; Zopilone; Zopinon
+
+$$$$

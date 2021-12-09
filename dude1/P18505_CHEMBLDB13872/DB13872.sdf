@@ -1,0 +1,184 @@
+13314
+  -OEChem-10061700343D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+   -0.2505    4.6772   -0.6862 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1401   -1.4788    2.2717 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9534   -2.6703   -2.2216 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7801   -2.7745    0.2522 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3667   -0.5282    0.6892 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1302   -1.5535   -1.0782 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4355    0.7448   -0.2652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6921    0.7004    0.3716 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3599   -0.4848   -0.5479 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5454   -1.5720   -1.4086 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2696   -1.6995   -0.0758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8074   -0.5066   -0.1891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1506    1.9776   -0.6046 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900    1.9280    0.7192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2611   -0.5385    1.8472 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4788    3.1741   -0.2758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6929    3.1493    0.3966 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2451   -0.9383    1.0592 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7206   -0.0768   -1.1474 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6088   -0.9401    1.3523 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0843   -0.0788   -0.8542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5285   -0.5105    0.3955 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8687   -0.6745   -1.9462 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1014    2.0239   -1.1259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554    1.9654    1.2179 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8148    0.0192    2.6767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2225   -0.1022    1.5596 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4448   -1.5606    2.1917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1981    4.0725    0.6690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3915    0.2494   -2.1305 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9715   -1.2735    2.3213 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8006    0.2528   -1.6001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5119   -3.4612   -1.8679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5904   -0.5127    0.6233 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 32  1  0  0  0  0
+ 22 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13872
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FJIKWRGCXUCUIG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C2=C(C=C(Cl)C=C2)C(=NC(O)C1=O)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H12Cl2N2O2/c1-20-13-7-6-9(17)8-11(13)14(19-15(21)16(20)22)10-4-2-3-5-12(10)18/h2-8,15,21H,1H3
+
+> <INCHI_KEY>
+FJIKWRGCXUCUIG-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H12Cl2N2O2
+
+> <MOLECULAR_WEIGHT>
+335.185
+
+> <EXACT_MASS>
+334.027583052
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.20718392747353
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-chloro-5-(2-chlorophenyl)-3-hydroxy-1-methyl-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+> <ALOGPS_LOGP>
+2.92
+
+> <JCHEM_LOGP>
+3.391391556666667
+
+> <ALOGPS_LOGS>
+-4.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.676469443853929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.156070814774956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.900000000000006
+
+> <JCHEM_REFRACTIVITY>
+85.8151
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.64e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lormetazepam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13872
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Lormetazepam
+
+> <SYNONYMS>
+(±)-Lormetazepam; (RS)-Lormetazepam; 7-Chloro-1,3-dihydro-5-(o-chlorophenyl)-3-hydroxy-1-methyl-2H-1,4-benzodiazepin-2-one; 7-Chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-1-methyl-2H-1,4-benzodiazepin-2-one; Methyllorazepam; N-Methyllorazepam
+
+$$$$

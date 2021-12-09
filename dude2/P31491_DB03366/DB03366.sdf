@@ -1,0 +1,132 @@
+795
+  -OEChem-10051723563D
+
+  9  9  0     0  0  0  0  0  0999 V2000
+    0.7451   -0.8866    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1524    0.2675    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1083    0.4307    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6213   -0.9350   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0796    1.1234   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3716   -1.6804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1427    0.7424    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1627   -1.8702   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2167    2.1949   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03366
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RAXXELZNTBOGNW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1C=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4N2/c1-2-5-3-4-1/h1-3H,(H,4,5)
+
+> <INCHI_KEY>
+RAXXELZNTBOGNW-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4N2
+
+> <MOLECULAR_WEIGHT>
+68.0773
+
+> <EXACT_MASS>
+68.037448138
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.556334278290159
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H-imidazole
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-0.145224207
+
+> <ALOGPS_LOGS>
+0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.396939092733913
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.967149345274132
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+19.0128
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.38e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+Him
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03366
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01865
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Imidazole
+
+$$$$

@@ -1,0 +1,160 @@
+447029
+  -OEChem-12101918323D
+
+ 19 18  0     0  0  0  0  0  0999 V2000
+   -2.4228   -1.2591    0.3047 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1533   -0.4411    0.0798 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1394    0.0731    0.0942 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7026    1.6961   -0.5835 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5078    0.0221   -0.1908 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0681    0.6712    1.0659 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3537   -1.1602   -0.6398 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8180    0.3980   -0.1306 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5497    0.7388   -1.0185 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0975    1.0080    0.9047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4740    1.5409    1.3651 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0693   -0.0306    1.9075 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3818   -0.8499   -0.8533 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9383   -1.6109   -1.5478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3855   -1.9403    0.1290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9136    0.6745   -0.1656 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5293    2.2688   -0.7181 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1856    2.1468   -0.7657 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2014   -1.2074    0.8846 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02143
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OITVEDMMUMUWTL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)\N=C(/N)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11N3O/c1-3(2)6-4(5)7-8/h3,8H,1-2H3,(H3,5,6,7)
+
+> <INCHI_KEY>
+OITVEDMMUMUWTL-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11N3O
+
+> <MOLECULAR_WEIGHT>
+117.1496
+
+> <EXACT_MASS>
+117.090211989
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.384974748898127
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(E)-N-hydroxy-N''-(propan-2-yl)guanidine
+
+> <ALOGPS_LOGP>
+-0.30
+
+> <JCHEM_LOGP>
+-0.17812836399999982
+
+> <ALOGPS_LOGS>
+-1.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+18.7389508938869
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.819378429372716
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.301464985251958
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.64
+
+> <JCHEM_REFRACTIVITY>
+41.7654
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-thiocitrulline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02143
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01853
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-hydroxy-2-isopropylguanidine
+
+> <SYNONYMS>
+1-hydroxy-2-propan-2-ylguanidine; N-isopropyl-N'-hydroxyguanidine
+
+$$$$

@@ -1,0 +1,139 @@
+439771
+  -OEChem-10051719413D
+
+ 13 12  0     1  0  0  0  0  0999 V2000
+    2.3122    0.7983    0.1901 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6445    1.6163   -0.6997 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6385    0.3837    0.9225 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6477   -1.9104   -0.2941 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0801   -0.6503   -0.4687 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3702   -0.7077    0.3447 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8319    0.4700    0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2909   -0.5168   -1.5359 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0138   -1.5281    0.0109 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1661   -0.8425    1.4125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0647   -2.6872   -0.6038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4696   -1.9157   -0.8975 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2289    2.3386   -0.3847 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01735
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ASBJGPTTYPEMLP-UWTATZPHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[NH3+][C@H](CCl)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6ClNO2/c4-1-2(5)3(6)7/h2H,1,5H2,(H,6,7)/t2-/m1/s1
+
+> <INCHI_KEY>
+ASBJGPTTYPEMLP-UWTATZPHSA-N
+
+> <FORMULA>
+C3H6ClNO2
+
+> <MOLECULAR_WEIGHT>
+123.538
+
+> <EXACT_MASS>
+123.008706148
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.48935139261243
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-azaniumyl-3-chloropropanoate
+
+> <ALOGPS_LOGP>
+-1.57
+
+> <JCHEM_LOGP>
+-2.5328992268170216
+
+> <ALOGPS_LOGS>
+-1.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7038733419705379
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.516486842376407
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.77000000000001
+
+> <JCHEM_REFRACTIVITY>
+47.221900000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β-chloro-D-alanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01735
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00806
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Chloroalaninate
+
+$$$$

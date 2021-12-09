@@ -1,0 +1,184 @@
+114743
+  -OEChem-06141818523D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+   -3.2530    0.2274   -2.6181 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3765   -0.5275   -0.2962 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.7201    1.9583   -1.5733 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3989    0.5689    1.0607 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7254    2.0421    0.7422 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2256    2.2998    0.8158 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9792    1.4557   -0.2201 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3896   -0.4282    0.4650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6062   -0.0086   -0.1124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0564    0.2953    0.7019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1318   -1.8091    0.5671 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5013   -0.9702   -0.6163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4656    0.3713   -0.6254 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9642   -0.0290    1.7045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0312   -2.7503    0.0659 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2136   -2.3306   -0.5308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7977    0.1202   -0.9537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2964   -0.2801    1.3761 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7132   -0.2055    0.0471 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5158    0.4589    2.1495 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3638    2.3384   -0.2500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2043    2.6934    1.4559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4286    3.3671    0.6636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5860    2.0566    1.8243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0513    1.5655   -0.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2235   -2.1686    1.0447 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4369   -0.6585   -1.0753 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9678    2.9458   -1.6243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268    1.4805   -2.2389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7510    0.6161   -1.4078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6538   -0.0912    2.7438 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8089   -3.8102    0.1474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9161   -3.0607   -0.9214 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9963   -0.5328    2.1687 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 28  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14071
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SRPXSILJHWNFMK-ZBEGNZNMSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(N)CC[C@@]([H])(C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H15Cl2N/c17-14-7-5-10(9-15(14)18)11-6-8-16(19)13-4-2-1-3-12(11)13/h1-5,7,9,11,16H,6,8,19H2/t11-,16-/m0/s1
+
+> <INCHI_KEY>
+SRPXSILJHWNFMK-ZBEGNZNMSA-N
+
+> <FORMULA>
+C16H15Cl2N
+
+> <MOLECULAR_WEIGHT>
+292.2
+
+> <EXACT_MASS>
+291.0581549
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.371973639584827
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,4S)-4-(3,4-dichlorophenyl)-1,2,3,4-tetrahydronaphthalen-1-amine
+
+> <ALOGPS_LOGP>
+4.92
+
+> <JCHEM_LOGP>
+4.7167195799999995
+
+> <ALOGPS_LOGS>
+-6.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.516408326112767
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+80.96640000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.79e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+desmethylsertraline
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14071
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Desmethylsertraline
+
+> <SYNONYMS>
+Demethylsertraline; N-Demethylsertraline; N-Desmethylsertraline; Norsertraline
+
+$$$$

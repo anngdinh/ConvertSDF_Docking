@@ -1,0 +1,184 @@
+3610
+  -OEChem-10061700133D
+
+ 32 32  0     0  0  0  0  0  0999 V2000
+   -1.1392   -2.2816   -0.0491 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8874    0.4986    0.9179 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8115   -0.0528   -0.5993 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3992    0.1296   -0.0401 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8714    0.1970    0.4747 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3410   -0.0874   -1.1239 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2832    0.0477   -0.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0556    0.0550   -0.5751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3396    0.3286    0.9649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7227   -1.0505   -0.0670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6539    1.3072   -0.5898 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0147   -0.9010    0.4369 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9460    1.4568   -0.0860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6263    0.3526    0.4275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9221   -1.0691   -0.9964 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9663    0.6403   -1.4352 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2978    1.1382    0.3808 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2428   -0.5732    0.7877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7300   -0.5076    1.3031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7466    1.2067    0.8848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4863    0.6552   -1.9208 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4752   -1.0526   -1.6266 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4226   -0.9675   -0.4808 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4234    0.7391   -0.9309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3414    0.2149    0.5390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2481    1.3493    1.3498 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2472   -0.3657    1.8061 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1329    2.1748   -0.9849 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5399   -1.7654    0.8359 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4170    2.4359   -0.0958 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1765   -2.2093   -0.1387 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2060   -0.3655    1.2310 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11254
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WFJIVOKAWHGMBH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCC1=C(O)C=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18O2/c1-2-3-4-5-6-10-7-8-11(13)9-12(10)14/h7-9,13-14H,2-6H2,1H3
+
+> <INCHI_KEY>
+WFJIVOKAWHGMBH-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H18O2
+
+> <MOLECULAR_WEIGHT>
+194.2701
+
+> <EXACT_MASS>
+194.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.978834395187235
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hexylbenzene-1,3-diol
+
+> <ALOGPS_LOGP>
+3.77
+
+> <JCHEM_LOGP>
+4.102379887
+
+> <ALOGPS_LOGS>
+-2.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.910620947081043
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.552104799647893
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.620601061009045
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+58.06600000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.54e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxana
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11254
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Hexylresorcinol
+
+> <SYNONYMS>
+4-hexyl-1,3-benzenediol; 4-hexylresorcinol
+
+> <PRODUCTS>
+Antiseptic Sore Throat Loz(honey Eucalyp.fl); Antiseptic Sore Throat Loz(mint Menthol Flv); Antiseptic Sore Throat Loz. (lemon Flavour); Antiseptic Throat Lozenges (with Hexylresorcinol); Avapta; Bradosol Lozenges Extra Strength 3.5mg; Bradosol Lozenges Extra Strength 3.5mg Mint; Bradosol Lozenges Regular Strength 2.4mg (cherry, Mint, Lemon, Orange, Honey-eucalyptus); Bradosol Multiflavour Loz 2.4mg; Bronchodex Past.antisep.-s.miel Et Eucalypt.; Bronchodex Past.antisept. Extra Fortes-S.cer; Bronchodex Pastilles Antiseptiques-S.cerise; Bronchodex Pastilles Antiseptiques-S.menthe; Cherry Antiseptic Throat Lozenges 2.4mg/loz; Green Guard Sore Throat Relief; Honey Eucalyptus Antiseptic Throat Loz 2.4mg; Lemon Menthol Antiseptic Throat Loz 2.4mg; Medi-First Plus Sore Throat Max; Medique Sepasoothe; Mint Antiseptic Throat Lozenges 2.4mg/loz; Myxcin-C; Otis Clapp Thorets; S.T.37; Soothe Aid Loz 2.4mg; Strepsils Anaesthetic Formula; Strepsils Extra Black Cherry; Sucrets Cherry Vapour Action Loz; Sucrets Extra Strength Cherry Lozenges; Sucrets Extra Strength Mint Loz; Sucrets Honey Lemon Vapour Action Loz; Sucrets Original Mint; Sucrets Regular Mint Loz; Throat Loz 2.4mg Cherry
+
+$$$$

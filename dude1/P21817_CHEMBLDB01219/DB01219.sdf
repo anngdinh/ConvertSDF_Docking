@@ -1,0 +1,207 @@
+6914273
+  -OEChem-02062017563D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    0.2278   -0.2544   -0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0991    2.9676    0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0940   -1.6217    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4267    0.3086    0.0014 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.5601    2.3255   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3816   -0.0159    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4765    0.6736    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3250   -0.8537    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4348    1.0770    0.0005 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.2396    1.4078   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2418   -1.1547   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5671   -0.5852   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9240   -0.9754   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7021    1.8107   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6955   -0.4652    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7604   -2.4381   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6502   -2.3233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6848   -1.4196    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7309    0.8001   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1556   -0.2622    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1302    0.5165    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9663   -0.8688    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0124    1.3508   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7674    1.7658   -0.9189 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7673    1.7663    0.9179 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3344   -3.3538   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4899    0.6713    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3717   -3.1281    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5896   -2.5023    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8851    1.4830   -0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0170    0.8314   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8141   -1.5493    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1023    2.4342   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 20  2  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 18  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 33  1  0  0  0  0
+M  CHG  2   4  -1   9   1
+M  END
+> <DATABASE_ID>
+DB01219
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OZOMQRBLCMDCEG-VIZOYTHASA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10N4O5/c19-13-8-17(14(20)16-13)15-7-11-5-6-12(23-11)9-1-3-10(4-2-9)18(21)22/h1-7H,8H2,(H,16,19,20)/b15-7+
+
+> <INCHI_KEY>
+OZOMQRBLCMDCEG-VIZOYTHASA-N
+
+> <FORMULA>
+C14H10N4O5
+
+> <MOLECULAR_WEIGHT>
+314.257
+
+> <EXACT_MASS>
+314.065119438
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.05523746613546151
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.016932036272042
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(E)-{[5-(4-nitrophenyl)furan-2-yl]methylidene}amino]imidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.256485484666666
+
+> <ALOGPS_LOGS>
+-3.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.720474697695044
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.233090455158987
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2745926288737788
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.04999999999998
+
+> <JCHEM_REFRACTIVITY>
+77.87029999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.05e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cefazolin sodium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01219
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00901
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dantrolene
+
+> <SYNONYMS>
+1-((5-(p-nitrophenyl)furfurylidene)amino)hydantoin; Dantrolene; Dantroleno; Dantrolenum
+
+> <PRODUCTS>
+Dantrium; Dantrium Cap 100mg; Dantrium Cap 25mg; Dantrium Capsules; Dantrium Intravenous; Dantrolene; Dantrolene Sodium; RYANODEX dantrolene sodium; Revonto
+
+> <INTERNATIONAL_BRANDS>
+Dantamacrin
+
+> <SALTS>
+Dantrolene sodium
+
+$$$$
