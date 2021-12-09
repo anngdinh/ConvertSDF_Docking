@@ -1,0 +1,156 @@
+6321
+  -OEChem-12022010173D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+    1.5989    0.2136    0.0685 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2200   -1.8968   -0.0628 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1353    1.3514    0.2082 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8604   -0.6861   -0.4400 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6978    0.3885    1.5052 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4404    1.3442   -0.8269 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0425   -0.5227    0.2478 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3264   -0.9643   -0.2762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5261    0.7722   -0.4236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9875   -0.3760    1.3329 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6373   -1.8983    0.2070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3156   -1.1155   -1.3618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8457    1.5996   -0.2192 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5968    0.6568   -1.5107 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6194   -2.7973    0.7292 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1035   -1.4439    0.1421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7548    1.5001    1.4856 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15967
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JLVSRWOIZZXQAD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(=O)(=O)CC(S)CS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8O3S3/c4-9(5,6)2-3(8)1-7/h3,7-8H,1-2H2,(H,4,5,6)
+
+> <INCHI_KEY>
+JLVSRWOIZZXQAD-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H8O3S3
+
+> <MOLECULAR_WEIGHT>
+188.27
+
+> <EXACT_MASS>
+187.96355764
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8924670632152176
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.08280202694032
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-disulfanylpropane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-0.0778724006666667
+
+> <ALOGPS_LOGS>
+-2.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.678301672917888
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.9190506893202305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+41.3027
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.84e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+DMPS
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15967
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3-Dimercapto-1-propanesulfonic acid
+
+> <SYNONYMS>
+2,3-Dimercapto-1-propane sulfonate; 2,3-Dimercaptopropan-1-sulfonsaeure; 2,3-Dimercaptopropanesulfonic acid; DMPS
+
+$$$$

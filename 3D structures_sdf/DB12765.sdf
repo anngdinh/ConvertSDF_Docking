@@ -1,0 +1,124 @@
+12228
+  -OEChem-10051722523D
+
+  7  6  0     0  0  0  0  0  0999 V2000
+   -1.6299    0.2844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5562   -0.5784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6086    0.4397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5350   -0.1456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5848   -0.0559    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5564    1.0725    0.8938 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5564    1.0725   -0.8939 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12765
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HAMGRBXTJNITHG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN=C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3NO/c1-3-2-4/h1H3
+
+> <INCHI_KEY>
+HAMGRBXTJNITHG-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H3NO
+
+> <MOLECULAR_WEIGHT>
+57.0513
+
+> <EXACT_MASS>
+57.021463723
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.047279703556367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+isocyanatomethane
+
+> <ALOGPS_LOGP>
+-0.24
+
+> <JCHEM_LOGP>
+-0.0426195303333334
+
+> <ALOGPS_LOGS>
+-0.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.075707597168193
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.43
+
+> <JCHEM_REFRACTIVITY>
+13.338199999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.73e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl isocyanate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12765
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Methyl isocyanate
+
+> <SYNONYMS>
+MIC
+
+$$$$

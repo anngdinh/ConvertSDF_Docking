@@ -1,0 +1,144 @@
+12675
+  -OEChem-10051722313D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+   -0.5039   -1.8801    0.9557 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5137   -1.8692   -0.9672 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7151    0.4194    1.6962 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0412   -1.1974    1.1124 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7140    0.4324   -1.6864 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0340   -1.1947   -1.1174 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1098    1.5960   -0.8099 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9322    1.2638    0.3447 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4511   -0.0448   -1.3242 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1272    1.5896    0.8383 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4869   -0.0494    1.3167 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9046    1.2654   -0.3723 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0033   -1.0514   -0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1564   -0.2819    0.6218 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1526   -0.2805   -0.6184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9169    0.6463   -0.2919 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9166    0.6364    0.3038 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11625
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NJCBUSHGCBERSK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5F12/c6-1(7,2(8,9)4(12,13)14)3(10,11)5(15,16)17
+
+> <INCHI_KEY>
+NJCBUSHGCBERSK-UHFFFAOYSA-N
+
+> <FORMULA>
+C5F12
+
+> <MOLECULAR_WEIGHT>
+288.036
+
+> <EXACT_MASS>
+287.980837956
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.379949651188932
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+dodecafluoropentane
+
+> <ALOGPS_LOGP>
+3.28
+
+> <JCHEM_LOGP>
+4.183645560333334
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+26.873199999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.83e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+perfluoropentane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11625
+
+> <DRUG_GROUPS>
+investigational; withdrawn
+
+> <GENERIC_NAME>
+Perflenapent
+
+> <SYNONYMS>
+Perflenapent
+
+$$$$

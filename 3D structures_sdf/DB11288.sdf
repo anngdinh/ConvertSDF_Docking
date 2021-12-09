@@ -1,0 +1,179 @@
+64685
+  -OEChem-09031812313D
+
+ 29 30  0     1  0  0  0  0  0999 V2000
+   -2.5806   -0.3364   -0.1935 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1716   -0.6919    0.3214 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1070   -0.0345   -0.2814 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4251    1.3596   -0.3061 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2656   -0.3099   -0.7211 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4204    0.1536    1.6025 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8687    1.1229   -1.1224 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0181    1.5703    1.1590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1078   -2.1805    0.6082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5325   -0.5519   -1.6702 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3682   -0.1013    0.6037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0353    2.1787   -0.6940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2515   -0.9705   -1.5948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2008   -0.1795    2.4414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4585    0.1188    1.9481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6465    1.8618   -0.9023 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6577    1.1760   -2.1960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8514    2.2753    1.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8018    1.9535    1.7754 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6984   -2.4169    1.3101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0446   -2.5364    1.0499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0676   -2.7545   -0.3074 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3314    0.0764   -2.0812 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9179   -1.5754   -1.5994 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7349   -0.5679   -2.4155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1552    0.5421    0.1931 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2155    0.2121    1.6384 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7608   -1.1239    0.6404 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7645   -1.2482    0.0885 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11288
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DTGKSKDOIYIVQL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1(C)C2CCC1(C)C(O)C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7-8,11H,4-6H2,1-3H3
+
+> <INCHI_KEY>
+DTGKSKDOIYIVQL-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O
+
+> <MOLECULAR_WEIGHT>
+154.2493
+
+> <EXACT_MASS>
+154.135765198
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.4754906017452
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol
+
+> <ALOGPS_LOGP>
+2.83
+
+> <JCHEM_LOGP>
+1.9894578843333337
+
+> <ALOGPS_LOGS>
+-2.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.60482336496175
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7846502601657298
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+45.314299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+baros
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11288
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Borneol
+
+> <SYNONYMS>
+Borneo camphor; Bornyl alcohol; endo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol; endo-2-bornanol; endo-2-camphanol; endo-2-hydroxycamphane; Sumatra camphor
+
+> <PRODUCTS>
+Kwan Tak Hing Plaster - Pad-pls; La Jiao Feng Shi Gao; Ma Ying Long Hemorrhoidal; Pain Free; Salonpas Medicated Plaster; Shunfa Anti-Bacteria Spra
+
+$$$$

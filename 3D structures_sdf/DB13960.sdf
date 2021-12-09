@@ -1,0 +1,153 @@
+2450
+  -OEChem-01171812123D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    0.4050    1.3855    1.6974 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1533   -2.2559   -0.3107 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5172    0.4205   -0.4290 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1309   -0.3082    0.3605 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4506    1.1254   -1.1519 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2449    0.3338   -0.2208 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.2008    0.1156    0.2176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3744   -1.3157    0.7356 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1758    0.4991   -0.8987 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2994   -1.5592    1.5657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3933   -1.4735    1.1066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0786   -0.1691   -1.7610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0232    1.5226   -1.2604 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7859   -2.2108   -0.5569 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5917    1.0129    0.3385 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+M  CHG  2   4  -1   6   1
+M  END
+> <DATABASE_ID>
+DB13960
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LVDKZNITIUWNER-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC(Br)(CO)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6BrNO4/c4-3(1-6,2-7)5(8)9/h6-7H,1-2H2
+
+> <INCHI_KEY>
+LVDKZNITIUWNER-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6BrNO4
+
+> <MOLECULAR_WEIGHT>
+199.988
+
+> <EXACT_MASS>
+198.948020332
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.172889510746417
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-bromo-2-nitropropane-1,3-diol
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-0.18574076399999992
+
+> <ALOGPS_LOGS>
+-1.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.265651402507846
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.552130642868114
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.737827536706061
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.6
+
+> <JCHEM_REFRACTIVITY>
+31.6597
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.28e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bronopol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13960
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bronopol
+
+> <SYNONYMS>
+2-Bromo-2-nitropropane-1,3-diol; 2-Nitro-2-bromo-1,3-propanediol; beta-Bromo-beta-nitrotrimethyleneglycol; Bronopol; Bronopolu; Bronopolum
+
+> <PRODUCTS>
+75% Alcohol Wipes; Aiweier Alcohol Wipes; Aiweier Disinfecttant Wipes; Alcohol wipes; Anti-Bacterial Multi-Purpose Cleaning Wipes; Antibacterial Wet Wipes; Antiseptic Hand Soap; Disinfectant Wet Wipes; Edens Hand Sanitizing Wipes; Hand Sanitizing Wipes; Michaels Antiseptic Hand Soap; Purgerm 75% alcohol wipes; T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

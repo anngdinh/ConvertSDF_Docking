@@ -1,0 +1,150 @@
+104994
+  -OEChem-10051723563D
+
+ 17 19  0     0  0  0  0  0  0999 V2000
+    1.3318   -0.6845    0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5725    1.5408    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6206    1.5327   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7188   -1.9065   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7060   -0.3907   -0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6542    0.5432    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7494    0.5570    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3586   -0.6390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5899   -1.8730    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6838   -0.4894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8364    0.8834   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8018    0.9260   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3983    2.5375    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -2.8212    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3934   -1.3049    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7637    1.4378   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7209    1.4946   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01952
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OGVOXGPIHFKUGM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1C=NC2=C1N=CN1C=CN=C21
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H5N5/c1-2-12-4-11-6-5(7(12)8-1)9-3-10-6/h1-4H,(H,9,10)
+
+> <INCHI_KEY>
+OGVOXGPIHFKUGM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H5N5
+
+> <MOLECULAR_WEIGHT>
+159.1481
+
+> <EXACT_MASS>
+159.054495185
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.086334251357687
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3H-imidazo[2,1-f]purine
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.7850844733333332
+
+> <ALOGPS_LOGS>
+-0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.053035409409842
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.973740204024492
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.870000000000005
+
+> <JCHEM_REFRACTIVITY>
+42.99549999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.34e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3H-imidazo[2,1-i]purine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01952
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01319
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,N6-Ethenoadenine
+
+$$$$

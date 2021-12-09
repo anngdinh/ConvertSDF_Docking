@@ -1,0 +1,188 @@
+111037
+  -OEChem-11262016383D
+
+ 34 34  0     1  0  0  0  0  0999 V2000
+    1.5189   -0.5650   -0.1486 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6933    0.1921    0.0393 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4964    0.6899    0.2095 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0301    0.7292    0.2075 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0447    0.4024   -1.1918 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0137   -0.3583    1.2077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5765    0.4171   -1.2012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1974   -0.2962   -0.0264 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4764   -0.6542    1.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5688    1.0874    1.5922 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5416    1.7171   -0.8393 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6667   -0.5815   -0.1277 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8770   -0.6891   -0.1936 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2421   -2.0911   -0.5774 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8775    1.6745    0.5192 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6961   -0.5780   -1.5420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7074    1.1403   -1.9269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8539    0.0022    2.2308 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4748   -1.3084    1.1152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9207   -0.0385   -2.1375 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9296    1.4560   -1.2004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9547   -1.1852    1.8689 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5992    1.4546    1.5900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9778    1.8945    2.0414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5443    0.2280    2.2721 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5415    1.2898   -1.8487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5623    2.0656   -0.6531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9310    2.6282   -0.8483 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2259    0.3515   -0.2517 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0525   -1.0850    0.7650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8703   -1.2264   -0.9886 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8403   -2.3206   -1.5675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8556   -2.7914    0.1673 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3312   -2.1856   -0.6127 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15957
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IGODOXYLBBXFDW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)OC(C)(C)C1CCC(C)=CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H20O2/c1-9-5-7-11(8-6-9)12(3,4)14-10(2)13/h5,11H,6-8H2,1-4H3
+
+> <INCHI_KEY>
+IGODOXYLBBXFDW-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H20O2
+
+> <MOLECULAR_WEIGHT>
+196.29
+
+> <EXACT_MASS>
+196.146329884
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.056361503718836
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-methylcyclohex-3-en-1-yl)propan-2-yl acetate
+
+> <ALOGPS_LOGP>
+4.32
+
+> <JCHEM_LOGP>
+2.615422917999999
+
+> <ALOGPS_LOGS>
+-3.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.010767657855061
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+57.61339999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.42e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+stearyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15957
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Terpinyl acetate
+
+> <SYNONYMS>
+Terpineol acetate
+
+$$$$

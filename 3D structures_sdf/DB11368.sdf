@@ -1,0 +1,157 @@
+15907
+  -OEChem-10051722113D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    4.3130    0.6670   -0.0040 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3754   -0.7886    0.0049 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6630    0.7701    0.0048 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3195    0.2812    0.0056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0569   -0.4513    0.0030 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7217   -0.2962   -0.0165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3192    0.8918    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9182   -1.4488    0.0021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6705    1.2376   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2696   -1.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6458    0.2402   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2103    0.8950    0.9091 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1987    0.9138   -0.8834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8983   -0.9514    0.8430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8838   -0.8925   -0.9201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3822    1.7189    0.0041 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6310   -2.4967    0.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9502    2.2881   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0185   -1.8909   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5295    1.2626    0.8325 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11368
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GEGSSUSEWOHAFE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCOC1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9ClO2/c9-7-1-3-8(4-2-7)11-6-5-10/h1-4,10H,5-6H2
+
+> <INCHI_KEY>
+GEGSSUSEWOHAFE-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H9ClO2
+
+> <MOLECULAR_WEIGHT>
+172.61
+
+> <EXACT_MASS>
+172.0291072
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.219744751537732
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-chlorophenoxy)ethan-1-ol
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+1.7295172146666666
+
+> <ALOGPS_LOGS>
+-1.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.102173086732204
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7541094918633338
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.46
+
+> <JCHEM_REFRACTIVITY>
+43.6183
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.20e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlorophetanol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11368
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Chlorophetanol
+
+> <SYNONYMS>
+2-(4-Chlorophenoxy)ethanol; 2-(4-chlorphenoxy)-ethanol; 2-(p-Chlorophenoxy)ethanol; p-Chlorophenyl glycol ether; p-Chlorophenyl monoglycol ether
+
+$$$$

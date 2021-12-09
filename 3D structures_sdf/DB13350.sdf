@@ -1,0 +1,172 @@
+6436171
+  -OEChem-10061700203D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    5.7119    0.1828    0.0480 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6323   -1.6970    0.3941 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1883   -0.4055    0.0211 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7734    1.7270   -0.4395 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6250   -0.4586    0.1357 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.8204   -0.6776   -0.1827 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1631   -0.1931    0.1072 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4425   -2.3451   -0.4896 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3002    0.5648   -0.2185 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4083    0.2053   -0.0538 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9634   -1.8083    0.3037 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1201    0.1724   -0.1972 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1265    1.5205   -0.3394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1516    0.9901    0.1223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5544    0.6088    0.1250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5253    1.5406    0.4306 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8252    1.0785    0.4060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1265   -1.0057   -0.1731 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3478   -2.3997   -0.5313 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4554   -2.0623    1.2467 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9090   -2.0401    0.4455 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3557   -0.8370   -0.5216 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8243    2.3342   -0.4790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9325    2.0154    0.4135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3022    2.5715    0.6763 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6564    1.7378    0.6326 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6981   -2.9930   -0.7074 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4092   -2.6395   -0.4957 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 15  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 18  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+M  CHG  2   1  -1   5   1
+M  END
+> <DATABASE_ID>
+DB13350
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LHIALLMPKJMSIQ-NSCUHMNNSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C(\C=C\C2=CC=NC(N)=N2)=NC=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N6O2/c1-15-8(13-6-9(15)16(17)18)3-2-7-4-5-12-10(11)14-7/h2-6H,1H3,(H2,11,12,14)/b3-2+
+
+> <INCHI_KEY>
+LHIALLMPKJMSIQ-NSCUHMNNSA-N
+
+> <FORMULA>
+C10H10N6O2
+
+> <MOLECULAR_WEIGHT>
+246.23
+
+> <EXACT_MASS>
+246.086523586
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.999180393108823
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(E)-2-(1-methyl-5-nitro-1H-imidazol-2-yl)ethenyl]pyrimidin-2-amine
+
+> <ALOGPS_LOGP>
+1.03
+
+> <JCHEM_LOGP>
+0.8329345776666666
+
+> <ALOGPS_LOGS>
+-2.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.588569642046068
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.060163271322206
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.76000000000002
+
+> <JCHEM_REFRACTIVITY>
+65.2038
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+azanidazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13350
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Azanidazole
+
+$$$$

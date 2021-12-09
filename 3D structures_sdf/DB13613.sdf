@@ -1,0 +1,148 @@
+6258
+  -OEChem-12031918183D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+    3.8663   -0.2547    0.0001 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3659   -2.0815   -0.0001 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6826    1.4873    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5349   -0.8420    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5651    0.4185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0645   -0.8832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2721    1.5234   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0382    0.4508   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3021   -1.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6497    1.2996   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1611   -0.0078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1194    2.5348   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6944   -2.1233    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3222    2.1542   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5267   -1.0539    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13613
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/POPOYOKQQAEISW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC2=C(C=C1)C(=O)NS2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H4ClNOS/c8-4-1-2-5-6(3-4)11-9-7(5)10/h1-3H,(H,9,10)
+
+> <INCHI_KEY>
+POPOYOKQQAEISW-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H4ClNOS
+
+> <MOLECULAR_WEIGHT>
+185.63
+
+> <EXACT_MASS>
+184.9702126
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.81470374578747
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-chloro-2,3-dihydro-1,2-benzothiazol-3-one
+
+> <ALOGPS_LOGP>
+2.04
+
+> <JCHEM_LOGP>
+1.9619769256666666
+
+> <ALOGPS_LOGS>
+-2.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.341340359353875
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.493436899198782
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+44.313300000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.34e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-[(2-ethanimidamidoethyl)sulfanyl]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13613
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ticlatone
+
+> <SYNONYMS>
+Ticlatona; Ticlatone; Ticlatonum
+
+$$$$

@@ -1,0 +1,166 @@
+71792
+  -OEChem-10051722433D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+    1.2386   -0.4625    0.2099 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8182    1.1693   -0.4189 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0647   -1.1973    0.3450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0336   -0.1294    0.7527 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2548   -1.1420   -1.1809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4031   -0.8123    0.9911 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4924    1.2465    0.2374 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7140    0.2676   -1.5866 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7967    0.6029    0.5358 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2253    0.4929    0.5726 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5238    0.1300    0.0038 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5898   -0.1660   -0.4621 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7421   -2.1987    0.6486 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0453   -0.1146    1.8481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0029   -1.8810   -1.4921 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3197   -1.3948   -1.6940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3201   -0.8447    2.0838 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1811   -1.5289    0.7020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5454    1.9563    1.0725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1839    1.6917   -0.4982 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0185    0.6902   -2.3225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6830    0.2124   -2.0984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7930    0.5835    0.0765 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8882    1.2642    1.4065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926    1.5030    0.2288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    0.5230    1.6657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5355   -0.4287   -0.8755 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  3  0  0  0  0
+ 12 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12287
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XVFJONKUSLSKSW-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+C#CCO[C@H]1CN2CCC1CC2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15NO/c1-2-7-12-10-8-11-5-3-9(10)4-6-11/h1,9-10H,3-8H2/t10-/m0/s1
+
+> <INCHI_KEY>
+XVFJONKUSLSKSW-JTQLQIEISA-N
+
+> <FORMULA>
+C10H15NO
+
+> <MOLECULAR_WEIGHT>
+165.236
+
+> <EXACT_MASS>
+165.115364107
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.85535723024536
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-(prop-2-yn-1-yloxy)-1-azabicyclo[2.2.2]octane
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+0.728281483333333
+
+> <ALOGPS_LOGS>
+-2.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.76082856449332
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+48.563
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.66e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+talsaclidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12287
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Talsaclidine
+
+$$$$

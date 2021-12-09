@@ -1,0 +1,152 @@
+4696
+  -OEChem-12101913573D
+
+ 17 18  0     1  0  0  0  0  0999 V2000
+   -2.2444   -0.0459   -0.7798 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5408    1.1113    0.2490 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8181   -1.5752    0.9822 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3761   -0.2475   -0.0490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0090   -0.5655   -0.1549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3823   -1.0842   -0.2818 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2038    0.8103    0.1280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2199    1.1670   -0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8198    1.6631    0.2335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1891   -1.1500   -0.2948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1660   -0.0835   -0.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4113   -1.9107   -1.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7417    1.0066    0.9460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7789    1.9161   -0.5730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6584    2.7085    0.4716 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4170   -2.1751   -0.5260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4677   -2.2775    0.8087 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15586
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZRWPUFFVAOMMNM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1OCC=C2OC(=O)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O4/c8-6-3-4-5(11-6)1-2-10-7(4)9/h1,3,7,9H,2H2
+
+> <INCHI_KEY>
+ZRWPUFFVAOMMNM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O4
+
+> <MOLECULAR_WEIGHT>
+154.1201
+
+> <EXACT_MASS>
+154.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.767836756470274
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxy-2H,4H,6H-furo[3,2-c]pyran-2-one
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.37724500566666697
+
+> <ALOGPS_LOGS>
+0.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.653255377193847
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.262666098015411
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.760000000000005
+
+> <JCHEM_REFRACTIVITY>
+37.034800000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+digoxigenin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15586
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Patulin
+
+> <SYNONYMS>
+Clavacin; Clavatin; Claviformin; Expansine; Mycoin C3; Patulin; Patuline
+
+$$$$

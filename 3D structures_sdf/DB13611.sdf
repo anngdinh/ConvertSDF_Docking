@@ -1,0 +1,175 @@
+71821
+  -OEChem-10061700263D
+
+ 31 33  0     0  0  0  0  0  0999 V2000
+    5.2249    1.1633    1.3017 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8518   -0.7939   -0.6157 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2860   -1.6434    0.8545 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2722   -0.7149   -1.5213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7418    0.2145   -0.3479 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2185   -1.8822    0.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6269   -0.3406    0.5723 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5147   -0.2443   -0.8148 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8455    1.5244   -0.8171 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4698   -3.1550    0.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6843    0.4432    1.0642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3671   -1.1749   -0.2365 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7912    1.1147   -0.7495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9036    2.2903   -0.3168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8077    1.7612    0.6070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5180   -0.7383    0.4195 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9421    1.5512   -0.0935 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8056    0.6248    0.4911 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0095   -0.0321   -2.3386 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4301   -1.6850   -2.0021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1592    1.9394   -1.5449 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1111   -3.9688    0.4344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1510   -3.4317   -0.9304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3960   -3.1210    0.7427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3921    0.0415    1.7821 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1781   -2.2402   -0.3092 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1391    1.8491   -1.2103 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0260    3.3158   -0.6568 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6207    2.3808    0.9769 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1854   -1.4720    0.8646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550    2.6162   -0.0480 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13611
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WNAQOLSMVPFGTE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC2=CC=CC=C2N1CC1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13ClN2/c1-11-17-14-4-2-3-5-15(14)18(11)10-12-6-8-13(16)9-7-12/h2-9H,10H2,1H3
+
+> <INCHI_KEY>
+WNAQOLSMVPFGTE-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H13ClN2
+
+> <MOLECULAR_WEIGHT>
+256.73
+
+> <EXACT_MASS>
+256.0767261
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.46221932762352
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(4-chlorophenyl)methyl]-2-methyl-1H-1,3-benzodiazole
+
+> <ALOGPS_LOGP>
+4.34
+
+> <JCHEM_LOGP>
+3.934762589
+
+> <ALOGPS_LOGS>
+-4.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.132835839726233
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.82
+
+> <JCHEM_REFRACTIVITY>
+73.7233
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.73e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlormidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13611
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Chlormidazole
+
+$$$$

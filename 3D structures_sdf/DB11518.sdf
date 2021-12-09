@@ -1,0 +1,188 @@
+38081
+  -OEChem-10051722153D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+   -5.2815    0.2569    0.0933 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2673   -0.4495   -1.6890 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2975   -1.6822    0.1021 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1886   -2.5026    0.1515 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1950   -2.2275    1.2081 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7885   -0.2336   -0.0717 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0997    1.6358   -0.7085 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6489   -0.3063   -0.1956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4775    0.2987    0.2594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8898    0.2335    0.1431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5467    1.4435    1.0532 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9590    1.3783    0.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5792   -1.5355   -1.0464 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7875    1.9833    1.3921 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0518    0.3585   -0.2534 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1594   -0.3956   -0.3293 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1868   -0.3892    0.0415 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4316    0.2034   -0.1395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5118    1.5113   -0.6046 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272    2.1783   -0.8722 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1133   -1.7596    0.5290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7670   -1.2087   -0.3528 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3498    1.9261    1.4329 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9143    1.8152    1.2140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8990   -1.3739   -1.8907 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2112   -2.3780   -0.4503 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5239   -1.8512   -1.4899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    2.8728    2.0132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3556   -0.3229    0.0847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4710    1.9947   -0.7504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3352    3.2004   -1.2359 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -3.4238    0.4836 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5 21  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11518
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NOOCSNJCXJYGPE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C=CC=C1NC1=C(C=CC=N1)C(O)=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11F3N2O2/c1-8-10(14(15,16)17)5-2-6-11(8)19-12-9(13(20)21)4-3-7-18-12/h2-7H,1H3,(H,18,19)(H,20,21)
+
+> <INCHI_KEY>
+NOOCSNJCXJYGPE-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H11F3N2O2
+
+> <MOLECULAR_WEIGHT>
+296.249
+
+> <EXACT_MASS>
+296.077262091
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.207708074234958
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[2-methyl-3-(trifluoromethyl)phenyl]amino}pyridine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+4.17
+
+> <JCHEM_LOGP>
+3.6873743844175717
+
+> <ALOGPS_LOGS>
+-3.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.256628996568345
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.880816736073963
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.380578268074199
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.22
+
+> <JCHEM_REFRACTIVITY>
+70.97189999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.02e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flunixin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11518
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Flunixin
+
+> <SYNONYMS>
+2-((2-methyl-3-(trifluoromethyl)phenyl)amino)-3-pyridinecarboxylic acid; Flunixin; Flunixine; Flunixino; Flunixinum
+
+> <SALTS>
+Flunixin meglumine
+
+$$$$

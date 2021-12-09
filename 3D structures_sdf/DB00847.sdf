@@ -1,0 +1,148 @@
+118985556
+  -OEChem-10051719243D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+    2.1105    0.1771    0.0152 S   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.9541   -0.1033    0.0187 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.6037    0.5164   -0.0188 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4472   -0.5902   -0.0152 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5418    1.1652    0.8616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5695    1.1288   -0.9263 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0872   -0.6726    0.8652 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1148   -0.7119   -0.7950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6905    0.6149    0.0141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2998   -1.2274   -0.8961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2808   -1.2417    0.8520 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+> <DATABASE_ID>
+DB00847
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UFULAYFCSOUIOV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7NS/c3-1-2-4/h4H,1-3H2
+
+> <INCHI_KEY>
+UFULAYFCSOUIOV-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H7NS
+
+> <MOLECULAR_WEIGHT>
+77.149
+
+> <EXACT_MASS>
+77.029919919
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.651056413998479
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminoethane-1-thiol
+
+> <ALOGPS_LOGP>
+0.01
+
+> <JCHEM_LOGP>
+-0.41661316428888157
+
+> <ALOGPS_LOGS>
+-0.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.422940354198866
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.398577468244163
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+22.393700000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cysteamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00847
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00896
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cysteamine
+
+> <SYNONYMS>
+2-amino-1-ethanethiol; 2-amino-ethanethiol; 2-aminoethanethiol; beta-aminoethanethiol; beta-Mercaptoethylamine; Cysteamine; MEA; Mercaptamina; Mercaptamine; Mercaptaminum; Thioethanolamine; β-aminoethylthiol; β-MEA
+
+> <PRODUCTS>
+Cystadrops; Cystagon; Cystaran; PROCYSBI Delayed-release; Procysbi
+
+> <INTERNATIONAL_BRANDS>
+Cystagon; Cystaran; Procysbi
+
+> <SALTS>
+Cysteamine bitartrate; Cysteamine hydrochloride
+
+$$$$

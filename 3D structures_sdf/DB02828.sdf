@@ -1,0 +1,148 @@
+131153
+  -OEChem-10051720033D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+    3.8010   -0.1518    0.0235 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6338    1.3585   -0.0238 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4168    0.8311    0.0563 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6565   -1.3073   -0.0170 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0683   -0.4879   -0.0213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0631    0.5365   -0.0399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4522    0.1423   -0.0054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6142   -0.8164    0.0259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4330   -0.1050    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0208   -1.1229    0.8678 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1323   -0.9053 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9979    1.1453   -0.9488 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9729    1.1993    0.8285 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5858   -1.4578   -0.8583 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5678   -1.4208    0.9350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3085    0.4229    0.0803 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02828
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MBVLGMJBSFUHKW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CCC(=O)CF
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7FO3/c6-3-4(7)1-2-5(8)9/h1-3H2,(H,8,9)
+
+> <INCHI_KEY>
+MBVLGMJBSFUHKW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7FO3
+
+> <MOLECULAR_WEIGHT>
+134.1057
+
+> <EXACT_MASS>
+134.037922295
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.383356705620457
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-fluoro-4-oxopentanoic acid
+
+> <ALOGPS_LOGP>
+-0.31
+
+> <JCHEM_LOGP>
+0.004986283333333327
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.57090655392861
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.082532734024602
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.99770404823674
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+27.098199999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-fluorolevulinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02828
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01997
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Fluorolevulinic Acid
+
+$$$$

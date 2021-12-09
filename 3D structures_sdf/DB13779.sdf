@@ -1,0 +1,182 @@
+71835
+  -OEChem-01012010323D
+
+ 28 28  0     0  0  0  0  0  0999 V2000
+   -1.8510   -2.7031    0.4780 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0184    2.7305    0.3172 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8127    0.0630    0.8990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7341    0.1507   -0.0681 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9330    0.0897    0.5502 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2371   -0.0934    0.2523 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9413   -0.1402   -1.6260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2903    0.0708    0.0021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5757    0.1574    0.8094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0629    0.0080    0.3403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6574   -1.2266    0.0934 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7316    1.1871    0.0221 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9296   -1.2828   -0.4757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0039    1.1311   -0.5468 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6028   -0.1038   -0.7958 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9588   -0.0383   -0.2517 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2863   -0.8448   -0.6019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2139    0.9280   -0.6780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5660    1.0642    1.4264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6190   -0.6900    1.5051 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7053    0.9323   -0.7219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4100   -2.2372   -0.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5418    2.0406   -0.8021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5934   -0.1474   -1.2390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4099   -0.0335    1.2499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0427   -0.1936   -0.3556 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0694   -0.1248   -2.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7981   -0.2376   -2.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6 16  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 27  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13779
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XIHXRRMCNSMUET-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)NNCCOC1=C(Cl)C=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12Cl2N4O/c10-6-2-1-3-7(11)8(6)16-5-4-14-15-9(12)13/h1-3,14H,4-5H2,(H4,12,13,15)
+
+> <INCHI_KEY>
+XIHXRRMCNSMUET-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12Cl2N4O
+
+> <MOLECULAR_WEIGHT>
+263.12
+
+> <EXACT_MASS>
+262.0388164
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0277400914331425
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.993562943154828
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-{[2-(2,6-dichlorophenoxy)ethyl]amino}guanidine
+
+> <ALOGPS_LOGP>
+0.99
+
+> <JCHEM_LOGP>
+1.6073336506666671
+
+> <ALOGPS_LOGS>
+-2.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.218811685872605
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.16
+
+> <JCHEM_REFRACTIVITY>
+95.325
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.92e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mizolastine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13779
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Guanoclor
+
+> <SYNONYMS>
+Guanoclor; Guanocloro; Guanoclorum
+
+> <INTERNATIONAL_BRANDS>
+Vatensol
+
+> <SALTS>
+Guanoclor sulfate
+
+$$$$

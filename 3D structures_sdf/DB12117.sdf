@@ -1,0 +1,174 @@
+129873
+  -OEChem-10051722403D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+   -0.3526   -3.3686    0.9552 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4814   -2.5676   -1.7156 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0600    1.4542    2.5042 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1672    1.4214   -0.5985 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3377   -0.7285    0.4498 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7051   -2.2246    0.0345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0298   -0.1934    0.1896 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4582    0.2728    0.0788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1554   -2.5977    0.3801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3108    0.4457   -1.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0283   -0.3329    1.1535 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8095    1.2566    0.9619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0433    0.1049   -1.1491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5900    0.9458   -1.2615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3075    0.1670    0.9100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8223    2.1413    0.5915 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0561    0.9895   -1.5196 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5884    0.8064   -0.2975 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4456    2.0077   -0.6493 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4126   -0.8105    1.5440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9070   -2.1023   -0.2392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3805   -2.3618    1.4271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3267   -3.6745    0.2518 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5665    0.5589   -1.7991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8283   -0.8229    2.1026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7676   -0.5974   -1.9097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7958    1.4382   -2.2085 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0754    0.0520    1.6707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1367    2.9409    1.2576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5319    0.8967   -2.4917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2316    2.6988   -0.9395 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12117
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MOTIYCLHZZLHHQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(Cl)(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12Cl4/c1-15(18,19)14(10-6-8-11(16)9-7-10)12-4-2-3-5-13(12)17/h2-9,14H,1H3
+
+> <INCHI_KEY>
+MOTIYCLHZZLHHQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H12Cl4
+
+> <MOLECULAR_WEIGHT>
+334.06
+
+> <EXACT_MASS>
+331.9693112
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.662967870694004
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-chloro-4-[2,2-dichloro-1-(2-chlorophenyl)propyl]benzene
+
+> <ALOGPS_LOGP>
+6.56
+
+> <JCHEM_LOGP>
+6.358427516999999
+
+> <ALOGPS_LOGS>
+-7.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+84.9872
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.18e-06 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-chloro-4-[2,2-dichloro-1-(2-chlorophenyl)propyl]benzene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12117
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Mitometh
+
+> <SYNONYMS>
+DDP
+
+$$$$

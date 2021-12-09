@@ -1,0 +1,168 @@
+29083
+  -OEChem-10051722063D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+    0.6443   -1.6203    0.1317 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4678   -2.3313   -0.3068 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0548    0.0372    1.3862 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0374   -0.0553   -0.5231 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2861    1.4092    0.0124 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1637    1.0802   -0.2454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2719    0.7098   -0.1096 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6254   -0.6160    0.0962 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3975    0.2664   -0.9331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6905   -1.3791   -0.2399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2804    1.6781   -0.1268 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9524   -1.0029    0.2766 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6162    1.3070    0.0468 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9513   -0.0326    0.2485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2441    0.5496    0.2864 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5099    1.5484    0.6829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2750    1.7964   -1.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3785    1.1191   -1.6195 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8418   -0.5874   -1.4563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0328    2.7266   -0.2718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2109   -2.0454    0.4361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3951    2.0639    0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9902   -0.3175    0.3858 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9443    1.6767    0.7368 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4381    1.8067   -0.9091 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 24  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09254
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KYCBWEZLKCTALM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)CN1CC2=CC=CC=C2OC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2O3/c11-9(13)6-12-5-7-3-1-2-4-8(7)15-10(12)14/h1-4H,5-6H2,(H2,11,13)
+
+> <INCHI_KEY>
+KYCBWEZLKCTALM-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N2O3
+
+> <MOLECULAR_WEIGHT>
+206.201
+
+> <EXACT_MASS>
+206.06914219
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.900589984851365
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-oxo-3,4-dihydro-2H-1,3-benzoxazin-3-yl)acetamide
+
+> <ALOGPS_LOGP>
+-0.25
+
+> <JCHEM_LOGP>
+0.11658138399999991
+
+> <ALOGPS_LOGS>
+-1.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.423153738885823
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.683859277658999
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+52.12190000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.19e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+caroxazone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09254
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Caroxazone
+
+> <INTERNATIONAL_BRANDS>
+Surodil; Timostenil
+
+$$$$

@@ -1,0 +1,174 @@
+4059
+  -OEChem-10061700253D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+   -0.4414   -0.0462    0.4165 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5118    0.3971   -1.4114 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6202    0.3924    0.3894 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6193   -0.6421   -0.4356 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2184   -1.1295   -0.0835 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9127   -0.1205    0.2264 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3327   -0.0706    0.7827 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6710    1.0375    0.0844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5192   -1.3720    0.1774 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0493    0.9431   -0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0317    2.3859    0.1351 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8975   -1.4663   -0.0152 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6625   -0.3089   -0.1580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2118   -1.4473   -0.8821 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7784   -1.5293   -1.0068 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2757   -1.9212    0.6723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7994    0.7839    1.2119 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4627   -0.8302    1.5592 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9690   -2.2979    0.3131 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6599    1.8350   -0.2210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7649    3.1915    0.0215 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2996    2.4893   -0.6727 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5281    2.5321    1.0964 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3766   -2.4405   -0.0472 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7359   -0.3825   -0.3063 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9583    1.1028   -1.0349 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4899    1.0617   -0.3040 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13583
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JWDYCNIAQWPBHD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=CC=C1OCC(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O3/c1-8-4-2-3-5-10(8)13-7-9(12)6-11/h2-5,9,11-12H,6-7H2,1H3
+
+> <INCHI_KEY>
+JWDYCNIAQWPBHD-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14O3
+
+> <MOLECULAR_WEIGHT>
+182.219
+
+> <EXACT_MASS>
+182.094294311
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.69502877157406
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2-methylphenoxy)propane-1,2-diol
+
+> <ALOGPS_LOGP>
+0.96
+
+> <JCHEM_LOGP>
+1.0085589856666668
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.562423820861877
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.6242909228943
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9686165284655273
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.69
+
+> <JCHEM_REFRACTIVITY>
+49.81720000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mephenesin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13583
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mephenesin
+
+> <PRODUCTS>
+Decontractyl Baume
+
+$$$$

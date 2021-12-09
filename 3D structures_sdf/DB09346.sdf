@@ -1,0 +1,184 @@
+2528
+  -OEChem-10051722103D
+
+ 32 32  0     0  0  0  0  0  0999 V2000
+    0.0315    3.1193   -0.8941 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8676   -2.2040    0.0526 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2336   -1.9854   -0.1475 I   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1481    1.9961    0.6484 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2803   -3.4785    1.4523 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2299   -4.0368   -0.7505 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0004    1.7701    1.5669 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3646    0.9349   -0.4734 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4742    1.1083   -0.6322 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1232    0.2866   -0.4007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2899    0.3730   -0.4797 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0550    1.0176   -0.5519 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0666   -1.0892   -0.1773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1682   -1.7338   -0.1051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3465   -1.0027   -0.2563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0692    0.9629   -1.7889 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0235    1.4898    0.6729 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2277   -3.1774    0.1294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2788    1.4869    1.9882 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2284    1.7361    0.3619 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4391    2.4263   -0.2146 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0527    0.4988   -1.6724 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2154    2.0091   -2.0734 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4881    0.4428   -2.5554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8686    1.0807   -1.5700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9411    0.4799    2.2430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4249    2.1652    1.9456 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9477    1.8265    2.7852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1396    3.0937   -1.0277 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9326    3.0175    0.5618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1404    1.6785   -0.5949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3195   -4.4467    1.6059 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5 18  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 20  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 21 30  1  0  0  0  0
+ 21 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09346
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GGGDNPWHMNJRFN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C(C)=O)C1=C(I)C(C(O)=O)=C(I)C(NC(C)=O)=C1I
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11I3N2O4/c1-4(18)16-10-7(13)6(12(20)21)8(14)11(9(10)15)17(3)5(2)19/h1-3H3,(H,16,18)(H,20,21)
+
+> <INCHI_KEY>
+GGGDNPWHMNJRFN-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11I3N2O4
+
+> <MOLECULAR_WEIGHT>
+627.943
+
+> <EXACT_MASS>
+627.78529
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.933347222846706
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-acetamido-2,4,6-triiodo-5-(N-methylacetamido)benzoic acid
+
+> <ALOGPS_LOGP>
+2.18
+
+> <JCHEM_LOGP>
+2.7571489623333334
+
+> <ALOGPS_LOGS>
+-3.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.13898438173849
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.163155274865334
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8989699821147625
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71000000000001
+
+> <JCHEM_REFRACTIVITY>
+106.24359999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.77e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+metrizoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09346
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Metrizoic acid
+
+> <SALTS>
+Calcium metrizoate; Meglumine metrizoate; Metrizoate magnesium; Metrizoate sodium
+
+$$$$

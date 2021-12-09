@@ -1,0 +1,196 @@
+5270766
+  -OEChem-04202011433D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    3.5749   -1.0113    0.5433 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6972    0.6942    0.3087 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0331   -0.3198    1.9306 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9765   -1.2982   -0.2088 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6772   -2.2036    0.6895 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5961    0.0580   -1.0756 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9201   -2.1204   -0.9781 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5731    0.8609    0.0745 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9710   -1.0068    0.7916 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5805    1.2134    1.2241 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9809    1.7843   -0.3350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7304    3.0655   -0.4730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6299    2.9399    0.5392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0595    1.3341   -1.3932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8821    0.3368   -0.3894 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7665   -0.0903   -0.4194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1144   -1.1665   -1.3963 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9566   -1.4618   -0.3657 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1098   -1.9126    0.2689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6537    0.3043    0.6640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5415    3.6824   -1.3440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7332    3.1669   -0.0779 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9088    2.8948    1.5852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2899    3.4800    0.3503 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5997    1.1764   -2.3347 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7352    2.0604   -1.6014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598    0.0264   -1.4135 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5973    1.1632   -0.4097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8077   -1.3246   -1.9379 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3718   -2.9571    0.3759 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4249   -0.8804    2.6338 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5407   -2.0371    0.1041 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4101    0.8592    1.6797 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4013    2.2061    1.1624 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4 32  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 17  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 16  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15671
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KDNSSKPZBDNJDF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC=C2N=CN(CC3(CC3)OCP(O)(O)=O)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O4P/c11-9-12-3-7-8(14-9)15(5-13-7)4-10(1-2-10)19-6-20(16,17)18/h3,5H,1-2,4,6H2,(H2,11,12,14)(H2,16,17,18)
+
+> <INCHI_KEY>
+KDNSSKPZBDNJDF-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14N5O4P
+
+> <MOLECULAR_WEIGHT>
+299.227
+
+> <EXACT_MASS>
+299.078340949
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.3063664319056729
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.937860540555313
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({1-[(2-amino-9H-purin-9-yl)methyl]cyclopropoxy}methyl)phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.37
+
+> <JCHEM_LOGP>
+-3.089104611824867
+
+> <ALOGPS_LOGS>
+-2.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.904876900345456
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.35055705424887
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.580198980331224
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.38000000000002
+
+> <JCHEM_REFRACTIVITY>
+69.8495
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.07e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(argentiooxy)silver
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15671
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Besifovir
+
+> <SYNONYMS>
+Besifovir
+
+$$$$

@@ -1,0 +1,155 @@
+10413
+  -OEChem-10011815043D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    3.2974    0.3526   -0.0120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7045   -0.7396   -0.0088 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7215    1.3075    0.0113 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8888    0.2299   -0.0159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3320   -0.6917    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1987   -0.5469    0.0234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6269    0.0882    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8695    0.8678   -0.9089 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8514    0.9219    0.8355 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3120   -1.3169    0.9003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3199   -1.3367   -0.8845 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2803   -1.2137   -0.8405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2746   -1.1525    0.9322 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2272    0.9319    0.7657 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5488   -0.2403   -0.0074 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01440
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SJZRECIVHVDYJC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O3/c5-3-1-2-4(6)7/h5H,1-3H2,(H,6,7)
+
+> <INCHI_KEY>
+SJZRECIVHVDYJC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O3
+
+> <MOLECULAR_WEIGHT>
+104.1045
+
+> <EXACT_MASS>
+104.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.166134903961725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-0.63
+
+> <JCHEM_LOGP>
+-0.5149198190000002
+
+> <ALOGPS_LOGS>
+0.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.98255965448772
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.440873954984472
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.3817124873466886
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+23.800299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.94e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+gamma hydroxybutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01440
+
+> <DRUG_GROUPS>
+approved; illicit; investigational
+
+> <GENERIC_NAME>
+gamma-Hydroxybutyric acid
+
+> <SYNONYMS>
+3-carboxypropoxy acid; 4-hydroxy-butyric acid; 4-hydroxybutanoate; 4-hydroxybutanoic acid; 4-Hydroxybutyric acid; gamma-Hydroxybutyrate; GHB; oxy-n-butyric acid; Oxybate; γ-Hydroxybutyric acid
+
+> <PRODUCTS>
+Xywav
+
+> <SALTS>
+Calcium oxybate; Magnesium oxybate; Potassium oxybate
+
+$$$$

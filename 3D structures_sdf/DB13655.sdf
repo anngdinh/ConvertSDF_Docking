@@ -1,0 +1,165 @@
+5497
+  -OEChem-10061700273D
+
+ 27 27  0     0  0  0  0  0  0999 V2000
+    0.8825   -1.6622   -1.2102 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6369    0.1890    0.0017 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6444   -0.6924    1.2154 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0425   -0.0840   -0.2624 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3638    1.3710    0.8164 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6619   -0.6659   -0.5228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6130   -0.9797    0.8203 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2011    2.5904   -0.0706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7508   -0.3784   -0.2276 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4876    0.4344   -1.0662 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3523   -0.9163    0.8868 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8203    0.6882   -0.7614 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3466    0.1060    0.3806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1372   -0.5875   -1.2310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5985    0.8574   -0.3256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4532    1.2239    1.4032 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1825    1.5194    1.5290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5489   -0.5062    1.8053 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0733   -1.9313    0.8734 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.1974    0.6165 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1153    2.7900   -0.6395 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3876    2.4767   -0.7900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9881    3.4733    0.5404 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0483    0.8689   -1.9593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8119   -1.5596    1.5739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4283    1.3200   -1.3986 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3812    0.2721    0.6621 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13655
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NCYVXEGFNDZQCU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN(CC)C(=O)C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2O/c1-3-12(4-2)10(13)9-6-5-7-11-8-9/h5-8H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+NCYVXEGFNDZQCU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14N2O
+
+> <MOLECULAR_WEIGHT>
+178.235
+
+> <EXACT_MASS>
+178.110613079
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.55933995621749
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N,N-diethylpyridine-3-carboxamide
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+0.7671817240000001
+
+> <ALOGPS_LOGS>
+-0.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6071617199843287
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.2
+
+> <JCHEM_REFRACTIVITY>
+52.270100000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+corvin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13655
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nikethamide
+
+$$$$

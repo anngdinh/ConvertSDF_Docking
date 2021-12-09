@@ -1,0 +1,181 @@
+68310
+  -OEChem-10051722173D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+   -3.8606    0.2826   -0.7091 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3558    2.1367    0.4818 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7260   -0.3784    0.1663 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0848   -1.9959    1.5919 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5209   -0.8386   -0.3809 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6139    0.4855    0.1812 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5827    1.4287   -0.4519 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8379    0.9449   -0.2864 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5616    1.3335    0.8292 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3913    0.1213   -1.2536 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0140    1.0566    0.0114 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8742    0.8868    0.9819 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7039   -0.3256   -1.1009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2630   -1.9705    0.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    0.0571    0.0170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2444   -3.2248   -0.4549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4410    0.4152    1.2621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7973    1.5577   -1.5222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6763    2.4350   -0.0216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6988   -0.9434   -1.3759 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1242    1.9773    1.5869 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8247   -0.1807   -2.1297 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4409    1.1917    1.8577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1434   -0.9713   -1.8564 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8173   -4.0461    0.1270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2658   -3.4827   -0.7476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6344   -3.0773   -1.3507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7481    0.6915   -0.7951 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0871   -0.0174    0.9942 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 28  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 15  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11102
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CAHKINHBCWCHCF-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO4/c1-7(13)12-10(11(15)16)6-8-2-4-9(14)5-3-8/h2-5,10,14H,6H2,1H3,(H,12,13)(H,15,16)/t10-/m0/s1
+
+> <INCHI_KEY>
+CAHKINHBCWCHCF-JTQLQIEISA-N
+
+> <FORMULA>
+C11H13NO4
+
+> <MOLECULAR_WEIGHT>
+223.2252
+
+> <EXACT_MASS>
+223.084457909
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.253871389102308
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-acetamido-3-(4-hydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+1.03
+
+> <JCHEM_LOGP>
+0.5928963343333332
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.504642405543471
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6702334878899947
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9831535533841467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+56.541000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.51e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetyl-L-tyrosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11102
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+N-acetyltyrosine
+
+> <SYNONYMS>
+(+)-(2s)-2-(acetylamino)-3-(4-hydroxyphenyl)propanoic acid; (2s)-2-acetylamino-3-(4-hydroxyphenyl)propanoic acid; Acetyl tyrosine; L-N-acetyltyrosine; Melanowhite-A; N-acetyl-L-tyrosine; N-acetyl-tyrosine; N-acetyltyrosin
+
+> <PRODUCTS>
+Aminosyn II; Aminosyn II 10% With Electrolytes; Aminosyn II 5% Inj; Aminosyn II 7% Injection; Aminosyn II 7% M In 10% Dextrose(dual Chamber); Aminosyn II 7% With 10% Dextrose; Aminosyn II 7% With 50% Dextrose; Aminosyn II 8.5% Injection; Aminosyn II 8.5% M In 20% Dextrose (dual Chamber); Aminosyn II 8.5% With 50% Dextrose; Aminosyn II In Dextrose Injection; Aminosyn II and Dextrose; Aminosyn II in Dextrose; Aminosyn II with Electrolytes; Aminosyn II with Electrolytes in Dextrose with Calcium; TrophAmine
+
+$$$$

@@ -1,0 +1,201 @@
+456389
+  -OEChem-01292013343D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+   -0.5340    2.4978   -2.2874 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4563   -0.4588    2.2002 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0899   -3.2371   -0.6537 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1757    1.7597   -0.8896 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8634   -1.7802    0.2257 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1976   -0.1704    0.0345 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3983   -1.4064    0.5957 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5172    0.0176   -0.3803 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8406    2.9883    1.9842 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3157    1.3935   -0.0691 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8395    0.9752   -0.0412 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2533    0.2423   -0.2135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8092    0.2236    0.0085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0012    1.4495   -1.0235 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4079    0.1398    0.9652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3429    1.0687   -0.9982 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9338   -0.2410    0.9901 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8079   -0.9535   -0.7766 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5758    0.3623    0.2136 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6005    2.2943    1.0853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6851   -2.0295   -0.9127 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4530   -0.7137    0.0776 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2615    0.6122   -0.4466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0076   -1.9097   -0.4855 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5821   -1.9065    0.6561 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7842   -1.2182    0.1413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5400    2.0042   -0.9487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976    1.4113   -1.7943 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2845   -0.8882    1.7909 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8019   -1.0866   -1.1621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9613    1.2843    0.6391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3270   -2.9527   -1.3611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4819   -0.6049    0.4110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3031    0.5550   -0.7348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7555   -2.8970    1.1048 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 23  2  0  0  0  0
+  5 26  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 25  2  0  0  0  0
+  8 23  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 34  1  0  0  0  0
+  9 20  3  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 19 31  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 32  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11398
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZSZFUDFOPOMEET-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C(C=C1)C(C#N)C1=C(Cl)C=C(C=C1Cl)N1N=CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H9Cl3N4O2/c18-10-3-1-9(2-4-10)12(7-21)16-13(19)5-11(6-14(16)20)24-17(26)23-15(25)8-22-24/h1-6,8,12H,(H,23,25,26)
+
+> <INCHI_KEY>
+ZSZFUDFOPOMEET-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H9Cl3N4O2
+
+> <MOLECULAR_WEIGHT>
+407.64
+
+> <EXACT_MASS>
+405.9791086
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.7589464093042695
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.176969048002775
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-chlorophenyl)-2-[2,6-dichloro-4-(3,5-dioxo-2,3,4,5-tetrahydro-1,2,4-triazin-2-yl)phenyl]acetonitrile
+
+> <ALOGPS_LOGP>
+4.09
+
+> <JCHEM_LOGP>
+4.234201542999999
+
+> <ALOGPS_LOGS>
+-5.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.737859473879729
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.502336443505465
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.28382334147137
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.56
+
+> <JCHEM_REFRACTIVITY>
+98.06699999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fidaxomicin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11398
+
+> <DRUG_GROUPS>
+investigational; vet_approved
+
+> <GENERIC_NAME>
+Diclazuril
+
+> <SYNONYMS>
+Diclazuril; Diclazurilo; Diclazurilum
+
+> <INTERNATIONAL_BRANDS>
+Clinacox
+
+$$$$

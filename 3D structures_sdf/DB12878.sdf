@@ -1,0 +1,174 @@
+9859632
+  -OEChem-10051722543D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+    5.1796    0.4323    0.7957 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9561   -0.9595   -1.4361 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6626   -1.5054    0.2828 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7968   -0.1747    1.9013 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8166    1.8117   -0.0525 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9953   -2.3312   -0.2488 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5029    1.1578   -0.4739 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9518    0.6763   -0.3830 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5504    0.0272   -0.8236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8847    0.1018   -0.4192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5871   -1.0520   -0.1523 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4529    1.3540   -0.3268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1077   -0.3482    0.7298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9257   -0.9499    0.2264 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7916    1.4560    0.0518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5280    0.3040    0.3284 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1955    1.5917    0.4859 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4098    1.9262   -1.2507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2756    0.2429   -1.3357 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9078    2.2650   -0.5507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5412    2.2150    0.8422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7791    1.4941    0.0539 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4996   -1.8488    0.4423 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2489    2.4395    0.1240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0213   -2.4353   -0.4962 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5455   -3.1544   -0.0413 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7693   -2.1617    1.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12878
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HQLHZNDJQSRKDT-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC(=O)C1=C(N)C=C(Cl)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11ClN2O3/c11-5-1-2-6(7(12)3-5)9(14)4-8(13)10(15)16/h1-3,8H,4,12-13H2,(H,15,16)/t8-/m0/s1
+
+> <INCHI_KEY>
+HQLHZNDJQSRKDT-QMMMGPOBSA-N
+
+> <FORMULA>
+C10H11ClN2O3
+
+> <MOLECULAR_WEIGHT>
+242.66
+
+> <EXACT_MASS>
+242.0458199
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.120422356122408
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-(2-amino-4-chlorophenyl)-4-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+-1.33
+
+> <JCHEM_LOGP>
+-1.303924146730114
+
+> <ALOGPS_LOGS>
+-2.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.018915221402896
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9249893681811985
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.964495657296467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.41
+
+> <JCHEM_REFRACTIVITY>
+59.855000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.34e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-(2-amino-4-chlorophenyl)-4-oxobutanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12878
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+AV-101
+
+> <SYNONYMS>
+(2S)-2-amino-4-(2-amino-4-chlorophenyl)-4-oxobutanoic acid; 4-chlorokynurenine; L-4-chlorokynurenine; L-4-CL-KYN
+
+$$$$

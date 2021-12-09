@@ -1,0 +1,173 @@
+10016012
+  -OEChem-01051815233D
+
+ 29 30  0     0  0  0  0  0  0999 V2000
+    2.9365    2.8918    0.4658 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.9332   -2.3393    0.1367 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0109   -2.5975   -0.3703 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7885   -0.1300    0.4725 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8007   -0.5611   -0.4771 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1037    0.1122   -0.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6791    0.4664   -0.5254 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9452    1.0407   -0.0374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4942   -0.2809   -0.2366 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3329    1.7899   -0.3436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0020    2.0756   -0.0960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4318   -1.3085   -0.1789 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044    1.2970    0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1525   -1.2302    1.1979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2040   -0.4220    0.2435 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7830   -1.0542    0.0682 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2202    0.2501    0.2635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5859    0.9320   -1.3423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1475   -0.7669   -1.4513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0658    2.5880   -0.3879 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2731    3.1177    0.0474 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0322   -2.1293    0.5823 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7609   -1.5100    2.0672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1852   -0.9431    1.6221 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3474   -1.3297   -0.3539 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6902    0.4124   -0.2742 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7313   -0.5477    1.1957 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2724    0.4484    0.4559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7818   -3.1865   -0.2985 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05565
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YZPOQCQXOSEMAZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CC1=CC=C2C(Cl)=CC(Cl)=C(O)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12Cl2N2O/c1-16(2)6-7-3-4-8-9(13)5-10(14)12(17)11(8)15-7/h3-5,17H,6H2,1-2H3
+
+> <INCHI_KEY>
+YZPOQCQXOSEMAZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H12Cl2N2O
+
+> <MOLECULAR_WEIGHT>
+271.14
+
+> <EXACT_MASS>
+270.0326684
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.974755896681486
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,7-dichloro-2-[(dimethylamino)methyl]quinolin-8-ol
+
+> <ALOGPS_LOGP>
+3.23
+
+> <JCHEM_LOGP>
+1.8480696637912535
+
+> <ALOGPS_LOGS>
+-2.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.774754044755309
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.338617145740022
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.36
+
+> <JCHEM_REFRACTIVITY>
+69.5903
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.55e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5,7-dichloro-2-[(dimethylamino)methyl]quinolin-8-ol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB05565
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+PBT-1033
+
+$$$$

@@ -1,0 +1,167 @@
+445248
+  -OEChem-10051719543D
+
+ 25 25  0     1  0  0  0  0  0999 V2000
+    2.7670   -0.6292    0.1975 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9847   -2.6027   -0.9118 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6023   -2.0294    0.9102 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6421    2.4523   -0.8007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9649    1.7100   -0.2715 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5176    1.0763    0.3279 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6212    0.3937   -0.3928 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4192   -0.3569   -0.1807 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5832   -1.6108    0.0374 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8606    0.7604    0.6951 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9086   -1.3391   -0.1239 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3184    0.1294   -0.0409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6762    2.0462    0.5544 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4273   -0.0885   -1.2436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8072   -2.0388    1.0228 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8947    0.4702    1.7535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2771   -1.7375   -1.0766 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7193    1.9003    0.8500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2580    2.8515    1.1678 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7767   -0.8535    1.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4534   -3.3996   -0.7419 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2825   -1.6920    1.7646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3286   -0.2842   -0.6499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7106    2.5895   -1.0438 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4104    1.8807   -1.1186 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02376
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VBXHGXTYZGYTQG-SQOUGZDYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)C(NO)=N[C@]([H])(CO)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2O5/c9-1-2-3(10)4(11)5(12)6(7-2)8-13/h2-5,9-13H,1H2,(H,7,8)/t2-,3-,4+,5-/m1/s1
+
+> <INCHI_KEY>
+VBXHGXTYZGYTQG-SQOUGZDYSA-N
+
+> <FORMULA>
+C6H12N2O5
+
+> <MOLECULAR_WEIGHT>
+192.1699
+
+> <EXACT_MASS>
+192.074621504
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.485356021423733
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5S)-6-(hydroxyamino)-2-(hydroxymethyl)-2,3,4,5-tetrahydropyridine-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.46
+
+> <JCHEM_LOGP>
+-3.342954004
+
+> <ALOGPS_LOGS>
+-0.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.370091342951667
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.420754092502182
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.366243229112589
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.54000000000002
+
+> <JCHEM_REFRACTIVITY>
+51.16519999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.73e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3S,4S,5R,6R)-2-(hydroxyamino)-6-(hydroxymethyl)-3,4,5,6-tetrahydropyridine-3,4,5-triol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02376
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01630
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-gluconhydroximo-1,5-lactam
+
+$$$$

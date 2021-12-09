@@ -1,0 +1,200 @@
+14670
+  -OEChem-10051722563D
+
+ 39 41  0     0  0  0  0  0  0999 V2000
+   -2.9752   -1.3910   -0.2284 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2622    0.1406   -0.3460 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9854    1.0876   -0.2684 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0502   -1.8632   -0.0685 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0155    0.8180   -0.6050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7125    1.1528    0.7148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0461    1.8773    0.5188 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4168    0.9398   -0.1646 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1740   -1.2677   -0.1660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6986    0.3613   -0.0841 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3342   -2.0466   -0.0752 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3441    2.3448   -0.0331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8418    1.1618    0.0971 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2838   -0.1787    0.4031 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2192    1.8392   -0.5054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2140   -3.4317    0.1145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4825    3.1351    0.1507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7337    2.5431    0.2130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0342   -4.0235    0.2157 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1303   -3.1991    0.1169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6568    0.1831   -1.2304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8852    1.7149   -1.2234 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0731    1.8098    1.3169 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8385    0.2612    1.3387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4651    2.1297    1.5019 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8443    2.8273    0.0072 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4006    2.8815   -0.0647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8327    0.7148    0.1512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0647   -0.7218   -0.1430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4269   -0.8537    0.4184 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6378   -0.0312    1.4301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0051    2.7719   -1.0392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9035    1.2661   -1.1409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7388    2.0865    0.4276 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0963   -4.0646    0.1833 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3845    4.2127    0.2454 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6217    3.1513    0.3543 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1409   -5.0915    0.3631 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1375   -3.5957    0.1854 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 35  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 38  1  0  0  0  0
+ 20 39  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12958
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JTTAUPUMOLRVRA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CCCN1C2=CC=CC=C2SC2=C1N=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19N3S/c1-18(2)11-6-12-19-13-7-3-4-8-14(13)20-15-9-5-10-17-16(15)19/h3-5,7-10H,6,11-12H2,1-2H3
+
+> <INCHI_KEY>
+JTTAUPUMOLRVRA-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H19N3S
+
+> <MOLECULAR_WEIGHT>
+285.41
+
+> <EXACT_MASS>
+285.129968798
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.43760828338298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl(3-{9-thia-2,4-diazatricyclo[8.4.0.0^{3,8}]tetradeca-1(14),3(8),4,6,10,12-hexaen-2-yl}propyl)amine
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+3.3077406689999993
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.196944222144026
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+87.10810000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl(3-{9-thia-2,4-diazatricyclo[8.4.0.0^{3,8}]tetradeca-1(14),3(8),4,6,10,12-hexaen-2-yl}propyl)amine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12958
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Prothipendyl
+
+> <SYNONYMS>
+Prothipendyl; Prothipendylum; Protipendilo
+
+> <INTERNATIONAL_BRANDS>
+Dominal; Tumovan
+
+> <SALTS>
+Prothipendyl hydrochloride; Prothipendyl hydrochloride monohydrate
+
+$$$$

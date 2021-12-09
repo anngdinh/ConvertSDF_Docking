@@ -1,0 +1,190 @@
+9570
+  -OEChem-10051720043D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+   -4.6294    1.4592   -0.2070 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3459    0.5390    0.9300 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5686   -2.2234   -1.2346 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8232   -2.0462    0.2722 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0273    2.7036    0.3383 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    0.2104    0.2054 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3982    1.7980   -0.2203 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3722   -1.6649    0.6380 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7143   -1.0126    0.4251 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0416   -0.9351   -0.8985 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4163   -0.4190    0.3885 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5159   -0.9173   -0.5458 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6330    0.3481    0.2982 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9500    1.5860   -0.5291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1136   -0.3859    0.3265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1144    1.5221   -0.1236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0344    0.6144    0.0585 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3794    0.2632    0.1159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7049   -1.8845    0.6635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9714    0.4450   -0.9011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8422   -0.2582   -1.7374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2836   -1.2127    1.1340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1724   -0.9482   -1.4200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3656    0.2430    1.1066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1739    1.7949   -1.2719 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9101    1.4813   -1.0428 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7967   -2.8269   -0.5072 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7617   -1.9790    0.5181 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6880    2.2288   -0.2858 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1701    2.7835    0.7906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0096   -2.8966    0.9077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6171   -0.1066   -1.7762 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7920    1.0991   -1.2072 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3462   -0.2576   -0.1521 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 16  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 18  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02896
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZDRFDHHANOYUTE-IOSLPCCCSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O4S/c1-20-10-6-9(12-3-13-10)15(4-14-6)11-8(18)7(17)5(2-16)19-11/h3-5,7-8,11,16-18H,2H2,1H3/t5-,7-,8-,11-/m1/s1
+
+> <INCHI_KEY>
+ZDRFDHHANOYUTE-IOSLPCCCSA-N
+
+> <FORMULA>
+C11H14N4O4S
+
+> <MOLECULAR_WEIGHT>
+298.318
+
+> <EXACT_MASS>
+298.073575646
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.807689222639784
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-2-(hydroxymethyl)-5-[6-(methylsulfanyl)-9H-purin-9-yl]oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+-0.6338207793333331
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.891226114877966
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454003913425545
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.503108529029525
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.2541
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.21e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-(methylthio) inosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02896
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02248
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methylthioinosine
+
+> <SYNONYMS>
+6-(Methylthio)purine ribonucleoside; 6-methyl MP riboside; 6-methyl MP-riboside; 6-methyl-9-ribofuranosylpurine-6-thiol; 6-methylmercaptopurine ribonucleoside; 6-methylmercaptopurine riboside; 6-Methylmercaptopurine-riboside; 6-methylthioinosine; 6-methylthiopurine riboside; 6-MMPR; 6-S-methyl-6-thioinosine; Me6MPR; methylmercaptopurine riboside; MMPR
+
+$$$$

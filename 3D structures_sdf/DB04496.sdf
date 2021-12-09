@@ -1,0 +1,173 @@
+449303
+  -OEChem-01072017333D
+
+ 24 23  0     1  0  0  0  0  0999 V2000
+   -2.7715   -0.1877   -0.1448 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3586    0.4891   -0.5394 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5008    2.1655    0.9931 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7473    1.1648   -1.3146 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5442   -0.4848    1.0956 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5263    0.9626    0.7050 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3464   -1.2651    0.9836 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5516   -0.7507   -1.2967 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7248   -2.9394    0.3164 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4297   -1.7987   -0.4417 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7230    1.6298   -0.0814 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5480    0.5778   -0.8342 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5628    1.0451    0.5028 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8996   -0.6082    0.0563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4943    2.4576   -0.7619 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9904    0.2350   -1.7127 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3481    0.2848    1.2612 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1234    1.8417    1.0045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6469    1.4603    1.6460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2025    1.5732   -0.5584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0077   -1.9493   -1.3508 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4457    0.8031    1.0074 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0248   -1.8839    1.3285 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9073   -3.0156    0.8373 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04496
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JJQQOJRGUHNREK-PWNYCUMCSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N(O)C(=O)[C@H](O)[C@H](O)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10NO8P/c6-2(1-13-14(10,11)12)3(7)4(8)5-9/h2-3,6-7,9H,1H2,(H,5,8)(H2,10,11,12)/t2-,3-/m1/s1
+
+> <INCHI_KEY>
+JJQQOJRGUHNREK-PWNYCUMCSA-N
+
+> <FORMULA>
+C4H10NO8P
+
+> <MOLECULAR_WEIGHT>
+231.0979
+
+> <EXACT_MASS>
+231.014402813
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8885823689067505
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.246185031170242
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3R)-2,3-dihydroxy-3-(hydroxycarbamoyl)propoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.91
+
+> <JCHEM_LOGP>
+-3.0827647989999996
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.4970947867349915
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.4747525122402851
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6005289409866426
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.54999999999998
+
+> <JCHEM_REFRACTIVITY>
+40.8057
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(E)-N''-(4-chlorophenyl)-N-hydroxyguanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04496
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02772
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Phospho-D-erythronohydroxamic acid
+
+$$$$

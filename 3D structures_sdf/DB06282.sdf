@@ -1,0 +1,230 @@
+28145931
+  -OEChem-10051722103D
+
+ 52 54  0     1  0  0  0  0  0999 V2000
+    5.5662    4.1677   -0.2329 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0351    0.3303    0.4127 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9340   -0.8660   -1.2198 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -6.3484    0.8879   -2.5666 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3371   -0.0223    1.2964 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4335   -0.1143    0.5154 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4601   -1.1863    1.6838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5300    1.2430    1.1495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3547   -1.3469    0.6453 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4228    1.0139    0.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4913    0.1523    2.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5151   -0.2958   -0.4520 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.5607    0.9954    1.5758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5372    0.8300   -0.3966 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1721   -1.6635   -0.3375 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2360    1.1943   -1.5476 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7753    1.4977    0.8046 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2623   -1.8442    0.5137 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6844   -2.7363   -1.0834 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1730    2.2264   -1.4973 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7122    2.5298    0.8549 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8648   -3.0979    0.6189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2867   -3.9900   -0.9783 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0486    1.0821   -0.2412 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4111    2.8941   -0.2959 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3771   -4.1708   -0.1271 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4842    0.2893   -1.4629 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7343   -0.2472    0.3734 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0923   -2.0801    1.7127 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0609   -0.9853    2.6849 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1281    1.5044    2.1352 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1879    2.0405    0.7971 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2407   -2.1803    1.0305 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8061   -1.6394   -0.3117 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8735    0.8389   -0.8608 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1458    1.9470    0.0528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8856   -0.8483    2.4507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1173    0.6015    3.1677 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0767   -0.2554   -1.4622 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3955    1.1117    2.2779 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2063    1.9990    1.3230 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0609    0.6816   -2.4896 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2618    1.2287    1.7235 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6606   -1.0448    1.1289 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8455   -2.6118   -1.7629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7103    2.4994   -2.4018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8902    3.0389    1.7987 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7105   -3.2403    1.2854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9089   -4.8248   -1.5613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9090    1.2200    0.4231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6578    2.0626   -0.5361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8457   -5.1471   -0.0449 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 25  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 27  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 29  1  0  0  0  0
+  7 30  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 31  1  0  0  0  0
+  8 32  1  0  0  0  0
+  9 33  1  0  0  0  0
+  9 34  1  0  0  0  0
+ 10 35  1  0  0  0  0
+ 10 36  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 37  1  0  0  0  0
+ 11 38  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 39  1  0  0  0  0
+ 13 40  1  0  0  0  0
+ 13 41  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 42  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 17 43  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 18 44  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 19 45  1  0  0  0  0
+ 20 25  2  0  0  0  0
+ 20 46  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 47  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 22 48  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 49  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 24 50  1  0  0  0  0
+ 24 51  1  0  0  0  0
+ 26 52  1  0  0  0  0
+M  CHG  2   3  -1   5   1
+M  END
+> <DATABASE_ID>
+DB06282
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZKLPARSLTMPFCP-OAQYLSRUSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)COCCN1CCN(CC1)[C@H](C1=CC=CC=C1)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H25ClN2O3/c22-19-8-6-18(7-9-19)21(17-4-2-1-3-5-17)24-12-10-23(11-13-24)14-15-27-16-20(25)26/h1-9,21H,10-16H2,(H,25,26)/t21-/m1/s1
+
+> <INCHI_KEY>
+ZKLPARSLTMPFCP-OAQYLSRUSA-N
+
+> <FORMULA>
+C21H25ClN2O3
+
+> <MOLECULAR_WEIGHT>
+388.89
+
+> <EXACT_MASS>
+388.1553704
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.92784762936668
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-{4-[(R)-(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)acetic acid
+
+> <ALOGPS_LOGP>
+2.98
+
+> <JCHEM_LOGP>
+0.873692830850812
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.590379295502369
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.420029873530935
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.01
+
+> <JCHEM_REFRACTIVITY>
+106.86649999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.58e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(-)-cetirizine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06282
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Levocetirizine
+
+> <SYNONYMS>
+2-(2-{4-[(R)-(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)acetic acid; Levocetirizina; Levocetirizine
+
+> <PRODUCTS>
+24HR Allergy Relief; Allergy Relief; Allergy Relief 24HR; AlloPAX; Basic Care Allergy Relief; Childrens Xyzal Allergy; Clobetasol Propionate 0.05% / Levocetirizine Dihydrochloride 2%; Curist Allergy Relief; Good Sense Levocetirizine; Hydrocortisone 2.5% / Levocetirizine Dihydrochloride 2%; Imiquimod 5% / Levocetirizine Dihydrochloride 1% / Niacinamide 2%; Imiquimod 5% / Levocetirizine Dihydrochloride 1% / Tretinoin 0.05%; Levocetirizine; Levocetirizine Dihydrochloride; Levocetirizine Dihydrochloride 2% / Mupirocin 2% / Triamcinolone Acetonide 0.025%; Levocetirizine dihydrochloride; Nazirex Compounding Kit; Topcare All Day Allergy; Xyzal; Xyzal Allergy 24HR
+
+> <SALTS>
+Levocetirizine dihydrochloride
+
+$$$$

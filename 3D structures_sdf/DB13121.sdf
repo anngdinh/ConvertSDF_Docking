@@ -1,0 +1,175 @@
+16666733
+  -OEChem-10051722593D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+    0.1998    1.1479    0.4741 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4236   -2.3335   -0.5029 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0565   -1.3827    0.2828 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3615    1.4635   -0.2801 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0309    0.6203   -1.2705 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4677   -0.1225   -0.1271 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6583   -1.1122    0.1925 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0173   -0.5453   -0.2255 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2061    0.8748    0.3061 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8125   -0.6083    0.4043 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9970    1.7380   -0.0244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9361    0.3927    0.1330 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2733   -0.1327    0.6376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5462    0.0076   -1.2150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6736   -1.3435    1.2644 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1254   -0.5622   -1.3166 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3622    0.8403    1.3912 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0576   -1.5691   -0.0651 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7463   -0.7736    1.4872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9071    1.9116   -1.1043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1050    2.7262    0.4361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7225    1.3522    0.6167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4020   -2.1380   -1.4552 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9904   -1.3886    1.2530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5502   -1.0598    0.1237 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0707    0.5896    0.4321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2457   -0.3218    1.7150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4550    2.3582    0.0892 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7412    1.2683   -1.4156 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13121
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KOGFZZYPPGQZFZ-QVAPDBTGSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(O)C[C@@H]1OC[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O5/c1-4(9)2-6-8(12)7(11)5(10)3-13-6/h4-12H,2-3H2,1H3/t4?,5-,6+,7+,8+/m1/s1
+
+> <INCHI_KEY>
+KOGFZZYPPGQZFZ-QVAPDBTGSA-N
+
+> <FORMULA>
+C8H16O5
+
+> <MOLECULAR_WEIGHT>
+192.211
+
+> <EXACT_MASS>
+192.099773615
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.370901525704216
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4S,5R)-2-(2-hydroxypropyl)oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.16
+
+> <JCHEM_LOGP>
+-2.0917805126666664
+
+> <ALOGPS_LOGS>
+0.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.689001432020966
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.696857135689001
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.547319559507086
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+44.1777
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.72e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3R,4S,5R)-2-(2-hydroxypropyl)oxane-3,4,5-triol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13121
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Hydroxypropyl tetrahydropyrantriol
+
+$$$$

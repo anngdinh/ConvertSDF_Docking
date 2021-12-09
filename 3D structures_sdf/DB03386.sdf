@@ -1,0 +1,173 @@
+25272413
+  -OEChem-10051720143D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+    0.1612    2.1085   -0.4375 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1952   -0.1255   -0.7075 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.5440    1.7209    0.4730 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9369   -2.1377   -0.0189 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4448   -1.4004    1.2961 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.3152   -0.6537   -0.7633 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0886   -0.9842   -0.4428 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1427   -0.1958    0.4599 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1449   -0.0605   -0.2064 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2933   -0.8101    0.0572 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6064   -2.2529   -0.3203 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2346    1.3456   -0.1912 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5318   -0.2214    0.3365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4189    0.5440    0.0318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4668    1.9482    0.0869 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5965    1.1749    0.3465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3217    0.1438   -1.5188 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8029   -1.5117   -1.2460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5499    0.4613    1.1073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1494   -3.2277   -0.4195 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5669   -2.9143    0.1273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5869   -1.8588    1.6304 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9883   -2.0995    0.7722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9944   -1.1442    2.1271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4119   -0.8227    0.5386 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5415    3.0323    0.1001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5435    1.6637    0.5601 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 14  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <DATABASE_ID>
+DB03386
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DEBQMEYEKKWIKC-QMMMGPOBSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CNC2=C1C(F)=CC=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11FN2O2/c12-7-2-1-3-9-10(7)6(5-14-9)4-8(13)11(15)16/h1-3,5,8,14H,4,13H2,(H,15,16)/t8-/m0/s1
+
+> <INCHI_KEY>
+DEBQMEYEKKWIKC-QMMMGPOBSA-N
+
+> <FORMULA>
+C11H11FN2O2
+
+> <MOLECULAR_WEIGHT>
+222.2156
+
+> <EXACT_MASS>
+222.080455811
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.048105080915377
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(4-fluoro-1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.90
+
+> <JCHEM_LOGP>
+-0.9432492718962817
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.910352989499017
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.184400327974961
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.363652620658758
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11000000000001
+
+> <JCHEM_REFRACTIVITY>
+56.41920000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-fluorotryptophane
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03386
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00213
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Fluorotryptophane
+
+$$$$

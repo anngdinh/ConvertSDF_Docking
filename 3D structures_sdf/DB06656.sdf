@@ -1,0 +1,185 @@
+176885
+  -OEChem-01281811153D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+   -0.7656   -0.8926    1.2809 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0541    1.0136    1.2610 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0852    2.4076   -0.0161 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4122   -3.2948    0.0314 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6197    2.3949    0.1614 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550    0.1546    0.4618 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2859    0.9414   -0.3512 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9886   -0.5531   -0.8763 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4278    0.3617    0.1541 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0749    0.9957   -0.1338 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0239   -1.0524    0.5840 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1845    0.3728    0.9311 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7842   -2.0557   -0.5425 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3406    0.4099   -0.9900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6237   -1.1468    0.3687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0058    1.2267    0.0923 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8507   -1.4418   -0.0564 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7129   -0.2913   -0.4329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0892    0.4495   -1.9276 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7323    0.7376   -1.1448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7280   -1.4747    1.3109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1318    0.9966    1.8317 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9757   -1.7376   -1.2076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6913   -2.2202   -1.1307 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1233    1.9605    1.0487 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2115    2.7357   -0.2840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9886   -1.9745    0.6538 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2613   -3.9171   -0.7004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2248   -2.4542   -0.1293 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7531    0.4842   -2.7595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3491   -1.4987   -0.9502 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6118    0.2014   -1.1435 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 18  1  0  0  0  0
+  8 31  1  0  0  0  0
+  8 32  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 19  3  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06656
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JFIWEPHGRUDAJN-DYUFWOLASA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@](O)(C#C)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13N3O5/c1-2-11(18)6(5-15)19-9(8(11)16)14-4-3-7(12)13-10(14)17/h1,3-4,6,8-9,15-16,18H,5H2,(H2,12,13,17)/t6-,8+,9-,11-/m1/s1
+
+> <INCHI_KEY>
+JFIWEPHGRUDAJN-DYUFWOLASA-N
+
+> <FORMULA>
+C11H13N3O5
+
+> <MOLECULAR_WEIGHT>
+267.241
+
+> <EXACT_MASS>
+267.085520531
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.684636871875583
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,3R,4S,5R)-4-ethynyl-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.73
+
+> <JCHEM_LOGP>
+-2.6456655246666663
+
+> <ALOGPS_LOGS>
+-2.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.08509286332118
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.212079552715474
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.692242167303218
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.61
+
+> <JCHEM_REFRACTIVITY>
+62.014599999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-amino-1-[(2R,3R,4S,5R)-4-ethynyl-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06656
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+TAS-106
+
+> <SYNONYMS>
+3'-C-Ethynylcytidine; 4-Amino-1-((2R,3R,4R,5R)-4-ethynyl-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl)pyrimidin-2-one
+
+$$$$

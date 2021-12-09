@@ -1,0 +1,160 @@
+6764
+  -OEChem-10061700233D
+
+ 22 24  0     0  0  0  0  0  0999 V2000
+   -1.3335   -2.7492   -0.0017 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3333   -2.7493    0.0011 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8107   -0.5035    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8107   -0.5036    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7376    0.8057    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7376    0.8056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4599   -0.3906    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4599   -0.3907    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7499   -1.6771   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7498   -1.6771    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5230    1.9675    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5231    1.9676   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9164    1.8981    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9166    1.8980   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5066    0.6494    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5067    0.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0747    2.9571    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0748    2.9571   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5174    2.8005    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5176    2.8004   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5858    0.5418    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5859    0.5414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13469
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VLPADTBFADIFKG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1C(=O)C2=C(C=CC=N2)C2=C1N=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H6N2O2/c15-11-9-7(3-1-5-13-9)8-4-2-6-14-10(8)12(11)16/h1-6H
+
+> <INCHI_KEY>
+VLPADTBFADIFKG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H6N2O2
+
+> <MOLECULAR_WEIGHT>
+210.192
+
+> <EXACT_MASS>
+210.042927441
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.11414571066844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,6-dihydro-4,7-phenanthroline-5,6-dione
+
+> <ALOGPS_LOGP>
+1.03
+
+> <JCHEM_LOGP>
+1.255061872
+
+> <ALOGPS_LOGS>
+-2.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.690877967841131
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.92
+
+> <JCHEM_REFRACTIVITY>
+56.0932
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.72e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phanquinone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13469
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phanquinone
+
+> <SYNONYMS>
+fanquinona; Phanquone
+
+$$$$

@@ -1,0 +1,190 @@
+6253
+  -OEChem-10051719273D
+
+ 30 31  0     1  0  0  0  0  0999 V2000
+   -1.3618   -0.3949    0.9647 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9463    0.2260   -1.9409 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2033    2.0267    0.2173 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9533   -2.6676    0.7122 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6907    2.3204    0.6922 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7732    0.2504    0.2444 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1559    0.6541    0.2143 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6518   -1.0571   -0.2777 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2759    1.0989   -0.8668 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7330    0.8934   -0.5091 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5826    0.6779    0.4197 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7020   -0.3072    0.4383 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.0201   -1.6279   -0.2486 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0201   -1.0747   -0.0887 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8716    1.1372    0.3988 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2473   -1.5583   -0.2714 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3677   -0.5973   -0.0988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0161    2.1233   -1.1511 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3933    0.7435   -1.3681 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6102    1.4960    1.1495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3697   -0.1712    1.2971 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2958   -1.8594   -1.0350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0262   -1.6113   -0.6787 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4587    0.5118   -2.7163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7028    2.1030    1.0465 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1690   -1.7331   -0.2177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1640   -3.4976    0.2516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4437   -2.5884   -0.5374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8485   -2.0224   -0.5209 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4467   -0.4364   -0.1699 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00987
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UHDGCWIWMRVCDJ-CCXZUQQUSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N3O5/c10-5-1-2-12(9(16)11-5)8-7(15)6(14)4(3-13)17-8/h1-2,4,6-8,13-15H,3H2,(H2,10,11,16)/t4-,6-,7+,8-/m1/s1
+
+> <INCHI_KEY>
+UHDGCWIWMRVCDJ-CCXZUQQUSA-N
+
+> <FORMULA>
+C9H13N3O5
+
+> <MOLECULAR_WEIGHT>
+243.2166
+
+> <EXACT_MASS>
+243.085520541
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.207755753933647
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-2.18
+
+> <JCHEM_LOGP>
+-2.7975172843333334
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.933690929173128
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.553240935454827
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.5510800449087655
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.61
+
+> <JCHEM_REFRACTIVITY>
+54.5448
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.38e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cytarabine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00987
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00499
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cytarabine
+
+> <SYNONYMS>
+1-beta-D-Arabinofuranosylcytosine; 4-Amino-1-beta-D-arabinofuranosyl-2(1H)-pyrimidinone; Citarabina; Cytarabine; Cytarabinum; Cytosine arabinoside; Cytosine-1-beta-D-arabinofuranoside; cytosine-β-D-arabinofuranoside
+
+> <PRODUCTS>
+Aj-cytarabine; Cytarabine; Cytarabine - Pws 1gn/vial; Cytarabine - Pws 2gm/vial; Cytarabine - Pws 500mg/vial; Cytarabine Inj 100mg/ml; Cytarabine Injection; Cytarabine Injection BP; Cytarabine Injection, Mylan Std.; Cytarabine-pws 100mg/vial; Cytosar; DepoCyt; Depocyte; PMS-cytarabine; Vyxeos; Vyxeos Liposomal
+
+> <INTERNATIONAL_BRANDS>
+Ara-C; Cytosar-U
+
+> <SALTS>
+Cytarabine hydrochloride
+
+$$$$

@@ -1,0 +1,189 @@
+5359405
+  -OEChem-12181916573D
+
+ 30 33  0     0  0  0  0  0  0999 V2000
+   -1.3411    2.3359   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7206    2.8535   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9662   -1.1394    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8051    1.7420   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9308    0.4283    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3602    0.0914    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0986   -0.4464    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2095    0.4022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7074    0.3585    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3477   -0.9961    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4510    1.1289    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4108    1.8510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2594   -1.8190    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5052   -0.0756   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0158    0.7930    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3236   -1.9706   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5638   -2.3248   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6757   -1.4614   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0041   -0.1922   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6622   -1.5593   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4863   -2.0207    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520    2.5218   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4309   -2.5135    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3604    0.5902   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2728    1.8453    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0715   -3.0254   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7234   -3.4001   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6783   -1.8809   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0521    0.0959   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4523   -2.3060   -0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 12  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 29  1  0  0  0  0
+ 20 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12379
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CRDNMYFJWFXOCH-BUHFOSPRSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1NC2=C(C=CC=C2)\C1=C1/NC2=C(C=CC=C2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H10N2O2/c19-15-10-6-2-4-8-12(10)17-14(15)13-9-5-1-3-7-11(9)18-16(13)20/h1-8,17H,(H,18,20)/b14-13+
+
+> <INCHI_KEY>
+CRDNMYFJWFXOCH-BUHFOSPRSA-N
+
+> <FORMULA>
+C16H10N2O2
+
+> <MOLECULAR_WEIGHT>
+262.268
+
+> <EXACT_MASS>
+262.07422757
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00013354209433673735
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.41528990634047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(E)-1',2'-dihydro-1H,3H-[2,3'-biindolylidene]-2',3-dione
+
+> <ALOGPS_LOGP>
+3.05
+
+> <JCHEM_LOGP>
+2.4348669949999997
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.239443355918919
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.87432220698857
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.5562405016329084
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.199999999999996
+
+> <JCHEM_REFRACTIVITY>
+78.99540000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.47e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+doravirine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12379
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Indirubin
+
+> <SYNONYMS>
+Couroupitine B; Indirubin
+
+$$$$

@@ -1,0 +1,152 @@
+5443
+  -OEChem-05151812513D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    0.5183   -2.5101   -0.0098 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2360    0.4449    1.1967 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3986    0.4402   -1.0705 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2506    0.2667   -0.0314 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3933   -0.9704   -0.0109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4989    1.4431   -0.0310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7867   -1.0313    0.0098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8923    1.3824   -0.0101 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5362    0.1451    0.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7039    0.3893   -0.0532 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0100    2.4140   -0.0468 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3132   -1.9825    0.0242 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4760    2.2983   -0.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6212    0.0982    0.0259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4824   -3.3023    0.4029 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2133    0.5278    1.1744 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14026
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NBOMNTLFRHMDEZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=C(S)C=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O2S/c8-7(9)5-3-1-2-4-6(5)10/h1-4,10H,(H,8,9)
+
+> <INCHI_KEY>
+NBOMNTLFRHMDEZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O2S
+
+> <MOLECULAR_WEIGHT>
+154.186
+
+> <EXACT_MASS>
+154.008850126
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.893289235811134
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-sulfanylbenzoic acid
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.7240359036666664
+
+> <ALOGPS_LOGS>
+-1.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.188304738844692
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.338672645798711
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+41.324
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.70e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thiosalicylic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14026
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thiosalicylic acid
+
+> <SYNONYMS>
+2-Carboxythiophenol; 2-Mercaptobenzoic acid; 2-Sulfanylbenzoic acid; 2-Thiosalicylic acid; o-Benzoic acid thiol; o-Carboxythiophenol; o-Mercaptobenzoic acid; o-Mercaptobenzösäure; o-Sulfhydrylbenzoic acid; o-Thiosalicylic acid; Thiophenol-2-carboxylic acid; Thiosalicylate
+
+> <INTERNATIONAL_BRANDS>
+Pirosal; Thiocyl
+
+$$$$

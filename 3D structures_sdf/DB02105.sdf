@@ -1,0 +1,163 @@
+3870203
+  -OEChem-02112023373D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    2.4587   -1.4390    0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2905   -3.1475    0.0009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8572    2.5853    0.0010 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2495    0.8881    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8905    1.8537    0.0010 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.6925   -0.1898    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0850    1.3525   -0.0001 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.7256    0.6098    0.0004 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9853    0.4506   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4037    0.0911   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1929   -0.9287   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3130    0.9605   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1023   -1.7981   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1961   -1.2883   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4781    2.0355   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0266   -1.9906    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0785   -0.8103   -0.3996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2477   -3.3226    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  CHG  4   3  -1   5  -1   7   1   8   1
+M  END
+> <DATABASE_ID>
+DB02105
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VDCDWNDTNSWDFJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4N2O6/c9-5-2-3(7(11)12)1-4(6(5)10)8(13)14/h1-2,9-10H
+
+> <INCHI_KEY>
+VDCDWNDTNSWDFJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H4N2O6
+
+> <MOLECULAR_WEIGHT>
+200.1058
+
+> <EXACT_MASS>
+200.00693587
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9971690861767296
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.476787618356692
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-dinitrobenzene-1,2-diol
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+1.2460835513333333
+
+> <ALOGPS_LOGS>
+-2.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.326598664632167
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.885000549553116
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.573706272814434
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+42.66080000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-D-glucose 6-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02105
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01233
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,5-Dinitrocatechol
+
+$$$$

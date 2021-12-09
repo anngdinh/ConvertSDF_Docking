@@ -1,0 +1,164 @@
+6654
+  -OEChem-11281915213D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+   -1.1133   -0.3452    0.2340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8716    1.1256   -0.2359 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0976   -0.6847   -0.7010 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4540    0.4778   -1.5955 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3013    1.8049    0.4928 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4176   -0.3422   -0.0714 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4385   -0.9385   -0.2213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9573   -0.6351    1.7134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4909    0.8735    0.5021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5274   -1.3362   -0.1172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7596    1.7643   -0.2822 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0824   -1.6753   -1.1661 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2906    1.0340   -2.1773 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2590    0.2236   -2.2911 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0191    2.0669    1.5180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5728    2.7321   -0.0237 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2716   -0.4986    0.3397 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4585   -2.0202   -0.0429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6704   -0.7968   -1.2793 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9733   -1.7161    1.8978 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7870   -0.1966    2.2809 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0428   -0.2617    2.1771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4033    1.2106    0.9830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7848   -1.5706   -1.1549 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2280   -2.2624    0.3834 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4297   -0.9624    0.3777 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15573
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GRWFGVWFFZKLTI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CCC2CC1C2(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h4,8-9H,5-6H2,1-3H3
+
+> <INCHI_KEY>
+GRWFGVWFFZKLTI-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H16
+
+> <MOLECULAR_WEIGHT>
+136.238
+
+> <EXACT_MASS>
+136.125200515
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.21820124520764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,6,6-trimethylbicyclo[3.1.1]hept-2-ene
+
+> <ALOGPS_LOGP>
+3.66
+
+> <JCHEM_LOGP>
+2.801661446333333
+
+> <ALOGPS_LOGS>
+-2.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+44.7223
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,4-dichlorobenzyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15573
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+alpha-Pinene
+
+> <SYNONYMS>
+(±)-2-pinene; (±)-α-pinene; 2-pinene; Acintene A; alpha-Pinene; pin-2(3)-ene; α-pinene
+
+$$$$

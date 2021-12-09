@@ -1,0 +1,150 @@
+43814
+  -OEChem-10061700303D
+
+ 18 18  0     1  0  0  0  0  0999 V2000
+    3.0132   -1.7562   -0.1112 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0109   -0.4459   -0.3695 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5479    1.8033    0.0428 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4752   -1.7337    0.1999 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0734    0.1980    0.3053 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8698    1.6550   -0.0329 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0569    0.5355   -0.3931 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3998   -0.3626   -0.1612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1893    0.1066    0.5199 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9295    0.0157    1.3776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1824    1.8956   -1.0553 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3643    2.3345    0.6660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3989    0.6413   -1.4292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4907   -0.3020   -1.2507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2359    0.1693    0.3030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8221    0.0042    1.5481 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9650    0.8802    0.5445 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3353   -2.0642   -0.1108 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13768
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NEIPZWZQHXCYDV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1COC(CI)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9IO3/c6-1-5-8-3-4(2-7)9-5/h4-5,7H,1-3H2
+
+> <INCHI_KEY>
+NEIPZWZQHXCYDV-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9IO3
+
+> <MOLECULAR_WEIGHT>
+244.028
+
+> <EXACT_MASS>
+243.95964
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.881446217172822
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[2-(iodomethyl)-1,3-dioxolan-4-yl]methanol
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+0.4972460166666667
+
+> <ALOGPS_LOGS>
+-1.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.596994650733148
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.97507453976932
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.69
+
+> <JCHEM_REFRACTIVITY>
+40.626999999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.73e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mucolitico
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13768
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Domiodol
+
+$$$$

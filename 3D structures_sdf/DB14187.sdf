@@ -1,0 +1,186 @@
+7888
+  -OEChem-07031815503D
+
+ 32 31  0     1  0  0  0  0  0999 V2000
+   -4.3175    0.7974    0.6675 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3683   -0.0898    0.2581 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7136   -0.0723   -0.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5840    0.5709    0.3118 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9403    0.6352    0.3926 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8604   -0.0476   -0.2976 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3042    0.0266    0.0071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0880    0.7537    0.1692 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0080   -1.5259    0.0821 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5736    0.0995   -1.4972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4584   -1.4114    0.5040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3990    0.2637   -0.4045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7380   -0.0254   -1.2872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7339   -1.1269    0.0947 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6248    0.4958    1.4061 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5607    1.6417    0.0709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9235    1.6922    0.0936 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8608    0.6507    1.4884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8002    0.0159   -1.3918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1678    0.7281    1.2627 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9862    1.8040   -0.1277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0233   -1.6553    1.1695 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1871   -2.1259   -0.3215 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9319   -1.9523   -0.3218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8940   -0.5400   -2.0685 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4718    1.1279   -1.8621 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6017   -0.2073   -1.7222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2628   -1.4744    1.5805 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7874   -2.1034   -0.0133 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4863   -1.7637    0.3574 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2551    1.7129    0.3454 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4517    0.2621   -1.5073 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14187
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WPFVBOQKRVRMJB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(=O)CC(C)CCCC(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H20O2/c1-9(6-8-11)5-4-7-10(2,3)12/h8-9,12H,4-7H2,1-3H3
+
+> <INCHI_KEY>
+WPFVBOQKRVRMJB-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H20O2
+
+> <MOLECULAR_WEIGHT>
+172.2646
+
+> <EXACT_MASS>
+172.146329884
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.68706930869604
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-hydroxy-3,7-dimethyloctanal
+
+> <ALOGPS_LOGP>
+2.50
+
+> <JCHEM_LOGP>
+1.6443407129999996
+
+> <ALOGPS_LOGS>
+-2.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.53076846262631
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.205565935338715
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2544409996339292
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+50.2835
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxycitronellal
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14187
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Hydroxycitronellal
+
+> <SYNONYMS>
+3,7-dimethyl-7-hydroxyoctan-1-al; 3,7-Dimethyl-7-hydroxyoctanal; 7-hydroxy-3,7-dimethyloctanal; 7-hydroxycitronellal; Citronellal hydrate; Cyclalia; Cyclosia; Fixol; hydroxy citronellal; Laurine; Lilyl aldehyde; Muguet synthetic; Muguettine principle; Oxydihydrocitronellal; Phixia
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

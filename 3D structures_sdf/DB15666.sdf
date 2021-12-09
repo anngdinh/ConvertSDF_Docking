@@ -1,0 +1,170 @@
+62097
+  -OEChem-04172011363D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+    5.9106    1.6366   -0.3768 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9044   -0.3647   -0.2037 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4813   -1.9190    0.7653 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2510   -0.4425   -0.8518 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5085   -0.1297    0.0799 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5523    1.3750   -0.1955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6184   -0.8801   -0.9053 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4931    2.0877    0.7634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2933   -0.9968   -0.0214 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -0.8417    0.5985 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1995   -0.0760    0.2969 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1929    0.5512    0.0505 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1518   -0.3006    1.1033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5231   -0.5417    0.0205 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8845    1.5551   -1.2246 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5517    1.8105   -0.0956 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9706   -0.7299   -1.9313 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6571   -1.9535   -0.6898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1716    1.9527    1.8010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5102    3.1610    0.5499 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5147    1.7062    0.6673 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9681    0.3224   -1.4571 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7329   -0.7292    1.6577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1584   -1.9031    0.3835 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15666
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WYVVKGNFXHOCQV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCNC(=O)OCC#CI
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12INO2/c1-2-3-6-10-8(11)12-7-4-5-9/h2-3,6-7H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+WYVVKGNFXHOCQV-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12INO2
+
+> <MOLECULAR_WEIGHT>
+281.0909
+
+> <EXACT_MASS>
+280.991272053
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.0209459631041945e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.12316667451087
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-iodoprop-2-yn-1-yl N-butylcarbamate
+
+> <ALOGPS_LOGP>
+1.79
+
+> <JCHEM_LOGP>
+2.5439000000000007
+
+> <ALOGPS_LOGS>
+-3.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.395671745814187
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+54.803200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iodopropynyl butylcarbamate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15666
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Iodopropynyl butylcarbamate
+
+> <SYNONYMS>
+3-iodo-2-propyn-1-yl N-butylcarbamate; 3-iodo-2-propynyl butylcarbamate; 3-iodoprop-2-yn-1-yl butylcarbamate; 3-iodoprop-2-ynyl butylcarbamate; butyl-3-iodo-2-propynylcarbamate; Iodocarbe; Iodopropynyl butyl carbamate; IPBC
+
+> <PRODUCTS>
+Antibacterial Wet Wipes; Antibacterial wipes
+
+$$$$

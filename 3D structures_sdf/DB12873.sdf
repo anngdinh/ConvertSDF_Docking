@@ -1,0 +1,158 @@
+15942827
+  -OEChem-10051722543D
+
+ 20 21  0     1  0  0  0  0  0999 V2000
+   -3.0096   -0.5044    0.2626 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0132    0.5044   -0.2522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1842   -1.8249   -0.0838 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1865    1.8263    0.0522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8561   -0.1712   -0.5046 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8501    0.1752    0.5020 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5692   -0.4815    0.2048 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5607    0.4741   -0.2081 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7567    0.8877    0.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7653   -0.8858   -0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8557   -0.3788   -1.5648 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8397    0.3911    1.5614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7270   -0.4119    1.2895 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7147    0.3930   -1.2918 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4437    1.4791    0.8831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4077    1.4046   -0.6605 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4085   -1.3886    0.7048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4664   -1.4910   -0.8514 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4411   -2.1072    0.6048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0118    1.9082    1.0054 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12873
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AAFJXZWCNVJTMK-GUCUJZIJSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@@H]([C@@H](O)[C@H]1CO1)[C@@H]1CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O4/c7-5(3-1-9-3)6(8)4-2-10-4/h3-8H,1-2H2/t3-,4+,5+,6-
+
+> <INCHI_KEY>
+AAFJXZWCNVJTMK-GUCUJZIJSA-N
+
+> <FORMULA>
+C6H10O4
+
+> <MOLECULAR_WEIGHT>
+146.142
+
+> <EXACT_MASS>
+146.057908802
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.671621492846572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2S)-1-[(2R)-oxiran-2-yl]-2-[(2S)-oxiran-2-yl]ethane-1,2-diol
+
+> <ALOGPS_LOGP>
+-1.36
+
+> <JCHEM_LOGP>
+-1.406611704
+
+> <ALOGPS_LOGS>
+0.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.191450793018891
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.766708565245363
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.643971153458252
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.22
+
+> <JCHEM_REFRACTIVITY>
+31.383399999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.00e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,2S)-1-[(2R)-oxiran-2-yl]-2-[(2S)-oxiran-2-yl]ethane-1,2-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12873
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dianhydrogalactitol
+
+$$$$

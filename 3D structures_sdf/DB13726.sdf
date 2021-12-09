@@ -1,0 +1,171 @@
+5324
+  -OEChem-01012010243D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    1.0661    0.7725    0.0091 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3527    1.4361    1.2772 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3065    1.4838   -1.2414 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8449   -0.6668   -0.0096 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6933   -0.7065   -0.0060 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9079   -1.8997   -0.0267 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9242    0.3820    0.0025 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6251    0.3385    0.0048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3015    0.1804   -1.2049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2999    0.1497    1.2109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3274   -0.3549   -0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6525   -0.1662   -1.2086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6511   -0.1969    1.2071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1484   -0.7522   -0.0117 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7953    0.3136   -2.1569 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7917    0.2604    2.1647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1680   -0.2884   -2.1578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1656   -0.3430    2.1535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1847   -0.8194   -0.8827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1833   -0.8419    0.8682 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9214   -1.8647   -0.0274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4724   -2.8155   -0.0383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5356    1.3177    0.0141 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9366    0.3167    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13726
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BRBKOPJOKNSWSG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)NS(=O)(=O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10N4O2S/c8-5-1-3-6(4-2-5)14(12,13)11-7(9)10/h1-4H,8H2,(H4,9,10,11)
+
+> <INCHI_KEY>
+BRBKOPJOKNSWSG-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H10N4O2S
+
+> <MOLECULAR_WEIGHT>
+214.24
+
+> <EXACT_MASS>
+214.052446752
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.839772706903798
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.38493618202816
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(4-aminobenzenesulfonyl)guanidine
+
+> <ALOGPS_LOGP>
+-0.55
+
+> <JCHEM_LOGP>
+-0.5247584163333333
+
+> <ALOGPS_LOGS>
+-2.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.532590597603436
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.720327438886685
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.05999999999999
+
+> <JCHEM_REFRACTIVITY>
+63.75300000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mizolastine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13726
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfaguanidine
+
+> <SYNONYMS>
+Sulfaguanidina; Sulfaguanidine; Sulfaguanidinum
+
+$$$$

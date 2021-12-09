@@ -1,0 +1,120 @@
+5558
+  -OEChem-10051720083D
+
+  5  4  0     0  0  0  0  0  0999 V2000
+   -0.0889    1.8607    0.1390 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6560   -0.8533    0.1390 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5672   -1.0072    0.1390 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0001   -0.4171 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0001   -1.5097 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03054
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DIKBFYAXUHHXCS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+BrC(Br)Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CHBr3/c2-1(3)4/h1H
+
+> <INCHI_KEY>
+DIKBFYAXUHHXCS-UHFFFAOYSA-N
+
+> <FORMULA>
+CHBr3
+
+> <MOLECULAR_WEIGHT>
+252.731
+
+> <EXACT_MASS>
+249.762837973
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.763028012399701
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+tribromomethane
+
+> <ALOGPS_LOGP>
+2.50
+
+> <JCHEM_LOGP>
+2.276419013666666
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+29.792799999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tribromomethane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03054
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02127
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bromoform
+
+> <SYNONYMS>
+Tribrommethan; Tribromomethane
+
+$$$$

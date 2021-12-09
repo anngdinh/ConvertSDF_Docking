@@ -1,0 +1,150 @@
+47318
+  -OEChem-10051722483D
+
+ 19 20  0     0  0  0  0  0  0999 V2000
+    0.9682    2.0324    0.1680 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9292    1.6183   -0.1643 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1884   -1.0783    0.0991 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5824    0.0103    1.2133 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0269   -0.0591   -1.1899 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3820   -0.6034   -0.0405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4683    0.3834    0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9830    0.1684    0.0161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0856   -2.0716   -0.1377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8057   -0.1347   -0.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6933    0.1341   -1.1643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9161   -0.1828    1.1878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6255   -0.2170    0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0141   -2.2867   -0.1876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4769   -2.6021    0.7364 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5379   -2.4955   -1.0404 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2234    0.2593   -2.1333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3978   -0.3098    2.1493 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6971   -0.3723   -0.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  8  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 11  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12539
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CKNAQFVBEHDJQV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(SSC1=S)C1=CN=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6N2S3/c1-5-7(12-13-8(5)11)6-4-9-2-3-10-6/h2-4H,1H3
+
+> <INCHI_KEY>
+CKNAQFVBEHDJQV-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H6N2S3
+
+> <MOLECULAR_WEIGHT>
+226.342
+
+> <EXACT_MASS>
+225.969310272
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.180749859538707
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methyl-5-(pyrazin-2-yl)-3H-1,2-dithiole-3-thione
+
+> <ALOGPS_LOGP>
+1.75
+
+> <JCHEM_LOGP>
+1.7903310743333334
+
+> <ALOGPS_LOGS>
+-3.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.22627568884486748
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+63.359
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oltipraz
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12539
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Oltipraz
+
+> <SYNONYMS>
+oltipraz
+
+$$$$

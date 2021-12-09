@@ -1,0 +1,180 @@
+52918385
+  -OEChem-10051722323D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+    0.4818    1.8398   -1.4823 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4519   -0.8300    0.2223 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7725    2.1004    0.5131 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3672   -0.9023    0.8681 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3157    0.2381    0.1719 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0884    0.2099   -0.7255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5518    0.2996    0.7314 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8457   -1.2514   -1.1136 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8766   -1.8984   -0.1084 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5462   -0.4313    1.6387 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7243    0.8747   -0.7626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5194   -0.2410   -0.6588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8166    1.2966    1.1708 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6059   -1.3048   -0.4651 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7797    0.7092   -1.4097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5461   -0.1487    0.8395 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6266    1.3502    1.0377 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4168   -1.3047   -2.1218 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7935   -1.8017   -1.1269 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.2177    2.4661 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0362   -1.2846    2.1256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3947   -2.7030    0.4308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0602   -2.4123   -0.6265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9899    0.5801   -1.2153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2235   -0.9614   -1.4301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3028    0.8315    2.0357 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0104    1.9462    1.5281 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0868    2.7594    1.1553 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1202   -0.4781   -0.9646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3278   -2.0731   -1.1929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2845   -1.7470    0.2690 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11684
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BGBNULCRKBVAKL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COCC1(CO)N2CCC(CC2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H17NO3/c1-14-7-10(6-12)9(13)8-2-4-11(10)5-3-8/h8,12H,2-7H2,1H3
+
+> <INCHI_KEY>
+BGBNULCRKBVAKL-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H17NO3
+
+> <MOLECULAR_WEIGHT>
+199.25
+
+> <EXACT_MASS>
+199.120843411
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.0199425898687
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(hydroxymethyl)-2-(methoxymethyl)-1-azabicyclo[2.2.2]octan-3-one
+
+> <ALOGPS_LOGP>
+-0.17
+
+> <JCHEM_LOGP>
+-0.1549286453333339
+
+> <ALOGPS_LOGS>
+0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.625997833109466
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.53635423299507
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.899411332860393
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.769999999999996
+
+> <JCHEM_REFRACTIVITY>
+52.40780000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.99e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(hydroxymethyl)-2-(methoxymethyl)-1-azabicyclo[2.2.2]octan-3-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11684
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+APR-246
+
+$$$$

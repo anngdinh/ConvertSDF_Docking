@@ -1,0 +1,194 @@
+33036
+  -OEChem-10061700273D
+
+ 38 39  0     1  0  0  0  0  0999 V2000
+    5.7081    0.2579   -0.1521 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8279    1.9846   -0.2819 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6089   -1.6813    1.0498 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2904    0.4474   -0.0599 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8543    1.3787    1.0452 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3841    1.4725    1.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2345    0.4007   -0.0838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8849   -0.9551   -0.0399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8723    0.1738   -1.2840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9219    0.5857    1.0961 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6378   -1.3549   -1.1134 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3084    3.3344   -0.5064 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2893    1.9825   -0.3620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2664    0.1296   -1.3053 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3159    0.5417    1.0747 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1659   -2.6402   -1.0642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882    0.3136   -0.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1389   -2.9249    1.0621 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9164   -3.4466    0.0408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5663    0.9201   -1.0140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6185    0.9718    2.0371 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3808    2.3668    1.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7220    2.1201    1.8303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8192    0.4839    1.2001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3189    0.0286   -2.2067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4428    0.7446    2.0541 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8268   -0.7196   -1.9707 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2281    3.3398   -0.6785 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5428    4.0153    0.3200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7419    3.7599   -1.4198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6801    0.9672   -0.2303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6219    2.3184   -1.3504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7459    2.6298    0.3954 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7768   -0.0495   -2.2481 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8657    0.6820    2.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7708   -3.0128   -1.8853 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9149   -3.5133    1.9458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3179   -4.4517    0.1005 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 36  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 19 38  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13679
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SOYKEARSMXGVTM-HNNXBMFYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CC[C@@H](C1=CC=C(Cl)C=C1)C1=NC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19ClN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3/t15-/m0/s1
+
+> <INCHI_KEY>
+SOYKEARSMXGVTM-HNNXBMFYSA-N
+
+> <FORMULA>
+C16H19ClN2
+
+> <MOLECULAR_WEIGHT>
+274.79
+
+> <EXACT_MASS>
+274.1236763
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.8205314118093
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(3S)-3-(4-chlorophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+3.5849509150000003
+
+> <ALOGPS_LOGS>
+-3.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.474711663883962
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+80.8503
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-chlorpheniramine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13679
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Dexchlorpheniramine
+
+> <SYNONYMS>
+Dexchlorpheniramine; dexclorfeniramina
+
+> <PRODUCTS>
+Dextromethorphan Tannate, Phenylephrine Tannate, Dexchlorpheniramine Tannate
+
+$$$$

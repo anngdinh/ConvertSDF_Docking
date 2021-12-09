@@ -1,0 +1,193 @@
+114811
+  -OEChem-03141916483D
+
+ 35 35  0     1  0  0  0  0  0999 V2000
+    5.9842    1.8829   -0.1496 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.4075   -0.8885    0.6702 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1744    0.2284    0.4057 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5776   -2.6029   -0.2212 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9884    1.3136   -1.6632 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4476    1.5384    0.9797 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9681   -0.2473   -0.7192 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8513    0.5522    1.6607 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9801   -0.1795   -0.3594 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6016   -0.2627    0.0801 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6579    0.0392   -1.1023 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8052    0.0865   -0.7239 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3608   -1.6334    0.7082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7008   -0.7426   -1.3776 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2195    0.9586    0.2689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4849    0.1742   -0.0308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0506   -0.6984   -1.0287 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5693    1.0027    0.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9994    0.2272    0.4835 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3351   -0.9800    1.7008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3467    0.2314   -0.1999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4740    0.4989    0.8586 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8184   -0.7002   -1.8973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3394   -1.7448    1.0824 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0492   -1.8186    1.5389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2022   -0.5010   -1.2970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3745   -1.4277   -2.1546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5237    1.6190    0.7772 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7453   -1.3571   -1.5422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8843    1.6868    1.4009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9308    1.2920   -1.9014 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0546   -1.9598    1.3097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6901   -0.6951    2.5342 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3779   -0.9928    2.0248 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2915   -0.0854   -1.2444 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3 16  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 31  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11413
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AYIRNRDRBQJXIF-NXEZZACHSA-N/SDF?record_type=3d
+
+> <SMILES>
+CS(=O)(=O)C1=CC=C(C=C1)[C@@H](O)[C@@H](CF)NC(=O)C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14Cl2FNO4S/c1-21(19,20)8-4-2-7(3-5-8)10(17)9(6-15)16-12(18)11(13)14/h2-5,9-11,17H,6H2,1H3,(H,16,18)/t9-,10-/m1/s1
+
+> <INCHI_KEY>
+AYIRNRDRBQJXIF-NXEZZACHSA-N
+
+> <FORMULA>
+C12H14Cl2FNO4S
+
+> <MOLECULAR_WEIGHT>
+358.21
+
+> <EXACT_MASS>
+357.0004627
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.49415859555747
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,2-dichloro-N-[(1R,2S)-3-fluoro-1-hydroxy-1-(4-methanesulfonylphenyl)propan-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+0.98
+
+> <JCHEM_LOGP>
+0.6701196150000005
+
+> <ALOGPS_LOGS>
+-3.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.601924883453306
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.485339414751518
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.404235850031443
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.47
+
+> <JCHEM_REFRACTIVITY>
+78.1875
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.19e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2R,6R,10S,11R,15R,17R)-13-benzyl-6-hydroxy-4,17-dimethyl-5-oxo-15-(prop-1-en-2-yl)-12,14,18-trioxapentacyclo[11.4.1.0^{1,10}.0^{2,6}.0^{11,15}]octadeca-3,8-dien-8-yl]methyl 2-(4-hydroxy-3-methoxyphenyl)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11413
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Florfenicol
+
+> <SYNONYMS>
+(-)-Florfenicol; D-threo-2,2-Dichloro-N-(alpha-(fluoromethyl)-beta-hydroxy-p-(methylsulfonyl)phenethyl)acetamide; Florfenicol
+
+> <INTERNATIONAL_BRANDS>
+Nuflor; Nuflor gold
+
+$$$$

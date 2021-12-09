@@ -1,0 +1,166 @@
+107992
+  -OEChem-10051722403D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    3.6001    1.9623   -0.1715 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9607   -0.0696    0.0511 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7733    0.3564   -0.1874 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2621    0.8365   -0.0501 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2882   -1.7654    0.1590 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4919    1.2958   -0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8221   -1.1318   -0.4797 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9268    1.3553    0.4635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2460   -0.9852    0.0563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4287   -0.2376    0.0499 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9632   -1.5193    0.1526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5872    0.5903   -0.0439 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0912   -0.6876    0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4525    1.6208   -1.1062 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8955    2.0008    0.5332 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5040   -2.1388   -0.2016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8233   -1.0808   -1.5761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9407    1.2047    1.5504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3383    2.3523    0.2728 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8940   -1.7177   -0.4374 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2712   -1.2067    1.1308 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7187    0.4198    0.1894 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3756   -2.4193    0.2718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1548   -0.8957    0.0647 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12111
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CJAWPFJGFFNXQI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=NC(=CN=C1)N1CCNCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11ClN4/c9-7-5-11-6-8(12-7)13-3-1-10-2-4-13/h5-6,10H,1-4H2
+
+> <INCHI_KEY>
+CJAWPFJGFFNXQI-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11ClN4
+
+> <MOLECULAR_WEIGHT>
+198.65
+
+> <EXACT_MASS>
+198.0672241
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.724749680620203
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-chloro-6-(piperazin-1-yl)pyrazine
+
+> <ALOGPS_LOGP>
+0.97
+
+> <JCHEM_LOGP>
+0.5286958456666666
+
+> <ALOGPS_LOGS>
+-2.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.726346565966693
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.050000000000004
+
+> <JCHEM_REFRACTIVITY>
+53.107800000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-chloro-6-(piperazin-1-yl)pyrazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12111
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+MK-212
+
+> <SYNONYMS>
+CPP
+
+> <SALTS>
+MK-212 hydrochloride
+
+$$$$

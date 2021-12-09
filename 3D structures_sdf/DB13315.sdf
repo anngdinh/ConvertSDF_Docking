@@ -1,0 +1,177 @@
+854498
+  -OEChem-10061700193D
+
+ 30 30  0     1  0  0  0  0  0999 V2000
+   -2.3850   -0.4725    1.2905 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8511    1.7752   -0.7964 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6447   -0.0024   -0.2951 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1485    0.0181   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0979    0.9484    0.6535 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0871   -1.4280   -0.1575 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6039    0.9684    0.3547 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1890   -0.3994    0.0991 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4119   -1.4763   -0.1113 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8896   -0.8787   -1.0211 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6863    1.4464   -0.0926 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6874   -0.4992    0.1061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4704    0.3359   -1.3264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0435    0.6364    1.6954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2671    1.9753    0.5561 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4073   -2.0299   -1.0160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4606   -1.9274    0.7438 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1171    1.4428    1.1989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8691   -2.4503   -0.2659 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9733   -0.8005   -0.8722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6702   -0.6061   -2.0585 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6548   -1.9377   -0.8723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3714    2.0614    0.7566 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7822    1.4403   -0.0397 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4036    1.9466   -1.0248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1166    0.2035    1.9344 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0844   -0.1780    1.0745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1166    0.1370   -0.6745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0339   -1.5227   -0.0720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4730    1.3303   -1.5736 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13315
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OMDMTHRBGUBUCO-BDAKNGLRSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC[C@H](C[C@@H]1O)C(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O2/c1-7-4-5-8(6-9(7)11)10(2,3)12/h4,8-9,11-12H,5-6H2,1-3H3/t8-,9+/m1/s1
+
+> <INCHI_KEY>
+OMDMTHRBGUBUCO-BDAKNGLRSA-N
+
+> <FORMULA>
+C10H18O2
+
+> <MOLECULAR_WEIGHT>
+170.252
+
+> <EXACT_MASS>
+170.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.57686319770869
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,5R)-5-(2-hydroxypropan-2-yl)-2-methylcyclohex-2-en-1-ol
+
+> <ALOGPS_LOGP>
+1.54
+
+> <JCHEM_LOGP>
+0.943486440666667
+
+> <ALOGPS_LOGS>
+-0.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.19437894598693
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.479259571480881
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7752756389172895
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+49.977399999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,5R)-5-(2-hydroxypropan-2-yl)-2-methylcyclohex-2-en-1-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13315
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sobrerol
+
+$$$$

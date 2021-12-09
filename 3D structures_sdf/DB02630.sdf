@@ -1,0 +1,173 @@
+448027
+  -OEChem-10051719593D
+
+ 27 26  0     1  0  0  0  0  0999 V2000
+    2.6842    0.5055   -0.1118 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6514   -1.0395   -0.8735 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3843   -2.6605   -0.7871 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3933    0.0040    1.7353 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5902   -0.6438   -0.4296 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1148    2.3430   -1.0533 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5986   -0.1458    1.0523 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8172    1.6201    0.6762 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4346    1.0150   -1.3075 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4095   -0.4991   -0.4060 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5468   -1.6303    0.1856 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7634    0.6125    0.6003 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8385   -1.1776    0.6485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6996    1.6966    0.0706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132   -0.0745   -1.2855 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0677   -2.0962    1.0301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8390    1.0857    0.9459 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7560   -0.4628    1.4720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3956   -2.0449    1.0202 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9032    2.4478    0.8416 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6685    1.2823   -0.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1072   -1.4336   -0.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2726   -2.9371   -1.0703 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5532    0.7041    2.3910 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2660    2.7195   -0.7649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3852    0.3470    1.3693 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2385    2.4761    0.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02630
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VJDOAZKNBQCAGE-WISUUJSJSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@@H](O)[C@H](O)[C@@H](O)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13O8P/c6-1-3(7)5(9)4(8)2-13-14(10,11)12/h3-9H,1-2H2,(H2,10,11,12)/t3-,4+,5+/m1/s1
+
+> <INCHI_KEY>
+VJDOAZKNBQCAGE-WISUUJSJSA-N
+
+> <FORMULA>
+C5H13O8P
+
+> <MOLECULAR_WEIGHT>
+232.1257
+
+> <EXACT_MASS>
+232.034803904
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.124442040055577
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2S,3S,4R)-2,3,4,5-tetrahydroxypentyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.14
+
+> <JCHEM_LOGP>
+-3.2232499379999995
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.517789357699702
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.4919789137158341
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.974203813611499
+
+> <JCHEM_POLAR_SURFACE_AREA>
+147.68
+
+> <JCHEM_REFRACTIVITY>
+43.314
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.85e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ribose-5-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02630
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02071
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-xylitol 5-phosphate
+
+> <SYNONYMS>
+Xylitol 5-P; Xylitol 5-phosphate
+
+$$$$

@@ -1,0 +1,176 @@
+65150
+  -OEChem-10051722483D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+   -0.4272    1.5642   -1.5383 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2415    1.1669   -1.5232 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6472    0.2484    0.6990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0908   -2.4367    0.5556 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6866    2.4984    1.1709 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1305   -2.2673    0.0881 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2366    0.0585    0.0610 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0859    0.5177   -0.7016 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5291    0.8934   -0.3087 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8815    0.3248    0.4739 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2966   -0.1699    0.4947 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3398   -1.5152   -0.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9283    1.5515    1.3653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7465   -1.2209   -0.0970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1938   -1.2138   -0.5104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0798   -0.3764   -1.3350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5383    1.8431    0.2388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5492   -0.5122    1.0981 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8484   -0.2935    1.4867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8403   -1.4293   -1.1989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3407   -1.9357   -0.3689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8396    0.8517   -0.1402 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1867    1.5778    2.1821 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1838    1.6626   -2.2885 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1515    1.4070   -1.2782 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0944   -0.4473    1.2108 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1045   -3.2792    0.0701 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5016   -2.2244   -0.7924 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8104   -0.8696    0.3245 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3385   -0.5512   -1.3685 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 24  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 26  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 14  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12536
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MBLBDJOUHNCFQT-WCTZXXKLSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@]([H])(NC(C)=O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h2,5-8,11,13-15H,3H2,1H3,(H,9,12)/t5-,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+MBLBDJOUHNCFQT-WCTZXXKLSA-N
+
+> <FORMULA>
+C8H15NO6
+
+> <MOLECULAR_WEIGHT>
+221.2078
+
+> <EXACT_MASS>
+221.089937217
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.7365742585868
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(2S,3R,4S,5R)-3,4,5,6-tetrahydroxy-1-oxohexan-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+-2.10
+
+> <JCHEM_LOGP>
+-3.8563957566666667
+
+> <ALOGPS_LOGS>
+-0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.800488730738557
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.564821144474056
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1597845911248257
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.09000000000002
+
+> <JCHEM_REFRACTIVITY>
+48.4469
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.48e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-acetamido-2-deoxy-d-glucose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12536
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+N-acetylmannosamine
+
+> <SYNONYMS>
+MANNAC
+
+$$$$

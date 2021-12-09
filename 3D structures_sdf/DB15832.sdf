@@ -1,0 +1,166 @@
+11427
+  -OEChem-09142014523D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+   -2.8991    0.0123    0.6081 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2016    1.7304   -0.6587 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8676   -1.4316    0.9247 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1004   -0.7432   -1.2253 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2426    0.6673    0.9471 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1886    0.8018    0.4150 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2302    0.1437   -0.0989 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7567   -0.5170   -0.0723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7432   -0.6639   -0.8397 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5765    1.6571    1.2852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2412    0.0040    1.8211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8464    1.1929    1.1992 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2679    0.8190   -0.9596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9260   -0.8479   -0.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1310    1.8898   -0.8972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7999   -0.8139   -0.6031 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3100   -1.6280   -1.1184 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6714    0.0296   -1.6816 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2437   -2.2788    0.6037 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15832
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ONFOSYPQQXJWGS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSCCC(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O3S/c1-9-3-2-4(6)5(7)8/h4,6H,2-3H2,1H3,(H,7,8)
+
+> <INCHI_KEY>
+ONFOSYPQQXJWGS-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O3S
+
+> <MOLECULAR_WEIGHT>
+150.19
+
+> <EXACT_MASS>
+150.035065356
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9989360070684264
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.070653432254637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-4-(methylsulfanyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+0.17959886033333355
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.256669721890013
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.027423694793904
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8095547257712563
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+35.92850000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.09e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15832
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Desmeninol
+
+> <SYNONYMS>
+2-Hydroxy-4-(methylthio) butanoic acid; 2-Hydroxy-4-(methylthio)butanoic acid; alpha-Hydroxy-gamma-(methylmercapto)butyric acid; alpha-Hydroxy-gamma-(methylthio)butyric acid; Desmeninol; DL-2-hydroxy-4-(methylthio)-butyric acid; Methionine hydroxy analog
+
+> <SALTS>
+Desmeninol calcium
+
+$$$$

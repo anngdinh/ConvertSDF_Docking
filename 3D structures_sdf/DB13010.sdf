@@ -1,0 +1,149 @@
+437740
+  -OEChem-10051722573D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    1.5021    0.7562   -0.6540 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7894    0.8231    0.6545 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2095   -1.2585   -0.2990 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6588    0.2927   -0.1799 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1727    0.2776   -0.2025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2174   -0.2438    0.1506 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2593   -0.5570    0.4781 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9719   -0.0088   -0.0575 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5994   -0.0817    0.1098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2737    1.3266    0.1063 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3194    0.2492   -1.2905 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3171   -1.2853   -0.1712 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3723   -0.2071    1.2342 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1557   -1.6096    0.1896 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1392   -0.5078    1.5665 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6634    0.4925    1.0483 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5449    1.7949    0.8109 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4427   -1.6434   -0.8602 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 18  1  0  0  0  0
+  4  9  3  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13010
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PRDJGNVQBVXXEO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)SCCCC#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9N3S/c6-3-1-2-4-9-5(7)8/h1-2,4H2,(H3,7,8)
+
+> <INCHI_KEY>
+PRDJGNVQBVXXEO-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9N3S
+
+> <MOLECULAR_WEIGHT>
+143.21
+
+> <EXACT_MASS>
+143.051718476
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.954052597341809
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(carbamimidoylsulfanyl)butanenitrile
+
+> <ALOGPS_LOGP>
+-0.03
+
+> <JCHEM_LOGP>
+0.371288647
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.587769972380531
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.66
+
+> <JCHEM_REFRACTIVITY>
+49.5468
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.69e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-(carbamimidoylsulfanyl)butanenitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13010
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+4-isothioureidobutyronitrile
+
+> <SYNONYMS>
+Kevetrin; Thioureidobutyronitrile
+
+$$$$

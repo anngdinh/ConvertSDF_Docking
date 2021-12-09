@@ -1,0 +1,178 @@
+3073
+  -OEChem-02122010163D
+
+ 28 27  0     0  0  0  0  0  0999 V2000
+    0.0052   -0.2661    0.1593 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2744    0.6444   -0.2328 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2730    0.6550   -0.2461 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0071   -1.6239   -0.4826 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5821    0.2703    0.1623 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5715    0.2523    0.1522 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0200   -0.3139    1.9413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5738    1.3069   -0.3435 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8900   -1.1186   -0.3761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8790   -1.1111   -0.4482 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5787    1.3047   -0.2858 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6344    0.2604    1.2559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6128    0.1910    1.2442 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0376    0.6976    2.3562 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8659   -0.8275    2.3244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8929   -0.8565    2.3137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5960    1.0664   -0.0359 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3173    2.2997    0.0417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5425    1.3760   -1.4364 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9565   -1.3477   -0.2787 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3537   -1.8896    0.1846 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6104   -1.2116   -1.4309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9465   -1.3423   -0.3670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3492   -1.9075    0.0820 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5927   -1.1592   -1.5042 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5939    1.0419    0.0267 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3222    2.2795    0.1430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5665    1.4271   -1.3744 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02127
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WOAFDHWYKSOANX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)OP(C)(=O)OC(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H17O3P/c1-6(2)9-11(5,8)10-7(3)4/h6-7H,1-5H3
+
+> <INCHI_KEY>
+WOAFDHWYKSOANX-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H17O3P
+
+> <MOLECULAR_WEIGHT>
+180.1818
+
+> <EXACT_MASS>
+180.091530922
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.525714363858686
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+bis(propan-2-yl) methylphosphonate
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.4083941233333332
+
+> <ALOGPS_LOGS>
+-1.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.9011352421306835
+
+> <JCHEM_POLAR_SURFACE_AREA>
+35.53
+
+> <JCHEM_REFRACTIVITY>
+44.477399999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.28e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hadacidin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02127
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01207
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diisopropyl methylphosphonate
+
+> <SYNONYMS>
+Diisopropyl methanephosphonate; Diisopropyl methylphosphonate; DIMP; Methylphosphonic acid bis(1-methylethyl)ester
+
+$$$$

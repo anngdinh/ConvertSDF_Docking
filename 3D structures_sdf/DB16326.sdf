@@ -1,0 +1,183 @@
+65253
+  -OEChem-12152015023D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+   -4.9099    0.2939   -0.3698 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1806   -0.3373    1.6048 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3472    2.5120    0.5091 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4914   -2.0638   -0.2021 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4839    0.4877    0.3504 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7188   -1.1292   -0.2772 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1508    1.1603    0.0786 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8845   -0.3630   -0.3744 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9347   -1.9481   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2998   -0.5155    0.2615 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3600   -0.9987   -0.1085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8527    0.2245    0.1603 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7449   -0.2271    0.4680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5534    0.1381   -0.7567 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7987    1.3953    0.2645 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5641   -0.0524   -0.1786 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0609    1.4233   -1.4000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2643   -2.5767    0.8029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4487   -2.2708   -0.9405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8965   -2.9710   -0.4051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5091   -0.6931   -1.4669 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0680   -2.0597   -0.4776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0613    1.3041   -1.8285 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7425    1.7391   -2.1970 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0236    2.2398   -0.6700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9717    1.0779    0.2023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1809   -1.3121   -0.5738 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6042    0.3499   -0.3267 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 16  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16326
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VPVOXUSPXFPWBN-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H](O)C(=O)C1=NC2=C(NC1)NC(N)=NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3,15H,2H2,1H3,(H4,10,11,13,14,17)/t3-/m0/s1
+
+> <INCHI_KEY>
+VPVOXUSPXFPWBN-VKHMYHEASA-N
+
+> <FORMULA>
+C9H11N5O3
+
+> <MOLECULAR_WEIGHT>
+237.219
+
+> <EXACT_MASS>
+237.086189234
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0002630526632184742
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.412824557513463
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(2S)-2-hydroxypropanoyl]-1,4,7,8-tetrahydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.09
+
+> <JCHEM_LOGP>
+-1.3689492123333329
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.265599470274195
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.518513330579493
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.420747919332027
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.17
+
+> <JCHEM_REFRACTIVITY>
+67.49679999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+revaprazan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16326
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Sepiapterin
+
+> <SYNONYMS>
+L-sepiapterin; Sepiapterine
+
+$$$$

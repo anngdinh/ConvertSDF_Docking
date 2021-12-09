@@ -1,0 +1,182 @@
+2997
+  -OEChem-05151816293D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+   -0.8491   -4.3000    0.8044 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4320    3.4958   -0.6045 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4289    1.2095   -0.7293 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0820    1.9420    0.7802 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7273   -0.3283    0.2414 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3148    0.7315    0.4015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9630   -0.0741   -0.3760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7304    0.3984    0.0709 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4005   -1.6401    0.6230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2714    2.3230    1.1206 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8014   -1.1525   -0.6963 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0676    2.4085   -0.1544 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2670   -2.6958    0.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4586   -2.4547   -0.3330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0010   -0.5514   -0.9060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7614    1.0422    0.7433 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -0.8628   -1.2155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0853    0.7307    0.4335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3670   -0.2218   -0.5458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5331   -1.8481    1.1418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1563    1.2492   -1.4388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2565    3.3140    1.5873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7424    1.6457    1.8423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7492   -0.9843   -1.2037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1376   -3.2684   -0.5747 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2191   -1.0402   -1.4792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5668    1.7804    1.5161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5449   -1.5974   -1.9848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8971    1.2284    0.9559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3978   -0.4630   -0.7881 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 15  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14028
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AKPLHCDWDRPJGD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C2NC(=O)CN=C(C3=CC=CC=C3)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H11ClN2O/c16-11-6-7-13-12(8-11)15(17-9-14(19)18-13)10-4-2-1-3-5-10/h1-8H,9H2,(H,18,19)
+
+> <INCHI_KEY>
+AKPLHCDWDRPJGD-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H11ClN2O
+
+> <MOLECULAR_WEIGHT>
+270.714
+
+> <EXACT_MASS>
+270.055990691
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.40806271016683
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-chloro-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+> <ALOGPS_LOGP>
+2.79
+
+> <JCHEM_LOGP>
+3.2120204986666656
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.299820888817013
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.8480504744474864
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.46
+
+> <JCHEM_REFRACTIVITY>
+76.69600000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nordiazepam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14028
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nordazepam
+
+> <SYNONYMS>
+Desmethyldiazepam; N-desmethyldiazepam; Nordazepam; Nordazepam CIV; Nordazepamum; Nordiazepam
+
+> <INTERNATIONAL_BRANDS>
+Calmday; Lomax; Madar; Sopax; Stilny; Vegesan
+
+$$$$

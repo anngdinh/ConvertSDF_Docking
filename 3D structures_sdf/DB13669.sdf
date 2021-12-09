@@ -1,0 +1,141 @@
+8083
+  -OEChem-10061700273D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    1.3896   -0.0002    0.2446 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4263    0.0003   -0.2314 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7170    1.1989    0.2272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7175   -1.1987    0.2272 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7358    1.1767   -0.2338 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7354   -1.1770   -0.2338 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7619    1.2491    1.3219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2172    2.0891   -0.1673 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2180   -2.0888   -0.1675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7625   -1.2490    1.3219 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8138    1.2186   -1.3269 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2698    2.0423    0.1707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2692   -2.0428    0.1707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8134   -1.2189   -1.3269 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3736    0.0004    0.1453 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13669
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YNAVUWVOSKDBBP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1COCCN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO/c1-3-6-4-2-5-1/h5H,1-4H2
+
+> <INCHI_KEY>
+YNAVUWVOSKDBBP-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9NO
+
+> <MOLECULAR_WEIGHT>
+87.1204
+
+> <EXACT_MASS>
+87.068413915
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.465792629528412
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+morpholine
+
+> <ALOGPS_LOGP>
+-0.75
+
+> <JCHEM_LOGP>
+-0.41137892333333337
+
+> <ALOGPS_LOGS>
+0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.505514632085726
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.259999999999998
+
+> <JCHEM_REFRACTIVITY>
+23.7679
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.91e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+morpholine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13669
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Morpholine
+
+> <SALTS>
+Morpholine salicylate
+
+$$$$

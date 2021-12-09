@@ -1,0 +1,177 @@
+4977
+  -OEChem-10061700223D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+   -3.6483   -0.7720    1.1762 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3749    2.2442   -0.4033 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8841    0.4652    0.4387 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2972   -0.5988   -0.5288 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1179   -1.0174    0.1280 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7675    1.3768    0.0200 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0715   -2.3345   -0.2388 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0574   -0.0739   -0.3013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5243    0.1200   -0.7753 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7606   -1.1568   -0.1275 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2920    0.4378    0.5110 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3748    1.2848   -0.2429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1686   -1.9631   -0.4812 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6828    0.2797    0.2134 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5827    1.1836    0.2020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9561   -2.1964    0.3069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3302    2.7207    0.1029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1321   -0.5217   -1.4264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2947    1.0248   -1.3457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6679    1.0266    1.1926 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0065   -2.6308   -0.6296 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1314    1.4013    1.1247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3811    2.1286   -0.3116 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2477    0.5779   -0.4237 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9972   -1.9260    0.5003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9123   -2.8042   -0.6020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5783   -2.7750    1.1555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842    3.5035   -0.0512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1162    2.8170   -0.6529 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7879    2.8471    1.0892 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1036   -0.5313    2.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 14  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13449
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KYHQZNGJUGFTGR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(O)CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N4O3/c1-6(15)4-14-5-11-8-7(14)9(16)13(3)10(17)12(8)2/h5-6,15H,4H2,1-3H3
+
+> <INCHI_KEY>
+KYHQZNGJUGFTGR-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14N4O3
+
+> <MOLECULAR_WEIGHT>
+238.247
+
+> <EXACT_MASS>
+238.106590327
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.658873348795655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-(2-hydroxypropyl)-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+-0.8191725790000001
+
+> <ALOGPS_LOGS>
+-1.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.169721554503408
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9729750715108242
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.67
+
+> <JCHEM_REFRACTIVITY>
+60.5423
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+proxyphylline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13449
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Proxyphylline
+
+$$$$

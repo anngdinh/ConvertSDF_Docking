@@ -1,0 +1,170 @@
+4021
+  -OEChem-10051722433D
+
+ 23 24  0     0  0  0  0  0  0999 V2000
+    0.7891   -2.3365   -0.3835 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5753   -0.0063    0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4227    1.0648    0.1805 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7046   -0.8635   -0.1342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6316    0.6070    0.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2480   -1.2221   -0.1981 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8057    0.1055    0.0146 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8531    1.4448    0.2509 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5974   -0.9648    0.4473 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4238    1.2899   -0.4032 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9876   -0.8523    0.4617 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8140    1.4023   -0.3887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5959    0.3312    0.0439 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1990   -1.0741   -1.0842 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1930   -1.3686    0.7010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4428    1.0838    1.0974 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5817    2.4899    0.4201 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4516    1.3707   -0.6607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1709   -1.8881    0.8264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8364    2.1364   -0.7506 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5967   -1.6821    0.8086 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2881    2.3234   -0.7149 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6782    0.4196    0.0573 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12243
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QELUYTUMUWHWMC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NN(C(=O)C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N2O/c1-8-7-10(13)12(11-8)9-5-3-2-4-6-9/h2-6H,7H2,1H3
+
+> <INCHI_KEY>
+QELUYTUMUWHWMC-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10N2O
+
+> <MOLECULAR_WEIGHT>
+174.203
+
+> <EXACT_MASS>
+174.07931295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.6149320485302
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-methyl-1-phenyl-4,5-dihydro-1H-pyrazol-5-one
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+1.5267006276666666
+
+> <ALOGPS_LOGS>
+-2.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.445719541100054
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.4771470624699288
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.67
+
+> <JCHEM_REFRACTIVITY>
+49.49250000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+edaravone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12243
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Edaravone
+
+> <SYNONYMS>
+1-phenyl-3-methyl-5-oxo-2-pyrazoline; 2,4-dihydro-5-methyl-2-phenyl-3H-pyrazol-3-one; 3-methyl-1-phenyl-2-pyrazolin-5-one; 3-methyl-1-phenyl-5-pyrazolone; 3-methyl-1-phenylpyrazol-5-one; Edaravone; Methylphenylpyrazolone; Norphenazone; Phenyl methyl pyrazolone; Phenylmethylpyrazolone
+
+> <PRODUCTS>
+Radicava
+
+> <INTERNATIONAL_BRANDS>
+Arone; Radicut
+
+$$$$

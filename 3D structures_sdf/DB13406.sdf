@@ -1,0 +1,199 @@
+9564
+  -OEChem-01272015573D
+
+ 35 35  0     0  0  0  0  0  0999 V2000
+   -1.3375    2.0525    0.0596 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801    2.4479    1.4460 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1367    2.8535   -0.8473 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3421    1.0527    1.2709 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4521    1.2006   -0.7497 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2031    1.7861   -0.6318 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6015   -3.4448   -0.0506 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479   -0.7825   -0.3939 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7474    0.7366   -0.2670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2083   -1.2884    0.0874 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0103    0.4185    0.0266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3034   -2.8032   -0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3573    1.3171    0.0723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8108   -0.4166    1.1125 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7244    0.0036   -1.0844 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0636   -2.1411   -0.0246 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3415   -1.7063    1.0866 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2551   -1.2862   -1.1101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6901   -1.0773   -1.4390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0487   -1.2560    0.1899 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8764    1.0491    0.7749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5128    1.2287   -0.8758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3736   -0.9803    1.1264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0065   -0.8399   -0.5154 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3593    1.4362   -1.7328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3132    2.0217   -1.6262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2840   -3.1428    0.3451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5386   -3.2819    0.6173 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1721   -3.1436   -1.0347 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2487   -0.0983    1.9849 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8777    0.6505   -1.9426 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1848   -2.3633    1.9382 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8147   -1.6141   -1.9825 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1236   -3.7609   -0.8570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4616   -4.0658    0.7353 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 34  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13406
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VDTNNGKXZGSZIP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCNC(=O)NS(=O)(=O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17N3O3S/c1-2-3-8-13-11(15)14-18(16,17)10-6-4-9(12)5-7-10/h4-7H,2-3,8,12H2,1H3,(H2,13,14,15)
+
+> <INCHI_KEY>
+VDTNNGKXZGSZIP-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H17N3O3S
+
+> <MOLECULAR_WEIGHT>
+271.34
+
+> <EXACT_MASS>
+271.099062593
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9977682372148617
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.425814298037608
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-aminobenzenesulfonyl)-3-butylurea
+
+> <ALOGPS_LOGP>
+1.28
+
+> <JCHEM_LOGP>
+0.9529884839999998
+
+> <ALOGPS_LOGS>
+-2.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+18.075358520759725
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.34975246319121
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.112030084222945
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.29
+
+> <JCHEM_REFRACTIVITY>
+69.92920000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.86e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+prinomastat
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13406
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carbutamide
+
+> <SYNONYMS>
+Carbutamida; Carbutamide; Carbutamidum
+
+> <INTERNATIONAL_BRANDS>
+Invenol
+
+$$$$

@@ -1,0 +1,158 @@
+388136
+  -OEChem-11111917113D
+
+ 19 19  0     0  0  0  0  0  0999 V2000
+   -1.6690    2.5010    0.2304 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1560    0.1052   -1.4012 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2372   -2.3868   -0.2097 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0572   -0.1819    1.4940 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.5793    0.9189   -0.1371 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3361   -1.8189   -0.3449 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2705    2.7789    0.1315 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1201   -1.0482   -0.1811 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8629   -0.0858   -0.0488 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4622   -0.7599   -0.2089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5342    1.2177    0.0612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2712   -0.6173   -0.0402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9131    0.5005   -0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9168    1.6076    0.0372 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1897   -2.7311    0.7258 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1603   -2.0118   -0.3071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0449   -3.4139    0.7045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2851   -3.3380    0.6157 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1940   -2.2252    1.6985 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06331
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GUYGGZGIKZIRFO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N1C(OC)=C(Cl)C(=O)C(Cl)=C1C(Cl)(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H4Cl5NO2/c1-15-6-3(9)4(14)2(8)5(13-6)7(10,11)12/h1H3,(H,13,14)
+
+> <INCHI_KEY>
+GUYGGZGIKZIRFO-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H4Cl5NO2
+
+> <MOLECULAR_WEIGHT>
+311.36
+
+> <EXACT_MASS>
+308.8684669
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.53010250536501
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-dichloro-2-methoxy-6-(trichloromethyl)-1,4-dihydropyridin-4-one
+
+> <ALOGPS_LOGP>
+3.68
+
+> <JCHEM_LOGP>
+3.2645526866666663
+
+> <ALOGPS_LOGS>
+-5.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.284709597410878
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.918050704770179
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+74.25369999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.05e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06331
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+4-O-Demethylpenclomedine
+
+> <SYNONYMS>
+4-Demethylpenclomedine; 4-Dm-pen; 4-Dmpen; DM-PEN; DMPEN
+
+> <INTERNATIONAL_BRANDS>
+Clomet
+
+$$$$

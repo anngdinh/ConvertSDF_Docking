@@ -1,0 +1,153 @@
+1646
+  -OEChem-10061700063D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+    1.5211    0.1519   -0.0164 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5113   -1.1245    0.2091 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5905    1.0086    1.1536 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7334    0.6755   -1.3537 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6415    0.3660   -0.0035 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1961    0.2137   -0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0053   -0.7334    0.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5134   -0.5579    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1530    0.8784    0.8694 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1432    0.8576   -0.8899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0185   -1.3990   -0.8569 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0166   -1.3392    0.9240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5741   -1.2094   -0.8770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5759   -1.1920    0.8925 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5111   -0.1629   -0.0528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6097    0.9423   -0.8436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4985   -1.5170    1.1136 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 17  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06527
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SNKZJIOFVMKAOJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCCS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H9NO3S/c4-2-1-3-8(5,6)7/h1-4H2,(H,5,6,7)
+
+> <INCHI_KEY>
+SNKZJIOFVMKAOJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H9NO3S
+
+> <MOLECULAR_WEIGHT>
+139.173
+
+> <EXACT_MASS>
+139.030313849
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.840656387901006
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-aminopropane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+-2.01
+
+> <JCHEM_LOGP>
+-2.554727512619611
+
+> <ALOGPS_LOGS>
+-0.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.9934413882302815
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.190124695691999
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+29.470500000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.39e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+homotaurine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06527
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tramiprosate
+
+> <SYNONYMS>
+Tramiprosate
+
+> <INTERNATIONAL_BRANDS>
+Alzhemed
+
+> <SALTS>
+Tramiprosate sodium
+
+$$$$

@@ -1,0 +1,170 @@
+9794203
+  -OEChem-10051722363D
+
+ 29 30  0     1  0  0  0  0  0999 V2000
+    1.4306    2.9154    0.2026 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3724   -0.4952   -1.0457 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6158    1.6950    0.3896 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6000    1.7516   -0.5801 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4369    0.4561    0.2651 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5876    0.6313   -0.3462 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1314   -0.6637    1.0387 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5100    0.4170   -0.6254 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6161    0.8340    0.5454 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8991   -1.8225    0.9222 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2775   -0.7419   -0.7419 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9721   -1.8616    0.0318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5070   -0.2161    0.7375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2585   -1.4938   -0.8328 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3318   -1.4057    0.0392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2320    1.7515    1.4177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1200    2.7143   -0.4836 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2518    1.6990   -1.6210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1356    2.9658    0.9377 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8403    3.7381    0.3215 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3026   -0.6481    1.7415 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7628    1.2649   -1.2560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7402    1.7656    1.0857 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6617   -2.6940    1.5251 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1104   -0.7744   -1.4383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5691   -2.7642   -0.0597 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3357   -0.1081    1.4309 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0771   -2.4005   -1.4004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0134   -2.2378    0.1737 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 22  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11889
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FWUQWDCOOWEXRY-ZDUSSCGKSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@@H](CC1=CC=CC=N1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14N2/c14-13(11-6-2-1-3-7-11)10-12-8-4-5-9-15-12/h1-9,13H,10,14H2/t13-/m0/s1
+
+> <INCHI_KEY>
+FWUQWDCOOWEXRY-ZDUSSCGKSA-N
+
+> <FORMULA>
+C13H14N2
+
+> <MOLECULAR_WEIGHT>
+198.269
+
+> <EXACT_MASS>
+198.115698459
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.811394434143168
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S)-1-phenyl-2-(pyridin-2-yl)ethan-1-amine
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.9840666389999995
+
+> <ALOGPS_LOGS>
+-2.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.30584223728521
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.91
+
+> <JCHEM_REFRACTIVITY>
+60.83450000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.85e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S)-1-phenyl-2-(pyridin-2-yl)ethanamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11889
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Lanicemine
+
+$$$$

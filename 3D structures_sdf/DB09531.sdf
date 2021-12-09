@@ -1,0 +1,156 @@
+9639
+  -OEChem-03032013263D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+    1.2060    0.5142   -2.0387 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2265    1.7421   -0.9670 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2264   -1.7439   -0.9639 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2062   -0.5181   -2.0377 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7964    0.9525    1.4287 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2081    1.8489    0.0434 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2084   -1.8489    0.0469 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7965   -0.9499    1.4306 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2341   -0.1974    1.5410 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7498   -1.5646    0.7145 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2098   -0.6291   -0.5981 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2096    0.6281   -0.5992 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2338    0.2004    1.5410 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7495    1.5660    0.7113 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4862    0.5843   -0.8802 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4864   -0.5860   -0.8791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4682    0.7257    0.2723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4682   -0.7253    0.2737 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4290   -0.4188    0.4805 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4288    0.4197    0.4798 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09531
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZJIJAJXFLBMLCK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6F14/c7-1(8,3(11,12)5(15,16)17)2(9,10)4(13,14)6(18,19)20
+
+> <INCHI_KEY>
+ZJIJAJXFLBMLCK-UHFFFAOYSA-N
+
+> <FORMULA>
+C6F14
+
+> <MOLECULAR_WEIGHT>
+338.044
+
+> <EXACT_MASS>
+337.977644282
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.443176598003777
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+tetradecafluorohexane
+
+> <ALOGPS_LOGP>
+4.20
+
+> <JCHEM_LOGP>
+4.884288274666666
+
+> <ALOGPS_LOGS>
+-3.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+31.541199999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.81e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimyristoylphosphatidylcholine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09531
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Perflexane
+
+> <SYNONYMS>
+1,1,1,2,2,3,3,4,4,5,5,6,6,6-tetradecafluorohexane; n-perfluorohexane; n-tetradecafluorohexane; Perflexane; Perfluorohexane
+
+$$$$

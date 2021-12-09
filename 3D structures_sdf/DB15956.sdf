@@ -1,0 +1,178 @@
+17100
+  -OEChem-11262016343D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+   -2.1424    0.1465   -1.3740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4981   -0.0185    0.3677 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9892    0.0047    0.0391 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1872   -1.2387   -0.2557 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1850    1.2743   -0.1063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6716   -1.2920    0.1189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3670    0.0437    0.0350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6834    1.1951   -0.0814 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6806    1.1839    0.7229 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6498   -1.3121    0.4428 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8658    0.0132    0.0909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3772   -0.0898    1.4590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0954   -1.2109   -1.3493 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2587   -2.1801    0.0798 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1099    2.1040    0.5468 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1140    1.5440   -1.1257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1691   -2.0127   -0.5413 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7744   -1.6707    1.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2201    2.1369   -0.1596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5109    1.1819    1.8046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7633    1.1487    0.5513 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3551    2.1452    0.3120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3736   -2.1391   -0.2197 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4218   -1.5829    1.4789 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7406   -1.2352    0.3537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0943    0.1654   -1.5725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2006   -0.4498    1.0248 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3018    1.0166    0.0414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2657   -0.5659   -0.7476 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15956
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WUOACPNHFRMFPN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CCC(CC1)C(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O/c1-8-4-6-9(7-5-8)10(2,3)11/h4,9,11H,5-7H2,1-3H3
+
+> <INCHI_KEY>
+WUOACPNHFRMFPN-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O
+
+> <MOLECULAR_WEIGHT>
+154.253
+
+> <EXACT_MASS>
+154.1357652
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.3388709570955584e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.068760635093753
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(4-methylcyclohex-3-en-1-yl)propan-2-ol
+
+> <ALOGPS_LOGP>
+3.17
+
+> <JCHEM_LOGP>
+2.1742975076666666
+
+> <ALOGPS_LOGS>
+-2.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.402266970394027
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8732484271496527
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+48.4619
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.56e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+stearyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15956
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Terpineol
+
+$$$$

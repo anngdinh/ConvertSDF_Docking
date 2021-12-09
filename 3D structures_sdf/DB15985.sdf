@@ -1,0 +1,159 @@
+2149
+  -OEChem-12102011063D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -0.9167    1.8744   -0.0558 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -1.0286   -0.2376 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4792    0.6507    1.0417 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9009   -1.6973    0.1844 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0293    0.5321   -0.5303 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3368    0.0399   -1.0257 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6777   -0.3114    0.5738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3997   -0.0599    0.0495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7120    0.5627   -1.3889 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7283    0.7265   -1.7855 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2171   -0.9458   -1.4900 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6363    0.1427    0.8533 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0651   -0.2844    1.4820 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5046   -1.7293   -0.6360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4013   -2.1821    0.9280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5505    2.4118   -0.7787 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0100   -1.0856    0.4462 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15985
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YQGDEPYYFWUPGO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCC(O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO3/c5-2-3(6)1-4(7)8/h3,6H,1-2,5H2,(H,7,8)
+
+> <INCHI_KEY>
+YQGDEPYYFWUPGO-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9NO3
+
+> <MOLECULAR_WEIGHT>
+119.12
+
+> <EXACT_MASS>
+119.058243154
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0000649778477047
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.352851036776274
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-3-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-3.42
+
+> <JCHEM_LOGP>
+-3.8045974809340533
+
+> <ALOGPS_LOGS>
+0.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.931142104018983
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.099823572294161
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.601306975772337
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+26.6653
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.53e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+menglytate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15985
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Gamma-amino-beta-hydroxybutyric acid
+
+> <SYNONYMS>
+4-Amino-3-hydroxybutyric acid; Buxamine; Gamma-amino-beta-hydroxybutyric acid
+
+$$$$

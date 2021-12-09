@@ -1,0 +1,143 @@
+525
+  -OEChem-10051722523D
+
+ 15 14  0     1  0  0  0  0  0999 V2000
+    0.3372   -1.6121    0.1837 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1682    1.3843   -0.5735 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8501    0.9616    0.5769 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7125   -0.4593    0.6339 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2714   -0.8603   -0.6571 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5015   -0.3119   -0.3668 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5472    0.6095    0.2539 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9036    0.1627   -0.0423 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9543    0.1255   -0.0088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3850   -0.3858   -1.4534 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4502    1.6237   -0.1486 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4108    0.6447    1.3418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9434   -2.2083   -0.2885 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0733    1.6910   -0.3523 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7749    0.6755    0.4185 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12751
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BJEPYKJPYRNKOW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(CC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O5/c5-2(4(8)9)1-3(6)7/h2,5H,1H2,(H,6,7)(H,8,9)
+
+> <INCHI_KEY>
+BJEPYKJPYRNKOW-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6O5
+
+> <MOLECULAR_WEIGHT>
+134.0874
+
+> <EXACT_MASS>
+134.021523302
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.911379684422194
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxybutanedioic acid
+
+> <ALOGPS_LOGP>
+-0.87
+
+> <JCHEM_LOGP>
+-1.1136414279999998
+
+> <ALOGPS_LOGS>
+0.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.127730317344291
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1983571934669475
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.913035238851454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+24.875200000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.18e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+malic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12751
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Malic acid
+
+$$$$

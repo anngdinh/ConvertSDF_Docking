@@ -1,0 +1,202 @@
+5282430
+  -OEChem-10061700143D
+
+ 38 41  0     0  0  0  0  0  0999 V2000
+    6.9639   -0.3605   -0.0304 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9640    0.3605   -0.0303 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5208   -2.1539   -0.0349 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5208    2.1539   -0.0349 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3712   -0.4959    1.5469 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3712    0.4958    1.5468 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9915   -1.7021   -0.5934 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7615    0.7065   -0.6136 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9915    1.7021   -0.5934 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7615   -0.7065   -0.6136 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3191    1.3358   -0.0313 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3191   -1.3359   -0.0313 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6527    0.1367   -0.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6527   -0.1367   -0.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9836   -0.2469   -0.0308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9837    0.2470   -0.0308 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6918    1.1239   -0.0296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6918   -1.1239   -0.0296 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6904   -0.9539   -0.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6904    0.9538   -0.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2688   -0.7461   -0.0303 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2688    0.7462   -0.0303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7150    2.0486   -0.0280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7150   -2.0485   -0.0280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3048    0.1886   -0.0288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3048   -0.1886   -0.0288 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0313    1.5711   -0.0278 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0314   -1.5711   -0.0278 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8621    2.2322   -0.0293 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8621   -2.2322   -0.0293 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4499   -1.8143   -0.0252 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4499    1.8144   -0.0252 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5153    3.1146   -0.0254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5154   -3.1145   -0.0255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8403    2.2975   -0.0183 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8403   -2.2975   -0.0183 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8452   -1.1497    2.0648 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8452    1.1497    2.0648 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  1 25  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  2 26  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4 20  2  0  0  0  0
+  5 37  1  0  0  0  0
+  6 38  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 21 25  2  0  0  0  0
+ 21 31  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 27  2  0  0  0  0
+ 23 33  1  0  0  0  0
+ 24 28  2  0  0  0  0
+ 24 34  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 27 35  1  0  0  0  0
+ 28 36  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11577
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CFZXDJWFRVEWSR-BUHFOSPRSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(=O)(=O)C1=CC2=C(N\C(C2=O)=C2\NC3=C(C=C(C=C3)S(O)(=O)=O)C2=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H10N2O8S2/c19-15-9-5-7(27(21,22)23)1-3-11(9)17-13(15)14-16(20)10-6-8(28(24,25)26)2-4-12(10)18-14/h1-6,17-18H,(H,21,22,23)(H,24,25,26)/b14-13+
+
+> <INCHI_KEY>
+CFZXDJWFRVEWSR-BUHFOSPRSA-N
+
+> <FORMULA>
+C16H10N2O8S2
+
+> <MOLECULAR_WEIGHT>
+422.389
+
+> <EXACT_MASS>
+421.987856686
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.646678775401426
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-oxo-2-[(2E)-3-oxo-5-sulfo-2,3-dihydro-1H-indol-2-ylidene]-2,3-dihydro-1H-indole-5-sulfonic acid
+
+> <ALOGPS_LOGP>
+-0.94
+
+> <JCHEM_LOGP>
+1.0141740006666669
+
+> <ALOGPS_LOGS>
+-3.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+-2.149454650268563
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.8254973064029025
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.661388393713553
+
+> <JCHEM_POLAR_SURFACE_AREA>
+166.93999999999997
+
+> <JCHEM_REFRACTIVITY>
+101.28599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.96e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-oxo-2-[(2E)-3-oxo-5-sulfo-1H-indol-2-ylidene]-1H-indole-5-sulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11577
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Indigotindisulfonic acid
+
+> <SYNONYMS>
+2-(1,3-Dihydro-3-oxo-5-sulpho-2H-indol-2-ylidene)-3-oxoindoline-5-sulphonic acid; 5,5'-indigotindisulfonic Acid; Blue X; Indigo carmine acid; indigo carmine free acid; indigo-5,5'-disulfonic acid; Indigotindisulfonate; Saxon blue
+
+> <PRODUCTS>
+Indigo Carmine
+
+> <SALTS>
+Indigotindisulfonate sodium
+
+$$$$

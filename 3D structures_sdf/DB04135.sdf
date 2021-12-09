@@ -1,0 +1,157 @@
+448302
+  -OEChem-01132009133D
+
+ 14 14  0     1  0  0  0  0  0999 V2000
+   -2.5165   -0.7673    0.1482 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3185    1.7856   -0.5766 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8078    0.1902   -0.0247 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7032    1.0371    0.3224 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0123   -1.2269   -0.2163 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7471    0.9129    0.3859 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1964   -0.4819    0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5889    0.0122    0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3337   -1.4619   -0.1695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0672    1.2322    1.3819 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0970    1.9541    0.5083 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6479   -2.4780   -0.3707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6185   -2.0116   -0.4365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7562    1.7415   -1.3687 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04135
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PRVUBDAKZJCBTI-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N1C=C(F)[C@H](O)N([H])C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H5FN2O2/c5-2-1-6-4(9)7-3(2)8/h1,3,8H,(H2,6,7,9)/t3-/m0/s1
+
+> <INCHI_KEY>
+PRVUBDAKZJCBTI-VKHMYHEASA-N
+
+> <FORMULA>
+C4H5FN2O2
+
+> <MOLECULAR_WEIGHT>
+132.0931
+
+> <EXACT_MASS>
+132.033505619
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.001047147227074344
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.080696926095786
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4S)-5-fluoro-4-hydroxy-1,2,3,4-tetrahydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.28
+
+> <JCHEM_LOGP>
+-1.376170006333333
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.401209464074583
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.99654960678367
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.09690733850729
+
+> <JCHEM_POLAR_SURFACE_AREA>
+61.36
+
+> <JCHEM_REFRACTIVITY>
+26.9728
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-9-[(2R,3R,4S,5R)-5-({[({[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy(hydroxy)phosphoryl}oxy(hydroxy)phosphoryl)oxy(hydroxy)phosphoryl]oxy}methyl)-3,4-dihydroxyoxolan-2-yl]-7-methyl-6-oxo-3H-9lambda5-purin-9-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04135
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01480
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4S)-5-Fluoro-4-hydroxy-3,4-dihydro-2(1H)-pyrimidinone
+
+> <SYNONYMS>
+(4S)-5-Fluoro-4-hydroxy-3,4-dihydropyrimidin-2(1H)-one
+
+$$$$

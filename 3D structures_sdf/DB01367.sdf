@@ -1,0 +1,173 @@
+3052776
+  -OEChem-10051719343D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+   -1.6184   -0.2929    0.0588 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4650    0.4301    0.5704 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3115    1.7967   -0.1292 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1806    2.1520   -0.0529 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8637   -0.1969    0.2547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7983    0.7890   -0.0939 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2379   -1.5296    0.3327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1143    0.4631   -0.3777 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8585    0.3911    0.4020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5601   -1.8686    0.0349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4911   -0.8797   -0.3185 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0193   -0.3327   -0.1258 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9733   -0.9216   -0.5554 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5267    0.5610    1.6590 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9307    2.5791    0.3225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5979    1.7247   -1.1893 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4237    2.6488    0.8918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4859    2.7767   -0.8969 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6339   -1.2293    0.4641 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5304   -2.2991    0.6224 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8386    1.2276   -0.6374 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9556    0.4807    1.4906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8843    1.4028   -0.0167 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8744   -2.9077    0.0850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5167   -1.1626   -0.5399 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8194   -1.4440   -0.9365 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  3  0  0  0  0
+ 13 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01367
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RUOKEQAAGRXIBM-GFCCVEGCSA-N/SDF?record_type=3d
+
+> <SMILES>
+C#CCN[C@@H]1CCC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13N/c1-2-9-13-12-8-7-10-5-3-4-6-11(10)12/h1,3-6,12-13H,7-9H2/t12-/m1/s1
+
+> <INCHI_KEY>
+RUOKEQAAGRXIBM-GFCCVEGCSA-N
+
+> <FORMULA>
+C12H13N
+
+> <MOLECULAR_WEIGHT>
+171.2383
+
+> <EXACT_MASS>
+171.104799421
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.245577692260497
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R)-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+2.3039019329999997
+
+> <ALOGPS_LOGS>
+-3.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.687241073617077
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+54.46700000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.49e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+rasagiline
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01367
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02758
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Rasagiline
+
+> <SYNONYMS>
+(1R)-N-propargylindan-1-amine; (R)-indan-1-yl-prop-2-ynyl-amine; (R)-N-2-Propynyl-1-indanamine; RAS; Rasagilina; Rasagiline
+
+> <PRODUCTS>
+Apo-rasagiline; Asn-rasagiline; Azilect; Jamp Rasagiline; Rasagiline; Rasagiline Mesylate; Rasagiline Mylan; Rasagiline Ratiopharm; Teva-rasagiline
+
+> <SALTS>
+Rasagiline mesylate; Rasagiline tartrate
+
+$$$$

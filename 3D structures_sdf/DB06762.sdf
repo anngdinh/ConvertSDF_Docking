@@ -1,0 +1,200 @@
+4826
+  -OEChem-11191922213D
+
+ 37 37  0     1  0  0  0  0  0999 V2000
+    0.9001    0.1186    0.4069 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1684   -1.0828    0.2578 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9253   -2.2135    0.1555 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0949    1.9101   -0.1392 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2905   -4.1128   -0.9306 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9909    1.2526   -0.3049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3668   -0.0124    0.3597 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4309    1.5131   -1.7159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7042    2.4914    0.5712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5216    1.0974   -0.4106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8537   -0.3274    1.7736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2125   -0.9674    0.3056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1520   -0.0774    0.1242 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4593   -0.3268    0.5213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8115    1.1610   -0.4039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2685   -3.2294   -0.4271 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3860    0.6921    0.3701 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8120    2.1134   -0.5140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6914   -0.8128   -0.3154 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9197    2.3741   -2.1860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5903    0.6450   -2.3650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3571    1.7219   -1.6936 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0945    3.3996    0.0961 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6299    2.6428    0.7213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1795    2.4219    1.5548 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7885    0.1934   -0.9691 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0009    1.0428    0.5720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9679    1.9513   -0.9341 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9368   -0.4743    1.8039 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5960    0.4707    2.4772 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3999   -1.2396    2.1739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5702   -1.9949    0.4576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9027   -2.3116    0.3949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7581   -1.2826    0.9383 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8212    1.4081   -0.7609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4206    0.5502    0.6647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6021    3.0945   -0.9272 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4 17  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 16  3  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 35  1  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06762
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IVVNZDGDKPTYHK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(N\C(NC#N)=N\C1=CC=NC=C1)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19N5/c1-10(13(2,3)4)17-12(16-9-14)18-11-5-7-15-8-6-11/h5-8,10H,1-4H3,(H2,15,16,17,18)
+
+> <INCHI_KEY>
+IVVNZDGDKPTYHK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H19N5
+
+> <MOLECULAR_WEIGHT>
+245.33
+
+> <EXACT_MASS>
+245.164045632
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.30580208942726
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(Z)-N'-cyano-N-(3,3-dimethylbutan-2-yl)-N''-(pyridin-4-yl)guanidine
+
+> <ALOGPS_LOGP>
+2.30
+
+> <JCHEM_LOGP>
+1.9358666239999998
+
+> <ALOGPS_LOGS>
+-3.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+16.794247694497937
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.284053190520932
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.157498314073473
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.1
+
+> <JCHEM_REFRACTIVITY>
+73.0447
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(Z)-N'-cyano-N-(3,3-dimethylbutan-2-yl)-N''-(pyridin-4-yl)guanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06762
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pinacidil
+
+> <SYNONYMS>
+Pinacidil; Pinacidil anhydrous; Pinacidilum
+
+> <INTERNATIONAL_BRANDS>
+Pindac
+
+> <SALTS>
+Pinacidil monohydrate
+
+$$$$

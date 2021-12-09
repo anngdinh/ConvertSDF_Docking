@@ -1,0 +1,169 @@
+9982
+  -OEChem-10061700183D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+    2.7012    0.2540    0.4359 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3635    0.0515   -0.1283 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3026    0.3431    0.9486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1167    0.2014    0.4532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2785   -1.3782   -0.6631 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7214    0.0451   -0.5779 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7593    1.3026   -0.0901 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7505   -1.0271    0.5502 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1127    0.2520   -0.0158 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0703    1.1718   -0.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0616   -1.1578    0.0922 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7214   -0.0584   -0.4569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2060    0.7484   -0.9626 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4395    1.3606    1.3406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4483   -0.3201    1.8128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7762    1.1996    0.8103 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2727   -1.6159   -1.0197 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5415   -2.1168    0.1026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9073   -1.5443   -1.5429 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7253   -0.9783   -0.9614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5749    0.7276   -1.4232 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2597    2.2639   -0.1674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2500   -1.8886    0.9830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2405    1.2730    0.3593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3157   -0.4419    0.8071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8664    0.0835   -0.7920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5840    2.0276   -0.9761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5692   -2.1152    0.1646 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7423   -0.1602   -0.8134 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13285
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YAGBSNMZQKEFCO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCNC(C)CC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17N/c1-3-12-10(2)9-11-7-5-4-6-8-11/h4-8,10,12H,3,9H2,1-2H3
+
+> <INCHI_KEY>
+YAGBSNMZQKEFCO-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H17N
+
+> <MOLECULAR_WEIGHT>
+163.264
+
+> <EXACT_MASS>
+163.136099551
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.27366366602392
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl(1-phenylpropan-2-yl)amine
+
+> <ALOGPS_LOGP>
+2.73
+
+> <JCHEM_LOGP>
+2.5936388299999997
+
+> <ALOGPS_LOGS>
+-2.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.291155815405018
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+53.2284
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.77e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethylamphetamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13285
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Etilamfetamine
+
+$$$$

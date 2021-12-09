@@ -1,0 +1,145 @@
+6775
+  -OEChem-05062012153D
+
+ 14 14  0     0  0  0  0  0  0999 V2000
+    3.1876   -1.6130   -0.0008 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1875    1.6131    0.0003 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4641   -2.6664   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4640    2.6665    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0179   -2.0256    0.0007 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0177    2.0258   -0.0008 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8104   -0.6718   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8105    0.6716   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4683   -1.4375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4682    1.4376    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7374   -0.6684    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7373    0.6684    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0289   -1.4193    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0290    1.4191   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5 13  3  0  0  0  0
+  6 14  3  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15684
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HZNVUJQVZSTENZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=C(Cl)C(=O)C(C#N)=C(C#N)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8Cl2N2O2/c9-5-6(10)8(14)4(2-12)3(1-11)7(5)13
+
+> <INCHI_KEY>
+HZNVUJQVZSTENZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8Cl2N2O2
+
+> <MOLECULAR_WEIGHT>
+227.0
+
+> <EXACT_MASS>
+225.9336826
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.97380375361712
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4,5-dichloro-3,6-dioxocyclohexa-1,4-diene-1,2-dicarbonitrile
+
+> <ALOGPS_LOGP>
+1.94
+
+> <JCHEM_LOGP>
+1.425735688
+
+> <ALOGPS_LOGS>
+-3.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.72
+
+> <JCHEM_REFRACTIVITY>
+50.7186
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.58e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4,5-dichloro-3,6-dioxocyclohexa-1,4-diene-1,2-dicarbonitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15684
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3-dichloro-5,6-dicyanobenzoquinone
+
+> <SYNONYMS>
+2,3-Dichloro-5,6-dicyanoquinone; DDQ; Dichlorodicyanobenzoquinone
+
+$$$$

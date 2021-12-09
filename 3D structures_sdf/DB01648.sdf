@@ -1,0 +1,174 @@
+447600
+  -OEChem-10051719393D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+   -3.1446    0.9003    0.4258 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3540   -1.0620   -0.2771 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8503    2.8598   -0.4743 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8303    2.2148    0.4155 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5999   -0.4323   -0.2537 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2626   -3.2169    0.1532 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4770    0.5346   -0.2424 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5014    1.6411    0.1851 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9754   -0.8459    0.2167 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9376    1.2824   -0.1950 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2977   -0.1331    0.2472 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8165   -2.0031   -0.3191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0081   -1.7397    0.1180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5662    0.5454   -1.3361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5563    1.8304    1.2645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9357   -0.9112    1.3128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0713    1.3853   -1.2795 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3279   -0.1970    1.3433 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7918   -2.0280   -1.4138 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8552   -1.9512    0.0170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3071    2.0732   -0.2042 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8074    2.7072   -1.4336 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7350    1.9502    0.1759 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8043   -3.9396   -0.2069 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3937   -2.4990   -0.3749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9701   -1.8674    1.2044 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0429   -1.8783   -0.2080 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01648
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PFROTWRHYMLGHR-NYMZXIIRSA-N/SDF?record_type=3d
+
+> <SMILES>
+CO[C@@H]1O[C@H](CO)[C@@H](S)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O5S/c1-11-7-5(10)4(9)6(13)3(2-8)12-7/h3-10,13H,2H2,1H3/t3-,4-,5-,6-,7-/m1/s1
+
+> <INCHI_KEY>
+PFROTWRHYMLGHR-NYMZXIIRSA-N
+
+> <FORMULA>
+C7H14O5S
+
+> <MOLECULAR_WEIGHT>
+210.248
+
+> <EXACT_MASS>
+210.056194248
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.358093758227284
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4R,5S,6R)-6-(hydroxymethyl)-2-methoxy-5-sulfanyloxane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.79
+
+> <JCHEM_LOGP>
+-1.3341257456666669
+
+> <ALOGPS_LOGS>
+-0.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.470204001327147
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.499487898526706
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9603657616113654
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.15
+
+> <JCHEM_REFRACTIVITY>
+46.8846
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.06e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+GTM
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01648
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01657
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl 4-thio-beta-D-glucopyranoside
+
+> <SYNONYMS>
+Methyl 4-thio-β-D-glucopyranoside
+
+$$$$

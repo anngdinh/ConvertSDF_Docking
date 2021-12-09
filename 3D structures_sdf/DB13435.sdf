@@ -1,0 +1,201 @@
+47608
+  -OEChem-01272015523D
+
+ 35 37  0     0  0  0  0  0  0999 V2000
+   -2.7141    2.4194   -0.1260 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7148    1.3170    0.3822 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3840    1.4043   -0.5383 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1707    0.2983   -0.4399 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4460   -2.0068    0.0953 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9094   -3.2609    0.2529 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0426    2.5545    0.5697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0299    0.0673    0.6098 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2531    2.5776   -0.3553 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4863    0.1461    0.2347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0757    1.3300   -0.1996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0763    1.3855    0.0674 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2977   -0.9782    0.3353 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8274    0.1252   -0.0421 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6279   -0.8581   -0.0112 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4499   -0.4097    1.0823 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9102   -0.5253   -1.2699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1615   -1.6050    0.9778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6216   -1.7206   -1.3743 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2476   -2.2605   -0.2506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3513    2.5899    1.6220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5857    3.4311    0.3825 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4344   -0.7538    0.0574 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0527   -0.1497    1.6815 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8652    3.4604   -0.1399 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9251    2.6410   -1.4000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8606   -1.9066    0.6895 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3880    0.0932    2.0437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4255   -0.1131   -2.1510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4127   -1.9154   -0.1932 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6483   -2.0254    1.8529 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6881   -2.2311   -2.3306 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8014   -3.1912   -0.3320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5984   -3.8539    0.7132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7580   -3.6694   -0.6686 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 34  1  0  0  0  0
+  6 35  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13435
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ALAXZYHFVBSJKZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N\N=C1/NN=C2CCN(CC2=C1)C(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H15N5O/c15-16-13-8-11-9-19(7-6-12(11)17-18-13)14(20)10-4-2-1-3-5-10/h1-5,8H,6-7,9,15H2,(H,16,18)
+
+> <INCHI_KEY>
+ALAXZYHFVBSJKZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H15N5O
+
+> <MOLECULAR_WEIGHT>
+269.308
+
+> <EXACT_MASS>
+269.127660123
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.027750909479492564
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.315435363322273
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3Z)-6-benzoyl-3-hydrazinylidene-2H,3H,5H,6H,7H,8H-pyrido[4,3-c]pyridazine
+
+> <ALOGPS_LOGP>
+0.98
+
+> <JCHEM_LOGP>
+0.38422460599999997
+
+> <ALOGPS_LOGS>
+-3.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.75942314135037
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.357352562176452
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.463183864835537
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.08
+
+> <JCHEM_REFRACTIVITY>
+88.53410000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+prinomastat
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13435
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Endralazine
+
+> <SYNONYMS>
+Endralazina; Endralazine; Endralazinum
+
+> <SALTS>
+Endralazine mesylate
+
+$$$$

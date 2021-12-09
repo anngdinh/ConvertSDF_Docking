@@ -1,0 +1,151 @@
+9015
+  -OEChem-10061700093D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    2.3274   -0.5058    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1186    0.3433    0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9826   -0.2960    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4796    1.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1075   -1.3821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7739    0.1337   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8986    1.2198   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2708   -1.1673   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1648    0.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1020    1.8932    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4936   -2.3978    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2857    2.2353   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9419   -2.0220   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0296    1.2446    0.9095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0294    1.2446   -0.9095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2015    0.2972   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5717   -0.5173    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09516
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NWVVVBRKAWDGAB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O2/c1-9-7-4-2-6(8)3-5-7/h2-5,8H,1H3
+
+> <INCHI_KEY>
+NWVVVBRKAWDGAB-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8O2
+
+> <MOLECULAR_WEIGHT>
+124.1372
+
+> <EXACT_MASS>
+124.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.762679643524663
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methoxyphenol
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.5120092286666669
+
+> <ALOGPS_LOGS>
+-0.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.940502868815058
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.81035092669965
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.46
+
+> <JCHEM_REFRACTIVITY>
+34.5021
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methoxyphenol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09516
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mequinol
+
+> <SYNONYMS>
+4-Methoxyphenol
+
+> <PRODUCTS>
+Solage; Solagé
+
+$$$$

@@ -1,0 +1,159 @@
+8554
+  -OEChem-10061700203D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    2.1516   -0.6114    0.9395 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2187   -1.4775    0.4119 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1521   -0.4593   -1.3481 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3606   -1.8922   -0.8655 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5529    0.7763   -0.1132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7628    0.3133   -0.1019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8135    2.1405    0.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8181    1.2146    0.0385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2418    3.0418    0.1567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5576    2.5787    0.1677 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6766   -0.1400   -0.2582 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0672   -1.1055   -0.2348 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2576   -1.5185    0.8697 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5777   -2.8608    0.3215 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8345    2.5135    0.0088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8542    0.8861    0.0386 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0392    4.1041    0.2567 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3792    3.2812    0.2741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1186   -1.0296    0.4043 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9742   -2.4169    0.3133 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5256   -1.8066    1.8897 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7966   -3.4838    0.7672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7472   -3.1396   -0.7228 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5061   -3.0079    0.8797 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13336
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NIQCNGHVCWTJSM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC(=O)C1=CC=CC=C1C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10O4/c1-13-9(11)7-5-3-4-6-8(7)10(12)14-2/h3-6H,1-2H3
+
+> <INCHI_KEY>
+NIQCNGHVCWTJSM-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10O4
+
+> <MOLECULAR_WEIGHT>
+194.184
+
+> <EXACT_MASS>
+194.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.39433544792789
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,2-dimethyl benzene-1,2-dicarboxylate
+
+> <ALOGPS_LOGP>
+1.96
+
+> <JCHEM_LOGP>
+1.980199744
+
+> <ALOGPS_LOGS>
+-2.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.6480462547141626
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+50.10860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl phthalate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13336
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dimethylphthalate
+
+> <SYNONYMS>
+Dimethyl phthalate
+
+$$$$

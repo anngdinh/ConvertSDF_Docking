@@ -1,0 +1,175 @@
+6634
+  -OEChem-10051722133D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    4.2522    2.3349    0.4532 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7545   -2.2090    0.2089 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6643   -3.1578   -0.4221 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2995   -2.4704    1.5690 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6082   -2.0058   -0.8257 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3340    3.1465    0.0605 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1995   -0.9510    0.5646 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0495    0.0705    0.8539 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5117   -0.6364    0.1653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4805   -0.3553   -0.7981 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1479    0.3391    1.0938 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7217    1.8763    0.0950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0854    0.9010   -0.8332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7529    1.5954    1.0586 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4887   -0.8965   -0.5753 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5675    0.1377   -1.4772 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4325    1.1770   -1.1828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542    1.1039   -0.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4262   -2.1796   -1.8233 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7741   -1.0967   -1.5358 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3951    0.1434    1.8522 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8377    1.1084   -1.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4604    2.3474    1.7870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9787    0.1524   -2.3877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5303    2.0172   -1.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0352    3.3515   -0.6389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0692    3.8545    0.7323 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 18  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11461
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XOXHILFPRYWFOD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NN=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9ClN4O2S/c11-9-5-6-10(14-13-9)15-18(16,17)8-3-1-7(12)2-4-8/h1-6H,12H2,(H,14,15)
+
+> <INCHI_KEY>
+XOXHILFPRYWFOD-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9ClN4O2S
+
+> <MOLECULAR_WEIGHT>
+284.72
+
+> <EXACT_MASS>
+284.0134744
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.936817053402454
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(6-chloropyridazin-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.97
+
+> <JCHEM_LOGP>
+0.8532221506666664
+
+> <ALOGPS_LOGS>
+-3.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.595339651724606
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0165685416392174
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+71.4766
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.33e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfachloropyridazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11461
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Sulfachlorpyridazine
+
+> <SYNONYMS>
+4-Amino-N-(6-chloro-3-pyridazinyl)benzenesulfonamide; 4-amino-N-(6-chloropyridazin-3-yl)benzenesulfonamide; N1-(6-Chloro-3-pyridazinyl)sulfanilamide; SCP; Sulfachloropyridazine; Sulfachlorpyridazine; Sulfachlorpyridazinum; Sulfacloropiridazina; Sulphachlorpyridazine
+
+> <SALTS>
+Sodium sulfachlorpyridazine monohydrate; Sulfachlorpyridazine sodium
+
+$$$$

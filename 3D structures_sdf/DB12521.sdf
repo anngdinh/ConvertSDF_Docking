@@ -1,0 +1,143 @@
+13387
+  -OEChem-10051722473D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    1.0953   -1.7042    0.0498 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5109    0.5758    0.0065 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7866    0.3643    0.2327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6992    1.3470   -0.1527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2120   -0.9910   -0.1621 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2782   -0.7974   -0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8133    1.2054    0.0309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7445    0.5790   -0.2490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9424    0.3907    1.3186 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7776    1.6553   -1.2002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6867    2.2264    0.4974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4276   -1.2275   -1.2087 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5745   -1.7915    0.4870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5965    0.4539    0.1590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8473    1.9166    0.8604 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9668    1.7321   -0.9148 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12521
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SECXISVLQFMRJM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1CCCC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO/c1-6-4-2-3-5(6)7/h2-4H2,1H3
+
+> <INCHI_KEY>
+SECXISVLQFMRJM-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9NO
+
+> <MOLECULAR_WEIGHT>
+99.1311
+
+> <EXACT_MASS>
+99.068413915
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.70290517539099
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-methylpyrrolidin-2-one
+
+> <ALOGPS_LOGP>
+-0.72
+
+> <JCHEM_LOGP>
+-0.35593323266666665
+
+> <ALOGPS_LOGS>
+0.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9968110272926051
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.310000000000002
+
+> <JCHEM_REFRACTIVITY>
+27.1546
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.53e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylpyrrolidone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12521
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Methyl pyrrolidone
+
+> <SYNONYMS>
+1-methyl-2-pyrrolidinone; 1-methyl-2-pyrrolidone; 1-methyl-5-pyrrolidinone; 1-methylpyrrolidinone; Methylpyrrolidone; N-methyl-2-pyrrolidone; N-methyl-pyrrolidone; N-methylpyrrolidone; NMP
+
+$$$$

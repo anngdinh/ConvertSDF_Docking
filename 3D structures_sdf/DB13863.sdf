@@ -1,0 +1,187 @@
+84951
+  -OEChem-10061700333D
+
+ 34 33  0     1  0  0  0  0  0999 V2000
+   -5.2807   -0.8752   -0.0804 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9762   -1.3029    0.0025 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3702    0.6403   -1.5370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7967    0.7387    1.8455 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2992    2.9419    0.0525 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0653    0.0890    0.3708 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0849    0.0232   -0.2698 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7127    2.2569   -0.7479 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1970   -0.8207   -1.6944 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7453   -2.3604    0.2699 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6206   -0.5233    0.4971 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9537   -1.4323    1.6143 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0192   -2.5133   -0.4812 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3450   -1.2820   -0.6126 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3594    0.6415   -0.1124 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7881    0.8513    0.4228 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6956    1.6254    0.4163 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7635   -0.1840   -0.1379 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1184    1.3996   -0.0924 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7819    0.0860    0.2743 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0344   -0.3604    0.1964 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1531    1.8535    0.1714 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7356    1.5941    1.5104 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4700   -1.1917    0.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7995   -0.1383   -1.2295 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8304    0.0184    1.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1861   -0.7349   -0.1309 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7200   -0.2168   -1.8332 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4657   -0.1458    2.0775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1967    2.9645   -0.9145 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8977   -1.2608   -2.2211 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3456   -3.1248    0.1374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5074   -2.1191    2.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3736   -3.4279   -0.4802 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 15  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 26  1  0  0  0  0
+ 20 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13863
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XPYBSIWDXQFNMH-UYFOZJQFSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(COP(O)(O)=O)[C@@]([H])(O)[C@]([H])(O)C(=O)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O12P2/c7-3(1-17-19(11,12)13)5(9)6(10)4(8)2-18-20(14,15)16/h3,5-7,9-10H,1-2H2,(H2,11,12,13)(H2,14,15,16)/t3-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+XPYBSIWDXQFNMH-UYFOZJQFSA-N
+
+> <FORMULA>
+C6H14O12P2
+
+> <MOLECULAR_WEIGHT>
+340.1157
+
+> <EXACT_MASS>
+339.996048936
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.525007836038164
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(3S,4R,5R)-3,4,5-trihydroxy-2-oxo-6-(phosphonooxy)hexyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.61
+
+> <JCHEM_LOGP>
+-3.514163954666666
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <JCHEM_PKA>
+1.6633055259475853
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.006253866577405
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.5447528314482835
+
+> <JCHEM_POLAR_SURFACE_AREA>
+211.27999999999997
+
+> <JCHEM_REFRACTIVITY>
+59.3076
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.36e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-fructose 1,6-bisphosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13863
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fosfructose
+
+> <SYNONYMS>
+1,6-di-O-phosphono-D-fructose; D-fructose 1,6-bisphosphate; Fosfructose; Fructose 1,6-bisphosphate; Fructose 1,6-diphosphate; Fructose-1,6-diphosphate; Harden-young ester; keto-D-fructose 1,6-bisphosphate
+
+> <SALTS>
+Fosfructose trisodium
+
+$$$$

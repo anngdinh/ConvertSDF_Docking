@@ -1,0 +1,122 @@
+5152822
+  -OEChem-10061700133D
+
+  7  6  0     0  0  0  0  0  0999 V2000
+   -0.0001   -0.0001   -0.1679 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0010    0.0009    1.4896 O   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.4242   -0.1446   -0.4396 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.8367   -1.1611   -0.4404 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5866    1.3050   -0.4416 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5698    0.7275    1.8478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9236    0.0561    1.8473 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+M  CHG  2   2   1   3  -1
+M  END
+> <DATABASE_ID>
+DB11309
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QAOWNCQODCNURD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)
+
+> <INCHI_KEY>
+QAOWNCQODCNURD-UHFFFAOYSA-N
+
+> <FORMULA>
+H2O4S
+
+> <MOLECULAR_WEIGHT>
+98.078
+
+> <EXACT_MASS>
+97.967379242
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.509275968116301
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+sulfuric acid
+
+> <JCHEM_LOGP>
+-0.8415520233333333
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+1.8964254257138706
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-3.034349054191991
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+13.7708
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfuric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11309
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfuric acid
+
+> <SYNONYMS>
+Acide sulfurique; Acido sulfurico; Acidum sulfuricum; Brimstone acid; Dihydrogen sulfate; Dihydrogen sulphate; Schwefelsaeureloesungen; Sulphuric acid; Tetraoxosulfuric acid
+
+> <PRODUCTS>
+DEBACTEROL Canker Sore Pain Relief
+
+$$$$

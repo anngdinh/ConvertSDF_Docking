@@ -1,0 +1,131 @@
+79124
+  -OEChem-10051719593D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    1.5957    0.1145   -0.3237 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6369    0.1406    0.4672 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5258   -0.5993   -0.0220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7067    0.3442   -0.1215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3063   -1.0505   -0.9949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7278   -1.3980    0.6974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5939   -0.1957   -0.4679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9437    0.7943    0.8492 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5092    1.1581   -0.8281 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02646
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IFYCAQIXDKZDTB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCN=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5NO/c1-2-3-4/h2H2,1H3
+
+> <INCHI_KEY>
+IFYCAQIXDKZDTB-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5NO
+
+> <MOLECULAR_WEIGHT>
+59.0672
+
+> <EXACT_MASS>
+59.037113787
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.824654282202701
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+nitrosoethane
+
+> <ALOGPS_LOGP>
+0.50
+
+> <JCHEM_LOGP>
+0.31591380366666655
+
+> <ALOGPS_LOGS>
+-0.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.83898205854095
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.6398242447573246
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.43
+
+> <JCHEM_REFRACTIVITY>
+14.588199999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.33e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitrosoethane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02646
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02372
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nitrosoethane
+
+$$$$

@@ -1,0 +1,158 @@
+16213540
+  -OEChem-10051722503D
+
+ 21 20  0     0  0  0  0  0  0999 V2000
+    2.8438   -0.2447   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8815   -0.0256    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4860   -0.6925    0.0389 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0018    0.8116   -1.2653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9665   -1.0928    0.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0437    0.8711    1.2189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5636    0.3730    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5523   -1.2974    0.9512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5649   -1.3695   -0.8203 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3970    1.7176   -1.1798 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -0.6955    0.2032   -2.1214 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -2.0508    1.1061   -1.3756 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -1.8607   -1.6858    0.9206 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -2.9431   -0.6003   -0.0161 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -1.8363   -1.7234   -0.8772 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -0.7931    0.2955    2.1147 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -0.4101    1.7562    1.1245 H   1  0  0  0  0  0  0  0  0  0  0  0
+   -2.0891    1.1935    1.2635 H   1  0  0  0  0  0  0  0  0  0  0  0
+    1.5275    0.9835   -0.9041 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5402    1.0262    0.8752 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5065    0.4667   -0.0218 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+M  CHG  1   2   1
+M  ISO  8  10   2  11   2  12   2  13   2  14   2  15   2  16   2  17   2
+M  ISO  1  18   2
+M  END
+> <DATABASE_ID>
+DB12628
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OEYIOHPDSNJKLS-GQALSZNTSA-N/SDF?record_type=3d
+
+> <SMILES>
+[2H]C([2H])([2H])[N+](CCO)(C([2H])([2H])[2H])C([2H])([2H])[2H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1/i1D3,2D3,3D3
+
+> <INCHI_KEY>
+OEYIOHPDSNJKLS-GQALSZNTSA-N
+
+> <FORMULA>
+C5H14NO
+
+> <MOLECULAR_WEIGHT>
+113.227
+
+> <EXACT_MASS>
+113.163481208
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.565614618192722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-hydroxyethyl)tri(2H3)methylazanium
+
+> <ALOGPS_LOGP>
+-3.59
+
+> <JCHEM_LOGP>
+-4.662269162805079
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.968714076810006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.249884462803304
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+42.193999999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2-hydroxyethyl)tri(2H3)methylazanium
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12628
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Methyl-D9-choline
+
+$$$$

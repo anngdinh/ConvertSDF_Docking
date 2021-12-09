@@ -1,0 +1,178 @@
+5351154
+  -OEChem-12181917333D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+   -1.3158   -0.2159   -0.1245 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4595   -0.2958    0.0443 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6848   -0.3215    0.0938 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040   -0.4935   -0.2527 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6450    1.0580    0.1292 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6018    1.9714   -0.3335 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8910    0.5497   -0.1863 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0927    1.7392    0.5718 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6970   -1.3476   -0.0096 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3195   -2.6764    0.3115 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7783   -1.3458   -0.2543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2968    0.8272   -0.0252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5352    0.5510    0.0356 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9143   -3.0128   -0.5422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5504   -3.4240    0.5233 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9620   -2.5884    1.1919 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1980   -2.2720   -0.6829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2827    0.3032    0.3582 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0397    1.9854    0.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5979    1.9546   -0.4761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0701    2.8661   -0.4265 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4649    1.3560    0.0348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3570   -0.2610   -0.5789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7310    2.5032    0.7650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1124    1.8837    0.7878 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12967
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MXWHMTNPTTVWDM-NXOFHUPFSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C(\C=N\N=C(N)N)=N/N=C(N)N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12N8/c1-3(11-13-5(8)9)2-10-12-4(6)7/h2H,1H3,(H4,6,7,12)(H4,8,9,13)/b10-2+,11-3+
+
+> <INCHI_KEY>
+MXWHMTNPTTVWDM-NXOFHUPFSA-N
+
+> <FORMULA>
+C5H12N8
+
+> <MOLECULAR_WEIGHT>
+184.2024
+
+> <EXACT_MASS>
+184.118492424
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0829510098422381
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.58017427661637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N''-[(E)-[(1E)-1-{[(diaminomethylidene)amino]imino}propan-2-ylidene]amino]guanidine
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+-2.165526600333333
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.066628177807388
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.463998949559883
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.377679809610221
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.51999999999998
+
+> <JCHEM_REFRACTIVITY>
+48.8531
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+doravirine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12967
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Mitoguazone
+
+> <SYNONYMS>
+Me-GAG; Methyl-G; Mitoguazona; Mitoguazone; Mitoguazonum
+
+> <SALTS>
+Mitoguazone dihydrochloride
+
+$$$$

@@ -1,0 +1,177 @@
+57524523
+  -OEChem-12152013023D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+   -0.4763   -2.0972    1.4255 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7372   -0.3736   -0.1669 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2785    2.2553    1.4312 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9264    0.3387   -0.1935 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3761   -1.8550   -0.6076 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0389    0.9242    1.0173 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3078    0.9501    0.1443 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1781    0.3106    0.3589 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1357    1.7154   -1.1604 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4791   -1.0445    0.4952 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0077    1.1365   -0.3994 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6098   -1.5737   -0.1267 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1385    0.6073   -1.0215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4396   -0.7478   -0.8852 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0855   -0.5464   -0.3111 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2594    0.3875    1.9459 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0755    1.4709    0.7332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4825    1.1823   -1.8590 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7406    2.7220   -0.9948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0985    1.8181   -1.6734 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7966    2.1942   -0.5303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4934    2.6097    1.9046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8584   -2.6276   -0.0305 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7838    1.2498   -1.6136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3198   -1.1598   -1.3700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3315   -2.1653   -0.7491 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6440   -2.5519   -0.6944 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 26  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16034
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/TZOWVYPYWJLZTK-IMTBSYHQSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H](OC(N)=O)[C@@H](O)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClNO3/c1-6(15-10(12)14)9(13)7-4-2-3-5-8(7)11/h2-6,9,13H,1H3,(H2,12,14)/t6-,9+/m0/s1
+
+> <INCHI_KEY>
+TZOWVYPYWJLZTK-IMTBSYHQSA-N
+
+> <FORMULA>
+C10H12ClNO3
+
+> <MOLECULAR_WEIGHT>
+229.66
+
+> <EXACT_MASS>
+229.050571
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.790422577010131e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.96577010206734
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S)-1-(2-chlorophenyl)-1-hydroxypropan-2-yl carbamate
+
+> <ALOGPS_LOGP>
+1.66
+
+> <JCHEM_LOGP>
+1.7037606843333333
+
+> <ALOGPS_LOGS>
+-1.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.920102310574658
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.246378393213803
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.559688469673771
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.55
+
+> <JCHEM_REFRACTIVITY>
+55.88820000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16034
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+JBPOS0101
+
+$$$$

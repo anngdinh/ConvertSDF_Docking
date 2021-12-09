@@ -1,0 +1,174 @@
+3590
+  -OEChem-10061700253D
+
+ 29 28  0     1  0  0  0  0  0999 V2000
+    3.3465   -0.8464   -0.5568 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0122   -0.7968   -0.0378 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9635   -0.5983   -0.4409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3208   -0.0110   -0.0028 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2728    0.0855    0.1514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5591   -0.6244   -0.2932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8278   -0.0216    0.3334 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4953   -0.0106    1.5172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5528    1.3926   -0.5634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0069    1.4309   -0.1071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9025   -0.5823   -1.5375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9412   -1.6637   -0.1730 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2272    0.0747    1.2455 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2870    1.1307   -0.1708 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6311   -0.5964   -1.3884 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4913   -1.6834   -0.0105 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7364   -0.0479    1.4259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.0075    1.9318 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8295    0.7036    2.0109 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5264    0.2456    1.7876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4588    1.3962   -1.6553 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5696    1.7369   -0.3409 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8481    2.1215   -0.1519 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9581    1.8342    0.2601 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0042    1.5250   -1.1987 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2202    2.0750    0.2968 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2440   -1.7373   -0.1806 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8335   -0.4147    0.4292 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9122   -1.7551    0.2943 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 28  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13574
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LREQLEBVOXIEOM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(N)CCCC(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H19NO/c1-7(9)5-4-6-8(2,3)10/h7,10H,4-6,9H2,1-3H3
+
+> <INCHI_KEY>
+LREQLEBVOXIEOM-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H19NO
+
+> <MOLECULAR_WEIGHT>
+145.246
+
+> <EXACT_MASS>
+145.146664236
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.21820260735776
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-amino-2-methylheptan-2-ol
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+0.8200569153333332
+
+> <ALOGPS_LOGS>
+-0.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.53074041884456
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.430803367326943
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+43.79789999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cardiomax
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13574
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptaminol
+
+> <SALTS>
+Heptaminol hydrochloride
+
+$$$$

@@ -1,0 +1,180 @@
+3276
+  -OEChem-01162023073D
+
+ 25 25  0     0  0  0  0  0  0999 V2000
+    0.8865   -1.0024    1.1934 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3055    1.3058   -0.4600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4641    2.5822   -0.0819 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3797    1.9072    0.1120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3242   -0.7308   -0.4614 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3669   -0.7614   -0.5803 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2129   -0.0697    0.4682 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6138    1.6518    0.0129 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0152   -0.6754   -1.0388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1076   -0.8322   -0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5874   -0.8834    0.1826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0446    0.3201    0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0577   -1.8619   -0.3007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0549    0.4791    0.6690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2272   -1.4290    0.2788 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0886   -1.5076   -1.7500 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1289    0.2490   -1.6115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3314   -1.3275   -0.4868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4244   -1.5563    1.0304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4466   -0.6087   -1.5816 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7085   -2.8421   -0.5940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9806    0.3817    1.2442 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2946    0.9618    1.2915 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0785   -2.0270    0.5696 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069    2.1662   -0.1217 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+M  CHG  2   3  -1   8   1
+M  END
+> <DATABASE_ID>
+DB12736
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WCDWBPCFGJXFJZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCNC(=O)CN1C=CN=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10N4O4/c12-4-2-8-6(13)5-10-3-1-9-7(10)11(14)15/h1,3,12H,2,4-5H2,(H,8,13)
+
+> <INCHI_KEY>
+WCDWBPCFGJXFJZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H10N4O4
+
+> <MOLECULAR_WEIGHT>
+214.181
+
+> <EXACT_MASS>
+214.070204818
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0274234556865102e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.044989457418584
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(2-hydroxyethyl)-2-(2-nitro-1H-imidazol-1-yl)acetamide
+
+> <ALOGPS_LOGP>
+-1.39
+
+> <JCHEM_LOGP>
+-1.0926991986666668
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.562783072747145
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.277379124606558
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.19863603995580031
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+48.7991
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.90e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bromopride
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12736
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Etanidazole
+
+> <SYNONYMS>
+Etanidazol; Etanidazole; Etanidazolum
+
+> <INTERNATIONAL_BRANDS>
+Radinyl
+
+$$$$

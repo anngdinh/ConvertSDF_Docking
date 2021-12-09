@@ -1,0 +1,172 @@
+7608
+  -OEChem-10051722003D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+   -2.0420    0.6247    0.7352 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8259   -0.1889    0.2981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0839   -0.9862    0.6282 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2699    0.6355   -0.9060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3807   -1.0656    0.0115 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200    0.0112    0.4228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6917    1.0617   -0.5556 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6506   -0.2752   -0.3496 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.8104   -1.2259   -0.6432 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2077    1.4088    0.3584 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6139    0.4844    1.1394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2050   -1.8301   -0.0623 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0691   -1.3865    1.6467 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6274    1.5026   -1.0868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2806    0.0255   -1.8177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5788   -1.6958    0.8893 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1466   -1.7561   -0.8098 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1193   -0.4838    0.0424 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4855    0.4892    1.3727 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6870    2.0465   -0.0742 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3177    1.1371   -1.4504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4454    0.3048   -1.2579 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6598   -0.7202   -1.1134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1631   -1.7328    0.2624 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4928   -2.0045   -1.3467 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2423    0.0949    1.5828 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3383    2.2128    1.0906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1329    0.8250    0.3698 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0857    1.8875   -0.6190 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08999
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HFXKQSZZZPGLKQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CNC(C)CC1CCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19N/c1-8(10-2)7-9-5-3-4-6-9/h8-10H,3-7H2,1-2H3
+
+> <INCHI_KEY>
+HFXKQSZZZPGLKQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H19N
+
+> <MOLECULAR_WEIGHT>
+141.258
+
+> <EXACT_MASS>
+141.151749616
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.39844018267545
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1-cyclopentylpropan-2-yl)(methyl)amine
+
+> <ALOGPS_LOGP>
+2.86
+
+> <JCHEM_LOGP>
+2.260026091333333
+
+> <ALOGPS_LOGS>
+-2.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.614016211465419
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+44.9342
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.76e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sinos
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08999
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Cyclopentamine
+
+> <SALTS>
+Cyclopentamine hydrochloride
+
+$$$$

@@ -1,0 +1,164 @@
+3092
+  -OEChem-03191914433D
+
+ 23 23  0     0  0  0  0  0  0999 V2000
+   -2.2843   -2.5117   -1.1065 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4345    3.5409    0.0194 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.7031    3.0412    0.0008 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1650   -2.0235   -0.0047 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7624    0.0889    0.0151 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4965    2.7015    0.0068 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.8787   -0.8019    0.0027 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.3112   -2.5171    1.1865 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1722    0.3434   -0.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8297   -1.0087   -0.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1725    1.3163   -0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5125   -1.3880   -0.0178 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5123   -0.4154   -0.0036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1698    0.9368    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6151    0.7450   -0.0228 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8508   -2.0477   -0.0388 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7554   -2.4485   -0.0246 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9523    1.6921    0.0157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8896    1.2799    0.8931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8748    1.3021   -0.9297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2941   -0.1135   -0.0414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9632   -2.1537    2.0681 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0173   -3.2439    1.2351 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+M  CHG  4   2  -1   4  -1   6   1   7   1
+M  END
+> <DATABASE_ID>
+DB11480
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZEFNOZRLAWVAQF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C=C(C=C1C(N)=O)[N+]([O-])=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7N3O5/c1-4-6(8(9)12)2-5(10(13)14)3-7(4)11(15)16/h2-3H,1H3,(H2,9,12)
+
+> <INCHI_KEY>
+ZEFNOZRLAWVAQF-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H7N3O5
+
+> <MOLECULAR_WEIGHT>
+225.1583
+
+> <EXACT_MASS>
+225.038570349
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.18332655376067
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-3,5-dinitrobenzamide
+
+> <ALOGPS_LOGP>
+0.73
+
+> <JCHEM_LOGP>
+1.2172758783333335
+
+> <ALOGPS_LOGS>
+-3.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.372126418832588
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.847743966788891
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.37
+
+> <JCHEM_REFRACTIVITY>
+52.8186
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ronnel
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11480
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Zoalene
+
+> <SYNONYMS>
+Coccidine A; Dinitolmida; Dinitolmide; Dinitolmidum; Zoalene
+
+$$$$

@@ -1,0 +1,180 @@
+5330
+  -OEChem-10061700303D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+    1.2505   -2.1539   -0.3090 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -3.0100    0.2194 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7449   -2.4100   -1.6521 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0044    1.5475    0.0768 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0582   -2.1653    0.8116 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8498   -1.2543   -0.4293 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1680    3.4679   -0.0364 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8327   -0.3331   -0.6165 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8141   -0.5034   -0.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8014   -0.1472    0.6897 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2762    0.4594   -1.0832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7130    2.1346   -0.0999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2506    1.1718    0.7544 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7257    1.7783   -1.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0799   -1.1632    0.6692 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2246   -0.1871    1.6259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2247    0.7502    1.4355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0052    0.6410    0.3022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7710    1.3767   -1.1106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2063   -2.3589    1.7868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2291   -0.8781    1.3700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5056    0.2057   -1.8056 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0191    1.4375    1.4758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2982    2.5194   -1.6892 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5853   -0.1403    2.5006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3840    1.5436    2.1576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8822    3.7277    0.6308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7766    4.1664   -0.6543 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1401    1.4684   -2.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5209    2.1727   -1.1446 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2974    0.4165   -1.1027 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 27  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 18  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13773
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VLYWMPOKSSWJAL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=NN=C(NS(=O)(=O)C2=CC=C(N)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N4O3S/c1-18-11-7-6-10(13-14-11)15-19(16,17)9-4-2-8(12)3-5-9/h2-7H,12H2,1H3,(H,13,15)
+
+> <INCHI_KEY>
+VLYWMPOKSSWJAL-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H12N4O3S
+
+> <MOLECULAR_WEIGHT>
+280.3
+
+> <EXACT_MASS>
+280.063011436
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.1866652427815
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(6-methoxypyridazin-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.51
+
+> <JCHEM_LOGP>
+0.46578656166666627
+
+> <ALOGPS_LOGS>
+-2.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.844790551151756
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0160751360860987
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.2
+
+> <JCHEM_REFRACTIVITY>
+72.38719999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.25e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+longin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13773
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfamethoxypyridazine
+
+> <SYNONYMS>
+Sulfamethoxypyridazine; sulfametoxipiridazina
+
+$$$$

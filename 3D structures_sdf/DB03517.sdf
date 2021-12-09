@@ -1,0 +1,133 @@
+5179950
+  -OEChem-10051720173D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+   -1.3460    0.4256   -0.5479 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3740    1.2241    0.1607 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9269   -0.9386   -0.3361 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2138   -0.4767    0.5357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9079   -0.2138    0.1018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1669   -0.0206    0.0857 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3737   -0.2041    1.5828 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3402   -1.5558    0.4093 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9559   -1.2988   -0.0218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7384    0.2360   -0.4488 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0131    0.0417    1.1594 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <DATABASE_ID>
+DB03517
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HGTBAIVLETUVCG-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+CSCC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O2S/c1-6-2-3(4)5/h2H2,1H3,(H,4,5)/p-1
+
+> <INCHI_KEY>
+HGTBAIVLETUVCG-UHFFFAOYSA-M
+
+> <FORMULA>
+C3H5O2S
+
+> <MOLECULAR_WEIGHT>
+105.136
+
+> <EXACT_MASS>
+105.001025094
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.754159049968433
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(methylsulfanyl)acetate
+
+> <ALOGPS_LOGP>
+-0.00
+
+> <JCHEM_LOGP>
+0.39022891700000006
+
+> <ALOGPS_LOGS>
+-0.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.36447528982951
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.129999999999995
+
+> <JCHEM_REFRACTIVITY>
+35.961000000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.79e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(methylthio)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03517
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02243
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[Methylthio]Acetate
+
+$$$$

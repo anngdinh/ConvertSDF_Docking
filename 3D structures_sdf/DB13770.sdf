@@ -1,0 +1,190 @@
+72135
+  -OEChem-01012010363D
+
+ 32 32  0     1  0  0  0  0  0999 V2000
+    0.4483    1.6486   -1.2767 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9956   -2.2987    1.0522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7543    1.3211    0.5199 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6429    1.4495   -0.3712 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3465   -0.4748    0.7672 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1989   -0.4056    0.6720 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0750   -0.4393   -0.1832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4187    0.1203   -0.1072 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9660    0.4621    1.9114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3764    0.9718   -0.6588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1571   -1.1626    0.6018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7157    0.1015    0.7051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1390   -1.2481   -1.4319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9002    0.5621   -0.1311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6560    0.8000    0.3177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7831   -1.4081   -2.3871 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4366   -1.4210    1.0200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067    1.1666   -0.3929 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5903   -0.4511   -1.0240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7751    0.3326    2.6377 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0482    0.1908    2.4424 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9105    1.5285    1.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9089   -0.9121    1.0745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6425    0.7610    1.5757 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0550   -1.8225   -1.5446 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8534    2.3883   -0.6986 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0773   -0.9591    1.2811 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0461   -0.0894   -0.9986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7542    1.5859   -0.4903 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8169    0.5400    0.4666 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5789   -2.0444   -3.2417 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7504   -0.9203   -2.3453 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 11  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13770
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KGKJZEKQJQQOTD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCC(C)C1(C=C)C(=O)NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16N2O3/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h5,7H,2,4,6H2,1,3H3,(H2,12,13,14,15,16)
+
+> <INCHI_KEY>
+KGKJZEKQJQQOTD-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H16N2O3
+
+> <MOLECULAR_WEIGHT>
+224.26
+
+> <EXACT_MASS>
+224.116092383
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.42035643297065894
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.705448453037917
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-ethenyl-5-(pentan-2-yl)-1,3-diazinane-2,4,6-trione
+
+> <ALOGPS_LOGP>
+1.76
+
+> <JCHEM_LOGP>
+1.5892632603333325
+
+> <ALOGPS_LOGS>
+-2.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.806369499230131
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.14009996283818
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+58.047
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.77e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mizolastine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13770
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Vinylbital
+
+> <SYNONYMS>
+Vinilbital; Vinylbital; Vinylbitalum
+
+> <INTERNATIONAL_BRANDS>
+Bykonox; Speda
+
+$$$$

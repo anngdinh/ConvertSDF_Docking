@@ -1,0 +1,177 @@
+6235
+  -OEChem-10061700193D
+
+ 30 33  0     0  0  0  0  0  0999 V2000
+   -1.0350   -2.2238   -0.5328 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2630    2.8088    0.5936 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6023   -1.6825   -0.3187 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3272    1.0619    0.2964 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0722   -0.4473   -0.2079 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5130   -2.8284    0.5812 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6402   -1.8572    0.6927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7065   -0.6645   -0.1315 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7700    2.1171   -0.6104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2816    0.7231   -0.7551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0452    0.6063    0.1533 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0510    0.5239   -0.6926 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0537    0.0868    0.7340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7799   -0.0278   -0.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7281   -1.0625   -0.2677 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0108    1.6394    0.3375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4184    1.2269    0.2049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6908   -3.7710    0.0851 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7516   -2.8037    1.3479 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6389   -1.2194    1.5650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5979   -2.1396    0.2809 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3998    2.8511   -0.1300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0627    2.4716   -1.3468 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9386    0.1732   -1.6198 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2709    0.5025   -0.3821 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7797    0.0829   -1.3600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7141    1.5121   -0.9633 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6966    0.7534    1.5046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7826   -0.6503    1.0415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1265    2.0323    0.3702 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  2  0  0  0  0
+  2 16  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13304
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PXSOHRWMIRDKMP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1C=C(N2CC2)C(=O)C(N2CC2)=C1N1CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13N3O2/c16-9-7-8(13-1-2-13)12(17)11(15-5-6-15)10(9)14-3-4-14/h7H,1-6H2
+
+> <INCHI_KEY>
+PXSOHRWMIRDKMP-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H13N3O2
+
+> <MOLECULAR_WEIGHT>
+231.255
+
+> <EXACT_MASS>
+231.100776671
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.31475423372844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3,5-tris(aziridin-1-yl)cyclohexa-2,5-diene-1,4-dione
+
+> <ALOGPS_LOGP>
+0.26
+
+> <JCHEM_LOGP>
+-0.5110918026666675
+
+> <ALOGPS_LOGS>
+-0.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.571571011838282
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.4
+
+> <JCHEM_REFRACTIVITY>
+66.2044
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.52e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triaziquone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13304
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Triaziquone
+
+> <SYNONYMS>
+triazicuona
+
+$$$$

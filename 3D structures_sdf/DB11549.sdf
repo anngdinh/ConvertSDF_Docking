@@ -1,0 +1,182 @@
+26533
+  -OEChem-10051722143D
+
+ 32 33  0     1  0  0  0  0  0999 V2000
+    1.7351    0.7442    1.3813 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4738   -0.6696    2.1568 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1415   -1.8055    0.3125 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -0.4688   -0.0146 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1750   -0.6009   -1.3333 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0040    0.6429   -1.6694 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9839    0.9604   -0.5443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3957   -0.0854    1.0749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2739    1.1198    0.7901 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7813    0.5422   -0.0257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1191   -2.2352   -0.6758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1950    1.3590   -1.0541 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6944   -3.5939   -0.3330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113    2.1624   -0.6818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7073    1.9283    0.6165 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8609   -1.4585   -1.2781 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5188   -0.7722   -2.1943 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5674    0.4580   -2.5919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3808    1.5188   -1.8627 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7193    0.1492   -0.4705 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5394    1.8746   -0.7815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0119    1.2204    1.5932 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6476    2.0181    0.7997 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5746   -1.7909    1.2362 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6718   -2.3467   -1.6676 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9666   -1.5488   -0.7682 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7612    1.3792   -2.0438 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2155   -3.5719    0.6301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9085   -4.3550   -0.2792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4137   -3.9076   -1.0967 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8037    2.8703   -1.3357 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5222    2.3946    1.1520 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11549
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QAXBVGVYDCAVLV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCNC1(CCCCC1=O)C1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17NOS/c1-2-13-12(11-7-5-9-15-11)8-4-3-6-10(12)14/h5,7,9,13H,2-4,6,8H2,1H3
+
+> <INCHI_KEY>
+QAXBVGVYDCAVLV-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H17NOS
+
+> <MOLECULAR_WEIGHT>
+223.33
+
+> <EXACT_MASS>
+223.103085345
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.650021020193055
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(ethylamino)-2-(thiophen-2-yl)cyclohexan-1-one
+
+> <ALOGPS_LOGP>
+2.58
+
+> <JCHEM_LOGP>
+3.0129473173333325
+
+> <ALOGPS_LOGS>
+-3.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.69100819911204
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.558283519256588
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+62.3875
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.65e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tiletamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11549
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Tiletamine
+
+> <SALTS>
+Tiletamine hydrochloride
+
+$$$$

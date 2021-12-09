@@ -1,0 +1,172 @@
+10230
+  -OEChem-02012015023D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    0.6789   -1.8790   -0.0308 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6790   -1.8790    0.0314 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7524   -0.7589   -0.1253 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7524   -0.7589    0.1250 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4391   -1.9105    0.1683 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4391   -1.9105   -0.1688 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7008    0.5334   -0.0316 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7007    0.5333    0.0319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3398   -0.7013   -0.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3397   -0.7013    0.0611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3950    1.7544   -0.0632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3949    1.7545    0.0632 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6961    2.9619   -0.0316 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6962    2.9619    0.0314 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4796    1.8032   -0.1046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4795    1.8032    0.1045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2378    3.9031   -0.0547 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2379    3.9031    0.0544 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2165   -0.0844   -0.7229 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2168   -0.0843    0.7224 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4045   -1.6674    0.3859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4772   -2.4913   -0.6684 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4045   -1.6673   -0.3869 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4775   -2.4912    0.6679 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12945
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VQKLRVZQQYVIJW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NNC1=C2C=CC=CC2=C(NN)N=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N6/c9-11-7-5-3-1-2-4-6(5)8(12-10)14-13-7/h1-4H,9-10H2,(H,11,13)(H,12,14)
+
+> <INCHI_KEY>
+VQKLRVZQQYVIJW-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H10N6
+
+> <MOLECULAR_WEIGHT>
+190.21
+
+> <EXACT_MASS>
+190.096694346
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9858159157338287
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.095745313864306
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,4-dihydrazinylphthalazine
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.7374804733333333
+
+> <ALOGPS_LOGS>
+-2.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.84099045737161
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.88
+
+> <JCHEM_REFRACTIVITY>
+60.25500000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.96e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12945
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Dihydralazine
+
+> <SYNONYMS>
+Dihidralazina; Dihydralazine; Dihydralazinum; Dihydrallazin; Dihydrazinophthalazine
+
+> <SALTS>
+Dihydralazine sulfate
+
+$$$$

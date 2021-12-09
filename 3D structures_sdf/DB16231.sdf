@@ -1,0 +1,188 @@
+34313
+  -OEChem-12152013163D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+    3.7475    0.4835   -0.2729 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1352    1.8221    0.5907 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7723   -0.2969   -0.1635 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5689    0.3043    0.0619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1057   -0.9696    0.2209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5717    1.1638   -0.2348 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -0.8139    0.0054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1559    0.7018    0.1820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4036   -2.2255    0.5476 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6535    2.6058   -0.5129 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5943   -1.7440    0.0169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1654   -0.2344   -0.1189 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7976    0.9320    0.3119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9259   -1.3383   -0.5042 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1903    0.9944    0.3572 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3187   -1.2758   -0.4590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9509   -0.1095   -0.0283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9902   -2.6916   -0.3523 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0935   -2.9501    0.9953 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6049   -2.0703    1.2793 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6314    2.8794   -0.9217 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8930    2.9047   -1.2412 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4977    3.1817    0.4045 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8474   -2.0238    1.0441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3555   -2.6562   -0.5387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4817   -1.2962   -0.4415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4132   -1.1625   -0.5509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2845    1.8290    0.6268 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4468   -2.2540   -0.8413 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6841    1.9020    0.6924 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9111   -2.1354   -0.7588 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0353   -0.0608    0.0071 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16231
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZWJNEYVWPYIKMB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C)C(C(=O)NC2=CC=CC=C2)=C(C)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H15NO2/c1-9-10(2)17-11(3)13(9)14(16)15-12-7-5-4-6-8-12/h4-8H,1-3H3,(H,15,16)
+
+> <INCHI_KEY>
+ZWJNEYVWPYIKMB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H15NO2
+
+> <MOLECULAR_WEIGHT>
+229.279
+
+> <EXACT_MASS>
+229.110278727
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.2111353415939218e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.71987953675229
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,4,5-trimethyl-N-phenylfuran-3-carboxamide
+
+> <ALOGPS_LOGP>
+2.83
+
+> <JCHEM_LOGP>
+3.1179201773333336
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.910638480465511
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7396102397231434
+
+> <JCHEM_POLAR_SURFACE_AREA>
+42.24
+
+> <JCHEM_REFRACTIVITY>
+69.44550000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.41e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-({4-[2-(3-methoxyphenyl)-2-oxoethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16231
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Methfuroxam
+
+> <SYNONYMS>
+Furavax; Trivax
+
+$$$$

@@ -1,0 +1,160 @@
+29626
+  -OEChem-10051722503D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+   -0.2633   -0.1179   -0.0115 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9688    2.0741    0.0252 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9517   -2.2769   -0.0235 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4934   -0.5937   -0.0219 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9919   -0.9228   -0.0377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0937    0.3080   -0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8467    0.2804   -1.2276 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9226    0.1073    1.2676 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2024    0.8739    0.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5679    0.2793    0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6137    1.1174    0.0327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7804   -1.1291   -0.0089 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0454   -1.5385   -0.1013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7458   -1.5662    0.8169 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7537   -1.5211   -0.9269 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2759    0.9041    0.8861 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2575    0.9294   -0.9002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9351    0.3703   -1.3187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4480    1.2959   -1.1402 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4747   -0.1612   -2.1581 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4882    1.1076    1.3607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0120    0.2198    1.2947 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6268   -0.4779    2.1445 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4955    2.1961    0.0487 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6344    0.7451    0.0357 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 12  3  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12630
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GASDVTHQNCFANM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)CCOC(=O)C(=C)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO2/c1-7(2)4-5-12-9(11)8(3)6-10/h7H,3-5H2,1-2H3
+
+> <INCHI_KEY>
+GASDVTHQNCFANM-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13NO2
+
+> <MOLECULAR_WEIGHT>
+167.208
+
+> <EXACT_MASS>
+167.094628663
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.328889366517092
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-methylbutyl 2-cyanoprop-2-enoate
+
+> <ALOGPS_LOGP>
+2.14
+
+> <JCHEM_LOGP>
+2.3349514146666666
+
+> <ALOGPS_LOGS>
+-2.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.1890765368036895
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.09
+
+> <JCHEM_REFRACTIVITY>
+45.536300000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methylbutyl 2-cyanoprop-2-enoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12630
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Isopentyl 2-cyanoacrylate
+
+$$$$

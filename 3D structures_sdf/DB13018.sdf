@@ -1,0 +1,151 @@
+65955
+  -OEChem-10051722573D
+
+ 18 19  0     1  0  0  0  0  0999 V2000
+    2.1218    1.6909    0.2344 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0848    0.4418    0.3846 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2823    0.3702   -0.3909 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3682   -1.0926   -0.0351 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0270   -1.0207   -0.5023 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0455   -1.6738    0.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2453   -0.7399    0.1354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8741    1.2243   -0.2617 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5864    0.6179    0.0079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9273    0.1820    0.0857 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0154   -1.3172   -1.5558 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2543   -2.7044    0.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7624   -1.6845    1.4026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7815   -0.9663   -0.7914 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9293   -0.7673    0.9868 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0952    1.6885   -1.2248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7354    1.9547    0.5369 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8886   -1.9536    0.1000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13018
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XTXXOHPHLNROBN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C1CN2C(CCC2=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8N2O2/c9-5-3-8-4(7-5)1-2-6(8)10/h4H,1-3H2,(H,7,9)
+
+> <INCHI_KEY>
+XTXXOHPHLNROBN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H8N2O2
+
+> <MOLECULAR_WEIGHT>
+140.142
+
+> <EXACT_MASS>
+140.058577506
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.20638399493944
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexahydro-1H-pyrrolo[1,2-a]imidazole-2,5-dione
+
+> <ALOGPS_LOGP>
+-1.91
+
+> <JCHEM_LOGP>
+-1.5355648113333333
+
+> <ALOGPS_LOGS>
+0.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.155102359778482
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4116933696320624
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.410000000000004
+
+> <JCHEM_REFRACTIVITY>
+32.8371
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.69e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydro-1H-pyrrolo[1,2-a]imidazole-2,5-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13018
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dimiracetam
+
+$$$$

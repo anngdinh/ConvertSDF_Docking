@@ -1,0 +1,128 @@
+31346
+  -OEChem-10061700193D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    2.6501    0.0845    0.0066 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5562    0.1545    0.0150 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7269   -0.9627   -0.1856 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5116    0.9891   -1.1684 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6808    0.7140    1.3459 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8255   -0.9794   -0.0135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7359   -1.5766   -0.9257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7276   -1.6371    0.8548 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7838   -1.3614   -1.0857 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13321
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RDFJFVXMRYVOAC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(=O)(=O)CI
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH3IO3S/c2-1-6(3,4)5/h1H2,(H,3,4,5)
+
+> <INCHI_KEY>
+RDFJFVXMRYVOAC-UHFFFAOYSA-N
+
+> <FORMULA>
+CH3IO3S
+
+> <MOLECULAR_WEIGHT>
+222.0
+
+> <EXACT_MASS>
+221.88476
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+9
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.50384090350783
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+iodomethanesulfonic acid
+
+> <ALOGPS_LOGP>
+-1.46
+
+> <JCHEM_LOGP>
+0.2212135673333334
+
+> <ALOGPS_LOGS>
+-1.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.8056218899267389
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+29.325499999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.39e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iodomethanesulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13321
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methiodal
+
+$$$$

@@ -1,0 +1,181 @@
+5859
+  -OEChem-10051722123D
+
+ 35 35  0     0  0  0  0  0  0999 V2000
+   -3.5722   -0.2252   -0.6061 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0447   -0.4883    2.2069 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3489   -0.1039    0.3192 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2332    0.7979   -0.4362 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2117    0.8907   -1.2947 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7829   -1.5732   -1.1225 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7072    0.7249   -0.0279 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4967   -1.3741   -0.6868 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0333   -0.1885    1.0611 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8531    0.0772   -0.5573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9595   -0.9889   -0.4547 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3734    1.3857   -0.6192 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8857    0.5604   -0.4764 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4136   -0.7466   -0.4139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0003    1.6279   -0.5787 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3970   -1.1742    1.9716 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1850    1.1425    1.7019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8361    2.0743    0.3875 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4024   -2.4186   -0.3739 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3106   -2.0156   -0.4017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0513    2.2315   -0.6926 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0768   -1.6004   -0.3405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3692    2.6484   -0.6253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3178   -2.1518    1.4883 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0210   -1.3038    2.8616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4047   -0.8361    2.2826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2084    1.6002    1.8813 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7052    1.0352    2.6591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7924    1.8031    1.0775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7955    2.4577    0.0315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8132    2.1379    1.4780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0332    2.6807   -0.0390 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5738   -3.0127   -1.2749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9729   -3.0624    0.3975 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3568   -2.0087   -0.0326 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11408
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JISACBWYRJHSMG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COP(=S)(OC)OC1=CC=C(C=C1)S(=O)(=O)N(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16NO5PS2/c1-11(2)19(12,13)10-7-5-9(6-8-10)16-17(18,14-3)15-4/h5-8H,1-4H3
+
+> <INCHI_KEY>
+JISACBWYRJHSMG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H16NO5PS2
+
+> <MOLECULAR_WEIGHT>
+325.33
+
+> <EXACT_MASS>
+325.020751965
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.64980161297513
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+O-4-(dimethylsulfamoyl)phenyl O,O-dimethyl phosphorothioate
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+1.7149892793333332
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.07000000000001
+
+> <JCHEM_REFRACTIVITY>
+77.8186
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.29e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+famphur
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11408
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Famphur
+
+> <SYNONYMS>
+Famophos; O-[4-(dimethylsulfamoyl)phenyl] O,O-dimethyl thiophosphate; Phosphorothioic acid, O-(4-((dimethylamino)sulfonyl)phenyl) O,O-dimethyl ester
+
+$$$$

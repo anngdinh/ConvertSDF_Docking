@@ -1,0 +1,152 @@
+439407
+  -OEChem-10051719433D
+
+ 16 16  0     1  0  0  0  0  0999 V2000
+   -1.8112   -1.0191   -0.1240 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8151    1.0117    0.1241 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0982   -1.5268    0.9903 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0916    1.5313   -0.9904 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9631   -0.7418   -0.1943 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9599    0.7457    0.1941 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2408   -1.2264   -1.0146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2456    1.2254    1.0148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8545   -0.9357   -0.8047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8557    0.9399    0.7978 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2968   -0.7129   -1.9801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1348   -2.2981   -1.2146 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2996    0.7084    1.9786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1460    2.2966    1.2208 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9177   -1.2517    1.4355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1379    2.4645   -0.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01822
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YPGMOWHXEQDBBV-IMJSIDKUSA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@H]1CSSC[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2S2/c5-3-1-7-8-2-4(3)6/h3-6H,1-2H2/t3-,4-/m0/s1
+
+> <INCHI_KEY>
+YPGMOWHXEQDBBV-IMJSIDKUSA-N
+
+> <FORMULA>
+C4H8O2S2
+
+> <MOLECULAR_WEIGHT>
+152.235
+
+> <EXACT_MASS>
+151.99657088
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.196997221031605
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4R,5R)-1,2-dithiane-4,5-diol
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.5909905626666665
+
+> <ALOGPS_LOGS>
+-0.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.903570118541026
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.476841094082925
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.333359185344703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+37.2684
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dithiane diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01822
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01282
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4R,5R)-1,2-dithiane-4,5-diol
+
+> <SYNONYMS>
+D-4,5-Dihydroxy-1,2-dithiane; Dithiane Diol
+
+$$$$

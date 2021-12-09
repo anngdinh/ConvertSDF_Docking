@@ -1,0 +1,200 @@
+9570438
+  -OEChem-09102016273D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+   -7.7881    2.6112   -0.0005 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    8.5295    1.1024   -0.0050 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1279   -1.0475    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2637   -2.0896    0.0009 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0806   -0.8644    0.0021 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6925   -0.7700    0.0031 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7560   -3.1621    0.0011 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4629   -0.4080   -0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0768    0.5065    0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7770   -0.8464   -0.0032 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1530    0.9422    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5899    1.7939    0.0025 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9102   -0.6007   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8096    0.0913   -0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1856    1.8799    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5140    1.4544    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9725    1.9788    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2928   -0.4157   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8239    0.8741   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3725   -1.3992   -0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6172    0.3122    0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1125   -1.9430    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0198   -1.9053   -0.0049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1277    1.3005    0.0018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9370    2.6621    0.0046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5230   -1.6155   -0.0024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8401   -0.2548   -0.0033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9406    2.9389    0.0033 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3722    2.9896    0.0021 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9445   -1.2858   -0.0049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6762   -2.4630   -0.0033 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9938    1.2260    0.0054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6436   -3.0328   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7688   -3.2187    0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2401   -4.0351    0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 20  2  0  0  0  0
+  4 22  1  0  0  0  0
+  4 33  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  2  0  0  0  0
+  6 22  2  0  0  0  0
+  7 22  1  0  0  0  0
+  7 34  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11542
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MOOFYEJFXBSZGE-LQGKIZFRSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC=C(\C=N\NC(=N)N\N=C\C2=CC=C(Cl)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13Cl2N5/c16-13-5-1-11(2-6-13)9-19-21-15(18)22-20-10-12-3-7-14(17)8-4-12/h1-10H,(H3,18,21,22)/b19-9+,20-10+
+
+> <INCHI_KEY>
+MOOFYEJFXBSZGE-LQGKIZFRSA-N
+
+> <FORMULA>
+C15H13Cl2N5
+
+> <MOLECULAR_WEIGHT>
+334.2
+
+> <EXACT_MASS>
+333.0548008
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.009560839884644201
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.90639665563408
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N,N'-bis[(E)-[(4-chlorophenyl)methylidene]amino]guanidine
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+4.379414271
+
+> <ALOGPS_LOGS>
+-4.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.782240482080468
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.710773421017047
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.985131777710633
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.63
+
+> <JCHEM_REFRACTIVITY>
+122.65220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.65e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11542
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Robenidine
+
+> <SYNONYMS>
+Robenidina; Robenidine; Robenidinum
+
+> <SALTS>
+Robenidine hydrochloride
+
+$$$$

@@ -1,0 +1,169 @@
+158397
+  -OEChem-11191917223D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+    2.5181    1.2041    0.2065 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8693   -2.2118    0.2632 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6729    1.1765    1.3529 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2639    0.8222   -0.2253 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8821   -0.1246    0.5082 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5821   -1.8378   -0.2542 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4600   -0.7748   -0.9425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7996   -0.1935   -0.4309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5517   -0.8778    0.1385 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2551    1.0584   -0.3524 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8860   -0.9981    0.1455 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2673    0.4419    0.3750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5876    2.3152   -0.7845 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8261   -0.1807   -1.7898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2402   -1.7692   -1.3532 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1363   -1.2240    1.0925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2152    2.8458   -1.5077 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4241    2.9724    0.0752 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3803    2.1301   -1.2585 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7799   -0.3112    0.9359 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1606   -2.7583   -0.3753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9589   -1.5844   -1.1674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1355    2.0286    1.5017 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02057
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UUDAMDVQRQNNHZ-YFKPBYRVSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C[C@H](N)C(O)=O)C(O)=NO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10N2O4/c1-3-4(6(10)9-13-3)2-5(8)7(11)12/h5H,2,8H2,1H3,(H,9,10)(H,11,12)/t5-/m0/s1
+
+> <INCHI_KEY>
+UUDAMDVQRQNNHZ-YFKPBYRVSA-N
+
+> <FORMULA>
+C7H10N2O4
+
+> <MOLECULAR_WEIGHT>
+186.1653
+
+> <EXACT_MASS>
+186.064056818
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.09537123175666
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(3-hydroxy-5-methyl-1,2-oxazol-4-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.49
+
+> <JCHEM_LOGP>
+-2.3304423705782957
+
+> <ALOGPS_LOGS>
+-0.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.1849377562248655
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5563275588524164
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.797126784714382
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.58
+
+> <JCHEM_REFRACTIVITY>
+44.0024
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.45e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2lambda5-triaz-1-en-2-yn-1-ide hydrate diiron
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02057
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00513
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-AMPA
+
+> <SYNONYMS>
+(S)-alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid; L-AMPA; S-AMPA
+
+$$$$

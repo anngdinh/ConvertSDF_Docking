@@ -1,0 +1,142 @@
+80668
+  -OEChem-11251923463D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+   -1.8180   -0.0652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6426    0.6163    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639   -1.3419    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6876    0.7582    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3991    0.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7484    1.6249   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4896    0.0586   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3529   -1.8300   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3787   -1.9064   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5364    0.5898    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03770
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WFBHRSAKANVBKH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=N)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH5N3O/c2-1(3)4-5/h5H,(H4,2,3,4)
+
+> <INCHI_KEY>
+WFBHRSAKANVBKH-UHFFFAOYSA-N
+
+> <FORMULA>
+CH5N3O
+
+> <MOLECULAR_WEIGHT>
+75.0699
+
+> <EXACT_MASS>
+75.043261797
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.452932466589871
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-hydroxyguanidine
+
+> <ALOGPS_LOGP>
+-1.81
+
+> <JCHEM_LOGP>
+-1.1751874089999998
+
+> <ALOGPS_LOGS>
+-1.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.171844478788003
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.823463710915513
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.51277361509189
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.13000000000001
+
+> <JCHEM_REFRACTIVITY>
+38.1162
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.83e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1-methyl-3H-pyrimidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03770
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01741
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-hydroxyguanidine
+
+> <SYNONYMS>
+Hydroxyguanidine
+
+$$$$

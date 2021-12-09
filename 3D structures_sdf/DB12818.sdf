@@ -1,0 +1,180 @@
+5493470
+  -OEChem-10051722533D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+    1.5615   -0.9396    0.3003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1964    1.7467   -0.1419 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3109   -2.6035   -0.0864 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2753   -2.7842    0.1410 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1734    0.8452   -0.6976 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3941   -0.1961   -1.6455 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0966    0.9467    0.4828 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6885    0.4679    0.3466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6941    0.7049    0.1418 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8391   -0.6846    0.0938 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6325    1.2861    0.2738 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8291    1.5200    0.0618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1104   -1.2565   -0.0331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7330    0.4273    1.7673 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3511   -1.5632    0.1772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0962    0.9490   -0.0648 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2362   -0.4366   -0.1122 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8673    0.4719   -0.7346 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4608    1.0983   -0.2703 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1264    2.0435    0.4779 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7377    2.3645    0.3102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7336    2.6032    0.0976 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8588   -0.6615    1.7492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7277    0.8631    1.9128 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1275    0.6873    2.6426 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1946   -0.9363   -0.2099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4687   -3.0787   -0.0258 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6678    0.5225   -1.4810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2228    1.8833   -0.3178 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5293    0.5305   -1.2044 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6896    0.4844    0.6075 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 18  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 26  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12818
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BPZCXUROMKDLGX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=CC(O)=C2C(=O)OC(=CC2=C1)C(C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12O6/c1-6(12(15)16)10-4-7-3-8(18-2)5-9(14)11(7)13(17)19-10/h3-6,14H,1-2H3,(H,15,16)
+
+> <INCHI_KEY>
+BPZCXUROMKDLGX-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12O6
+
+> <MOLECULAR_WEIGHT>
+264.233
+
+> <EXACT_MASS>
+264.063388106
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.49447271656094
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(8-hydroxy-6-methoxy-1-oxo-1H-isochromen-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+2.35
+
+> <JCHEM_LOGP>
+2.345400822333333
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.478685728437759
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.315956992716852
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.072864024395037
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.06000000000002
+
+> <JCHEM_REFRACTIVITY>
+66.35910000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(8-hydroxy-6-methoxy-1-oxoisochromen-3-yl)propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12818
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+NM-3
+
+$$$$

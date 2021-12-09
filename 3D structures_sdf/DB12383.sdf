@@ -1,0 +1,176 @@
+100802
+  -OEChem-10051722453D
+
+ 29 30  0     1  0  0  0  0  0999 V2000
+   -2.5432   -2.7478    0.3446 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6147   -0.1734   -0.9949 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8122    1.6374    0.1294 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3554   -2.8477   -0.6039 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1522    2.7758   -0.3747 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4438    0.5886   -0.1844 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7704    1.2132   -0.0794 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4416   -0.3622    0.2222 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0403    0.6018    0.7336 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6431    1.1054    1.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9477    0.9048   -0.3234 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8079   -0.5220   -0.2667 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5718   -1.8704    0.4011 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8084   -0.7367   -0.0095 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4458    1.5889   -0.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0780   -1.1151    0.1278 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1098   -0.0406    0.0859 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5720    0.2759    1.6324 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1796    0.4920    1.7954 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5995    2.1505    1.3356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0656    1.7982   -0.9478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180   -0.6006   -1.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7188   -1.8674    1.0833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -2.1644    0.9718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8883    2.3588    0.7771 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0329   -1.4848    0.0063 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2233   -3.6985   -0.1520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7498   -1.3200    0.3525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1570    0.3563    0.1965 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 17  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12383
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NGGRGTWYSXYVDK-RRKCRQDMSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(=O)N(C=C1Cl)[C@H]1C[C@H](O)[C@@H](CO)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12ClN3O4/c10-4-2-13(9(16)12-8(4)11)7-1-5(15)6(3-14)17-7/h2,5-7,14-15H,1,3H2,(H2,11,12,16)/t5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+NGGRGTWYSXYVDK-RRKCRQDMSA-N
+
+> <FORMULA>
+C9H12ClN3O4
+
+> <MOLECULAR_WEIGHT>
+261.66
+
+> <EXACT_MASS>
+261.0516336
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.653064898089916
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-5-chloro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.23
+
+> <JCHEM_LOGP>
+-1.236093571333333
+
+> <ALOGPS_LOGS>
+-1.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.787514982956775
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.89489561433734
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.2689439126222464
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+57.8254
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-amino-5-chloro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12383
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Cytochlor
+
+$$$$

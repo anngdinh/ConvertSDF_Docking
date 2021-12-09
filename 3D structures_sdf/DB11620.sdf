@@ -1,0 +1,188 @@
+71237
+  -OEChem-10051722303D
+
+ 33 32  0     0  0  0  0  0  0999 V2000
+    1.7544   -1.5821    0.3489 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7079    1.5996    0.3332 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554    0.0078   -1.5844 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3110   -1.4033    0.7453 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8136   -2.6433   -0.8698 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2622    1.4628    0.7603 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7527    2.6616   -0.8850 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8427   -1.9605    1.4778 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7844    1.9570    1.4594 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1598    0.0084    0.6470 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3424   -0.0020   -0.4772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0760   -0.0302   -1.0862 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2059   -0.0443   -0.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5754   -0.0110   -0.7438 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7100    0.0085    0.2853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0996   -0.0290   -0.3529 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1743   -0.9076   -1.7383 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1954    0.8406   -1.7437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1517   -0.9431    0.5605 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1356    0.8177    0.6078 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6501    0.8762   -1.3841 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6827   -0.8893   -1.3917 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6162    0.9100    0.9043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6010   -0.8510    0.9594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0948   -0.7921   -2.1135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2077   -0.9415   -0.9490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2181    0.8226   -1.0321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7611   -2.1219    1.2383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9910   -3.5869   -0.6692 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6828    2.1945    1.2602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9011    3.6098   -0.6827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0648    0.0422    0.1795 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0868    0.8664    1.1921 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11620
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PUUSSSIBPPTKTP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCCCCC(O)(P(O)(O)=O)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H17NO7P2/c7-5-3-1-2-4-6(8,15(9,10)11)16(12,13)14/h8H,1-5,7H2,(H2,9,10,11)(H2,12,13,14)
+
+> <INCHI_KEY>
+PUUSSSIBPPTKTP-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H17NO7P2
+
+> <MOLECULAR_WEIGHT>
+277.15
+
+> <EXACT_MASS>
+277.048025887
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.149561131955068
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6-amino-1-hydroxy-1-phosphonohexyl)phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.00
+
+> <JCHEM_LOGP>
+-3.3505792492896913
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+1.4540887144125194
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.6912522287015674
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.208790179825659
+
+> <JCHEM_POLAR_SURFACE_AREA>
+161.31
+
+> <JCHEM_REFRACTIVITY>
+56.5758
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+neridronic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11620
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Neridronic Acid
+
+> <SYNONYMS>
+(6-amino-1-hydroxyhexylidene)diphosphonic acid; Neridronate
+
+> <SALTS>
+Neridronate sodium
+
+$$$$

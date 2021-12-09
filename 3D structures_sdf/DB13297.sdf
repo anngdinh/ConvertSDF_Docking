@@ -1,0 +1,177 @@
+1550874
+  -OEChem-07211808083D
+
+ 27 27  0     0  0  0  0  0  0999 V2000
+   -4.7541   -1.4296    1.1586 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9686    1.7902   -0.2323 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7543   -0.3655   -0.6054 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1602   -0.0437   -0.7082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0398    0.2654    0.0032 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8473   -0.1076    0.6436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6534    0.7567   -0.0857 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7762    0.5872   -0.3749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4159   -0.0197   -0.3149 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3609   -0.9632   -0.5509 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9953    1.0414    0.6393 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6732   -1.4286   -0.4665 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3075    0.5760    0.7235 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6464   -0.6590    0.1706 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5971   -0.7782   -1.3928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2720    0.9545   -1.1434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4939   -1.3423   -0.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9070    0.1456    0.5469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3908    0.5781    1.3646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5309    1.8276    0.0594 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3491   -1.0944   -0.4382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6428   -1.5855   -1.0752 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7466    2.0049    1.0762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9389   -2.3878   -0.9014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    1.1750    1.2196 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6685   -1.0208    0.2351 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8092   -1.6429    1.2443 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13297
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OSCTXCOERRNGLW-VOTSOKGWSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCCNC(=O)\C=C\C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO2/c13-9-8-12-11(14)7-6-10-4-2-1-3-5-10/h1-7,13H,8-9H2,(H,12,14)/b7-6+
+
+> <INCHI_KEY>
+OSCTXCOERRNGLW-VOTSOKGWSA-N
+
+> <FORMULA>
+C11H13NO2
+
+> <MOLECULAR_WEIGHT>
+191.23
+
+> <EXACT_MASS>
+191.094628663
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.234120234744722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-N-(2-hydroxyethyl)-3-phenylprop-2-enamide
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+0.8627176999999999
+
+> <ALOGPS_LOGS>
+-2.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.26858485710755
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.377441541684806
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.43382499758275717
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+56.071100000000015
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.98e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+idrocilamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13297
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Idrocilamide
+
+> <SYNONYMS>
+N-(2-hydroxyethyl)cinnamamide
+
+> <INTERNATIONAL_BRANDS>
+Srilane
+
+$$$$

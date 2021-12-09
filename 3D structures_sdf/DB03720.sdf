@@ -1,0 +1,153 @@
+6449989
+  -OEChem-02252018023D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+    2.0538   -0.7178   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4174    1.4613   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3790   -1.6487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2532   -0.2899    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2517    0.6124    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7172    0.3086   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1299    0.2741    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0256    1.6770    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9400   -0.7611   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1841    0.7498   -0.8866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1845    0.7490    0.8860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4514   -2.2280   -0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2919   -2.0835   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9696   -0.3661   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03720
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PAWSVPVNIXFKOS-IHWYPQMZSA-N/SDF?record_type=3d
+
+> <SMILES>
+C\C=C(/N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO2/c1-2-3(5)4(6)7/h2H,5H2,1H3,(H,6,7)/b3-2-
+
+> <INCHI_KEY>
+PAWSVPVNIXFKOS-IHWYPQMZSA-N
+
+> <FORMULA>
+C4H7NO2
+
+> <MOLECULAR_WEIGHT>
+101.1039
+
+> <EXACT_MASS>
+101.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0881572514498394e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.752632852869011
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2Z)-2-aminobut-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.26
+
+> <JCHEM_LOGP>
+-2.34485259122905
+
+> <ALOGPS_LOGS>
+0.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.190390200749736
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.463591067937763
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+26.5898
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mesoxalic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03720
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01127
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+alpha,beta-Dehydroaminobutyric acid
+
+> <SYNONYMS>
+(2Z)-2-aminobut-2-enoic acid; (Z)-2-aminobutenoic acid; (Z)-dehydrobutyrine; (Z)2,3-didehydrobutyrine; 2-Ammoniobut-2-enoate; Anhydrothreonine
+
+$$$$

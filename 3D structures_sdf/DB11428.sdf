@@ -1,0 +1,180 @@
+68602
+  -OEChem-10051722123D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+    2.5909    1.0148   -0.4762 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3695    0.1789    1.4283 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7253   -0.5196   -1.0834 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6071   -0.5016   -0.4086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3930    0.6506   -0.3977 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8686   -0.0636   -0.1698 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1094   -1.8565   -1.7649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6346    0.6419    0.2379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0627   -1.6626    0.2160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9038    1.8959   -1.0661 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0902   -0.5190    0.8627 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3043   -1.6713    0.8516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3217   -0.5814    0.9728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4957    1.8621    0.2646 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5061    1.1315    0.5327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6892    0.1752   -1.9330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3072   -2.2048   -2.4249 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.6487   -1.0407 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0123   -1.7272   -2.3738 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4729   -2.5733    0.2421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8419    1.7484   -2.1496 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5428    2.7688   -0.9143 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0748    2.1898   -0.6774 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0543   -0.5433    1.3638 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6576   -2.5741    1.3415 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4984    1.6262   -1.2776 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9830   -1.4497    1.5185 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0048    2.6724    0.8134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7402    2.1901   -0.7511 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4490    1.6692    0.7699 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2380    1.9265    0.5551 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11428
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CUHVIMMYOGQXCV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C1=CN=CN1)C1=CC=CC(C)=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16N2/c1-9-5-4-6-12(10(9)2)11(3)13-7-14-8-15-13/h4-8,11H,1-3H3,(H,14,15)
+
+> <INCHI_KEY>
+CUHVIMMYOGQXCV-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H16N2
+
+> <MOLECULAR_WEIGHT>
+200.2795
+
+> <EXACT_MASS>
+200.131348522
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.114792798819224
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole
+
+> <ALOGPS_LOGP>
+2.96
+
+> <JCHEM_LOGP>
+3.1024790886666667
+
+> <ALOGPS_LOGS>
+-3.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.13363548475758
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.0728219874557645
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+63.33550000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.85e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+medetomidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11428
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Medetomidine
+
+> <SYNONYMS>
+(±)-4-(α,2,3-trimethylbenzyl)imidazole; Medetomidina; Medetomidine; Medetomidinum
+
+> <SALTS>
+Medetomidine hydrochloride
+
+$$$$

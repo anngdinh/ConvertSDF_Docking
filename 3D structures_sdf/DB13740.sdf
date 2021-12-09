@@ -1,0 +1,174 @@
+2310
+  -OEChem-12141917263D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+    2.4239    1.8527    0.0263 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2476   -2.5977    0.0538 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8047   -0.3644    0.0346 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9084    0.3527    0.0350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1318    1.3638   -0.4651 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5052   -1.0460   -0.4501 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2824    0.7122   -0.5596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0246    0.3930    1.5707 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5499    0.9945   -0.0963 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9114   -1.4213   -0.0814 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3487   -0.2396   -0.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0789    2.3592   -0.0552 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992    1.4440   -1.5591 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5805   -1.1183   -1.5423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1477   -1.8208   -0.0176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2468    0.6798   -1.6558 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5608    1.7377   -0.2861 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4970    1.3222    1.9093 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5973   -0.4503    1.9700 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0419    0.3444    2.0527 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1666   -1.2792   -0.3500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5130   -0.1833    1.0111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3043    0.0354   -0.5309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7625   -0.6161    0.2635 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13740
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ORRZGUBHBVWWOP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC1(C)CC(=O)NC(=O)C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13NO2/c1-3-8(2)4-6(10)9-7(11)5-8/h3-5H2,1-2H3,(H,9,10,11)
+
+> <INCHI_KEY>
+ORRZGUBHBVWWOP-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H13NO2
+
+> <MOLECULAR_WEIGHT>
+155.197
+
+> <EXACT_MASS>
+155.094628663
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.6028230851642178e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.215296854647086
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-ethyl-4-methylpiperidine-2,6-dione
+
+> <ALOGPS_LOGP>
+0.44
+
+> <JCHEM_LOGP>
+0.48273198533333317
+
+> <ALOGPS_LOGS>
+-0.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.795107450104233
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.92868206080426
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+40.5071
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.49e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+niridazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13740
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bemegride
+
+> <SYNONYMS>
+Bemegrida; Bemegride; Bemegridum
+
+> <INTERNATIONAL_BRANDS>
+Eukraton; Malysol; Megibal; Megimid; Megimide
+
+$$$$

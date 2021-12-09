@@ -1,0 +1,165 @@
+65787
+  -OEChem-10061700183D
+
+ 26 25  0     0  0  0  0  0  0999 V2000
+   -1.5041   -0.8607    0.3762 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4971   -0.8717    0.3763 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0062    1.7326    0.3765 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0666   -0.0453   -0.9522 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5731   -4.3644   -0.9522 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4943    4.4096   -0.9523 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3819   -0.9228    1.0293 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9903   -3.3326    1.0294 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3921    4.2557    1.0293 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0004    0.0000   -0.2237 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7703    0.1968   -0.3702 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2148   -2.4970   -0.3702 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5553    2.3000   -0.3701 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1317   -0.3237   -0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3463   -3.4156   -0.0087 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7856    3.7392   -0.0088 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0004    0.0001   -1.3178 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6511    0.1696   -1.4573 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7204    1.2270   -0.0114 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1787   -2.3801   -1.4573 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2977   -2.9690   -0.0116 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4721    2.2103   -1.4572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4224    1.7417   -0.0114 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9523   -0.3842   -0.7010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3096   -4.9617   -0.7008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6438    5.3460   -0.7011 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 15  2  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13267
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZBNBQISDCFIEQC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CSC(SCC(O)=O)SCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H10O6S3/c8-4(9)1-14-7(15-2-5(10)11)16-3-6(12)13/h7H,1-3H2,(H,8,9)(H,10,11)(H,12,13)
+
+> <INCHI_KEY>
+ZBNBQISDCFIEQC-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H10O6S3
+
+> <MOLECULAR_WEIGHT>
+286.33
+
+> <EXACT_MASS>
+285.963951564
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.454132560161533
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-({bis[(carboxymethyl)sulfanyl]methyl}sulfanyl)acetic acid
+
+> <ALOGPS_LOGP>
+0.02
+
+> <JCHEM_LOGP>
+1.1511383149999996
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.7256756445027435
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1522177138456593
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.89999999999999
+
+> <JCHEM_REFRACTIVITY>
+62.1281
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ritiometan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13267
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ritiometan
+
+$$$$

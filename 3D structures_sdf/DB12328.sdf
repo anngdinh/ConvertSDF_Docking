@@ -1,0 +1,171 @@
+5944
+  -OEChem-10051722443D
+
+ 26 28  0     1  0  0  0  0  0999 V2000
+    0.9284   -0.0027    1.5427 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625    0.0004    0.4531 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7676   -2.2591    0.3709 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7679    2.2596    0.3692 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0164   -0.7679   -0.4284 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0157    0.7682   -0.4270 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0954   -1.0889    0.5918 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0948    1.0868    0.5956 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4959   -0.7651    0.0707 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4962    0.7660    0.0755 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3590   -1.1253    0.1649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3589    1.1259    0.1647 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1168   -1.4734   -1.7730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1205    1.4754   -1.7706 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0084   -2.0604    1.0852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0065    2.0566    1.0923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7220   -1.1963   -0.9068 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2542   -1.1250    0.7763 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2530    1.1211    0.7849 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7244    1.2031   -0.8989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1820   -2.5590   -1.6362 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7553   -1.2827   -2.4092 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0050   -1.1587   -2.3277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0092    1.1603   -2.3241 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7509    1.2866   -2.4084 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1868    2.5608   -1.6322 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12328
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DHZBEENLJMYSHQ-XCVPVQRUSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12CC[C@]([H])(O1)[C@]1(C)C(=O)OC(=O)[C@]21C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O4/c1-9-5-3-4-6(13-5)10(9,2)8(12)14-7(9)11/h5-6H,3-4H2,1-2H3/t5-,6+,9+,10-
+
+> <INCHI_KEY>
+DHZBEENLJMYSHQ-XCVPVQRUSA-N
+
+> <FORMULA>
+C10H12O4
+
+> <MOLECULAR_WEIGHT>
+196.202
+
+> <EXACT_MASS>
+196.073558866
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.535125338231047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,2S,6R,7S)-2,6-dimethyl-4,10-dioxatricyclo[5.2.1.0²,⁶]decane-3,5-dione
+
+> <ALOGPS_LOGP>
+1.10
+
+> <JCHEM_LOGP>
+1.0591830693333333
+
+> <ALOGPS_LOGS>
+-1.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.181485683637536
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+45.40330000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cantharidin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12328
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cantharidin
+
+> <SYNONYMS>
+1,2-Dimethyl-3,6-epoxyperhydrophthalic anhydride; Cantharidine; Cantharone; exo-1,2-cis-Dimethyl-3,6-epoxyhexahydrophthalic anhydride; Kantharidin
+
+> <PRODUCTS>
+Canthacur-PS; Cantharidin 0.7%; Cantharidin 1% / Podophyllum Resin 5% / Salicylic Acid 30%; Cantharone Plus
+
+$$$$

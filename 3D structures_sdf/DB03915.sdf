@@ -1,0 +1,147 @@
+86289686
+  -OEChem-10051720243D
+
+ 15 14  0     1  0  0  0  0  0999 V2000
+    1.7609    0.5747    0.8779 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3490    0.2678    1.3201 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.0375   -1.0157   -0.4427 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0726    1.7327   -0.9261 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0676    0.2600   -0.6686 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2219   -0.1380    0.0310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2695   -0.2079    0.1524 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8134   -1.4736   -0.3439 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0788   -0.1945   -1.6654 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9209    2.0192   -1.4326 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7359    2.0177   -1.4950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0399    2.2693   -0.0489 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0685   -1.4756   -1.4065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7225   -1.6506    0.2375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0948   -2.2674   -0.1260 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  CHG  2   2  -1   4   1
+M  END
+> <DATABASE_ID>
+DB03915
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SAUCHDKDCUROAO-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO3/c1-2(6)3(5)4(7)8/h3H,5H2,1H3,(H,7,8)/t3-/m0/s1
+
+> <INCHI_KEY>
+SAUCHDKDCUROAO-VKHMYHEASA-N
+
+> <FORMULA>
+C4H7NO3
+
+> <MOLECULAR_WEIGHT>
+117.1033
+
+> <EXACT_MASS>
+117.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.47020466024506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+-2.63
+
+> <JCHEM_LOGP>
+-3.0602758377471853
+
+> <ALOGPS_LOGS>
+0.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.179862736987843
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8723113404422236
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.249120732565084
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39000000000001
+
+> <JCHEM_REFRACTIVITY>
+25.5346
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-3-ketobutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03915
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00482
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Amino-3-Ketobutyric Acid
+
+$$$$

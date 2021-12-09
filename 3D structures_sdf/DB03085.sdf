@@ -1,0 +1,141 @@
+3698251
+  -OEChem-10051720083D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+    1.7804    0.0344    0.3758 O   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.6751    1.2844   -0.0394 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.3804   -0.8749    0.2274 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8191   -0.4718   -0.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5440    0.0279   -0.0587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0341   -0.1112   -1.5155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8732   -1.5648   -0.5014 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7009   -0.1213    0.0416 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6682   -0.3253    1.2933 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+> <DATABASE_ID>
+DB03085
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AEMRFAOFKBGASW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+
+> <INCHI_KEY>
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H4O3
+
+> <MOLECULAR_WEIGHT>
+76.0514
+
+> <EXACT_MASS>
+76.016043994
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.195837007972225
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxyacetic acid
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-1.0405937603333335
+
+> <ALOGPS_LOGS>
+0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.780077957574235
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.526322592592504
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6133096708862027
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+14.345899999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.08e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glycolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03085
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01629; DB11307
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Glycolic acid
+
+> <SYNONYMS>
+2-Hydroxyacetic acid; 2-Hydroxyethanoic acid; alpha-Hydroxyacetic acid; Glycollic acid; Hydroxyacetic acid; Hydroxyethanoic acid; α-hydroxyacetic acid
+
+> <PRODUCTS>
+AHA 7 Whitehead Power Liquid; Clear Cell Salicylic Clarifying Tonic; Glycolic Acid; Jayjun Gold Snow Refreshing Peeling; Purifying S.O.s Spotgel; Triple X-Lotion; Village 11 Factory Relax Day Aha Exfoliating Body; bdr Re-action deep low base skin refiner exfoliation essence
+
+$$$$

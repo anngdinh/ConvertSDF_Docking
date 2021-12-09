@@ -1,0 +1,173 @@
+20811
+  -OEChem-10051722063D
+
+ 30 29  0     1  0  0  0  0  0999 V2000
+    2.7506   -0.9447    0.3008 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0985   -1.1526   -0.1143 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0401    0.1220   -0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0615    0.7989    0.7670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4270    0.4368    0.5085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4769    0.4918    0.2494 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5668   -0.2351   -0.2626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9504    0.0587    0.3182 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6464    0.9947   -1.1838 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0496   -0.5705   -0.5244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0065    0.4645   -1.0986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1012   -0.9646   -0.0675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9028    1.8849    0.7647 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9819    0.4756    1.8131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5824    1.5229    0.5040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4696    0.1153    1.5567 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1801    1.0316    0.8985 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4037   -1.3200   -0.2735 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5332    0.0997   -1.3069 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1103    1.1421    0.3662 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0118   -0.3249    1.3430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2710    2.0199   -1.2806 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1129    0.3743   -1.9125 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7004    1.0195   -1.4829 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6350   -1.2850    1.2548 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0308   -0.3512   -0.0916 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9340   -1.6581   -0.5711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0341   -0.1786   -1.5464 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7338   -0.7806    0.5912 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2801   -2.1548   -0.1517 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2 29  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09249
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FODQIVGFADUBKE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCC(C)NN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H20N2/c1-3-4-5-6-7-8(2)10-9/h8,10H,3-7,9H2,1-2H3
+
+> <INCHI_KEY>
+FODQIVGFADUBKE-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H20N2
+
+> <MOLECULAR_WEIGHT>
+144.262
+
+> <EXACT_MASS>
+144.162648652
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.108116123406397
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(octan-2-yl)hydrazine
+
+> <ALOGPS_LOGP>
+2.54
+
+> <JCHEM_LOGP>
+2.2640657546666665
+
+> <ALOGPS_LOGS>
+-1.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.916939054767277
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.05
+
+> <JCHEM_REFRACTIVITY>
+56.9911
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.27e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+octamoxin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09249
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Octamoxin
+
+> <SYNONYMS>
+ 2-octylhydrazine
+
+$$$$

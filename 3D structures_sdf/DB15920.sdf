@@ -1,0 +1,178 @@
+6986
+  -OEChem-11232011203D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+   -0.3834    2.3268   -0.6586 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8267   -0.0336   -0.6707 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0872   -1.1637   -1.1517 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0999   -0.1273   -0.0368 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2804   -1.4101   -0.2289 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6804   -0.4318    0.5290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2298    1.0014    0.5172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0062    1.2005   -0.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2944   -0.3827    0.8799 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6082    0.7126    0.9331 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4870   -1.6921    0.2214 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4825    0.2351   -1.5105 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4870   -0.8752   -2.1344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4522   -2.0976   -1.3310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4853    0.1815   -1.0181 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9351   -1.7935    0.7387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9146   -2.1898   -0.6682 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0459   -0.6487    1.3973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7983    1.9386    0.5288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9090    0.7944    1.5440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9708   -0.7006    1.8769 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9398   -1.1656    0.4680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8981    0.5240    0.9928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2312    1.0382    0.0930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2784    0.3989    1.7412 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0518    1.5781    1.3056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0254   -1.6052   -0.7283 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2296   -1.8757    1.0064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8543   -2.5839    0.1865 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15920
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NFLGAXVYCFJBMK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C1CCC(C)CC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-9H,4-6H2,1-3H3
+
+> <INCHI_KEY>
+NFLGAXVYCFJBMK-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O
+
+> <MOLECULAR_WEIGHT>
+154.253
+
+> <EXACT_MASS>
+154.1357652
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.019270853863638
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-methyl-2-(propan-2-yl)cyclohexan-1-one
+
+> <ALOGPS_LOGP>
+2.65
+
+> <JCHEM_LOGP>
+3.0497874006666668
+
+> <ALOGPS_LOGS>
+-2.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.420780675838816
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+46.5201
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.65e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+menthone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15920
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Menthone
+
+> <SYNONYMS>
+DL-Menthone; Menthone G
+
+$$$$

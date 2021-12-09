@@ -1,0 +1,202 @@
+447982
+  -OEChem-02282017313D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+   -3.9003   -2.6075   -0.2832 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7843    2.0385   -0.2490 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4887    2.7858    1.5343 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3953   -2.1638   -2.2241 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7905   -1.5418    0.8507 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9310   -0.1750   -0.7250 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7994   -0.4468    1.0509 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1004    0.8540    0.3050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5634   -0.9627    0.6988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1309    0.9382   -0.5625 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8449   -1.3269   -0.6139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7341   -1.3226   -0.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5358   -1.0726    1.6873 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2514    2.0127    0.6244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5143    2.1372   -1.3822 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1131   -1.8064   -0.9416 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8039   -1.5520    1.3596 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0927   -1.9187    0.0452 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7070    3.1172   -0.0652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8006    3.0135   -1.1068 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8398   -0.2085    2.1227 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7046   -0.1006   -1.3770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0859   -1.2449   -1.3877 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3261   -0.7898    2.7151 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5303    2.4594   -1.1303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4841    1.8914   -2.4491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8479    2.9897   -1.2221 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5668   -1.6391    2.1277 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0827   -2.2910   -0.2040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1799    4.0715   -0.1750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1442    3.0561    0.9377 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3696   -3.4948    0.5708 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5263    3.8238   -0.9944 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3235    2.0551   -1.0213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3768    3.0551   -2.1155 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6053   -2.0205   -2.7731 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 32  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 16  1  0  0  0  0
+  4 36  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04331
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LOBCDGHHHHGHFA-LBPRGKRZSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(=O)C1=C(C)NC(=S)N[C@H]1C1=CC=CC(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O3S/c1-3-19-13(18)11-8(2)15-14(20)16-12(11)9-5-4-6-10(17)7-9/h4-7,12,17H,3H2,1-2H3,(H2,15,16,20)/t12-/m0/s1
+
+> <INCHI_KEY>
+LOBCDGHHHHGHFA-LBPRGKRZSA-N
+
+> <FORMULA>
+C14H16N2O3S
+
+> <MOLECULAR_WEIGHT>
+292.353
+
+> <EXACT_MASS>
+292.088163078
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0043315571512368405
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.218878783636104
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl (4S)-4-(3-hydroxyphenyl)-6-methyl-2-sulfanylidene-1,2,3,4-tetrahydropyrimidine-5-carboxylate
+
+> <ALOGPS_LOGP>
+2.11
+
+> <JCHEM_LOGP>
+1.8266066176666673
+
+> <ALOGPS_LOGS>
+-3.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.895198956623267
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.374902935295587
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.9689438751201145
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.59
+
+> <JCHEM_REFRACTIVITY>
+81.4057
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.03e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-saccharopine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04331
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02296
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Monastrol
+
+> <SYNONYMS>
+(+)-Monastrol; (4S)-Monastrol; (S)-monastrol
+
+$$$$

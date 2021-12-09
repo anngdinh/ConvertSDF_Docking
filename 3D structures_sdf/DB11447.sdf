@@ -1,0 +1,165 @@
+7108
+  -OEChem-10051722123D
+
+ 23 25  0     0  0  0  0  0  0999 V2000
+    0.0000    1.8702   -0.0016 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001   -1.2549   -0.0011 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2589   -0.6341   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2588   -0.6340   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3996    0.7626   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3996    0.7626   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4146   -1.4336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4146   -1.4337   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6823    1.3323    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6824    1.3323    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6853   -0.8593    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6853   -0.8593    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8189    0.5243    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8190    0.5243    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2686   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3297   -2.5183   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3296   -2.5184   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8130    2.4125    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8131    2.4125    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5679   -1.4920    0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5679   -1.4921    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8065    0.9760    0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8066    0.9759    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11447
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WJFKNYWRSNBZNX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1C2=CC=CC=C2SC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9NS/c1-3-7-11-9(5-1)13-10-6-2-4-8-12(10)14-11/h1-8,13H
+
+> <INCHI_KEY>
+WJFKNYWRSNBZNX-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9NS
+
+> <MOLECULAR_WEIGHT>
+199.27
+
+> <EXACT_MASS>
+199.045570468
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.60182278546091
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+10H-phenothiazine
+
+> <ALOGPS_LOGP>
+4.19
+
+> <JCHEM_LOGP>
+3.6286752389999997
+
+> <ALOGPS_LOGS>
+-2.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.914138526866385
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9500969282604385
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+61.17030000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.90e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phenothiazine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11447
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Phenothiazine
+
+> <SYNONYMS>
+10H-phenothiazine; dibenzo-1,4-thiazine; Fenotiazina; Phenothiazine; Phenothiazinum; Thiodiphenylamin
+
+$$$$

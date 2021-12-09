@@ -1,0 +1,172 @@
+11230
+  -OEChem-10051722533D
+
+ 29 29  0     1  0  0  0  0  0999 V2000
+    0.7166   -0.0497    1.4609 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6690    0.0036    0.0310 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1114    0.0357   -0.4767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0742   -1.2315   -0.4948 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0717    1.2911   -0.3716 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5221   -1.2866    0.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2298    0.0432   -0.0415 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5652    1.1964   -0.2278 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8489    1.2474    0.0862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8363   -1.2558   -0.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7192    0.0060    0.1347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1167    0.1185   -1.5716 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3951   -2.1629   -0.1605 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0683   -1.2335   -1.5925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429    1.5548   -1.4144 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2500    2.1267    0.2622 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5435   -1.6574    1.0400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0672   -2.0178   -0.6019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1142    2.1334   -0.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8519    1.2629    1.1810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8961    1.2360   -0.2382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4273    2.1908   -0.2730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7631   -1.4875    0.9594 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9029   -1.1730   -0.3479 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4658   -2.1122   -0.6792 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1809    0.0622    1.8146 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1640    1.0062    0.1058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9752   -0.4447    1.0990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1812   -0.5877   -0.6607 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12816
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WRYLYDPHFGVWKC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C1(O)CCC(C)=CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O/c1-8(2)10(11)6-4-9(3)5-7-10/h4,8,11H,5-7H2,1-3H3
+
+> <INCHI_KEY>
+WRYLYDPHFGVWKC-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O
+
+> <MOLECULAR_WEIGHT>
+154.253
+
+> <EXACT_MASS>
+154.1357652
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.70445816860097
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methyl-1-(propan-2-yl)cyclohex-3-en-1-ol
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+2.3302049676666665
+
+> <ALOGPS_LOGS>
+-1.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.999288199495165
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6121113415408138
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+48.3079
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.50e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+terpinen-4-ol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12816
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Terpinen-4-ol
+
+$$$$

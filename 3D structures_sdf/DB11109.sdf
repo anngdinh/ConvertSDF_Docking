@@ -1,0 +1,105 @@
+24526
+  -OEChem-10061700103D
+
+  2  1  0     0  0  0  0  0  0999 V2000
+   -1.0061    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0061    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11109
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KZBUYRJDOAKODT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/Cl2/c1-2
+
+> <INCHI_KEY>
+KZBUYRJDOAKODT-UHFFFAOYSA-N
+
+> <FORMULA>
+Cl2
+
+> <MOLECULAR_WEIGHT>
+70.906
+
+> <EXACT_MASS>
+69.937705414
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+4.546961026371296
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+dichlorane
+
+> <JCHEM_LOGP>
+1.0835902093333334
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+12.2726
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlorine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11109
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Chlorine
+
+> <SYNONYMS>
+Chlor; Chlore; Cloro; Dichlorine
+
+> <PRODUCTS>
+Clorpactin WCS-90; Disinfectant(NaClO); HBA Disinfectant; Sub small molecule disinfectant; Trichloroisocyanuric Acid
+
+$$$$

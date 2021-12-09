@@ -1,0 +1,134 @@
+880
+  -OEChem-10051720183D
+
+  9  8  0     0  0  0  0  0  0999 V2000
+   -0.4619    1.3215    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8689   -0.0412    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7332   -0.7303    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4876    0.1006   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8137   -0.6506   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7575   -1.3608   -0.8919 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7647   -1.3471    0.9021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6085   -0.0749   -0.0085 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7260   -1.7483   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03587
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AIJULSRZWUXGPQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H4O2/c1-3(5)2-4/h2H,1H3
+
+> <INCHI_KEY>
+AIJULSRZWUXGPQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H4O2
+
+> <MOLECULAR_WEIGHT>
+72.0627
+
+> <EXACT_MASS>
+72.021129372
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.421644584802692
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopropanal
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+0.19595048433333334
+
+> <ALOGPS_LOGS>
+0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.38193786809808
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.021418549550578
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+17.0511
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylglyoxal
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03587
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02707
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyruvaldehyde
+
+> <SYNONYMS>
+2-ketopropionaldehyde; 2-oxopropanal; Acetyl formaldehyde; Acetylformyl; alpha-ketopropionaldehyde; Methyl glyoxal; Methylglyoxal; Pyruvic aldehyde
+
+$$$$

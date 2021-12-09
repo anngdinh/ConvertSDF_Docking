@@ -1,0 +1,146 @@
+263
+  -OEChem-10051719493D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+   -2.4187    0.3489   -0.0069 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0245    0.3421    0.0194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2360   -0.5181    0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2861   -0.5090   -0.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4934    0.3361   -0.0125 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0362    0.9861    0.9077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0261    1.0212   -0.8425 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2331   -1.1695   -0.8759 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2529   -1.1673    0.8889 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3272   -1.1426   -0.8975 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3449   -1.1505    0.8787 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5228    0.9724   -0.9027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5432    0.9795    0.8718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3838   -0.3002   -0.0202 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3753    0.8920   -0.8123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02145
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LRHPLDYGYMQRHN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3
+
+> <INCHI_KEY>
+LRHPLDYGYMQRHN-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H10O
+
+> <MOLECULAR_WEIGHT>
+74.1216
+
+> <EXACT_MASS>
+74.073164942
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.214856371458051
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butan-1-ol
+
+> <ALOGPS_LOGP>
+0.84
+
+> <JCHEM_LOGP>
+0.805321946
+
+> <ALOGPS_LOGS>
+0.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.954258074443697
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.944007518238327
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+22.1349
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butanol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02145
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00068
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Butyl alcohol
+
+> <SYNONYMS>
+Butan-1-ol; N-butyl alcohol
+
+$$$$

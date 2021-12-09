@@ -1,0 +1,166 @@
+7075
+  -OEChem-10051721033D
+
+ 24 25  0     0  0  0  0  0  0999 V2000
+    3.0564   -1.9870   -0.0013 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2499    0.5234    0.0013 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1123    0.1797   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3300    0.0646   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9036   -0.9690   -0.0015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7112    1.4393    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0243    0.0074    1.2078 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0260    0.0104   -1.2082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2940   -0.8579   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1017    1.5504    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8931    0.4017    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4148   -0.1040    1.2086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4164   -0.1009   -1.2074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1108   -0.1581    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4463   -1.9563   -0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1090    2.3448    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4973    0.0482    2.1582 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5003    0.0537   -2.1593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5553    2.5379    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9556   -0.1486    2.1494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9585   -0.1431   -2.1475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1935   -0.2448    0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9930   -1.7236   -0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4833    1.4676    0.0022 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07478
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QDNPCYCBQFHNJC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=C(O)C=C(C=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O2/c13-11-7-6-10(8-12(11)14)9-4-2-1-3-5-9/h1-8,13-14H
+
+> <INCHI_KEY>
+QDNPCYCBQFHNJC-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H10O2
+
+> <MOLECULAR_WEIGHT>
+186.2066
+
+> <EXACT_MASS>
+186.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.88725116752103
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-phenylbenzene-1,2-diol
+
+> <ALOGPS_LOGP>
+2.51
+
+> <JCHEM_LOGP>
+3.013340534666666
+
+> <ALOGPS_LOGS>
+-2.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.59349647960352
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.18963138575036
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.29137262333336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+55.156000000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.26e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,1'-biphenyl-3,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07478
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,4-Biphenyldiol
+
+> <SYNONYMS>
+4-Phenyl-1,2-benzenediol; 4-Phenylcatechol; 4-Phenylpyrocatechol; Biphenyl-3,4-diol
+
+$$$$

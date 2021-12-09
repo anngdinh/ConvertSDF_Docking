@@ -1,0 +1,159 @@
+7347
+  -OEChem-07031811083D
+
+ 23 22  0     0  0  0  0  0  0999 V2000
+    0.0001    0.0006    1.1904 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8134    1.8137   -1.0394 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8133   -1.8140   -1.0387 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4906   -0.0521    0.1049 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4905    0.0526    0.1044 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2268    0.5696    0.0297 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2268   -0.5693    0.0299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6316    0.3013   -0.7453 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7787   -1.1295    1.0549 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6309   -0.3016   -0.7462 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7795    1.1288    1.0555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4180    1.1124   -1.4412 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4627    0.6066   -0.1019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9215   -0.5831   -1.3214 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7993   -1.5016    0.9221 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6745   -0.7481    2.0749 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0839   -1.9587    0.8956 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4610   -0.6100   -0.1030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9231    0.5833   -1.3203 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4159   -1.1106   -1.4440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6765    0.7460    2.0751 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0845    1.9581    0.8982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    1.5010    0.9220 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14178
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/REQPQFUJGGOFQL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)C(=S)SC(=S)N(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2S3/c1-7(2)5(9)11-6(10)8(3)4/h1-4H3
+
+> <INCHI_KEY>
+REQPQFUJGGOFQL-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12N2S3
+
+> <MOLECULAR_WEIGHT>
+208.36
+
+> <EXACT_MASS>
+208.016261916
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.644086696768774
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N,N-dimethyl[(dimethylcarbamothioyl)sulfanyl]carbothioamide
+
+> <ALOGPS_LOGP>
+1.32
+
+> <JCHEM_LOGP>
+2.1381285596666664
+
+> <ALOGPS_LOGS>
+-3.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+61.4473
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.83e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+monex
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14178
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Tetramethylthiuram monosulfide
+
+> <SYNONYMS>
+Bis(dimethylthiocarbamoyl) sulfide; TMTM; TMTMS
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

@@ -1,0 +1,153 @@
+71653
+  -OEChem-10051722063D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    3.0535    1.2563   -0.0014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0326   -0.4364    0.0782 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8340   -1.3574    0.0185 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5159   -1.1936   -0.0062 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8887    0.6087   -0.1677 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2070   -1.0311   -0.0586 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6287   -0.2666    0.0528 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0273    0.0557    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1340    1.0220    0.0644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2395    1.1887    0.0395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4749    0.1539   -0.0239 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7615    1.9059    0.1007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6618    2.1879    0.0495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3854   -1.3850    0.0354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7785    0.4145    0.2893 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0871    0.6400   -1.1670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7587   -1.9417   -0.0699 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2214   -1.0173   -0.0731 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09243
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WRYZEGZNBYOMLE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N([H])N([H])C1=NN=C(C=C1)C(=O)N([H])[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7N5O/c6-5(11)3-1-2-4(8-7)10-9-3/h1-2H,7H2,(H2,6,11)(H,8,10)
+
+> <INCHI_KEY>
+WRYZEGZNBYOMLE-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7N5O
+
+> <MOLECULAR_WEIGHT>
+153.145
+
+> <EXACT_MASS>
+153.065059865
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.145653141766154
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-hydrazinylpyridazine-3-carboxamide
+
+> <ALOGPS_LOGP>
+-0.95
+
+> <JCHEM_LOGP>
+-1.001605803
+
+> <ALOGPS_LOGS>
+-1.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.03253494247285
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.879558550907152
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.033602590609061
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.92
+
+> <JCHEM_REFRACTIVITY>
+42.49100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.30e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydracarbazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09243
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydracarbazine
+
+$$$$

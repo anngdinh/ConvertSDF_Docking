@@ -1,0 +1,189 @@
+6030
+  -OEChem-10051720203D
+
+ 34 35  0     1  0  0  0  0  0999 V2000
+    3.7810   -1.4184   -0.0462 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3580    0.9743   -1.1323 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4549    3.8646   -0.3406 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5670    2.8905    1.2091 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8366   -0.2319   -0.6136 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7077    1.0524   -0.5413 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8594   -2.1429    1.0678 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8739   -0.6191    0.8380 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3551   -2.3271   -1.0936 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5449   -3.4633    0.3680 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6120    0.0550   -0.2730 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6246   -1.1961   -0.0878 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7331    2.7039    0.4423 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5542    1.9930    0.8030 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4191    1.6848   -0.4571 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8928    1.2773   -0.4933 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2551    0.6701    0.3114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0261    0.0499   -0.3176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9181   -1.1218   -0.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5026   -2.3018    0.2010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9762   -2.3935    0.1721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3219    3.0191    1.3076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3698    1.2861    1.6210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0282    2.1577   -1.2359 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4721    1.9208   -1.1663 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6581    0.1133    1.0374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0523    1.1906    0.8523 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0255    3.5931   -1.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3796    2.3732    1.3410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1604   -1.0779    0.0065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6401   -1.2233   -0.1150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9285   -3.1990    0.3973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1963   -2.9509    1.5101 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6273   -1.1152    1.2232 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 33  1  0  0  0  0
+  8 34  1  0  0  0  0
+ 10 21  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03685
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DJJCXFVJDGTHFX-XVFCMESISA-N/SDF?record_type=3d
+
+> <SMILES>
+O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)N1C=CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N2O9P/c12-5-1-2-11(9(15)10-5)8-7(14)6(13)4(20-8)3-19-21(16,17)18/h1-2,4,6-8,13-14H,3H2,(H,10,12,15)(H2,16,17,18)/t4-,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+DJJCXFVJDGTHFX-XVFCMESISA-N
+
+> <FORMULA>
+C9H13N2O9P
+
+> <MOLECULAR_WEIGHT>
+324.1813
+
+> <EXACT_MASS>
+324.035866536
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.29604734332675
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.76
+
+> <JCHEM_LOGP>
+-2.538808173
+
+> <ALOGPS_LOGS>
+-1.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.251166930280792
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2255024716430984
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6645431498421583
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.85999999999999
+
+> <JCHEM_REFRACTIVITY>
+63.4385
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+uridylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03685
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03155
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Uridine monophosphate
+
+> <SYNONYMS>
+5'-uridylic acid; UMP; Uridine 5'-monophosphate; Uridine 5'-phosphoric acid; Uridine phosphate; Uridine-5'-monophosphate
+
+$$$$

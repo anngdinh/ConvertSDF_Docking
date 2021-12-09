@@ -1,0 +1,179 @@
+8447
+  -OEChem-07031819103D
+
+ 28 31  0     0  0  0  0  0  0999 V2000
+    1.7014   -0.1662    1.6213 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7090   -0.1466   -1.6330 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4175    2.4964    0.9454 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4262    2.5120   -0.9391 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5924    1.4333   -0.1952 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5911    1.4326    0.2055 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1078   -0.6561    0.7525 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1084   -0.6482   -0.7596 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4359    0.3319   -0.1808 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4323    0.3296    0.1857 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8661   -1.8302    0.8870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8651   -1.8226   -0.9008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5634    0.1355   -1.0074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5537    0.1225    1.0179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6512    1.2780    0.7063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6681    1.2761   -0.7015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9770   -1.9998    0.0568 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9700   -2.0030   -0.0648 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3228   -1.0309   -0.8788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3115   -1.0443    0.8827 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6020   -2.5908    1.6152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6043   -2.5754   -1.6383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8425    0.8858   -1.7418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8294    0.8648    1.7616 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5775   -2.9015    0.1446 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5691   -2.9050   -0.1576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1902   -1.1802   -1.5160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1742   -1.2018    1.5243 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 26  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14201
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AFZSMODLJJCVPP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+S(SC1=NC2=CC=CC=C2S1)C1=NC2=CC=CC=C2S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H8N2S4/c1-3-7-11-9(5-1)15-13(17-11)19-20-14-16-10-6-2-4-8-12(10)18-14/h1-8H
+
+> <INCHI_KEY>
+AFZSMODLJJCVPP-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H8N2S4
+
+> <MOLECULAR_WEIGHT>
+332.47
+
+> <EXACT_MASS>
+331.957032962
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.93695291605077
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(1,3-benzothiazol-2-yldisulfanyl)-1,3-benzothiazole
+
+> <ALOGPS_LOGP>
+4.72
+
+> <JCHEM_LOGP>
+6.2226968593333325
+
+> <ALOGPS_LOGS>
+-4.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7715640773426803
+
+> <JCHEM_POLAR_SURFACE_AREA>
+25.78
+
+> <JCHEM_REFRACTIVITY>
+83.54820000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.17e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+altax
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14201
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+2,2'-Dibenzothiazyl disulfide
+
+> <SYNONYMS>
+2-Benzothiazolyl disulfide; 2-Mercaptobenzothiazole disulfide; 2,2'-Benzothiazyl disulfide; 2,2'-Bis(benzothiazolyl) disulfide; 2,2'-Dithiobisbenzothiazole; Benzothiazole disulfide; Benzothiazolyl disulfide; Bis(2-benzothiazolyl) disulfide; Bis(2-benzothiazyl) disulfide; Bis(benzothiazolyl) disulfide; BTS-SBT; DBTD; di(1,3-benzothiazol-2-yl) disulfide; dibenzothiazol-2-yl disulfide; Dibenzothiazolyl disulfide; Dibenzothiazolyl disulphide; Dibenzothiazyl disulfide; Dibenzoylthiazyl disulfide; Dwusiarczek dwubenzotiazylu; Thiofide
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+> <INTERNATIONAL_BRANDS>
+Accel TM; Altax; Ekagom GS
+
+$$$$

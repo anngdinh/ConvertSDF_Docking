@@ -1,0 +1,155 @@
+447087
+  -OEChem-01122014513D
+
+ 14 15  0     0  0  0  0  0  0999 V2000
+   -3.4831    1.0754    0.0010 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0856   -2.6561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1190   -0.6000    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6976    1.3849   -0.0007 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7211    1.6010    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5629   -0.8796    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7603   -0.4609   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5550    0.8973   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2892   -1.4477   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6513    0.6664    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6885    0.4192   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -1.4680    0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9275    2.3728   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7191    0.8339    0.0014 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04283
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ONXCBJOMYNPZNI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+BrC1=NC2=C(NC=N2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H3BrN4O/c6-5-9-3-2(4(11)10-5)7-1-8-3/h1H,(H2,7,8,9,10,11)
+
+> <INCHI_KEY>
+ONXCBJOMYNPZNI-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H3BrN4O
+
+> <MOLECULAR_WEIGHT>
+215.008
+
+> <EXACT_MASS>
+213.949023385
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.15840146298280264
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.3444624954369
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-bromo-6,7-dihydro-1H-purin-6-one
+
+> <ALOGPS_LOGP>
+0.06
+
+> <JCHEM_LOGP>
+0.32620864333333344
+
+> <ALOGPS_LOGS>
+-2.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.636822587393388
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.725449392744205
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.3835999139090297
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.14
+
+> <JCHEM_REFRACTIVITY>
+43.8476
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-(3-iodobenzyl)glutathione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04283
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00735
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Bromohypoxanthine
+
+$$$$

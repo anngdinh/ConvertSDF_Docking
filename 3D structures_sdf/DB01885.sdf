@@ -1,0 +1,161 @@
+439781
+  -OEChem-10051719443D
+
+ 22 22  0     1  0  0  0  0  0999 V2000
+   -0.8159   -1.0070   -0.1618 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3235    1.7044   -1.2129 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0559    1.9842    0.2510 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7433   -0.8252    0.2687 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4584   -0.5932    0.3183 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7768   -2.5999   -0.2420 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2599    1.3757    0.1747 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1459    0.9271    0.5449 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2214    0.2314    0.4718 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5219   -0.3125   -0.2468 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.6449    0.5247    0.0115 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4800   -1.4096   -0.1774 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5343    2.2803    0.7279 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2075    0.7382    1.6238 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2352    0.0237    1.5496 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7011   -0.0760   -1.3010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6955    0.6632   -1.0727 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0553    1.4138    0.5001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2932    0.8813   -1.7288 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9496    1.6657    0.4649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6189   -1.0093    1.2155 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4514   -0.7074    1.2839 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01885
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PHOQVHQSTUBQQK-MGCNEYSASA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)C(=O)O[C@]([H])(CO)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-5,7-10H,1H2/t2-,3+,4+,5-/m1/s1
+
+> <INCHI_KEY>
+PHOQVHQSTUBQQK-MGCNEYSASA-N
+
+> <FORMULA>
+C6H10O6
+
+> <MOLECULAR_WEIGHT>
+178.14
+
+> <EXACT_MASS>
+178.047738052
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.454487626139064
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one
+
+> <ALOGPS_LOGP>
+-2.16
+
+> <JCHEM_LOGP>
+-2.745273186
+
+> <ALOGPS_LOGS>
+0.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.052238160862654
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.618472493037627
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.98908460439549
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+34.7788
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.86e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-galactonolactone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01885
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00035
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-Galctopyranosyl-1-On
+
+$$$$

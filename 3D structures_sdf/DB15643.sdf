@@ -1,0 +1,168 @@
+98888
+  -OEChem-03232014203D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+   -2.6056   -0.1778   -0.4713 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0240    0.4062    0.1572 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6744   -0.3188   -0.0390 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8131    0.5240   -0.0618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3938   -0.7509    0.6099 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4202    0.4888    0.0563 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1624   -0.2704   -0.3555 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2347   -0.3002   -0.2361 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4622    0.3991    0.3402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6396    0.4808   -0.7586 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7160    1.4517    0.4872 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0300   -0.7050    1.6279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9382   -1.6533    0.3625 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3671    1.4996   -0.3722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4281    0.6209    1.1478 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2089   -1.2951    0.0349 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1147   -0.3291   -1.4503 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9733    0.4660    1.1739 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3104   -0.3289   -1.3303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2004   -1.3360    0.1251 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4055    0.4437    1.4336 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5278    1.4293   -0.0274 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7349   -0.3760   -1.0551 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6205   -1.2813    0.2925 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15643
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XJNAQZHMIAKQOK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCNCCN1CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15N3/c7-1-2-8-3-4-9-5-6-9/h8H,1-7H2
+
+> <INCHI_KEY>
+XJNAQZHMIAKQOK-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H15N3
+
+> <MOLECULAR_WEIGHT>
+129.207
+
+> <EXACT_MASS>
+129.126597495
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.533510387706152
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.710816606517483
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-aminoethyl)[2-(aziridin-1-yl)ethyl]amine
+
+> <ALOGPS_LOGP>
+-1.36
+
+> <JCHEM_LOGP>
+-1.1427427013333338
+
+> <ALOGPS_LOGS>
+0.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.783659649996467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.06
+
+> <JCHEM_REFRACTIVITY>
+38.69330000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.00e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-{[(1S)-1-carboxy-2-{3-[(3,5-dichlorophenyl)methyl]imidazol-4-yl}ethyl]amino}-4-methylpentanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15643
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-Aminoethyl)-1-aziridineethanamine
+
+> <SYNONYMS>
+N-(2-((2-Aminoethyl)amino)ethyl)aziridine; N-(2-aminoethyl)-1 aziridine-ethanamine
+
+$$$$

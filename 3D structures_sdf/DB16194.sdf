@@ -1,0 +1,150 @@
+14080
+  -OEChem-12152013153D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+    2.0515   -1.1949    0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1912    1.0737   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7688    1.1105    0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1204   -0.6517   -0.0004 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0463    0.0138   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8106   -1.0617   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0601    0.6614    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4709    0.0489   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4737    2.0779    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5597   -2.1130   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9032    1.3376    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0308   -1.1365    0.0009 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16194
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NKWCGTOZTHZDHB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C1=CNC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N2O2/c7-4(8)3-1-5-2-6-3/h1-2H,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+NKWCGTOZTHZDHB-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4N2O2
+
+> <MOLECULAR_WEIGHT>
+112.088
+
+> <EXACT_MASS>
+112.027277377
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+12
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8818906566975065
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.65791862330482
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H-imidazole-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.19
+
+> <JCHEM_LOGP>
+-1.3808785583814704
+
+> <ALOGPS_LOGS>
+-0.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.422095554688505
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2403852894212046
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.127262387210609
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.97999999999999
+
+> <JCHEM_REFRACTIVITY>
+25.897
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.98e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16194
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Imidazole-4-carboxylic acid
+
+> <SYNONYMS>
+X -- although are enantiomers to be separated? The UNII shows the R-Etodolac: https://chem.nlm.nih.gov/chemidplus/unii/Y1RAH31T6K so I would assume that yes enantiomers could be separated and a new one couldbe inputted. OR, just add this stuff to the current drug and ensure the synonyms have the R-Etodolac
+
+$$$$

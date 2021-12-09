@@ -1,0 +1,165 @@
+26105
+  -OEChem-10051722333D
+
+ 25 25  0     1  0  0  0  0  0999 V2000
+    1.1824   -2.0905    1.0078 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1317    0.7071   -0.2636 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2124    2.5645    0.0090 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.1889    1.9240    0.5858 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8683   -0.6625   -0.4307 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9377   -0.1479    0.1244 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3599    1.6502    0.1962 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5627   -0.5141   -0.6951 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4138   -0.7559    0.5530 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8992   -0.6042    0.2392 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7174    0.3161   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5628   -1.8213   -0.5439 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8481   -1.4799   -0.1939 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5055    0.9144   -0.5584 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8004   -1.2650   -1.4607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7295    0.4637   -1.1565 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1260   -0.0733    1.3584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2128   -1.3529   -0.4991 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4902   -0.7697    1.1483 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1152   -2.7570   -0.8491 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7210   -2.2246    1.8063 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7133   -2.1254   -0.1552 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6260    1.9317   -0.9403 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8437    0.2113   -1.3256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1126    0.8070    0.3457 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  CHG  2   3  -1   7   1
+M  END
+> <DATABASE_ID>
+DB11716
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OBBCSXFCDPPXOL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COCC(O)CN1C=CN=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11N3O4/c1-14-5-6(11)4-9-3-2-8-7(9)10(12)13/h2-3,6,11H,4-5H2,1H3
+
+> <INCHI_KEY>
+OBBCSXFCDPPXOL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H11N3O4
+
+> <MOLECULAR_WEIGHT>
+201.182
+
+> <EXACT_MASS>
+201.074955846
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.582247803003632
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-methoxy-3-(2-nitro-1H-imidazol-1-yl)propan-2-ol
+
+> <ALOGPS_LOGP>
+-0.27
+
+> <JCHEM_LOGP>
+0.025375602666666733
+
+> <ALOGPS_LOGS>
+-1.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.967097806402617
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9396810797417094
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.42
+
+> <JCHEM_REFRACTIVITY>
+46.7093
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.80e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+misonidazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11716
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Misonidazole
+
+$$$$

@@ -1,0 +1,165 @@
+12348
+  -OEChem-11242009363D
+
+ 23 22  0     0  0  0  0  0  0999 V2000
+    1.4830    0.5120    0.0036 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8873   -1.3223   -0.0059 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1752   -0.3447    0.0280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9114    0.5125    0.0283 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4344    0.5209   -0.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3478   -0.3424    0.0177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6943   -0.3295   -0.0386 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6995   -0.1132   -0.0072 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7976    0.9066   -0.0219 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1884   -0.9824    0.9203 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1666   -1.0098   -0.8442 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8985    1.1703    0.9064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9036    1.1777   -0.8444 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4617    1.1709    0.8783 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4174    1.1715   -0.8860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3609   -0.9801   -0.8742 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3783   -0.9760    0.9119 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7132   -0.9669   -0.9284 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7586   -0.9714    0.8458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5825    0.3097   -0.0598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7380    1.5281    0.8751 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7204    1.5211   -0.9223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7656    0.3975   -0.0294 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15927
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PGMYKACGEOXYJE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCOC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O2/c1-3-4-5-6-9-7(2)8/h3-6H2,1-2H3
+
+> <INCHI_KEY>
+PGMYKACGEOXYJE-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H14O2
+
+> <MOLECULAR_WEIGHT>
+130.187
+
+> <EXACT_MASS>
+130.099379691
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.512466924820558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pentyl acetate
+
+> <ALOGPS_LOGP>
+2.46
+
+> <JCHEM_LOGP>
+1.6910160213333332
+
+> <ALOGPS_LOGS>
+-1.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.993812174629618
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+35.8874
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.73e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aminacrine hydrochloride
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15927
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Amyl acetate
+
+> <SYNONYMS>
+Acetate d'amyle; Acetic acid, amyl ester; Acetic acid, pentyl ester; Amylazetat; Amylester kyseliny octove; N-Amyl acetate; Octan amylu; Pentyl acetate
+
+$$$$

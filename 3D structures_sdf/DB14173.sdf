@@ -1,0 +1,189 @@
+62277
+  -OEChem-06291818203D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    0.8638   -1.6470    1.6272 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4195    1.1280   -1.0146 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4250    3.4099    0.2496 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1622   -2.1021   -1.1105 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5119   -2.3571   -0.5509 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3067    0.9059    1.5021 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4192   -0.7787   -0.7486 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2118    1.2685   -0.2312 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444   -0.0082   -0.0605 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4488   -0.4921    0.3604 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2020   -0.2865   -0.2471 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3250    0.4872    0.5991 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2183   -0.6895    0.9518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4767    0.6831   -0.3717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8090    2.5398   -0.7973 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6358   -0.7970   -1.2878 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5712   -1.4002    0.4892 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1369    0.2524    0.4685 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5737   -0.1165    0.1723 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992    1.0475    1.5117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6387    2.9842   -1.3541 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0393    2.3753   -1.4678 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1772   -0.3123   -2.1064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4155   -0.8747   -1.5731 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5172   -1.9179    1.4513 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5082   -0.8423    0.4055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0345   -0.8431   -1.0770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1479    4.2467   -0.1609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7721   -2.4535   -0.2924 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2741   -2.9502   -0.4382 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6976   -0.5482    1.1698 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8097    0.9515    0.1953 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3327   -0.6482   -0.4425 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2 14  2  0  0  0  0
+  3 15  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 19  1  0  0  0  0
+  7 33  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14173
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SOROIESOUPGGFO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCNC(=O)N(CO)C1N(CO)C(=O)N(CO)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14N4O7/c13-1-9-7(18)10(2-14)5-6(17)12(4-16)8(19)11(5)3-15/h5,13-16H,1-4H2,(H,9,18)
+
+> <INCHI_KEY>
+SOROIESOUPGGFO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H14N4O7
+
+> <MOLECULAR_WEIGHT>
+278.2194
+
+> <EXACT_MASS>
+278.086248822
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.28959880786661
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[1,3-bis(hydroxymethyl)-2,5-dioxoimidazolidin-4-yl]-1,3-bis(hydroxymethyl)urea
+
+> <ALOGPS_LOGP>
+-2.20
+
+> <JCHEM_LOGP>
+-3.785840897999999
+
+> <ALOGPS_LOGS>
+-0.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.37226953230265
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.575115579456622
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.0145888789064568
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.88000000000002
+
+> <JCHEM_REFRACTIVITY>
+56.016499999999986
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.91e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diazolidinyl urea
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14173
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Diazolidinylurea
+
+> <SYNONYMS>
+Diazolidinyl urea; N-(1,3-Bis(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl)-N,N'-bis(hydroxymethyl)urea; N,N'-Bis(hydroxymethyl) urea
+
+> <PRODUCTS>
+Medi Fect Antiseptic Hand Wash; SpectraGenix Hand Sanitizer Antiseptic Hand Wash; T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

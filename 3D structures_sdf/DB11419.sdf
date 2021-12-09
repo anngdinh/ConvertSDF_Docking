@@ -1,0 +1,197 @@
+9454
+  -OEChem-03032022403D
+
+ 38 39  0     0  0  0  0  0  0999 V2000
+   -6.2576    0.0378    0.0434 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.3534    1.2588   -1.1746 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4415   -3.4408   -1.4982 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6050   -0.2460    0.8990 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8079    0.8647    0.0289 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5064   -0.9047    1.0088 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1655    0.0408    0.5678 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885   -1.6372    0.1275 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2541   -0.2761    2.3599 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5370   -1.7945    1.5122 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3502    1.0644   -0.4204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7428    0.0734    0.3486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8231    1.0778   -0.5376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4572    0.9273   -0.1159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3575   -0.0090    0.5099 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5079    1.9989   -1.0423 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1176    1.9309   -0.8913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5258    0.1272    0.1066 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4397    2.1664   -1.3807 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8898   -0.9320    0.9274 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7366    1.2586    1.0133 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5671   -1.7601   -1.2567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1952    1.3218    0.5993 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1834   -3.1483   -1.7349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0371   -0.8098    1.1246 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9069    2.8010   -1.6578 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5104    2.6681   -1.3848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5306    2.1225   -1.4288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0809    2.1018   -2.4141 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1866    3.1538   -0.9785 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1763    2.0994    0.5904 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6594    1.3071    2.1043 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0177   -0.9969   -1.8166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6376   -1.6017   -1.4208 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7490    0.4658    0.9954 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6636    2.2459    0.9488 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7122   -3.9163   -1.1630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4070   -3.2741   -2.7977 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+ 10 20  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 23 35  1  0  0  0  0
+ 23 36  1  0  0  0  0
+ 24 37  1  0  0  0  0
+ 24 38  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11419
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KULDXINYXFTXMO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(Cl)C(=O)OC2=C1C=CC(OP(=O)(OCCCl)OCCCl)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14Cl3O6P/c1-9-11-3-2-10(8-12(11)22-14(18)13(9)17)23-24(19,20-6-4-15)21-7-5-16/h2-3,8H,4-7H2,1H3
+
+> <INCHI_KEY>
+KULDXINYXFTXMO-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H14Cl3O6P
+
+> <MOLECULAR_WEIGHT>
+415.58
+
+> <EXACT_MASS>
+413.9593583
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.10344835481078
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-chloro-4-methyl-2-oxo-2H-chromen-7-yl bis(2-chloroethyl) phosphate
+
+> <ALOGPS_LOGP>
+3.40
+
+> <JCHEM_LOGP>
+3.8710105363333343
+
+> <ALOGPS_LOGS>
+-4.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.331265478001987
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.06
+
+> <JCHEM_REFRACTIVITY>
+91.12689999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4,4'-dihydroxy-10,10'-dioxo-5,5'-bis({[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy})-9H,9'H-[9,9'-bianthracene]-2,2'-dicarboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11419
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Haloxon
+
+> <SYNONYMS>
+Haloxon; Haloxona; Haloxone; Haloxonum
+
+$$$$

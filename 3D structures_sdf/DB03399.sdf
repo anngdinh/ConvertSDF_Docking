@@ -1,0 +1,131 @@
+4474585
+  -OEChem-10051720143D
+
+ 10  9  0     0  0  0  0  0  0999 V2000
+   -0.6558   -0.1256    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.6733   -0.6445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6740    0.4915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6915    0.2786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8100   -1.2722    0.8864 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8100   -1.2721   -0.8865 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6967    0.1030   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5451    1.1247   -0.8839 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5452    1.1246    0.8840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6835    0.6659    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <DATABASE_ID>
+DB03399
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JEGVKBYNUPNGJU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC[N+]#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6N/c1-3-4-2/h2H,3H2,1H3/q+1
+
+> <INCHI_KEY>
+JEGVKBYNUPNGJU-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6N
+
+> <MOLECULAR_WEIGHT>
+56.0864
+
+> <EXACT_MASS>
+56.050024197
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.566388139905458
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethyl(methylidyne)azanium
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+-1.6016010485426124
+
+> <ALOGPS_LOGS>
+-1.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.270003554434673
+
+> <JCHEM_POLAR_SURFACE_AREA>
+4.36
+
+> <JCHEM_REFRACTIVITY>
+17.459799999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl isocyanide
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03399
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01344
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethyl Isocyanide
+
+$$$$

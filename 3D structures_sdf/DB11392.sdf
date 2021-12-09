@@ -1,0 +1,172 @@
+8293
+  -OEChem-10051722113D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+   -4.0356   -0.1887    0.1822 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8796   -0.4268    2.1588 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9477   -0.1149    0.2348 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7528    0.7720   -0.4087 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2578    0.6843   -0.3101 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9592   -1.4226   -0.7333 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2217   -1.4439    0.8964 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6577    1.0285    0.6843 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4970   -0.4081   -1.4482 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3216    0.0964    0.0071 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4092    0.5492   -0.2713 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4299   -0.9760    0.0381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8440    1.3959   -0.1636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0608   -0.7488   -0.1014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4748    1.6229   -0.3032 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4475    2.0464    0.0349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8893   -2.4658   -0.4969 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7806   -1.9968    0.1618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5207    2.2451   -0.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5999   -1.6074   -0.0815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1067    2.6362   -0.4372 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7572   -1.3560   -1.7467 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0530    0.3341   -1.8904 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3576    2.4052   -0.4522 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5618    2.1499    1.1166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6020    2.6464   -0.3106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9422   -3.0943   -1.3893 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5551   -3.0760    0.3457 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8818   -2.0552   -0.2933 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11392
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BSBSDQUZDZXGFN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COP(=S)(OC)OC1=CC=C(C=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12NO5PS2/c1-12-15(16,13-2)14-7-3-5-8(6-4-7)17(9,10)11/h3-6H,1-2H3,(H2,9,10,11)
+
+> <INCHI_KEY>
+BSBSDQUZDZXGFN-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12NO5PS2
+
+> <MOLECULAR_WEIGHT>
+297.28
+
+> <EXACT_MASS>
+296.989451836
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.088867116728984
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+O,O-dimethyl O-4-sulfamoylphenyl phosphorothioate
+
+> <ALOGPS_LOGP>
+1.92
+
+> <JCHEM_LOGP>
+1.2676371480000004
+
+> <ALOGPS_LOGS>
+-2.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.27380911039557
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.85000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.02520000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.88e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+proban
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11392
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Cythioate
+
+> <INTERNATIONAL_BRANDS>
+Proban
+
+$$$$

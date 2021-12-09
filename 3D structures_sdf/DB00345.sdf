@@ -1,0 +1,174 @@
+2148
+  -OEChem-10051719133D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+   -1.0148    1.6696    0.8112 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9484   -0.2200   -1.5425 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9230   -0.1561   -0.4268 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4812   -0.5907    0.5870 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8299   -0.4894   -0.5444 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7829    0.2540    0.2982 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6184    0.5115    0.5909 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5741    1.2569   -0.2618 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3355   -0.9957    0.5784 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4709   -0.2396   -0.2617 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9181    1.0101   -0.5418 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6796   -1.2425    0.2984 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9016   -0.4942    0.8357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7037   -0.2738   -0.4209 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1617    2.2359   -0.4917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7641   -1.7940    1.0427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1339   -1.5067    0.3235 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5243    1.7993   -0.9792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1008   -2.2181    0.5273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0913    0.3373    1.5207 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2157   -1.4380    1.2900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2308   -1.3956   -0.3420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4041    0.2371   -0.9509 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4930   -0.0764   -2.3457 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00345
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HSMNQINEKMPTIC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=CC=C(C=C1)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O3/c10-7-3-1-6(2-4-7)9(14)11-5-8(12)13/h1-4H,5,10H2,(H,11,14)(H,12,13)
+
+> <INCHI_KEY>
+HSMNQINEKMPTIC-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10N2O3
+
+> <MOLECULAR_WEIGHT>
+194.1873
+
+> <EXACT_MASS>
+194.069142196
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.128208896184375
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[(4-aminophenyl)formamido]acetic acid
+
+> <ALOGPS_LOGP>
+0.00
+
+> <JCHEM_LOGP>
+-1.0117887597271258
+
+> <ALOGPS_LOGS>
+-1.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.848287599586381
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7016792553104243
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.242375375001715
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.41999999999999
+
+> <JCHEM_REFRACTIVITY>
+50.81810000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.13e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aminohippurate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00345
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00792
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Aminohippuric acid
+
+> <SYNONYMS>
+4-aminohippuric acid; Aminohippurate; N-(p-Aminobenzoyl)aminoacetic acid; N-(p-Aminobenzoyl)glycine; N-(para-aminobenzoyl)glycine; p-aminohippurate; p-aminohippuric acid; PAH; PAHA; para-aminohippurate; para-aminohippuric acid ; paraaminohippuric acid
+
+> <PRODUCTS>
+Aminohippurate Sodium Inj Liq 20%; Aminohippurate Sodium Pah
+
+> <SALTS>
+Aminohippurate sodium
+
+$$$$

@@ -1,0 +1,185 @@
+19529
+  -OEChem-09011814343D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+   -6.1218    0.8759   -1.7066 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5277    0.6238    1.1697 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2380    0.2162    0.7045 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3371   -0.2105   -1.0832 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8002    1.5492    0.2119 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6246   -0.6553   -1.4124 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1829   -0.7018   -0.0219 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8193   -0.4702    0.1611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2603    0.7475   -0.2259 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0150   -1.4578    0.7300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9079   -0.0094    0.5251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1033    0.9779   -0.0441 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3486   -1.2273    0.9119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7100   -2.0800   -0.2660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1351    0.3762    0.0169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5981    0.0442   -0.2219 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4744    0.1128   -0.1101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0611   -0.1602   -0.3777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0679    0.6478    0.9765 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4479    0.6666    0.6628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5596    0.1343   -0.6005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8117    1.5205   -0.7495 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4191   -2.4052    1.0745 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    1.9219   -0.3634 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9686   -1.9973    1.3632 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3190   -2.0764   -1.1748 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3054   -2.3886    0.5978 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9036   -2.7967   -0.4390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8432   -1.0066   -0.3346 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6013    0.9894    1.8893 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2596    1.0235    1.2802 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3935   -0.0570   -1.2601 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 18  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14638
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BDYYDXJSHYEDGB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C(=O)C(Cl)Cl)C1=CC=C(OC(=O)C2=CC=CO2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11Cl2NO4/c1-17(13(18)12(15)16)9-4-6-10(7-5-9)21-14(19)11-3-2-8-20-11/h2-8,12H,1H3
+
+> <INCHI_KEY>
+BDYYDXJSHYEDGB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H11Cl2NO4
+
+> <MOLECULAR_WEIGHT>
+328.147
+
+> <EXACT_MASS>
+327.006513259
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.277388287607124
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(2,2-dichloro-N-methylacetamido)phenyl furan-2-carboxylate
+
+> <ALOGPS_LOGP>
+3.33
+
+> <JCHEM_LOGP>
+3.0782326363333326
+
+> <ALOGPS_LOGS>
+-3.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.090932097864336
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1027841461333385
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.75
+
+> <JCHEM_REFRACTIVITY>
+78.2065
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.82e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diloxanide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14638
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001813
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Diloxanide furoate
+
+> <SYNONYMS>
+2,2-dichloroacetamido-4-n-methylphenyl 2-furoate; 4-(n-methyl-2,2-dichloroacetamido)phenyl 2-furoate; Dichlofurazol; Diloxanidi furoas
+
+$$$$

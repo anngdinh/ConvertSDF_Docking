@@ -1,0 +1,188 @@
+5281605
+  -OEChem-12152013053D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+    0.4895    0.8121   -0.0497 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4425   -2.0081    0.1208 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0032    0.2257   -0.0315 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8441    2.7306   -0.1903 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0157   -2.9664    0.1876 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4494   -0.6482    0.0391 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8683    0.6161   -0.0414 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3175   -0.2970    0.0333 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8391   -0.7881    0.0429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5742   -1.8277    0.1181 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8789   -1.5637    0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7581    0.0266    0.0103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6759    1.7510   -0.1191 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6445    0.3488   -0.0345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0644    1.6155   -0.1154 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6711   -0.8734   -0.5451 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2148    1.2343    0.5441 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0318   -0.5676   -0.5666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5755    1.5403    0.5223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4841    0.6393   -0.0331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5280   -2.4280    0.1854 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2261    2.7386   -0.1821 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3569   -1.8136   -0.9906 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5301    1.9512    0.9907 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7391   -1.2666   -1.0034 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9282    2.4791    0.9391 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5435    0.8777   -0.0508 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7823   -2.7156    0.1737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2255   -0.7196    0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7766    2.4531   -0.1755 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16101
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FXNFHKRTJBSTCS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC2=C(C(O)=C1O)C(=O)C=C(O2)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10O5/c16-9-6-11(8-4-2-1-3-5-8)20-12-7-10(17)14(18)15(19)13(9)12/h1-7,17-19H
+
+> <INCHI_KEY>
+FXNFHKRTJBSTCS-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10O5
+
+> <MOLECULAR_WEIGHT>
+270.24
+
+> <EXACT_MASS>
+270.052823422
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.6767419035845763
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.657895547296782
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,6,7-trihydroxy-2-phenyl-4H-chromen-4-one
+
+> <ALOGPS_LOGP>
+3.19
+
+> <JCHEM_LOGP>
+2.706689133666666
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.345448520102478
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.755033160681343
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.3675431356589005
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+72.91390000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.53e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16101
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Baicalein
+
+> <SYNONYMS>
+Noroxylin
+
+$$$$

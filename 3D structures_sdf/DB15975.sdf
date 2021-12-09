@@ -1,0 +1,180 @@
+64939
+  -OEChem-12032010493D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+   -0.3806    1.8664   -0.1233 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9675   -0.6393    2.1239 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7081    2.8375   -1.1599 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1472    2.3244    1.2405 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3012   -0.7138   -1.5405 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9532    0.9321   -0.6358 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7016    0.2962    1.5429 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6882   -2.2303    0.0119 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6923   -1.0950    0.6808 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6462    0.6642   -0.0833 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8816   -0.0618    1.0843 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4210    0.4290   -1.2189 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8488    0.2498    0.2220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6668   -1.2582   -0.0195 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8918   -1.0229    1.1162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4313   -0.5323   -1.1870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9444   -0.5155   -0.2610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4539   -1.5305   -1.7931 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1832    0.9297   -1.6378 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2900    0.1015    1.9804 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2506    0.9776   -2.1409 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0650   -1.5828    2.0317 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0273   -0.7076   -2.0790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8601   -2.7567    0.8581 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2507   -2.4005   -0.8112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5924   -1.5809   -2.8771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2992   -2.5497   -1.4234 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3531   -1.0827   -1.3570 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 17  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15975
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IZOYMGQQVNAMHS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=NSN=C1NS(=O)(=O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N4O3S2/c1-16-9-8(11-17-12-9)13-18(14,15)7-4-2-6(10)3-5-7/h2-5H,10H2,1H3,(H,11,13)
+
+> <INCHI_KEY>
+IZOYMGQQVNAMHS-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10N4O3S2
+
+> <MOLECULAR_WEIGHT>
+286.32
+
+> <EXACT_MASS>
+286.019432546
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9686434549128315
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.359044264787684
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(4-methoxy-1,2,5-thiadiazol-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+1.0456805780000002
+
+> <ALOGPS_LOGS>
+-2.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.510200952247038
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8955535538903032
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.2
+
+> <JCHEM_REFRACTIVITY>
+69.45700000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxedrine tartrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15975
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfametrole
+
+> <SYNONYMS>
+Sulfametrole
+
+$$$$

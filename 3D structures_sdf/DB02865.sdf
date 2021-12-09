@@ -1,0 +1,177 @@
+448057
+  -OEChem-10051720043D
+
+ 30 30  0     1  0  0  0  0  0999 V2000
+   -2.6447    0.1153   -0.0187 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6417   -0.2432   -1.4305 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2234    0.3666   -0.7437 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9808   -0.0960    2.0910 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1165   -1.1054    0.2292 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6611    3.0296    0.1964 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6903    0.0039   -1.2473 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9765    1.5625    0.6220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6711   -1.0288    0.9522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2511   -2.4132   -0.5043 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0892    0.6640    0.0753 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1292   -0.5161    1.0258 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7500   -1.7355    0.3242 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1130    0.9463   -0.8388 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9452   -1.3289   -0.5538 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2090    1.7790   -0.1790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3314    1.5659    0.6483 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7437   -0.8243    1.5773 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1035   -2.4435    1.0840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7353    1.5344   -1.6859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1935   -2.1785   -1.2025 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0394    1.9468   -0.8735 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6337    1.3126    0.7101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5793   -1.7831   -1.2352 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0679   -2.6397    0.0619 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9009   -0.3059    1.8629 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8825   -1.3251   -0.3276 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3565    3.4752   -0.6124 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6275   -0.2126   -1.0546 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7587    1.6545    1.2067 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8 30  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02865
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QWDBGVNDGYUIAC-QZABAPFNSA-N/SDF?record_type=3d
+
+> <SMILES>
+N[C@H]1[C@H](O)O[C@H](CO)[C@@H](OP(O)(O)=O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14NO8P/c7-3-4(9)5(15-16(11,12)13)2(1-8)14-6(3)10/h2-6,8-10H,1,7H2,(H2,11,12,13)/t2-,3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+QWDBGVNDGYUIAC-QZABAPFNSA-N
+
+> <FORMULA>
+C6H14NO8P
+
+> <MOLECULAR_WEIGHT>
+259.151
+
+> <EXACT_MASS>
+259.045702941
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.32218606850605
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R,6R)-5-amino-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.61
+
+> <JCHEM_LOGP>
+-4.176654765956165
+
+> <ALOGPS_LOGS>
+-0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+5.9653387667750986
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9349921475808509
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.528679612837132
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.70000000000002
+
+> <JCHEM_REFRACTIVITY>
+48.4538
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.86e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glucosamine 4-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02865
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01634
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Glucosamine 4-Phosphate
+
+$$$$

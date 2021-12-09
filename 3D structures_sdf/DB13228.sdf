@@ -1,0 +1,164 @@
+4474062
+  -OEChem-10061700173D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+    3.5579   -0.2501   -0.3585 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.6092    0.1922    0.2106 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1885   -2.2482   -0.3381 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2205    1.0766   -0.1126 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0133    1.6461   -0.0197 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9817    0.6408   -0.0096 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6028   -0.7177   -0.1134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8148    0.0351   -0.2212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8352   -1.0802   -0.2328 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3436    1.2829   -0.1244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3564    0.9174    0.0996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5564   -1.7451   -0.1082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3975    3.0439    0.0850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3077   -0.1078    0.1050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9084   -1.4358    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7463   -1.2502    1.1371 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0022    2.1446   -0.1219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7240    1.9367    0.1832 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2639   -2.7885   -0.1881 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9217    3.2285    1.0294 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0442    3.3261   -0.7535 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4631    3.7228    0.0628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6500   -2.2288    0.0059 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8145   -1.3503    1.3469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3291   -2.2471    0.9853 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2631   -0.7606    1.9864 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13228
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UYGONJYYUKVHDD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C=C(C(=O)C2=C1C=C(F)C=C2)S(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10FNO2S/c1-13-6-10(16(2)15)11(14)8-4-3-7(12)5-9(8)13/h3-6H,1-2H3
+
+> <INCHI_KEY>
+UYGONJYYUKVHDD-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10FNO2S
+
+> <MOLECULAR_WEIGHT>
+239.26
+
+> <EXACT_MASS>
+239.041627903
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.88130453713848
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-fluoro-3-methanesulfinyl-1-methyl-1,4-dihydroquinolin-4-one
+
+> <ALOGPS_LOGP>
+1.13
+
+> <JCHEM_LOGP>
+0.7187198986666667
+
+> <ALOGPS_LOGS>
+-1.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3665969070493094
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.38
+
+> <JCHEM_REFRACTIVITY>
+63.818000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.25e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+manoplax
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13228
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Flosequinan
+
+$$$$

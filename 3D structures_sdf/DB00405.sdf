@@ -1,0 +1,200 @@
+16960
+  -OEChem-10051719143D
+
+ 38 39  0     1  0  0  0  0  0999 V2000
+    5.8682    0.2521   -0.1514 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8348    1.9868   -0.2824 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6193   -1.6812    1.0494 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2988    0.4473   -0.0603 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8619    1.3790    1.0449 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3916    1.4742    1.0098 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2261    0.3991   -0.0840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8946   -0.9547   -0.0403 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8644    0.1728   -1.2839 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9122    0.5835    1.0966 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6478   -1.3538   -1.1139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3141    3.3361   -0.5068 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2962    1.9861   -0.3626 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2585    0.1288   -1.3041 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3063    0.5397    1.0762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1771   -2.6386   -1.0647 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9794    0.3123   -0.1242 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1505   -2.9243    1.0616 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9285   -3.4453    0.0402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5742    0.9203   -1.0143 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6268    0.9718    2.0368 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3875    2.3667    1.0120 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7289    2.1221    1.8298 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8276    0.4861    1.1996 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3115    0.0283   -2.2070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4326    0.7420    2.0544 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8361   -0.7182   -1.9711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2337    3.3406   -0.6788 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5478    4.0173    0.3196 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7471    3.7621   -1.4202 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6880    0.9712   -0.2309 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6284    2.3223   -1.3511 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7523    2.6338    0.3948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7677   -0.0497   -2.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8534    0.6799    2.0049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7823   -3.0106   -1.8859 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9272   -3.5129    1.9452 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3309   -4.4499    0.0999 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 36  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 37  1  0  0  0  0
+ 19 38  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00405
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZDIGNSYAACHWNL-HNNXBMFYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CC[C@@H](C1=CC=C(Br)C=C1)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19BrN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3/t15-/m0/s1
+
+> <INCHI_KEY>
+ZDIGNSYAACHWNL-HNNXBMFYSA-N
+
+> <FORMULA>
+C16H19BrN2
+
+> <MOLECULAR_WEIGHT>
+319.239
+
+> <EXACT_MASS>
+318.073161265
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.838223053041332
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(3S)-3-(4-bromophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.749658864
+
+> <ALOGPS_LOGS>
+-4.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.478390040370506
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+83.66830000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dexbrompheniramine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00405
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00770
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dexbrompheniramine
+
+> <SYNONYMS>
+(+)-brompheniraminum; (R)-3-(4-Bromophenyl)-3-(2-pyridyl)propyldimethylamine; (S)-(+)-brompheniramine; (S)-brompheniramine; 3-(4-bromophenyl)- N,N-dimethyl- 3-pyridin-2-yl-propan-1-amine; d-brompheniramine; Desbrofeniramina; Dexbromfeniramina; Dexbrompheniramin; Dexbrompheniramine; Dexbromphéniramine; Dexbrompheniraminum
+
+> <PRODUCTS>
+Acticon; Actidogesic; Actidogesic DF; Ala-hist Ir; Ala-hist PE; Alahist CF; Alahist DM; Alahist PE; Bio-cnex; Biogesic; Bionatuss DXP; Brompheniramine Maleate Pseudoephedrine HCl; Chlo Hist; Chlo Tuss; Conex; Coricidin 'd' Nasal and Sinus Congestion; Coricidin D Nasal and Sinus Congestion Tablets; Dallergy; Dexbrompheniramine Maleate and Phenylephrine Hydrochloride; Dexbrompherniramine Maleate and Pseudoephedrine Sulfate 6mg/120mg; Dologen; Dologen 325; Dologesic DF; Dologesic NF; Drixoral Cold & Sinus; Drixoral Day/night - Srt/tabs; Drixoral Syrup; Drixtab Tab; G-Con-X; G-Dologen; G-P-tuss Dxp; M-end Dmx; M-end Max D; Panatuss DXP; Panatuss Pediatric Drops DXP; PediaVent; Supress A
+
+> <INTERNATIONAL_BRANDS>
+Disophrol; Drixoral
+
+> <SALTS>
+Dexbrompheniramine maleate
+
+$$$$

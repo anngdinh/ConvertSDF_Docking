@@ -1,0 +1,248 @@
+6006
+  -OEChem-10051719203D
+
+ 57 59  0     1  0  0  0  0  0999 V2000
+    5.2605    2.3727    0.5719 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4107    0.1935    3.2949 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6822    0.9490   -2.3310 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7095    2.6625    0.1695 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9769    2.3497    1.6014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0624   -2.9867    0.9009 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3143   -2.3731   -1.2688 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4908   -0.3413    1.2786 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4162   -2.2312   -0.5260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4958   -0.6785    0.9760 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7933   -0.5490   -1.5485 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9827    1.6471   -0.7325 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5828    0.9145   -0.1945 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4131    0.8342   -2.4139 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7334   -1.6070    1.1125 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6299   -2.7290    0.5775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5011   -1.3821    0.2284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4204    0.0013    0.2847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8627   -0.9252   -0.6046 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8798    1.4347    0.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2198    0.4359    2.4036 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2555   -0.3199    0.4621 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3736    0.6926   -1.5325 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6593    0.3645    1.2623 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0741   -0.6430   -0.8543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9332    1.2603   -0.5763 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.7857    0.0314   -0.9156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2335    0.4024   -0.5700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9037    0.7256    0.7462 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3186   -0.2818   -1.3703 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5310    0.7795   -1.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0106   -0.9630    0.2306 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5146    2.1224    0.5253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8468   -2.1631   -0.1582 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3878   -1.9352    2.1026 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3165   -3.0558    1.3679 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0473   -3.6037    0.2702 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1003   -2.3556   -0.0793 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7731   -0.8238   -0.6753 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8162   -2.8895   -1.1859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6785   -0.4395    1.9444 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1137   -1.2716   -2.1835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8710    1.3133    2.4983 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8642    1.8956   -1.4684 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4119    0.6287    2.2874 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6073   -1.1760   -1.5108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7656    0.3661   -1.2804 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3192   -0.5031   -1.7538 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5731    1.2848    1.3934 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5583   -0.5468   -2.3969 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4319    0.6879    0.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0452   -1.3372    0.5888 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5214   -0.4583    1.0580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6988    0.0744   -3.0219 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9248    1.7069   -2.4865 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0776    3.2337    0.8771 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6192   -3.7567    0.6573 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  2  0  0  0  0
+  2 21  2  0  0  0  0
+  3 31  2  0  0  0  0
+  4 33  1  0  0  0  0
+  4 56  1  0  0  0  0
+  5 33  2  0  0  0  0
+  6 34  1  0  0  0  0
+  6 57  1  0  0  0  0
+  7 34  2  0  0  0  0
+  8 15  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 40  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 41  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 42  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 23  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 51  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 54  1  0  0  0  0
+ 14 55  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 17 38  1  0  0  0  0
+ 17 39  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 21 43  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 24 45  1  0  0  0  0
+ 25 30  2  0  0  0  0
+ 25 46  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 33  1  0  0  0  0
+ 26 44  1  0  0  0  0
+ 27 32  1  0  0  0  0
+ 27 47  1  0  0  0  0
+ 27 48  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 30  1  0  0  0  0
+ 28 31  1  0  0  0  0
+ 29 49  1  0  0  0  0
+ 30 50  1  0  0  0  0
+ 32 34  1  0  0  0  0
+ 32 52  1  0  0  0  0
+ 32 53  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00650
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VVIAGPKUTFNRDU-ABLWVSNPSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(=O)N1C(CNC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CNC2=C1C(=O)NC(N)=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H23N7O7/c21-20-25-16-15(18(32)26-20)27(9-28)12(8-23-16)7-22-11-3-1-10(2-4-11)17(31)24-13(19(33)34)5-6-14(29)30/h1-4,9,12-13,22H,5-8H2,(H,24,31)(H,29,30)(H,33,34)(H4,21,23,25,26,32)/t12?,13-/m0/s1
+
+> <INCHI_KEY>
+VVIAGPKUTFNRDU-ABLWVSNPSA-N
+
+> <FORMULA>
+C20H23N7O7
+
+> <MOLECULAR_WEIGHT>
+473.446
+
+> <EXACT_MASS>
+473.165896109
+
+> <JCHEM_ACCEPTOR_COUNT>
+11
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.326272870088374
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-[(4-{[(2-amino-5-formyl-4-oxo-3,4,5,6,7,8-hexahydropteridin-6-yl)methyl]amino}phenyl)formamido]pentanedioic acid
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-2.335086760296191
+
+> <ALOGPS_LOGS>
+-3.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.208498843729758
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4738559631646653
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.809548222692691
+
+> <JCHEM_POLAR_SURFACE_AREA>
+215.55
+
+> <JCHEM_REFRACTIVITY>
+126.66199999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.97e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-formyltetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00650
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00698
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Leucovorin
+
+> <SYNONYMS>
+(5-formyl-5,6,7,8-tetrahydropteroyl)glutamate; 10-Formyl-7,8-dihydrofolic acid; 5-Formyl-5,6,7,8-tetrahydrofolic acid; 5-Formyl-5,6,7,8-tetrahydropteroyl-L-glutamic acid; 5-Formyltetrahydrofolate; 5-formyltetrahydrofolic acid; Acide folinique; Acido folinico; Folinate; Folinic acid; L(-)-5-Formyl-5,6,7,8-tetrahydrofolic acid; Leucovorinum; N-(5-formyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid; N5-Formyl-5,6,7,8-tetrahydrofolic acid; N5-Formyltetrahydrofolic acid
+
+> <PRODUCTS>
+BumP DHA; Calcium Folinate; Dyzbac; EnBrace HR; EnLyte; Lederle Leucovorin; Lederle Leucovorin - Liq Im IV 10mg/ml; Lederle Leucovorin 350mg/vial; Lederle Leucovorin 50mg/vial; Lederle Leucovorin Liq 10mg/ml; Lederle Leucovorin-pws Im IV 350mg/vial; Lederle Leucovorin-pws Im IV 50mg/vial; Leucovorin; Leucovorin Ca Inj (pharm. Bulk Vial) 10mg/ml; Leucovorin Calcium; Leucovorin Calcium Inj 10mg/ml; Leucovorin Calcium Injection; Leucovorin Calcium Injection USP; Leucovorin Calcium Tab 5mg; Leucovorin calcium; Mebolex; Mint-leucovorin; PramLyte; Puralor; Pyrimethamine Leucovorin; Riva Leucovorin
+
+> <INTERNATIONAL_BRANDS>
+Uzel; Wellcovorin
+
+> <SALTS>
+Leucovorin calcium; Leucovorin calcium pentahydrate; Leucovorin sodium
+
+$$$$

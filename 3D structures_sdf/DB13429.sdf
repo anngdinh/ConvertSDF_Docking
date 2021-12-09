@@ -1,0 +1,164 @@
+72138
+  -OEChem-10061700223D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+   -1.2576    2.8918    0.2900 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.1959    0.8046   -0.3015 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8712    0.8164   -0.3615 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1288   -1.0887    0.3520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3114   -0.0316    0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6012   -1.3156    0.4697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0241    0.1414   -0.0913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4374    0.3406   -0.2249 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5074    1.1960    0.0746 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6876   -1.0286   -0.3908 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0383   -0.6727    0.0381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8013    0.6917    0.2054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9815   -1.5327   -0.2600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4215   -1.2125    0.1780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9130    0.3968    0.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9469   -0.2074   -0.8504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8905   -2.1635   -0.1602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8499   -1.5598    1.5078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2855    1.7533   -0.6433 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9403    1.8159   -0.5293 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0860   -1.7328   -0.6787 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6287    1.3591    0.4361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1561   -2.5954   -0.4064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9917   -0.6463    0.9224 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9447   -1.1582   -0.7818 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4085   -2.2559    0.5110 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13429
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KWBTZIFLQYYPTH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C(NC2=NCCN2)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClN3/c1-7-2-3-9(8(11)6-7)14-10-12-4-5-13-10/h2-3,6H,4-5H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+KWBTZIFLQYYPTH-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12ClN3
+
+> <MOLECULAR_WEIGHT>
+209.68
+
+> <EXACT_MASS>
+209.0719751
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.102581469035876
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2-chloro-4-methylphenyl)-4,5-dihydro-1H-imidazol-2-amine
+
+> <ALOGPS_LOGP>
+2.03
+
+> <JCHEM_LOGP>
+2.394465416666667
+
+> <ALOGPS_LOGS>
+-2.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.011730527000266
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.42
+
+> <JCHEM_REFRACTIVITY>
+59.3252
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.64e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tolonidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13429
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tolonidine
+
+$$$$

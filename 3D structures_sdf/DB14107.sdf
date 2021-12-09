@@ -1,0 +1,172 @@
+33498
+  -OEChem-06211812533D
+
+ 24 25  0     1  0  0  0  0  0999 V2000
+    1.2646    2.2342   -0.3487 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2555   -2.4064   -0.0657 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2438   -1.5578    1.0338 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9102   -1.6926   -1.2247 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4544   -0.2155    0.2769 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2350    0.0513   -0.8077 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3818    0.7989    0.7434 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5018   -0.2159    0.4255 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3446   -1.2272    0.1856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8676    0.0107    0.0646 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3670    1.2674   -0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4964    2.5213    0.0342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8320    1.5999   -0.1620 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7208   -1.1683   -0.1456 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2681    1.0152    1.8124 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1388   -0.4700    1.2780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8552    3.2467   -0.7039 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5753    2.9845    1.0238 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6504    0.3552   -1.5854 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7668   -0.7484   -1.1491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4772    0.7173   -0.1497 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0048    2.1211   -1.1094 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1558    2.2507    0.6571 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8228   -2.3440    0.9392 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14107
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NVIAYEIXYQCDAN-CLZZGJSISA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12SCC(C)=C(N1C(=O)[C@H]2N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2O3S/c1-3-2-14-7-4(9)6(11)10(7)5(3)8(12)13/h4,7H,2,9H2,1H3,(H,12,13)/t4-,7-/m1/s1
+
+> <INCHI_KEY>
+NVIAYEIXYQCDAN-CLZZGJSISA-N
+
+> <FORMULA>
+C8H10N2O3S
+
+> <MOLECULAR_WEIGHT>
+214.24
+
+> <EXACT_MASS>
+214.041213364
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.466206376447666
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R,7R)-7-amino-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.06
+
+> <JCHEM_LOGP>
+-2.9752435954197325
+
+> <ALOGPS_LOGS>
+-1.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.627707518541296
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4185684851415736
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.3857668753494545
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+51.8122
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(6R,7R)-7-amino-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14107
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-Aminodesacetoxycephalosporanic acid
+
+> <SYNONYMS>
+3-methyl-7-amino-Δ3-cephem-4-carboxylic acid; 3-methyl-7-aminoceph-3-em-4-carboxylic acid; 7-ADCA; 7-amino-3-methyl-3-cephem-4-carboxylic acid; 7beta-aminodeacetoxycephalosporanic acid; 7β-aminodeacetoxycephalosporanic acid
+
+> <PRODUCTS>
+Thera Derm
+
+$$$$

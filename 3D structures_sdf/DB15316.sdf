@@ -1,0 +1,183 @@
+11700495
+  -OEChem-05201911123D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+    1.1556    1.9117    0.5833 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6772    0.2490   -3.3101 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1142   -1.8615    1.3458 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3438    1.2551   -0.2063 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7767    2.9366    1.5534 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8240    2.3090   -0.6545 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3428   -0.5615    1.9886 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1430    0.2197    0.2346 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1312    0.7355    1.4114 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1619    0.6622    1.0355 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7115    1.0902   -1.1764 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2094   -0.8258   -0.1777 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3206    1.1799    0.1342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8695    0.4774   -1.0847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7193   -0.2866    0.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2964   -0.4199    0.6486 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8551    0.0411   -1.9919 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1772   -1.5647    0.5846 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8204    0.0209   -0.2048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9523   -0.5743   -1.5166 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7469   -2.5541   -0.2170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3901   -0.9687   -1.0061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8532   -2.2561   -1.0123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5130   -1.2153    2.4555 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6948    0.3563    2.2632 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7184   -0.9150   -2.2052 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3285   -3.5562   -0.2216 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2514   -0.7364   -1.6254 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2967   -3.0264   -1.6363 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5758   -2.2350    2.0616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4105   -0.6418    2.2010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4520   -1.2786    3.5459 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 26  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 23 29  1  0  0  0  0
+ 24 30  1  0  0  0  0
+ 24 31  1  0  0  0  0
+ 24 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15316
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QZXATCCPQKOEIH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=NC=C(F)C2=NC(=NN12)S(=O)(=O)NC1=C(F)C=CC=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3
+
+> <INCHI_KEY>
+QZXATCCPQKOEIH-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H8F3N5O3S
+
+> <MOLECULAR_WEIGHT>
+359.28
+
+> <EXACT_MASS>
+359.029994801
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.557407764543175
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2,6-difluorophenyl)-8-fluoro-5-methoxy-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide
+
+> <ALOGPS_LOGP>
+2.40
+
+> <JCHEM_LOGP>
+2.0875888336666666
+
+> <ALOGPS_LOGS>
+-3.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.79692234769414
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.444924781287312
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.47999999999999
+
+> <JCHEM_REFRACTIVITY>
+86.3116
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15316
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Florasulam
+
+> <SYNONYMS>
+PRIMUS
+
+$$$$

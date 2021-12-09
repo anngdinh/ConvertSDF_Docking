@@ -1,0 +1,219 @@
+33613
+  -OEChem-10051719283D
+
+ 44 46  0     1  0  0  0  0  0999 V2000
+    0.8127   -0.5305    1.0470 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5412    1.9384   -2.1377 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1164   -1.8059   -0.0667 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3753   -0.4801    1.6331 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1798    2.4440    1.6021 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1594   -3.4891    0.0834 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7863    0.7498   -0.1147 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1496    1.9689   -0.4201 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5725    2.8271    0.2755 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8063    1.0059    0.9417 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8293   -1.4420   -0.2179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1210   -0.6204   -0.4284 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2349    2.1188    0.0479 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2954    1.6814   -0.9812 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0775   -2.8717    0.2742 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0045   -1.4983   -1.5148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2478   -0.9379    0.5072 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2582    2.1473    0.4110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5838    1.9144   -0.3056 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.0064    0.4636   -0.2012 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1874   -0.2708   -1.3592 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2022   -0.0926    1.0502 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5775   -1.6066   -1.2626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5921   -1.4285    1.1467 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7798   -2.1854   -0.0097 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2561    1.3404    1.8807 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -0.6650   -1.4646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4211    3.1321    0.4236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1390   -3.4302    0.3738 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7069   -3.4212   -0.4352 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5758   -2.8963    1.2496 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5603   -2.0263   -2.2987 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0600   -2.0365   -1.3702 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7635   -0.5048   -1.9058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3223    1.7159   -1.3903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4633    2.1960   -1.3593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8621   -2.0269    0.5312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4541    2.7374   -0.2289 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2689    3.7907    0.1369 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0315    0.1684   -2.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0658    0.4817    1.9615 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7211   -2.1915   -2.1670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7470   -1.8675    2.1286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2526   -3.7236    1.0227 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 37  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5 18  2  0  0  0  0
+  6 25  1  0  0  0  0
+  6 44  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 38  1  0  0  0  0
+  9 39  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 40  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 41  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 42  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 43  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01060
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LSQZJLSUYDQPKJ-NJBDSQKTSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=C(O)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19N3O5S/c1-16(2)11(15(23)24)19-13(22)10(14(19)25-16)18-12(21)9(17)7-3-5-8(20)6-4-7/h3-6,9-11,14,20H,17H2,1-2H3,(H,18,21)(H,23,24)/t9-,10-,11+,14-/m1/s1
+
+> <INCHI_KEY>
+LSQZJLSUYDQPKJ-NJBDSQKTSA-N
+
+> <FORMULA>
+C16H19N3O5S
+
+> <MOLECULAR_WEIGHT>
+365.404
+
+> <EXACT_MASS>
+365.104541423
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.52711971930114
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-[(2R)-2-amino-2-(4-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.75
+
+> <JCHEM_LOGP>
+-2.310176132597505
+
+> <ALOGPS_LOGS>
+-2.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.479773257626581
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.23146046520975
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.429732430412562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.96
+
+> <JCHEM_REFRACTIVITY>
+89.50440000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.58e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+amoxicillin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01060
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00248
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Amoxicillin
+
+> <SYNONYMS>
+(2S,5R,6R)-6-{[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-(p-hydroxy-α-aminophenylacetamido)penicillanic acid; Amox; Amoxicilina; Amoxicillin; Amoxicillin (anhydrous); Amoxicillin anhydrous; Amoxicilline; Amoxicillinum; Amoxycillin; AX; p-Hydroxyampicillin; α-amino-p-hydroxybenzylpenicillin
+
+> <PRODUCTS>
+Ag-amoxicillin; Amox 250 Cap 250mg; Amox 500 Cap 500mg; Amox S 125 Sus 125mg/5ml; Amox S 250 Sus 250mg/5ml; Amoxi-clav; Amoxicillan; Amoxicillan and clavulanate potassium; Amoxicillin; Amoxicillin Capsules 250 mg; Amoxicillin Capsules 500 mg; Amoxicillin Capsules BP; Amoxicillin Clav/pot; Amoxicillin Extended-Release; Amoxicillin Granules for Oral Suspension; Amoxicillin Sodium and Potassium Clavulanate for Injection; Amoxicillin Sugar-reduced Granules for Oral Suspension; Amoxicillin and Calvulanate Potassium; Amoxicillin and Clavulanate Potassium; Amoxicillin and Clavulanate Potassium Extended Release; Amoxicillin and clavulanate potassium; Amoxicillin for Oral Suspension 125mg/5ml; Amoxicillin for Oral Suspension 250mg/5ml; Amoxicillin/Clavulanate Potassium; Amoxicillin/clav Pot; Amoxil; Amoxil 125 Oral Suspension; Amoxil 250 Cap; Amoxil 250 Oral Suspension; Amoxil Cap 500mg; Amoxil Chewable Tab 125mg; Amoxil Chewable Tab 250mg; Amoxil Chewable Tablets 125mg; Amoxil Chewable Tablets 250mg; Amoxil Pediatric Drops Pws 50mg/ml; Amoxil-125 Pws 125mg/5ml; Amoxil-250 Cap 250mg; Amoxil-250 Pws 250mg/5ml; Amoxil-500 Cap 500mg; Apo-amoxi; Apo-amoxi Clav; Apo-amoxi Clav 125mg/31.25mg Per 5ml; Apo-amoxi Clav 250mg/62.5mg Per 5ml; Apo-amoxi Sugar Free; Apo-lansoprazole-amoxicillin-clarithromycin; Augmentin; Augmentin Es 600; Augmentin Es-600; Augmentin XR; AugmentinXR; Auro-amoxicillin; Auro-amoxiclav; Clavulin 125 F Oral Sus; Clavulin 200; Clavulin 250 F Oral Sus; Clavulin 250 Tab; Clavulin 400; Clavulin 500 F Tab; Clavulin 875; DisperMox; Dom-amoxicillin; Hp-pac; Jamp Amoxi Clav; Jamp-amoxicillin; Lansoprazole, Amoxicillin and Clarithromycin; Lansoprazole, Amoxicillin, Clarithromycin; Lansoprazole, Amoxicillin, and Clarithromycin; Lin-amox - Cap 250mg; Lin-amox - Cap 500mg; Lin-amox - Pws 125mg/5ml; Lin-amox - Pws 250mg/5ml; Moxatag; Mylan-amoxicillin; Novamoxin; Novo-clavamoxin 125; Novo-clavamoxin 250; Novo-clavamoxin 875; Ntp-amoxicillin; Nu-amoxi Cap 250mg; Nu-amoxi Cap 500mg; Nu-amoxi Sus 125/5ml; Nu-amoxi Sus 250mg/5ml; Omeclamox-Pak; PHL-amoxicillin; PMS-amclav-200; PMS-amclav-400; PMS-amclav-875; PMS-amoxicillin; Penta-amoxicillin; Penta-amoxicillin - 125mg/5ml; Penta-amoxicillin - 250mg Capsules; Penta-amoxicillin - 250mg/5ml; Prevpac; Pro Amox Pwr for Oral Susp 125mg/5ml; Pro Amox-250 Cap 250mg; Pro-amox-125; Pro-amox-250; Pro-amox-500; Ratio-aclavulanate; Ratio-aclavulanate 125 F; Ratio-aclavulanate 250 F; Riva-amoxicillin 125mg/5ml for Oral Suspension; Riva-amoxicillin 250mg/5ml for Oral Suspension; Sandoz Amoxi-clav Tablet; Sandoz Amoxicillin; Talicia
+
+> <INTERNATIONAL_BRANDS>
+Actimoxi; Amoclen; Amolin; Amopen; Amopenixin; Amoxibiotic; AMPC; Apo-Amoxi; Clamoxyl; Efpenix; Flemoxin; Hiconcil; Ibiamox; Imacillin; Larotid; Moxacin; Moxal; Ospamox; Pamoxicillin; Polymox; Trimox; Wymox
+
+> <SALTS>
+Amoxicillin sodium; Amoxicillin Trihydrate
+
+$$$$

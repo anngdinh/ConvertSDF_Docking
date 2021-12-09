@@ -1,0 +1,170 @@
+11217901
+  -OEChem-09151813003D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+    0.7470    2.4276   -0.3750 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8336   -0.3985    0.0436 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7374    0.0874   -0.0047 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7074   -0.0392    0.0079 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5483   -1.0439    0.1148 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8885   -0.9888    0.1196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307    1.3645   -0.1632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3022   -1.1986   -0.4773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4850    1.0010    0.5048 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    0.2912    0.0033 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8228    1.4124   -0.1204 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7610   -2.1964    0.2638 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6917   -1.3194   -0.4655 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8745    0.8803    0.5168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4780   -0.2798    0.0315 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0564   -2.0008    0.2478 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7313   -2.0158   -0.9071 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0620    1.8955    0.9492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6207    0.3342    0.0241 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3031    2.3802   -0.2104 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1734   -3.1164    0.3545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3880   -2.1149    1.1582 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4138   -2.3060   -0.6088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1505   -2.2250   -0.8535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4817    1.6875    0.9176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0776   -1.2639   -0.3275 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06299
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NETTXQJYJRFTFS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CN(C(=O)C=C1)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11NO2/c1-9-2-7-12(15)13(8-9)10-3-5-11(14)6-4-10/h2-8,14H,1H3
+
+> <INCHI_KEY>
+NETTXQJYJRFTFS-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11NO2
+
+> <MOLECULAR_WEIGHT>
+201.225
+
+> <EXACT_MASS>
+201.078978598
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.295401419199713
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-hydroxyphenyl)-5-methyl-1,2-dihydropyridin-2-one
+
+> <ALOGPS_LOGP>
+1.63
+
+> <JCHEM_LOGP>
+1.8382923656666663
+
+> <ALOGPS_LOGS>
+-1.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.297588185569012
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2202280149663123
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.54
+
+> <JCHEM_REFRACTIVITY>
+58.9825
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.15e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-(4-hydroxyphenyl)-5-methylpyridin-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06299
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Hydronidone
+
+> <SYNONYMS>
+N-(4-Hydroxyphenyl)-5-methyl-2-pyridone
+
+$$$$

@@ -1,0 +1,177 @@
+444809
+  -OEChem-02232018103D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+   -1.3710    2.9495   -0.2764 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6178    1.1647   -0.2326 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0392   -2.4299    0.3096 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7703   -2.1707   -0.4776 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8828    0.3157    0.4720 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3305    1.1187    0.1924 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4529   -1.2552   -0.2442 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0105   -1.1608    0.1893 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2379   -0.0326    0.2380 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6146    0.1999   -0.1722 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7009    1.3419    0.2840 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6718   -0.0412   -0.2823 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5070   -1.3389   -1.3370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1054   -1.3600    1.2640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2724   -0.0010    1.3356 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7816    0.2319   -1.2572 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6574    1.3945    1.3786 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6925   -0.0021   -1.3762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2275   -0.9234    0.0492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5069   -3.1878    0.0133 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6945   -2.0773   -0.1896 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2956    1.1367    0.1554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4066    2.9957    0.5741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3443    1.0742    1.1637 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03859
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JUSMHIGDXPKSID-DVKNGEFBSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@H]1O[C@@H](S)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5S/c7-1-2-3(8)4(9)5(10)6(12)11-2/h2-10,12H,1H2/t2-,3-,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+JUSMHIGDXPKSID-DVKNGEFBSA-N
+
+> <FORMULA>
+C6H12O5S
+
+> <MOLECULAR_WEIGHT>
+196.221
+
+> <EXACT_MASS>
+196.040544184
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.022220075820881816
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.289317279723008
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-sulfanyloxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-1.40
+
+> <JCHEM_LOGP>
+-1.9654307136666667
+
+> <ALOGPS_LOGS>
+-0.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.695860462693581
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.643545154822897
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.979745735197704
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+42.14379999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.26e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-vinyl-phenol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03859
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01644
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-thio-beta-D-glucopyranose
+
+> <SYNONYMS>
+1-thio-b-D-glucose; 1-thio-β-D-glucose; beta-D-Thioglucose; β-D-Glc-SH; β-D-Glcp-SH
+
+$$$$

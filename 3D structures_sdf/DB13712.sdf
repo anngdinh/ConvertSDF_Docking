@@ -1,0 +1,154 @@
+10404
+  -OEChem-10061700283D
+
+ 22 21  0     0  0  0  0  0  0999 V2000
+    0.4818    0.8978   -1.2918 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8440    1.7151    0.0573 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6953    2.3103    0.1919 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6746   -0.3717    2.2282 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6756   -0.2346   -0.0757 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5294   -0.4215    0.4659 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1950   -1.5261   -0.4837 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2948    0.0056   -0.6732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1819   -2.5833   -0.0364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4269   -0.9732   -0.9017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9774    0.9011   -0.3654 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4374    0.2805    0.8847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2196   -1.7216   -0.0299 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1084   -1.5541   -1.5752 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7052    1.0030   -0.4837 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6557    0.0258   -1.5616 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8490   -3.5810   -0.3356 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1703   -2.3955   -0.4686 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3016   -2.5618    1.0518 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0318   -0.6777   -1.7634 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0357   -1.9815   -1.0729 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0721   -1.0286   -0.0187 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13712
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FVIGODVHAVLZOO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(=S)SSC(=S)OCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O2S4/c1-3-7-5(9)11-12-6(10)8-4-2/h3-4H2,1-2H3
+
+> <INCHI_KEY>
+FVIGODVHAVLZOO-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10O2S4
+
+> <MOLECULAR_WEIGHT>
+242.38
+
+> <EXACT_MASS>
+241.956364258
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.193099435032963
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethoxy[(ethoxymethanethioyl)disulfanyl]methanethione
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+4.457112089333332
+
+> <ALOGPS_LOGS>
+-4.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.803226692248801
+
+> <JCHEM_POLAR_SURFACE_AREA>
+18.46
+
+> <JCHEM_REFRACTIVITY>
+65.045
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aulin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13712
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dixanthogen
+
+$$$$

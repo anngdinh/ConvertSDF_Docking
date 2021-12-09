@@ -1,0 +1,177 @@
+5541
+  -OEChem-12102016313D
+
+ 29 28  0     0  0  0  0  0  0999 V2000
+    0.0565   -1.3271    0.3135 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4661   -0.0585   -0.2082 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6041    0.9185    0.1580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1720   -2.8597   -0.9026 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5002    1.9626    0.2195 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5522    1.5804   -0.8925 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1667   -0.4215   -0.7870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2315    0.6111   -0.4411 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1901    0.2335   -1.0195 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8466   -2.3372    0.1549 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5243    0.7436    0.1154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8123    1.5525    0.0816 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4006   -2.7304    1.4908 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7487   -0.0931    0.3314 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1161    2.2254    1.3858 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4882   -0.9842   -1.6722 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9606    1.1507    0.4743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3494    1.3255   -1.2642 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9562   -0.5004   -1.2899 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1087    0.9537   -1.8431 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1222   -3.5417    1.3596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5936   -3.0832    2.1378 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9136   -1.8782    1.9438 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9949   -0.6332   -0.5863 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5800   -0.7907    1.1556 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5904    0.5556    0.5906 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3488    2.9721    1.6048 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1675    1.4801    2.1836 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0841    2.7299    1.3171 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16005
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/URAYPUMNDPQOKB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)OCC(COC(C)=O)OC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14O6/c1-6(10)13-4-9(15-8(3)12)5-14-7(2)11/h9H,4-5H2,1-3H3
+
+> <INCHI_KEY>
+URAYPUMNDPQOKB-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H14O6
+
+> <MOLECULAR_WEIGHT>
+218.205
+
+> <EXACT_MASS>
+218.079038171
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.125991795839802
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,3-bis(acetyloxy)propan-2-yl acetate
+
+> <ALOGPS_LOGP>
+0.40
+
+> <JCHEM_LOGP>
+-0.5156377916666666
+
+> <ALOGPS_LOGS>
+-1.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.526940023025307
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.9
+
+> <JCHEM_REFRACTIVITY>
+47.970600000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-arginine; L-aspartic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16005
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Triacetin
+
+> <SYNONYMS>
+1,2,3-Propanetriol triacetate; Glyceryl triacetate; Triacetin; Triacetina; Triacetine; Triacetinum
+
+$$$$

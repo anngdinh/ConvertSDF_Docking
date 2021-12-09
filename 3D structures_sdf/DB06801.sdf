@@ -1,0 +1,196 @@
+3033877
+  -OEChem-12071713363D
+
+ 37 36  0     1  0  0  0  0  0999 V2000
+   -2.0565    0.1099   -0.1833 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3916    1.4220    0.7212 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8998   -1.8284    0.2915 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8481    0.6071   -0.2741 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8196    0.4281   -0.0948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1265   -0.3458    0.0903 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6048   -0.4975    0.0245 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3419    0.5706   -0.0614 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2840    0.2430   -0.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6480   -0.2085    0.0904 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9300   -0.6407   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8587    0.6926   -0.0933 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4613    0.3690   -0.2430 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.2956   -0.5854   -0.0102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8006   -0.3360   -0.0732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7514    1.2234    0.6571 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8140    0.9112   -1.0794 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1400   -0.8147    1.0817 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1819   -1.1531   -0.6502 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6846   -1.3088   -0.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6056   -0.9724    1.0138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160    1.0533   -1.0460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2985    1.3679    0.6904 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2535    0.6570   -1.1982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2113    1.0661    0.5362 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6910   -0.6733    1.0822 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6881   -1.0170   -0.6489 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8661    1.4958    0.6504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8628    1.1462   -1.0895 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7816    0.1154    0.0208 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3884    0.8464   -1.2258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3441   -1.4172   -0.7227 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3286   -0.9798    1.0128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9140   -1.1459   -0.8005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9099   -0.7401    0.9388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4463    1.0232    1.6065 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6872    0.1288   -0.1612 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 36  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 15  1  0  0  0  0
+  4 37  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06801
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GHBFNMLVSPCDGN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCCC(=O)OCC(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H22O4/c1-2-3-4-5-6-7-11(14)15-9-10(13)8-12/h10,12-13H,2-9H2,1H3
+
+> <INCHI_KEY>
+GHBFNMLVSPCDGN-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H22O4
+
+> <MOLECULAR_WEIGHT>
+218.293
+
+> <EXACT_MASS>
+218.151809188
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.383854517881026
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,3-dihydroxypropyl octanoate
+
+> <ALOGPS_LOGP>
+1.51
+
+> <JCHEM_LOGP>
+1.525490559666666
+
+> <ALOGPS_LOGS>
+-1.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.561713304317518
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.619245765321082
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.968684336972288
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+57.299499999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+monoctanoin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06801
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Monoctanoin
+
+> <SYNONYMS>
+1-Monocaprylin; 2,3-Dihydroxypropyl octanoate; Caprylic acid α-monoglyceride; Monooctanoin; Octanoic acid 1-monoglyceride
+
+> <INTERNATIONAL_BRANDS>
+Moctanin
+
+$$$$

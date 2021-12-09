@@ -1,0 +1,173 @@
+28688
+  -OEChem-10061700263D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+    1.7437    2.1637    0.7359 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1667   -1.5677   -0.0955 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1269    0.4880    0.0813 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0792    0.7429   -0.5923 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1330    0.3250   -1.3424 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1778   -0.2494   -0.4372 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1965   -0.1223   -0.3411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2479    2.0013   -0.0651 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2418   -1.8505    0.8065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9226   -0.4768    0.9015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1930    0.5362    0.3859 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4163   -1.4724   -0.7069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6734    3.1587   -0.1126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3887   -0.1129    0.7515 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6011   -2.1192   -0.3453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5757   -1.4445    0.3758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5702    1.1721   -1.8840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8833   -0.4193   -2.1074 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8672   -2.1789    1.7804 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9191   -2.6089    0.4033 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9469   -0.5201    0.5160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9614   -0.1298    1.9394 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4992   -2.2623   -0.4062 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6727   -2.0231   -1.2768 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2388    4.0646    0.3236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9423    3.3955   -1.1474 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5933    2.9390    0.4386 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1572    0.4074    1.3163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7585   -3.1550   -0.6328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4940   -1.9556    0.6519 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13614
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NDNKHWUXXOFHTD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(CC2=NCCN2)C2=CC=CC=C2S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14N2S/c1-9-11(8-13-14-6-7-15-13)10-4-2-3-5-12(10)16-9/h2-5H,6-8H2,1H3,(H,14,15)
+
+> <INCHI_KEY>
+NDNKHWUXXOFHTD-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H14N2S
+
+> <MOLECULAR_WEIGHT>
+230.33
+
+> <EXACT_MASS>
+230.087769633
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.311427226653308
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(2-methyl-1-benzothiophen-3-yl)methyl]-4,5-dihydro-1H-imidazole
+
+> <ALOGPS_LOGP>
+3.29
+
+> <JCHEM_LOGP>
+2.7255257986666668
+
+> <ALOGPS_LOGS>
+-4.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.094654557393058
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.39
+
+> <JCHEM_REFRACTIVITY>
+67.4657
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.33e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-[(2-methyl-1-benzothiophen-3-yl)methyl]-4,5-dihydro-1H-imidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13614
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Metizoline
+
+$$$$

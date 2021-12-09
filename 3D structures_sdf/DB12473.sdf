@@ -1,0 +1,184 @@
+29566
+  -OEChem-10051722473D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+   -4.1379   -0.4562   -0.0938 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1404   -0.4501    0.0855 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5367    0.3010   -1.2642 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0490   -1.3880    0.5401 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5666    0.3615    1.2088 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0367   -1.4107   -0.5258 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1640    0.5323    0.3227 N   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1560    0.5180   -0.3045 N   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.5138    0.6119    1.0954 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4864    0.5608   -1.1372 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0004    1.3604    0.0035 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4891   -0.3514   -0.8094 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5096   -0.3113    0.8596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3080    1.3816    0.6858 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900    1.3492   -0.7351 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6252   -1.3171   -0.4752 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6383   -1.2918    0.5438 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2325    2.0208    0.8498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2299    2.0046   -0.8563 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6342   -0.9786   -1.0862 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7525    0.2405   -1.6960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6598   -0.9215    1.1859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7942    0.3217    1.7105 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5855    2.0598   -0.1311 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0380    2.0067    1.5458 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5861    2.0653    0.0419 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9991    1.9328   -1.6171 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8377   -1.9703   -1.3275 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3740   -1.9457    0.3859 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8720   -1.9040    1.4206 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3668   -1.9604   -0.2803 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4364    0.2250    2.0454 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3864    0.1296   -2.0658 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  9  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 17  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 32  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12473
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AJKIRUJIDFJUKJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=S1(=O)CCN(CN2CCS(=O)(=O)NC2)CN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H16N4O4S2/c12-16(13)3-1-10(5-8-16)7-11-2-4-17(14,15)9-6-11/h8-9H,1-7H2
+
+> <INCHI_KEY>
+AJKIRUJIDFJUKJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H16N4O4S2
+
+> <MOLECULAR_WEIGHT>
+284.35
+
+> <EXACT_MASS>
+284.061297359
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.079476660002886
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[(1,1-dioxo-1lambda6,2,4-thiadiazinan-4-yl)methyl]-1lambda6,2,4-thiadiazinane-1,1-dione
+
+> <ALOGPS_LOGP>
+-2.07
+
+> <JCHEM_LOGP>
+-2.465751423666666
+
+> <ALOGPS_LOGS>
+-1.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.133652621075884
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.531590018011977
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.973166023229091
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.82
+
+> <JCHEM_REFRACTIVITY>
+60.734500000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-[(1,1-dioxo-1lambda6,2,4-thiadiazinan-4-yl)methyl]-1lambda6,2,4-thiadiazinane-1,1-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12473
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Taurolidine
+
+$$$$

@@ -1,0 +1,181 @@
+3034287
+  -OEChem-10051722123D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    4.8712    1.4606   -0.7000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5921    2.9007    1.0669 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.1022    1.9983   -0.8764 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9753   -1.3469    0.3234 N   0  0  3  0  0  0  0  0  0  0  0  0
+   -1.4466    0.1857   -1.5612 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5970    1.3041    0.5331 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6231    1.9545    0.2663 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0861   -1.3899    1.3319 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5232   -2.6540   -0.0317 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4985   -0.1286   -0.1966 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3132   -0.7161    0.7976 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9765   -2.7439    0.3927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2693   -1.4385    0.1035 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5132    0.6359    0.9879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0653    0.7205    0.6929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3980   -0.7862   -0.3801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7585   -0.5299   -2.6091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5134    0.5737   -0.1409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3416   -2.4130    1.6354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2484   -0.8979    2.2540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4456   -2.8165   -1.1110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9677   -3.4761    0.4339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0868   -2.5583    1.4664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6011   -2.0207   -0.1418 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3707   -3.7425    0.1788 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8525    1.0717   -1.8406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1493   -2.5039   -0.0704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8039    1.2497    1.5332 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1235    0.5858    1.7646 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1561   -1.3371   -0.9267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6627    0.1108   -3.4912 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3215   -1.4195   -2.9036 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2476   -0.8239   -2.2973 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+M  CHG  2   2  -1   7   1
+M  END
+> <DATABASE_ID>
+DB11438
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CFRPSFYHXJZSBI-DHZHZOJOSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(=C(NC)N(CC)CC1=CN=C(Cl)C=C1)N(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15ClN4O2/c1-3-15(11(13-2)8-16(17)18)7-9-4-5-10(12)14-6-9/h4-6,8,13H,3,7H2,1-2H3/b11-8+
+
+> <INCHI_KEY>
+CFRPSFYHXJZSBI-DHZHZOJOSA-N
+
+> <FORMULA>
+C11H15ClN4O2
+
+> <MOLECULAR_WEIGHT>
+270.72
+
+> <EXACT_MASS>
+270.0883534
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.519883264556956
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(E)-1-{[(6-chloropyridin-3-yl)methyl](ethyl)amino}-2-nitroethenyl](methyl)amine
+
+> <ALOGPS_LOGP>
+0.57
+
+> <JCHEM_LOGP>
+1.8735555403333335
+
+> <ALOGPS_LOGS>
+-2.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.4998041876101573
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.98
+
+> <JCHEM_REFRACTIVITY>
+80.76529999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.17e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitenpyram
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11438
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Nitenpyram
+
+> <SYNONYMS>
+(1E)-N-((6-chloro-3-pyridinyl)methyl)-N-ethyl-N'-methyl-2-nitro-1,1-ethenediamine; (E)-nitenpyram
+
+$$$$

@@ -1,0 +1,162 @@
+4626
+  -OEChem-12031918133D
+
+ 21 21  0     1  0  0  0  0  0999 V2000
+    2.9583    1.0558   -0.5744 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4298   -2.1536   -0.5644 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1997   -0.5710    1.0863 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0862    0.1594   -0.3062 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4407    0.8524   -0.2252 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1600    0.7435    0.5641 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7467    1.2588    0.3621 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036   -0.7709    0.6563 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7628   -1.0485   -0.1626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2076    0.3239   -0.9332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2994    0.1501    0.0973 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6493    1.1762    1.4406 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2357    1.4276    1.3153 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7046    2.1558   -0.2625 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8061   -1.0891    1.6848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8572   -1.3128    0.2406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2521    1.3057   -1.4140 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3406   -0.4549   -1.6916 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5103    0.7090   -1.3648 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2601    0.8165    0.3720 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5105    1.4275   -1.0587 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 11  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13601
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IHLAQQPQKRMGSS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)CN1CC(O)CC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10N2O3/c7-5(10)3-8-2-4(9)1-6(8)11/h4,9H,1-3H2,(H2,7,10)
+
+> <INCHI_KEY>
+IHLAQQPQKRMGSS-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10N2O3
+
+> <MOLECULAR_WEIGHT>
+158.157
+
+> <EXACT_MASS>
+158.06914219
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.76342345321834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide
+
+> <ALOGPS_LOGP>
+-2.16
+
+> <JCHEM_LOGP>
+-2.6038886850000003
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.910173779608991
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.608332021307978
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7646028942735708
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+36.2689
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.77e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-[(2-ethanimidamidoethyl)sulfanyl]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13601
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Oxiracetam
+
+> <SYNONYMS>
+Oxiracetam; Oxiracetamum
+
+$$$$

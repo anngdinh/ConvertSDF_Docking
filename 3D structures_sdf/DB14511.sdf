@@ -1,0 +1,131 @@
+175
+  -OEChem-07111818493D
+
+  7  6  0     0  0  0  0  0  0999 V2000
+   -0.6906   -1.1195    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.6023    1.1668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4054   -0.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1125    0.0025    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7934    0.4532   -0.8908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7688   -1.0820    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7937    0.4539    0.8902 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+> <DATABASE_ID>
+DB14511
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QTBSBXVTEAMEQO-UHFFFAOYSA-M/SDF?record_type=3d
+
+> <SMILES>
+CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1
+
+> <INCHI_KEY>
+QTBSBXVTEAMEQO-UHFFFAOYSA-M
+
+> <FORMULA>
+C2H3O2
+
+> <MOLECULAR_WEIGHT>
+59.044
+
+> <EXACT_MASS>
+59.01330434
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+4.955986793934291
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+acetate
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+-0.2233457143333334
+
+> <ALOGPS_LOGS>
+0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.543439679000835
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.129999999999995
+
+> <JCHEM_REFRACTIVITY>
+23.480800000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.90e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14511
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Acetate
+
+> <SYNONYMS>
+Acetate; Acetate anion; Acetate ion; Acetate ion (1-); Acetic acid anion; Acetic acid, ion(1-); Acetoxy ion; Azetat
+
+> <PRODUCTS>
+Trinatal Rx 1; V-Natal; Virt-Bal DHA Plus
+
+$$$$

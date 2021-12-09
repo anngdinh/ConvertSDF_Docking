@@ -1,0 +1,124 @@
+24478
+  -OEChem-10061700093D
+
+  7  6  0     0  0  0  0  0  0999 V2000
+    0.0539    0.0001    0.0694 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7358   -0.0001   -0.3618 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7485   -1.3034   -0.6060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7491    1.3017   -0.6087 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1843    0.0017    1.5071 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8045   -1.2920   -1.5903 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8051    1.2883   -1.5929 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09499
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DHCDFWKWKRSZHF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(O)(=O)=S
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H2O3S2/c1-5(2,3)4/h(H2,1,2,3,4)
+
+> <INCHI_KEY>
+DHCDFWKWKRSZHF-UHFFFAOYSA-N
+
+> <FORMULA>
+H2O3S2
+
+> <MOLECULAR_WEIGHT>
+114.144
+
+> <EXACT_MASS>
+113.94453531
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.511996271743202
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+dihydroxy-1λ⁶-disulfen-1-one
+
+> <JCHEM_LOGP>
+0.04831756099999998
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.71902944299805
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.351257397321387
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+21.7617
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thiosulfuric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09499
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Thiosulfuric acid
+
+> <SYNONYMS>
+Monosulfanemonosulfonic acid; Sulfurothioic S-acid
+
+> <PRODUCTS>
+Adasept Acne Gel; Nithiodote; Oligostim Soufre; Seacalphyx; Sodium Polysulthionate and Folic Acid; Sodium Polysulthionate, 5-methyltetrahydrofolate; Sodium Polysulthionate, 5-mthf; Sodium Thiosulfate; Sodium Thiosulfate Inj 25% USP; Sodium Thiosulfate Injection USP; Sodium polysulthionate and folic acid; Sodium polysulthionate, 5-methyltetrahydrofolate; Sodum Thiosulfate; Sulfzix; Xizflus
+
+> <SALTS>
+Sodium thiosulfate; Sodium thiosulfate pentahydrate
+
+$$$$

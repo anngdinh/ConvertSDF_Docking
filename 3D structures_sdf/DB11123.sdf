@@ -1,0 +1,115 @@
+61739
+  -OEChem-10061700103D
+
+  2  1  0     0  0  0  0  0  0999 V2000
+    0.8369    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8369    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <DATABASE_ID>
+DB11123
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WQYVRQLZKVEZGA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-]Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/ClO/c1-2/q-1
+
+> <INCHI_KEY>
+WQYVRQLZKVEZGA-UHFFFAOYSA-N
+
+> <FORMULA>
+ClO
+
+> <MOLECULAR_WEIGHT>
+51.452
+
+> <EXACT_MASS>
+50.963767329
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+3.1460209162753303
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hypochlorite
+
+> <JCHEM_LOGP>
+0.31819389766666667
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.130967255257815
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.9285149225502325
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.06
+
+> <JCHEM_REFRACTIVITY>
+7.5792
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hypochlorite
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11123
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Hypochlorite
+
+> <SYNONYMS>
+Hypochlorit
+
+> <PRODUCTS>
+(Qiqing) Sodium Hypochlorite Disinfectant; 84 Disinfectant; Daily Doctor Sterilization Plus; Dakin's Solution 0.5% Modified; Dakins Full; Dakins Half; Dakins Quarter; Di-Dak-Sol; Disinfectant; Disinfection Wash Free Hand Sanitizer; Exsept; Exsept (0.114%); HANNA DISINFECTANTspray; NaOClean E-Water; QIAN BAO Disinfectant; SUPERCLEAN Micro Acid Hypochlorite Disinfectant; Sodium hypochlorite disinfectant; TongYi CleanGuard 84 Disinfectant; Wash free disinfectant
+
+> <SALTS>
+Sodium hypochlorite
+
+$$$$

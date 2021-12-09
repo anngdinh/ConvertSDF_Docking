@@ -1,0 +1,169 @@
+5603
+  -OEChem-10061700173D
+
+ 25 24  0     1  0  0  0  0  0999 V2000
+    2.4582    1.3381   -0.2846 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8941   -0.5716   -0.1372 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3125    0.2900    0.2568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2359    0.0244    0.3207 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6264   -0.3798   -0.1545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8646    0.4498    0.1919 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3904   -0.9089   -0.0426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1752   -0.2420   -0.1505 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8994   -0.7113   -1.2264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7790   -1.5690    0.3062 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3095    0.4571    1.3405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2563    1.2718   -0.2262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2212    0.1436    1.4109 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6157   -0.5707   -1.2348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7010   -1.3571    0.3387 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8588    0.6794    1.2641 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8189    1.4085   -0.3383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2548   -1.8910    0.4231 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3472   -0.5060    0.3078 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -1.0567   -1.1261 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3723    1.6932   -0.0062 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7781    2.0061    0.0743 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2338   -0.4573   -1.2220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0234    0.3960    0.1166 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2725   -1.1857    0.3954 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 21  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13238
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VSRBKQFNFZQRBM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCC(C)N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H17N/c1-3-4-5-6-7(2)8/h7H,3-6,8H2,1-2H3
+
+> <INCHI_KEY>
+VSRBKQFNFZQRBM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H17N
+
+> <MOLECULAR_WEIGHT>
+115.22
+
+> <EXACT_MASS>
+115.136099551
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.626294198064134
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+heptan-2-amine
+
+> <ALOGPS_LOGP>
+2.46
+
+> <JCHEM_LOGP>
+2.004152504
+
+> <ALOGPS_LOGS>
+-1.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.430856124035103
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.02
+
+> <JCHEM_REFRACTIVITY>
+37.413199999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.29e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tuaminoheptane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13238
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tuaminoheptane
+
+> <SYNONYMS>
+1-Methylhexylamine; 2-Aminoheptane; 2-Heptanamine; 2-Heptylamine; Tuaminoheptano; Tuaminoheptanum
+
+> <INTERNATIONAL_BRANDS>
+Heptadrine; Heptin; Tuamine
+
+> <SALTS>
+Tuaminoheptane sulfate
+
+$$$$

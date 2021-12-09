@@ -1,0 +1,166 @@
+94335
+  -OEChem-06211812553D
+
+ 22 21  0     1  0  0  0  0  0999 V2000
+    1.2109   -1.3725    0.3234 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5290    0.0580   -0.2387 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1704    0.6132    0.1541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4183   -0.1796   -0.2492 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1315   -0.0764   -0.2688 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.6945    0.5197    0.2212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3465    0.7189    0.1993 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9347   -0.2813   -0.1413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2144    1.6173   -0.2847 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1768    0.7315    1.2454 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4410   -0.2978   -1.3393 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3782   -1.1857    0.1845 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -0.2126   -1.3559 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6643    0.6596    1.3080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7620    1.5152   -0.2327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3389    1.7317   -0.2152 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3836    0.7728    1.2925 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9138   -1.2707    0.3268 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8350    0.2379    0.2022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0122   -0.4151   -1.2250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0498   -1.7731    0.0378 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2829    0.5866    0.0742 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14108
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FHKSXSQHXQEMOK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCC(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O2/c1-2-3-4-6(8)5-7/h6-8H,2-5H2,1H3
+
+> <INCHI_KEY>
+FHKSXSQHXQEMOK-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H14O2
+
+> <MOLECULAR_WEIGHT>
+118.176
+
+> <EXACT_MASS>
+118.099379691
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.019554070220238
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexane-1,2-diol
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+0.619555669
+
+> <ALOGPS_LOGS>
+0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.798602562015496
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.269176231202316
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9356648133326635
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+32.6984
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.78e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,2-hexanediol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14108
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,2-Hexanediol
+
+> <SYNONYMS>
+1,2-Dihydroxyhexane; 5,6-Dihydroxyhexane; DL-1,2-Hexanediol; DL-Hexane-1,2-diol
+
+> <PRODUCTS>
+Dr.G AQUASIS WATER VITAL SLEEPING MASK
+
+$$$$

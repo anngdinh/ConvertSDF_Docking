@@ -1,0 +1,173 @@
+10921747
+  -OEChem-10061700163D
+
+ 29 30  0     1  0  0  0  0  0999 V2000
+   -1.9550   -1.0460   -0.7449 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6542    1.2723    0.8587 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7884   -1.9847    1.0143 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2250    2.2292   -1.1650 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6982   -1.3163   -0.0850 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9302    0.8849   -0.4156 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3814   -0.9428   -0.8148 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5380    0.5938   -1.0365 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6881   -0.3912   -0.8068 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7406   -0.6595    1.2758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8798    0.6589    1.0781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8307   -1.3945   -0.0567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5497    1.4670   -0.4867 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1925   -1.4197   -0.1308 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6608    2.0488    1.5160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9677   -2.3736   -0.0915 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4050    1.8183   -0.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3708   -1.4535   -1.7876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5904    0.7797   -2.1182 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7073   -0.4377   -0.4016 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7291   -0.5578   -1.8894 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6434   -1.1565    2.2278 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9198    1.4209    1.8403 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2577   -2.5084   -0.0447 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0080   -1.0677   -0.7681 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2862   -0.9474    0.8517 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4394    3.1157    1.4164 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6533    1.7855    2.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6476    1.8177    1.1040 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13204
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VGQLNJWOULYVFV-SPJNRGJMSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC(=O)[C@H]1[C@@H]2C[C@@H](C=C2)[C@H]1C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14O4/c1-14-10(12)8-6-3-4-7(5-6)9(8)11(13)15-2/h3-4,6-9H,5H2,1-2H3/t6-,7+,8-,9+
+
+> <INCHI_KEY>
+VGQLNJWOULYVFV-SPJNRGJMSA-N
+
+> <FORMULA>
+C11H14O4
+
+> <MOLECULAR_WEIGHT>
+210.229
+
+> <EXACT_MASS>
+210.089208931
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.075787752727003
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,3-dimethyl (1R,2S,3R,4S)-bicyclo[2.2.1]hept-5-ene-2,3-dicarboxylate
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+0.7085110969999997
+
+> <ALOGPS_LOGS>
+-1.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.777529634114734
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+53.43460000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.92e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl carbate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13204
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dimethyl carbate
+
+> <SYNONYMS>
+Dimethylcarbate
+
+$$$$

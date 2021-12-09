@@ -1,0 +1,155 @@
+5917
+  -OEChem-10061700213D
+
+ 20 21  0     0  0  0  0  0  0999 V2000
+    0.5670   -0.6406    0.2123 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7833   -1.1053   -0.1106 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7784    1.1230   -0.1339 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5185   -0.0217   -0.3213 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5301   -0.0484   -0.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7372   -1.3209   -0.3878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8057    1.2614   -0.4024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5245   -1.5321    0.5145 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6164    1.5602    0.5089 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5668    0.7243    0.1975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8388   -0.0508    0.9753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4537   -0.0766   -0.6693 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4122   -2.1751   -0.2528 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4342   -1.3209   -1.4422 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5311    2.0768   -0.2867 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4965    1.2644   -1.4551 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7795   -1.3938    1.5710 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1566   -2.5577    0.3931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8968    1.4350    1.5613 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3372    2.6135    0.3826 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13415
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CWRVKFFCRWGWCS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1CCN2N=NN=C2CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10N4/c1-2-4-6-7-8-9-10(6)5-3-1/h1-5H2
+
+> <INCHI_KEY>
+CWRVKFFCRWGWCS-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10N4
+
+> <MOLECULAR_WEIGHT>
+138.174
+
+> <EXACT_MASS>
+138.090546338
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.145065901697196
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5H,6H,7H,8H,9H-[1,2,3,4]tetrazolo[1,5-a]azepine
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.5919167299999999
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.45121228463311536
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.6
+
+> <JCHEM_REFRACTIVITY>
+50.0726
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.51e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cardiol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13415
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pentetrazol
+
+> <SYNONYMS>
+Pentetrazol; Pentylenetetrazol
+
+$$$$

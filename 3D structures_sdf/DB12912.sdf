@@ -1,0 +1,180 @@
+108189
+  -OEChem-10051722553D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+   -1.2964   -0.4924   -1.7280 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5499    1.6051   -1.6413 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2870    0.0008    0.7994 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5108    1.8022   -0.5507 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5384    1.9147    0.6194 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0645    1.4927    1.3287 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1822   -0.2746   -0.3380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1714   -0.7870    0.5109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0498   -1.0309   -0.6520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0930   -2.3094   -0.1128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0177   -2.0691    1.0449 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8879   -2.8274    0.7333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3723    1.0942   -0.8929 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2711   -3.1924   -0.3913 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3919    1.2580    0.2481 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3748    0.2812   -0.5381 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9231    1.3589    0.2146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6694   -0.1922   -0.3594 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7994    1.9245    1.1267 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4675    0.4429    0.5784 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7736   -2.4856    1.7059 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7926   -3.8211    1.1637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0012   -0.3709    1.4137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4084   -3.3480   -1.4664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1390   -4.1907    0.0425 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1828   -2.7801    0.0507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9362    1.7857    0.1410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0597   -1.0304   -0.9273 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2170    1.4859    1.2392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7393    2.8502    0.2831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4964    2.7670    1.7399 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4856    0.1124    0.7562 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 29  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 19  2  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12912
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XHWRWCSCBDLOLM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C2N=C(N)NC(=O)C2=C1SC1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12N4OS/c1-8-2-3-10-11(13(19)18-14(15)17-10)12(8)20-9-4-6-16-7-5-9/h2-7H,1H3,(H3,15,17,18,19)
+
+> <INCHI_KEY>
+XHWRWCSCBDLOLM-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12N4OS
+
+> <MOLECULAR_WEIGHT>
+284.34
+
+> <EXACT_MASS>
+284.073182196
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.753790404406505
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-6-methyl-5-(pyridin-4-ylsulfanyl)-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+1.90
+
+> <JCHEM_LOGP>
+1.981560060333333
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.233814050857148
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.656540616498878
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.37
+
+> <JCHEM_REFRACTIVITY>
+81.75710000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.86e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-6-methyl-5-(pyridin-4-ylsulfanyl)-3H-quinazolin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12912
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Nolatrexed
+
+$$$$

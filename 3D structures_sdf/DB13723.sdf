@@ -1,0 +1,162 @@
+123868
+  -OEChem-10061700293D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+   -3.8703   -0.6676    0.0135 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.6851    1.2834   -0.0126 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2129    0.0230    0.0010 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9602   -0.6969    0.0345 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2769   -1.0653   -0.0532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3697    0.8421    1.2635 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2824    0.8652   -1.2540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2410    0.1323    0.0248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4890   -0.7411   -0.0140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8165    0.0251   -0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9409   -1.3083    0.8516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1196   -1.6722   -0.9515 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2575   -0.5810   -0.0951 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2054   -1.6817    0.8495 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1974    0.2010    2.1341 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3920    1.2331    1.2844 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6690    1.6814    1.2470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3124    1.2199   -1.3637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0059    0.2513   -2.1174 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6242    1.7330   -1.1539 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2660    0.7850   -0.8534 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2855    0.7662    0.9169 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4776   -1.3665   -0.9158 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4972   -1.4168    0.8510 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+M  CHG  2   1  -1   3   1
+M  END
+> <DATABASE_ID>
+DB13723
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PVBQYTCFVWZSJK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)NCCC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2O2/c1-8(2,3)7-5-4-6(9)10/h7H,4-5H2,1-3H3
+
+> <INCHI_KEY>
+PVBQYTCFVWZSJK-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H14N2O2
+
+> <MOLECULAR_WEIGHT>
+146.19
+
+> <EXACT_MASS>
+146.105527699
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.61739062376122
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-(2,2,2-trimethylhydrazin-2-ium-1-yl)propanoate
+
+> <ALOGPS_LOGP>
+-2.65
+
+> <JCHEM_LOGP>
+-1.374387106471746
+
+> <ALOGPS_LOGS>
+-0.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.13850892746921
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.16
+
+> <JCHEM_REFRACTIVITY>
+61.82280000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.02e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(2,2,2-trimethylhydrazin-2-ium-1-yl)propanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13723
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Meldonium
+
+> <SYNONYMS>
+Meldonium
+
+$$$$

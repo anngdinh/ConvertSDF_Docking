@@ -1,0 +1,162 @@
+219105
+  -OEChem-10061700283D
+
+ 24 24  0     1  0  0  0  0  0999 V2000
+    2.7651    1.8343    0.1582 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8849   -0.0640    0.1765 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5068   -0.0334   -0.3225 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5386   -0.3832    0.8222 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0896   -0.4184    0.3991 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2399    1.3511   -0.9135 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6686    0.7387    0.4771 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4551   -1.6075   -0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0074    0.7061    0.0868 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7937   -1.6402   -0.4490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5699   -0.4835   -0.3762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4134   -0.7781   -1.1224 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8054   -1.3603    1.2490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6538    0.3316    1.6491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2814    1.3843   -1.4403 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2392    2.1276   -0.1405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0074    1.6156   -1.6507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2307    1.6636    0.8430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1420   -2.5126   -0.1212 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0997   -0.9955    0.5301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5324    0.1071   -0.5918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2317   -2.5662   -0.8101 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6122   -0.5155   -0.6816 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2165    2.5616    0.4987 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 24  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13703
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WTDGMHYYGNJEKQ-ZETCQYMHSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](C)(N)CC1=CC(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO/c1-7(10)5-8-3-2-4-9(11)6-8/h2-4,6-7,11H,5,10H2,1H3/t7-/m0/s1
+
+> <INCHI_KEY>
+WTDGMHYYGNJEKQ-ZETCQYMHSA-N
+
+> <FORMULA>
+C9H13NO
+
+> <MOLECULAR_WEIGHT>
+151.209
+
+> <EXACT_MASS>
+151.099714043
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.00227441918455
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[(2S)-2-aminopropyl]phenol
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+0.9693837607914428
+
+> <ALOGPS_LOGS>
+-1.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.359087806710237
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.706903506314644
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+45.686099999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+gepefrine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13703
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Gepefrine
+
+$$$$

@@ -1,0 +1,160 @@
+6526
+  -OEChem-10061700253D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+   -0.6780    0.0467   -0.8438 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4110   -0.7810    1.1754 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8508   -0.4566   -0.5877 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6570    0.1251   -0.3233 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6226    1.0815    0.8874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1012   -1.3117    0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5450    0.6773   -1.4461 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0888    2.4775    0.6027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5452   -1.4311    0.4956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6199   -0.4276    0.0197 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0922    0.6818    1.7540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6528    1.2100    1.2464 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9660   -1.9525   -0.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4937   -1.7782    0.7979 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6355   -0.0473   -2.2639 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5495    0.9312   -1.0943 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1028    1.5729   -1.8966 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9421    2.4497    0.2382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0994    3.0740    1.5213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7037    3.0042   -0.1327 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7213   -0.8421    1.4000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7702   -2.4762    0.7344 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554   -1.1154   -0.2736 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9733   -0.1528   -1.5477 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6756   -0.7821   -0.0950 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 24  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13572
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SLWGJZPKHAXZQL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC(C)(CC)OC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H15NO2/c1-4-7(3,5-2)10-6(8)9/h4-5H2,1-3H3,(H2,8,9)
+
+> <INCHI_KEY>
+SLWGJZPKHAXZQL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H15NO2
+
+> <MOLECULAR_WEIGHT>
+145.202
+
+> <EXACT_MASS>
+145.110278727
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.060505045185963
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylpentan-3-yl carbamate
+
+> <ALOGPS_LOGP>
+1.66
+
+> <JCHEM_LOGP>
+1.6880072456666668
+
+> <ALOGPS_LOGS>
+-1.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.928084112624283
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+38.9431
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.38e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methyl-3-pentanol carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13572
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Emylcamate
+
+$$$$

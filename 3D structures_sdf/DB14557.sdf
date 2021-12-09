@@ -1,0 +1,198 @@
+9859093
+  -OEChem-07201812073D
+
+ 38 37  0     1  0  0  0  0  0999 V2000
+    1.1831   -0.0490    0.0969 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6112   -0.8503    1.2794 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9924    0.0286    0.1042 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2401    0.0132    0.2419 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5110   -0.4090   -0.5252 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2625    1.4696    0.7576 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0123   -0.2821   -0.6352 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7894   -0.3305    0.3157 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0416   -0.7675   -0.4495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4050    2.5355   -0.3202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3369   -0.3236   -0.6864 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5941   -0.0155    0.1190 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.3106   -0.7165    0.3874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8550   -0.3028   -0.6855 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1571   -0.6227    1.1347 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6274    0.1989   -1.4303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3923   -1.4457   -0.8669 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3397    1.6667    1.3174 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0745    1.5911    1.4834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0225    0.3359   -1.5402 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0313   -1.3341   -0.9463 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6737   -0.9570    1.2085 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9459    0.6964    0.6634 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9033   -1.7908   -0.8181 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1711   -0.1270   -1.3301 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3450    2.4305   -0.8691 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5773    2.5023   -1.0340 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4026    3.5294    0.1396 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3228   -1.3840   -0.9663 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3182    0.2872   -1.5965 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5783    1.0195    0.4782 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2308   -1.3758    1.2575 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5025    0.3006    0.7435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1714   -1.0383   -0.2069 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9265   -1.3657   -0.9393 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8822    0.2936   -1.6027 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4243   -0.6464    1.7725 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7787   -0.1650   -0.4342 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 37  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 38  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 14 36  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14557
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NCZPCONIKBICGS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCC(CC)COCC(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H24O3/c1-3-5-6-10(4-2)8-14-9-11(13)7-12/h10-13H,3-9H2,1-2H3
+
+> <INCHI_KEY>
+NCZPCONIKBICGS-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H24O3
+
+> <MOLECULAR_WEIGHT>
+204.31
+
+> <EXACT_MASS>
+204.172544633
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.09500052047827
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(2-ethylhexyl)oxy]propane-1,2-diol
+
+> <ALOGPS_LOGP>
+2.14
+
+> <JCHEM_LOGP>
+1.8266903170000002
+
+> <ALOGPS_LOGS>
+-1.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.565282078933915
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.641513993278995
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9681926924527513
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.69
+
+> <JCHEM_REFRACTIVITY>
+57.415499999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.73e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethylhexylglycerin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14557
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylhexylglycerin
+
+> <SYNONYMS>
+3-(2-Ethylhexyloxy)propane-1,2-diol; Octoxyglycerin
+
+> <PRODUCTS>
+Cluederm Aqua Solution Cleansys; Disinfectant Cleaning Wipes; Disinfecting Wipes; Lady Goong
+
+$$$$

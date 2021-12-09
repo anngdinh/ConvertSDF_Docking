@@ -1,0 +1,199 @@
+71771
+  -OEChem-10051723003D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+   -1.3570    1.3844   -2.3916 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0017    0.3061    2.7011 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.3386    0.1594    0.4052 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0993   -0.6106   -1.3813 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2362    2.0411   -0.5756 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4296    1.5305    1.4924 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1559    0.0707    0.3213 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2775   -1.9041    0.3640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9545   -1.3085    0.0938 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4201   -1.1058    0.9019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4589   -3.2676    0.1323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0053   -2.0764   -0.4080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2686    0.9130    0.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5919   -4.0356   -0.3695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8241   -3.4399   -0.6395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2984   -0.5079   -0.1784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4634    1.5743   -1.0776 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1915    1.0967    1.1761 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5670    2.4081   -1.2576 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2951    1.9305    0.9962 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4830    2.5861   -0.2206 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2570    0.7812   -0.4994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3435    1.4744    0.2748 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0814   -0.3140    1.5784 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0560   -1.7628    1.5105 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3004    0.6097    0.4095 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4138   -3.7455    0.3351 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9758   -1.6401   -0.6281 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4506   -5.0971   -0.5507 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6420   -4.0381   -1.0304 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7284    2.9264   -2.1994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0184    2.0803    1.7939 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3424    3.2353   -0.3607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7139    0.0139   -1.1332 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7252    1.5270   -1.0997 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9578    2.5009   -0.0958 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 23  1  0  0  0  0
+  5 36  1  0  0  0  0
+  6 23  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06736
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MNIPYSSQXLZQLJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)COC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H13Cl2NO4/c17-11-5-3-6-12(18)16(11)19-13-7-2-1-4-10(13)8-15(22)23-9-14(20)21/h1-7,19H,8-9H2,(H,20,21)
+
+> <INCHI_KEY>
+MNIPYSSQXLZQLJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H13Cl2NO4
+
+> <MOLECULAR_WEIGHT>
+354.18
+
+> <EXACT_MASS>
+353.0221633
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.75908110296551
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(2-{2-[(2,6-dichlorophenyl)amino]phenyl}acetyl)oxy]acetic acid
+
+> <ALOGPS_LOGP>
+4.88
+
+> <JCHEM_LOGP>
+3.8828865976666664
+
+> <ALOGPS_LOGS>
+-5.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.40179059368963
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4446704448058862
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.0761521343301212
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+86.3151
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aceclofenac
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06736
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Aceclofenac
+
+> <SYNONYMS>
+2-[(2,6-dichlorophenyl)amino]benzeneacetic acid carboxymethyl ester; 2-[(2,6-dichlorophenyl)amino]phenylacetoxyacetic acid; 2-[(2',6'-dichlorophenyl)amino]phenylacetoxyacetic acid; Acéclofénac; Aceclofenac; Aceclofenac betadex; Aceclofenaco; Aceclofenacum; glycolic acid [o-(2,6-dichloroanilino)phenyl]acetate ester
+
+> <PRODUCTS>
+Clanza CR
+
+> <INTERNATIONAL_BRANDS>
+Cincofen; Clanza; Hifenac
+
+$$$$

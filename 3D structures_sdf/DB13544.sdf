@@ -1,0 +1,166 @@
+3282
+  -OEChem-11281910283D
+
+ 23 23  0     0  0  0  0  0  0999 V2000
+   -1.4292    0.5540   -0.5341 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1668   -1.9738   -0.3009 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8584   -2.9302    0.1916 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0938    0.6360   -0.2739 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6609   -0.5125   -0.0343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5176    1.8896   -0.2507 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0268   -0.4071    0.2285 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3063    1.2319    0.3628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8834    1.9949    0.0120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6379    0.8466    0.2516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0428   -1.8309   -0.0551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6317    0.5015    0.4027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0548    2.7928   -0.4443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6787   -1.2496    0.4229 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8841    1.2682    1.3748 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4575    2.2564    0.0058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3598    2.9708    0.0279 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7016    0.9299    0.4554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3379    1.0095    1.0653 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0688    0.4396   -0.5994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4958   -0.5263    0.7548 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8488   -2.9091    0.3957 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4515   -3.8603    0.1754 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13544
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SBNKFTQSBPKMBZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC1=C(C=CC=C1)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO2/c1-2-12-8-6-4-3-5-7(8)9(10)11/h3-6H,2H2,1H3,(H2,10,11)
+
+> <INCHI_KEY>
+SBNKFTQSBPKMBZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H11NO2
+
+> <MOLECULAR_WEIGHT>
+165.192
+
+> <EXACT_MASS>
+165.078978598
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.289829220536888
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-ethoxybenzamide
+
+> <ALOGPS_LOGP>
+1.23
+
+> <JCHEM_LOGP>
+1.0230227993333332
+
+> <ALOGPS_LOGS>
+-1.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.684025964947653
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9298191078608672
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+46.348200000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iodoxamate meglumine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13544
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethenzamide
+
+> <SYNONYMS>
+Etenzamida; Etenzamide; Ethbenzamide; Ethenzamide; éthenzamide; Ethenzamidum; o-Ethoxybenzamide
+
+> <PRODUCTS>
+Penzal Q
+
+$$$$

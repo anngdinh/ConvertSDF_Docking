@@ -1,0 +1,153 @@
+69590
+  -OEChem-10051723573D
+
+ 19 20  0     0  0  0  0  0  0999 V2000
+    1.7730   -1.0209    0.3675 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1983    0.5825   -0.2068 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4336    0.0239   -0.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0090    0.0431   -0.0144 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1468    1.2026    0.2088 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1150   -1.1746   -0.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9072    1.0204   -0.3641 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5416    1.1829    0.2150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5097   -1.1943   -0.2147 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0822   -0.6500    0.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2230   -0.0155    0.0031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6399    2.1487    0.3823 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5888   -2.1079   -0.4044 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4452   -1.9183    0.7001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7022    2.0183   -0.7254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0972    2.1003    0.3860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0408   -2.1269   -0.3821 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8957   -1.3188    0.4777 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3089   -0.0309    0.0076 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03254
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XHLKOHSAWQPOFO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+N1C=NC=C1C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2/c1-2-4-8(5-3-1)9-6-10-7-11-9/h1-7H,(H,10,11)
+
+> <INCHI_KEY>
+XHLKOHSAWQPOFO-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N2
+
+> <MOLECULAR_WEIGHT>
+144.1732
+
+> <EXACT_MASS>
+144.068748266
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.464738644839336
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-phenyl-1H-imidazole
+
+> <ALOGPS_LOGP>
+1.62
+
+> <JCHEM_LOGP>
+1.4220022786666668
+
+> <ALOGPS_LOGS>
+-0.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.318730034410944
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.616904692481202
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+44.02649999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.89e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-phenyl-3H-imidazole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03254
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02601
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Phenyl-1h-Imidazole
+
+$$$$

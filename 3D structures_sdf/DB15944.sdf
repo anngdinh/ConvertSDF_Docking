@@ -1,0 +1,181 @@
+8536
+  -OEChem-11252016453D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -2.9079   -0.1658    0.1778 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4924   -0.5661    1.6997 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7409   -2.1112    0.0280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3523   -1.3452   -0.5237 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6617    1.0642    0.1955 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1053    2.9219    0.0579 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2500    0.2189   -0.3896 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7778    1.4740    0.3426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3316   -0.9590   -0.0856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3003    0.4299   -1.9080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1245   -0.6886    0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6842    1.7712    0.1220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6116    0.6203    0.0656 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0213   -1.7641   -0.0091 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9918    0.8518    0.1037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3960   -1.5287    0.0347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8802   -0.2235    0.0876 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9160    1.3962    1.4280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3495    2.3476    0.0053 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6251   -0.4791   -2.4275 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9988    1.2301   -2.1769 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3187    0.6931   -2.3166 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6711   -2.7915   -0.0615 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3943    1.8599    0.1555 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1750   -1.4909    1.8271 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0896   -2.3645    0.0232 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508   -0.0430    0.1203 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3  9  2  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15944
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WIXFIQKTHUVFDI-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1(CC(=O)C2=C(C=CC=C2)C1=O)S(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10O5S/c1-11(17(14,15)16)6-9(12)7-4-2-3-5-8(7)10(11)13/h2-5H,6H2,1H3,(H,14,15,16)
+
+> <INCHI_KEY>
+WIXFIQKTHUVFDI-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10O5S
+
+> <MOLECULAR_WEIGHT>
+254.26
+
+> <EXACT_MASS>
+254.024894596
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0000000162601999
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.265966368176933
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-1,4-dioxo-1,2,3,4-tetrahydronaphthalene-2-sulfonic acid
+
+> <ALOGPS_LOGP>
+-0.47
+
+> <JCHEM_LOGP>
+0.8691278926666667
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.70703564488432
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.4721387051475514
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.437532857054727
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.50999999999999
+
+> <JCHEM_REFRACTIVITY>
+59.80630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fimasartan potassium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15944
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Menadione bisulfite
+
+> <SALTS>
+Menadione sodium bisulfite anhydrous; Menadione sodium bisulfite trihydrate
+
+$$$$

@@ -1,0 +1,163 @@
+125766
+  -OEChem-05201911103D
+
+ 22 21  0     1  0  0  0  0  0999 V2000
+   -1.7090   -1.2303   -0.8029 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1782   -1.3988    0.8156 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5331    1.3689   -0.8506 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5435    1.1446    0.8833 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7369    0.3502   -0.0726 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9951   -0.3967   -0.1905 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2838    0.3921    0.1603 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2962    0.4168   -0.3156 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5163   -0.4984    0.3267 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5063   -0.4708   -0.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7402    0.3225    0.6422 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8430   -0.9133   -1.1474 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1201    0.9333    1.1009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1933    1.1489   -1.1238 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3881   -1.2038    1.1536 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4039    0.1455   -0.7170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7103   -1.1514    0.2375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3644   -1.0591   -1.5074 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5490   -2.1175    0.6354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2138    1.9780   -0.5183 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6997    0.9025    1.5803 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5877    0.5046    1.6144 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15302
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SQTFKIKSQNCWGJ-KCDKBNATSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H](O)[C@@H](O)[C@@H](O)[C@H](F)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11FO4/c1-3(9)5(10)6(11)4(7)2-8/h2-6,9-11H,1H3/t3-,4+,5+,6-/m0/s1
+
+> <INCHI_KEY>
+SQTFKIKSQNCWGJ-KCDKBNATSA-N
+
+> <FORMULA>
+C6H11FO4
+
+> <MOLECULAR_WEIGHT>
+166.148
+
+> <EXACT_MASS>
+166.064136997
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.490697270932333
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4R,5S)-2-fluoro-3,4,5-trihydroxyhexanal
+
+> <ALOGPS_LOGP>
+-0.97
+
+> <JCHEM_LOGP>
+-1.6303588223333332
+
+> <ALOGPS_LOGS>
+-0.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.875313665082809
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.305223362885359
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.049282659971544
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+34.1098
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.15e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15302
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+2-fluorofucose
+
+> <SYNONYMS>
+SGN-2FF
+
+$$$$

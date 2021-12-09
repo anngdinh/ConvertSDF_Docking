@@ -1,0 +1,172 @@
+93086
+  -OEChem-12102015463D
+
+ 23 23  0     0  0  0  0  0  0999 V2000
+    0.7799    0.4227   -0.7149 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7770   -2.5831   -0.9802 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924    1.0048    0.7701 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2431   -0.7228   -0.5111 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1508   -2.3015    1.2078 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5249    0.5810   -0.3543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3033   -0.5154    0.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0798    1.8609   -0.3583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6364   -0.3318    0.3845 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4129    2.0444    0.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1911    0.9481    0.3804 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7555    1.1096    0.0658 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7434   -1.8596    0.0295 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0486    0.3427    0.0545 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4889    2.7237   -0.6531 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2532   -1.1783    0.6757 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8455    3.0405    0.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2292    1.0910    0.6659 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9283    2.0967   -0.3749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4257    1.2033    1.1076 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1064   -1.7211    2.0394 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2606   -3.2267    1.2701 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8482    0.5255    0.7789 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 13  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16000
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RLISWLLILOTWGG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=C(OCC(O)=O)C=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO4/c10-9(13)6-3-1-2-4-7(6)14-5-8(11)12/h1-4H,5H2,(H2,10,13)(H,11,12)
+
+> <INCHI_KEY>
+RLISWLLILOTWGG-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H9NO4
+
+> <MOLECULAR_WEIGHT>
+195.174
+
+> <EXACT_MASS>
+195.053157774
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9998143349834029
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.278096618487844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-carbamoylphenoxy)acetic acid
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+0.14419815299999997
+
+> <ALOGPS_LOGS>
+-2.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.687899894010368
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.269294237039767
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9397051103666652
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.62
+
+> <JCHEM_REFRACTIVITY>
+47.684200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-arginine; L-aspartic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16000
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Salicylamide O-acetic acid
+
+> <SYNONYMS>
+2-Carbamoylphenoxyacetic acid; Salamidacetic acid; Salicylamide-2-acetic acid
+
+$$$$

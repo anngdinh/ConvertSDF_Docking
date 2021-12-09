@@ -1,0 +1,147 @@
+7902
+  -OEChem-10061700203D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+    2.6402    0.2266    0.1731 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0065    0.0107   -0.3180 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2701    0.5484    0.1513 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4216   -0.3415   -0.2886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1065    0.8920    0.0717 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2189   -1.3363    0.2105 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2878    0.6641    1.2436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4316    1.5527   -0.2617 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4676   -0.4208   -1.3800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3718   -1.3446    0.1423 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9634    1.8948   -0.3463 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1996    0.9818    1.1601 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0576    0.5214   -0.3267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2365   -1.6779   -0.0159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0877   -1.3866    1.2976 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5642   -2.0711   -0.2677 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3596   -0.3517   -0.1327 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13352
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UEEJHVSXFDXPFK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11NO/c1-5(2)3-4-6/h6H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+UEEJHVSXFDXPFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11NO
+
+> <MOLECULAR_WEIGHT>
+89.1362
+
+> <EXACT_MASS>
+89.084063979
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.496441263044265
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(dimethylamino)ethan-1-ol
+
+> <ALOGPS_LOGP>
+-0.46
+
+> <JCHEM_LOGP>
+-0.4999325463333331
+
+> <ALOGPS_LOGS>
+1.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.594407934501302
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.028747302274892
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.47
+
+> <JCHEM_REFRACTIVITY>
+26.280399999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.40e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethylaminoethanol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13352
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Deanol
+
+> <SYNONYMS>
+2-(dimethylamino)ethanol; Dimethylethanolamine
+
+$$$$

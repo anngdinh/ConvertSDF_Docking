@@ -1,0 +1,176 @@
+9571062
+  -OEChem-10061700293D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+   -3.9384    2.4123   -0.1359 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0192   -2.1032   -0.1925 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8526    0.5219    0.0204 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7886   -0.3323    1.0844 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3231    0.1014    0.1128 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.0718    1.9051    0.1062 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8729    0.0761   -0.1814 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6736   -0.1870   -0.1200 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4764   -0.7908   -0.0958 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1786    0.6433    0.0886 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.8235    1.2382   -0.0987 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3359    1.3467   -0.1385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8778   -0.8875   -0.1661 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2928   -0.2105   -0.2347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5200    0.0341   -0.0536 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8987   -0.4252   -0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4090   -1.6809   -0.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0322   -0.1522    0.0423 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8132   -1.5098    0.0134 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4094    1.7012   -0.9984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4602    1.6686    0.8384 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4576   -1.1533   -0.7641 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8156    0.6087   -0.7365 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4501    1.1346   -0.0375 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8639   -2.6135   -0.0597 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -2.2848    0.0218 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7394   -0.5242    1.0165 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  2  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 26  1  0  0  0  0
+M  CHG  2   5  -1  10   1
+M  END
+> <DATABASE_ID>
+DB13730
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UIDWQGRXEVDFCA-XCVCLJGOSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCN1C(=O)CN(\N=C\C2=CC=C(O2)[N+]([O-])=O)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N4O6/c14-5-11-7(15)4-12(9(11)16)10-3-6-1-2-8(19-6)13(17)18/h1-3,14H,4-5H2/b10-3+
+
+> <INCHI_KEY>
+UIDWQGRXEVDFCA-XCVCLJGOSA-N
+
+> <FORMULA>
+C9H8N4O6
+
+> <MOLECULAR_WEIGHT>
+268.185
+
+> <EXACT_MASS>
+268.044383994
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.67667392547734
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-(hydroxymethyl)-1-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.57
+
+> <JCHEM_LOGP>
+-0.577774996333333
+
+> <ALOGPS_LOGS>
+-2.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.935795902920333
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.836557239917864
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.15873625848703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.49
+
+> <JCHEM_REFRACTIVITY>
+58.1084
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levantin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13730
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nifurtoinol
+
+> <SYNONYMS>
+Nifurtoinol
+
+$$$$

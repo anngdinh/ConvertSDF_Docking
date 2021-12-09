@@ -1,0 +1,146 @@
+42300
+  -OEChem-10051720133D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    3.1058   -1.5886   -0.0824 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8895   -0.9093   -0.7250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9255   -0.0165    0.2757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2840   -0.5821    0.5196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1835   -0.8612    0.2234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7642    1.3579    0.1003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4536   -0.3312   -0.0044 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057    1.8878   -0.1275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6146    1.0432   -0.1799 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2294   -1.4866    1.1356 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9214    0.1376    1.0451 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0485   -1.9319    0.3595 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6205    2.0262    0.1371 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6310    2.9579   -0.2645 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5952    1.4771   -0.3587 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7693   -1.2731   -0.5268 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03339
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QGCCNWSXJHGUNL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=CC=CC(I)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7IO/c8-7-3-1-2-6(4-7)5-9/h1-4,9H,5H2
+
+> <INCHI_KEY>
+QGCCNWSXJHGUNL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7IO
+
+> <MOLECULAR_WEIGHT>
+234.0344
+
+> <EXACT_MASS>
+233.954158266
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.328626435189054
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3-iodophenyl)methanol
+
+> <ALOGPS_LOGP>
+1.95
+
+> <JCHEM_LOGP>
+2.1348405269999997
+
+> <ALOGPS_LOGS>
+-2.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.933491847163616
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8278906660506333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+46.2364
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.29e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3-iodophenyl)methanol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03339
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01901
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Iodo-Benzyl Alcohol
+
+$$$$

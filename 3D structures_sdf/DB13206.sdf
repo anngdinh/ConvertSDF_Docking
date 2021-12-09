@@ -1,0 +1,194 @@
+2292
+  -OEChem-10061700163D
+
+ 34 34  0     1  0  0  0  0  0999 V2000
+    0.1092   -1.7737    1.2182 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4631    1.1256   -0.1338 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1482   -0.5249   -0.0614 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8112    0.0507   -0.0972 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2572   -1.0452    0.0001 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.1652    0.5181   -0.1252 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5619   -0.1003   -0.0977 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6531   -0.4628   -0.0358 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6448    0.9784   -0.1421 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5329   -0.8774   -1.0205 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0200    0.4717    0.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0380    0.3696   -0.1508 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8198   -0.3407   -1.0535 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3070    1.0086    0.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2070    0.6024   -0.1013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6677    0.6181   -1.0253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7172    0.7496    0.7425 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1190   -1.7597   -0.8210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0486    1.0998   -1.0476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0567    1.2059    0.7224 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6866   -0.7024    0.8113 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6834   -0.7778   -0.9525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2657   -1.0711    0.7915 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5187    1.5964   -1.0388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5463    1.6411    0.7255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2429   -1.6109   -1.7671 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3398    0.7892    1.7013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7961    1.1584   -0.1817 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1801   -0.2726   -1.0259 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2091   -0.2311    0.7482 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8742   -2.3671    1.3108 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5116   -0.6655   -1.8262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6040    1.7402    1.6305 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9489    0.7327   -0.8792 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13206
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RDUHXGIIUDVSHR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCNCC(O)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19NO2/c1-2-3-8-13-9-12(15)10-4-6-11(14)7-5-10/h4-7,12-15H,2-3,8-9H2,1H3
+
+> <INCHI_KEY>
+RDUHXGIIUDVSHR-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H19NO2
+
+> <MOLECULAR_WEIGHT>
+209.289
+
+> <EXACT_MASS>
+209.141578856
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.04022753273859
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[2-(butylamino)-1-hydroxyethyl]phenol
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+1.1426792427045898
+
+> <ALOGPS_LOGS>
+-2.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.270398916972628
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.19692113076847
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.963443537748862
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.489999999999995
+
+> <JCHEM_REFRACTIVITY>
+61.123000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.85e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+vasculat
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13206
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bamethan
+
+> <SYNONYMS>
+1-(4-Hydroxyphenyl)-1-hydroxy-2-butylaminoethane; 1-(p-Hydroxyphenyl)-2-butylaminoethanol; 2-Butylamino-1-p-hydroxyphenylethanol; Bametano; Bamethane; Bamethanum; N-Butylnorsynephrine
+
+> <INTERNATIONAL_BRANDS>
+Vasolat
+
+> <SALTS>
+Bamethan sulfate
+
+$$$$

@@ -1,0 +1,201 @@
+7066
+  -OEChem-12142009143D
+
+ 37 38  0     1  0  0  0  0  0999 V2000
+    3.2916   -2.5873    1.2608 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2672   -0.0555   -0.2523 N   0  0  3  0  0  0  0  0  0  0  0  0
+   -3.8142   -1.0521    0.2147 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1701    1.7862   -0.7199 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4073   -0.6326    0.4190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6532   -0.4481   -0.4381 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5415   -0.9121   -1.1212 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0799    1.2914   -0.0767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7695   -1.4254   -0.4172 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5831   -2.4763    0.4533 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0152   -0.8581   -0.5968 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7214    2.0640    0.7598 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0806   -1.1860   -0.8819 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7199   -2.1665    0.7271 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0170   -1.7669   -0.0555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3901    3.4018    0.9440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4611    3.0907   -0.5165 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7205    3.9327    0.2972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1968   -1.7011    0.5323 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5384   -0.2863    1.4504 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8412    0.6217   -0.5898 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4932   -0.8810   -1.4352 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8111   -0.3815   -2.0437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0484   -1.7769   -1.4548 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8837   -2.6451    1.2780 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2287   -3.0020   -0.4410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5119   -2.9639    0.7747 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8968   -1.2578   -0.0831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9364   -1.3441   -1.5761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2051    0.2093   -0.7556 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6061    1.7113    1.2739 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3418   -0.6224   -1.7683 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8583   -2.4965    1.2891 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0925   -1.7487   -0.1617 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9978    4.0317    1.5868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3365    3.4556   -1.0435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9970    4.9729    0.4252 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 35  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16022
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RCGYDFVCAAKKNG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN(C)CCN(CC1=CSC=C1)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19N3S/c1-16(2)8-9-17(11-13-6-10-18-12-13)14-5-3-4-7-15-14/h3-7,10,12H,8-9,11H2,1-2H3
+
+> <INCHI_KEY>
+RCGYDFVCAAKKNG-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H19N3S
+
+> <MOLECULAR_WEIGHT>
+261.39
+
+> <EXACT_MASS>
+261.129968798
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0033026711542594
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.63953754568565
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[2-(dimethylamino)ethyl]-N-[(thiophen-3-yl)methyl]pyridin-2-amine
+
+> <ALOGPS_LOGP>
+2.80
+
+> <JCHEM_LOGP>
+2.9816343703333326
+
+> <ALOGPS_LOGS>
+-2.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.76397188761556
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+78.38069999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.82e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ketocaine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB16022
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Thenyldiamine
+
+> <SYNONYMS>
+Tenildiamina; Thenyldiamine; Thenyldiaminum
+
+> <PRODUCTS>
+Neo Synephrine Nasal Spray; Neo-synephrine Nasal Spray
+
+> <SALTS>
+Thenyldiamine hydrochloride
+
+$$$$

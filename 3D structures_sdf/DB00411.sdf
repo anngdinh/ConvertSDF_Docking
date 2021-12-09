@@ -1,0 +1,176 @@
+2551
+  -OEChem-07041817253D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+    1.4930   -0.6497    0.0084 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7286    1.2927   -0.0026 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1835   -0.0102   -0.0025 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7466   -0.7690   -0.0091 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9006   -0.8284    0.0272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1997    0.8630   -1.2490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3823   -0.9475   -0.0240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2515    0.8721    1.2357 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2909    0.1088    0.0172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6585    0.0682   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9093   -1.4569    0.9258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8929   -1.4907   -0.8470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9521    0.2445   -2.1167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2098    1.2710   -1.3607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5029    1.6973   -1.1376 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3504   -1.5686    0.8761 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2969   -0.3473   -0.0406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3181   -1.5691   -0.9220 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0675    0.2535    2.1191 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5268    1.6863    1.1614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2564    1.3043    1.2867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3095    0.7390   -0.8757 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3152    0.7412    0.9092 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6371   -1.7776   -0.0076 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6934   -0.4049   -0.0167 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+M  CHG  1   3   1
+M  END
+> <DATABASE_ID>
+DB00411
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VPJXQGSRWJZDOB-UHFFFAOYSA-O/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)CCOC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2O2/c1-8(2,3)4-5-10-6(7)9/h4-5H2,1-3H3,(H-,7,9)/p+1
+
+> <INCHI_KEY>
+VPJXQGSRWJZDOB-UHFFFAOYSA-O
+
+> <FORMULA>
+C6H15N2O2
+
+> <MOLECULAR_WEIGHT>
+147.1955
+
+> <EXACT_MASS>
+147.113352734
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.01604742928912
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(trimethylazaniumyl)ethyl carbamate
+
+> <ALOGPS_LOGP>
+-2.95
+
+> <JCHEM_LOGP>
+-4.554689286138412
+
+> <ALOGPS_LOGS>
+-2.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.226035634583454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.32
+
+> <JCHEM_REFRACTIVITY>
+50.022200000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+carbamyl-choline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00411
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00845; DB02487
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Carbamoylcholine
+
+> <SYNONYMS>
+Carbacholine; carbacol; Carbamylcholine; Choline carbamate
+
+> <PRODUCTS>
+Carbachol; Carbachol Injection Liq Sc 0.25mg/ml; Carbachol Intraocular Solution 0.01%; Carbachol Tab 2mg; Carbastat; Isopto Carbachol; Isopto Carbachol 1.5%; Isopto Carbachol 3%; Miostat; Miostat Ophthalmic Liq 0.01%
+
+> <INTERNATIONAL_BRANDS>
+Carboptic; Mioticol
+
+> <SALTS>
+Carbamoylcholine chloride
+
+$$$$

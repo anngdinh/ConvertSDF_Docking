@@ -1,0 +1,194 @@
+188824
+  -OEChem-12072009093D
+
+ 34 33  0     1  0  0  0  0  0999 V2000
+   -0.3412   -0.5479   -0.1365 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8681    3.6896   -0.0410 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.8974    1.8321   -1.3679 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1187   -0.6722    1.3293 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4819   -0.6724   -0.0771 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7188    0.6211    0.1692 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3358    0.3397    0.7538 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6335   -1.4296    1.2344 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7159   -1.5312   -1.0731 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8591   -0.3501   -0.6388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5076    1.5969    0.9735 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7837    2.4487   -0.2737 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5701   -0.9800    0.2801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1479   -1.9031   -0.7668 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5102   -2.4414   -0.3653 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6567    1.1316   -0.7986 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153    1.2383    0.8516 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4354   -0.1457    1.7314 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6691   -1.8285    1.5579 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3185   -2.2663    1.0626 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0535   -0.7520    1.9835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4448   -2.1923   -1.5577 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0159   -2.1965   -0.5624 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2720   -0.9026   -1.8509 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7292    0.1747   -1.5900 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3856    0.2839    0.0807 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4061   -1.2856   -0.7897 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4771    1.4190    1.4418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0386    2.2326    1.6850 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2388   -1.3472   -1.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4582   -2.7411   -0.9110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2271   -1.6266   -0.2187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9014   -3.1061   -1.1415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4493   -3.0061    0.5710 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 13  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <DATABASE_ID>
+DB15980
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UFAHZIUFPNSHSL-MRVPVSSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H19NO4/c1-5-10(14)15-8(6-9(12)13)7-11(2,3)4/h8H,5-7H2,1-4H3/t8-/m1/s1
+
+> <INCHI_KEY>
+UFAHZIUFPNSHSL-MRVPVSSYSA-N
+
+> <FORMULA>
+C10H19NO4
+
+> <MOLECULAR_WEIGHT>
+217.265
+
+> <EXACT_MASS>
+217.131408096
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0015292389456686983
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.63068528003837
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R)-3-(propanoyloxy)-4-(trimethylazaniumyl)butanoate
+
+> <ALOGPS_LOGP>
+-2.27
+
+> <JCHEM_LOGP>
+-3.7458447908050787
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.185139998188834
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.054133284063387
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.43
+
+> <JCHEM_REFRACTIVITY>
+77.2637
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.52e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-5-[(ammoniomethanimidoyl)amino]pentanoic acid p-isobutylhydratropate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15980
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Levocarnitine propionate
+
+> <SYNONYMS>
+L-Carnitine propionate; Propionyl-L-carnitine
+
+> <SALTS>
+Levocarnitine propionate hydrochloride
+
+$$$$

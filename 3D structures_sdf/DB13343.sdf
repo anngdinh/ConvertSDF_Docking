@@ -1,0 +1,148 @@
+72139
+  -OEChem-10061700203D
+
+ 15 16  0     0  0  0  0  0  0999 V2000
+    1.9265    1.4254    0.0002 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3694   -1.2008    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4314   -0.9724   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5912   -0.6116   -0.0006 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1727   -0.4843    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2524    0.9043    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0509   -1.1368    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8952    1.6802   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2128   -0.3637   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1354    1.0367   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4136   -0.2768    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0971   -2.2212    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444    2.7643   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0455    1.6312   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3018   -1.9365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13343
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SLYPOVJCSQHITR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC2=C(SC(=O)O2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H4O3S/c8-4-1-2-6-5(3-4)10-7(9)11-6/h1-3,8H
+
+> <INCHI_KEY>
+SLYPOVJCSQHITR-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H4O3S
+
+> <MOLECULAR_WEIGHT>
+168.17
+
+> <EXACT_MASS>
+167.988115163
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+15
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.040453343645986
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-hydroxy-2H-1,3-benzoxathiol-2-one
+
+> <ALOGPS_LOGP>
+1.97
+
+> <JCHEM_LOGP>
+2.0554997483333333
+
+> <ALOGPS_LOGS>
+-1.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.349653395618861
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.802385701010563
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+40.9578
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.71e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tioxolone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13343
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tioxolone
+
+> <SYNONYMS>
+tioxolona; Tioxolone
+
+$$$$

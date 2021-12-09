@@ -1,0 +1,121 @@
+1117
+  -OEChem-07121817413D
+
+  5  4  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2956   -0.6107   -0.3493 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.1032    0.6512    1.3185 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3600    1.0045   -1.0172 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0388   -1.0450    0.0480 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+M  CHG  2   2  -1   3  -1
+M  END
+> <DATABASE_ID>
+DB14546
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QAOWNCQODCNURD-UHFFFAOYSA-L/SDF?record_type=3d
+
+> <SMILES>
+[O-]S([O-])(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2
+
+> <INCHI_KEY>
+QAOWNCQODCNURD-UHFFFAOYSA-L
+
+> <FORMULA>
+O4S
+
+> <MOLECULAR_WEIGHT>
+96.063
+
+> <EXACT_MASS>
+95.951729178
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.805309097760695
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-2
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+sulfate
+
+> <JCHEM_LOGP>
+-0.8415520233333333
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+1.8964254257138706
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-3.034349054191991
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+11.5274
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14546
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Sulfate ion
+
+> <SYNONYMS>
+Sulfate; Sulfate dianion; Sulfate(2-); Sulfuric acid ion(2-)
+
+> <PRODUCTS>
+Loa Freedom S; Rurina; Telom-X-gene
+
+$$$$

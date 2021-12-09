@@ -1,0 +1,180 @@
+92141
+  -OEChem-06171814423D
+
+ 29 28  0     1  0  0  0  0  0999 V2000
+   -0.0001    0.4724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8319   -1.0540   -0.8417 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8319   -1.0539    0.8417 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3852    0.5899    0.1938 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3852    0.5899   -0.1938 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1712   -0.3271    0.0951 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1712   -0.3270   -0.0951 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6986   -0.1893    0.2831 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.6985   -0.1893   -0.2831 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9004    0.7443    0.3274 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9004    0.7442   -0.3275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2755    1.2560    1.0584 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3945    1.2384   -0.6922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2753    1.2559   -1.0584 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3947    1.2382    0.6923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2363   -0.9617   -0.7952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1111   -0.9658    0.9840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2436   -0.9660    0.7923 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1112   -0.9636   -0.9857 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7041   -0.8117    1.1857 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6893   -0.8151   -1.1829 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8525    1.4147    1.1908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9613    1.3481   -0.5847 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8296    0.1669    0.3840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8449    1.4234   -1.1835 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9685    1.3389    0.5901 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8303    0.1698   -0.3993 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2430   -1.8147   -0.7029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6621   -1.5489    0.7353 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14079
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AFSYRVDDZGJTIL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(O)CCOCCC(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18O3/c1-7(9)3-5-11-6-4-8(2)10/h7-10H,3-6H2,1-2H3
+
+> <INCHI_KEY>
+AFSYRVDDZGJTIL-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H18O3
+
+> <MOLECULAR_WEIGHT>
+162.229
+
+> <EXACT_MASS>
+162.12559444
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.07286861787582
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(3-hydroxybutoxy)butan-2-ol
+
+> <ALOGPS_LOGP>
+0.23
+
+> <JCHEM_LOGP>
+-0.30258506166666715
+
+> <ALOGPS_LOGS>
+-0.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.890334348598955
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.288274330007894
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.54103828795112
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.69
+
+> <JCHEM_REFRACTIVITY>
+44.1655
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4,4'-oxydi-2-butanol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14079
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydroxybutyloxide
+
+> <SYNONYMS>
+4,4'-Oxydi-2-butanol; bis(3-hydroxybutyl) ether; Colenormol; Dihydroxydibutylether; Diskin; Dyskinebyl
+
+> <PRODUCTS>
+Galeo
+
+$$$$

@@ -1,0 +1,184 @@
+9815689
+  -OEChem-10051722393D
+
+ 34 33  0     1  0  0  0  0  0999 V2000
+    1.2158   -0.3516    0.1131 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9303   -1.2460    1.3640 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1173    2.6966   -1.2167 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6798   -0.7094    0.1822 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0631   -0.5070   -0.4413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7387   -1.4395   -0.7837 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0371    0.2457    0.4696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6617   -1.6281   -0.1926 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -5.3949    0.5129   -0.1810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5824   -2.3415   -1.1735 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2984    1.3244    0.7353 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4659   -0.3597    0.6609 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1936    0.8816    0.2766 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4434    1.0396    0.7340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6016    1.8820   -0.5468 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7756   -1.2857    1.1101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2616    0.2681    0.4492 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9548    0.0477   -1.3817 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4937   -1.4829   -0.6975 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1653   -2.4147   -1.0473 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6654   -0.8511   -1.7074 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1821   -0.3277    1.3936 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5839    1.2021    0.7593 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5763   -2.2143    0.7312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8823   -0.4378   -0.4253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2554    1.0580   -1.1217 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5487   -2.5976   -0.7290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7908   -1.7109   -2.0452 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1306   -3.2757   -1.5233 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8510    2.2960    0.9679 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2648    1.5022    0.2534 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4799    0.7949    1.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9307    0.3022    1.3638 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0259    1.9235    0.4893 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 15  3  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12040
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CQVWXNBVRLKXPE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCC(C)OC(=O)C(=C)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19NO2/c1-4-5-6-7-8-11(3)15-12(14)10(2)9-13/h11H,2,4-8H2,1,3H3
+
+> <INCHI_KEY>
+CQVWXNBVRLKXPE-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H19NO2
+
+> <MOLECULAR_WEIGHT>
+209.289
+
+> <EXACT_MASS>
+209.141578856
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.30304822448997
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+octan-2-yl 2-cyanoprop-2-enoate
+
+> <ALOGPS_LOGP>
+4.10
+
+> <JCHEM_LOGP>
+3.798213338
+
+> <ALOGPS_LOGS>
+-3.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.19621632114319
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.09
+
+> <JCHEM_REFRACTIVITY>
+59.20950000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-octyl cyanoacrylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12040
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+2-octyl cyanoacrylate
+
+> <SYNONYMS>
+1-methylheptyl cyanoacrylate; 2-octylcyanoacrylate; Liquid bandage
+
+> <INTERNATIONAL_BRANDS>
+Dermabond; Indermil; Liquiband; Octylseal
+
+$$$$

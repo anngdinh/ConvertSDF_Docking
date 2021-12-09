@@ -1,0 +1,183 @@
+44557636
+  -OEChem-10051722523D
+
+ 32 34  0     0  0  0  0  0  0999 V2000
+    5.3410   -2.1219   -0.7762 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9205    0.4688   -0.1585 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0220    0.6792    1.0065 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4753    0.2493    0.2547 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3212    1.8573    0.3703 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4396    3.0262    0.5110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -0.1484    0.6792 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4854    1.7543   -0.3541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6834    3.1205   -0.5498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0509   -0.1710   -0.6598 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2377   -1.5108    1.0278 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2648   -1.4509   -0.3220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -2.1378    0.5474 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6085    1.9812   -0.4588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3612    1.0500   -0.3634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2516   -0.0608   -0.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8571   -1.3427   -0.5772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7780   -2.3724   -0.4189 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0471   -2.0927    0.0758 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3434   -0.7774    0.3950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0106    3.0185    1.5124 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0409    3.9426    0.4553 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0254    2.4591   -0.9718 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2359    4.0551   -0.4005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2437    3.1592   -1.5534 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7146    0.3913   -1.3046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5394   -2.0269    1.6772 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5337   -3.1723    0.7994 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8641   -1.5518   -0.9619 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5072   -3.3909   -0.6803 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7809   -2.8795    0.2075 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3192   -0.5069    0.7846 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4 16  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 15  3  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12733
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LZXMUJCJAWVHPZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC1=CN2C=C(CCC#CC3=CC=CC=N3)N=C2C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H12FN3/c17-13-8-9-16-19-15(12-20(16)11-13)7-2-1-5-14-6-3-4-10-18-14/h3-4,6,8-12H,2,7H2
+
+> <INCHI_KEY>
+LZXMUJCJAWVHPZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H12FN3
+
+> <MOLECULAR_WEIGHT>
+265.291
+
+> <EXACT_MASS>
+265.101525561
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.62202719743367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-{6-fluoroimidazo[1,2-a]pyridin-2-yl}but-1-yn-1-yl)pyridine
+
+> <ALOGPS_LOGP>
+3.45
+
+> <JCHEM_LOGP>
+2.9545519076666666
+
+> <ALOGPS_LOGS>
+-4.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.859464799957394
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.575220306407397
+
+> <JCHEM_POLAR_SURFACE_AREA>
+30.19
+
+> <JCHEM_REFRACTIVITY>
+73.17020000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.58e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(4-{6-fluoroimidazo[1,2-a]pyridin-2-yl}but-1-yn-1-yl)pyridine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12733
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB06060
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dipraglurant
+
+$$$$

@@ -1,0 +1,157 @@
+27304
+  -OEChem-06291811273D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+   -1.5616    0.1407   -0.0680 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6351    0.0979    0.0619 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0198   -1.8604    0.0575 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6605   -0.7992    0.6542 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6924    1.5428    0.7246 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5372    0.2723   -1.5415 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6180    1.6202    0.6038 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6812    0.2382   -1.5595 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7797   -0.7393    0.5489 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0060   -0.5131    0.5182 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0260   -0.5426    1.6126 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7725   -2.2984    0.4124 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6110   -0.6519    0.4623 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4659    2.1190    0.5460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3288    0.5745   -2.0357 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4243    2.1695    0.5027 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14159
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HJZKOAYDRQLPME-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(P(O)(O)=O)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/CH6O7P2/c2-1(9(3,4)5)10(6,7)8/h1-2H,(H2,3,4,5)(H2,6,7,8)
+
+> <INCHI_KEY>
+HJZKOAYDRQLPME-UHFFFAOYSA-N
+
+> <FORMULA>
+CH6O7P2
+
+> <MOLECULAR_WEIGHT>
+192.0
+
+> <EXACT_MASS>
+191.958876529
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.207006412194236
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[hydroxy(phosphono)methyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.06
+
+> <JCHEM_LOGP>
+-1.979410278666666
+
+> <ALOGPS_LOGS>
+-1.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+1.5095292388428865
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.7481101897627971
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.033651536069862
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.29
+
+> <JCHEM_REFRACTIVITY>
+29.7229
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+HMDP
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14159
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Oxidronic acid
+
+> <SYNONYMS>
+(Hydroxymethylene)diphosphonic acid; Acido oxidronico; Acidum oxidronicum; HMD-P; HMDP; Hydroxymethanediphosphonic acid; Oxidronate; Oxidronic acid
+
+> <PRODUCTS>
+TechneScan HDP; Technescan HDP
+
+> <SALTS>
+Oxidronate disodium
+
+$$$$

@@ -1,0 +1,183 @@
+72099
+  -OEChem-12152013143D
+
+ 31 32  0     1  0  0  0  0  0999 V2000
+   -0.7196   -0.8944   -1.9355 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4317   -0.5511    0.3224 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5237   -1.7721    0.2519 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3467    0.6639    0.2247 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8637    0.5079    0.2014 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9105    0.2168    0.1583 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2461   -0.1310   -0.8738 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0943    1.0014    1.2549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1409   -0.2766   -0.8953 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2927    0.8559    1.2335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9005    1.5038   -0.9444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3497    0.0689    0.1404 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0799   -0.6816    0.2634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1454    1.0570   -0.4394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9415   -1.0620    0.7029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5328    0.9144   -0.4567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3290   -1.2047    0.6856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1245   -0.2165    0.1058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6303    1.1728    1.1564 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8275   -0.5216   -1.7046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5591    1.5020    2.1001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8775    1.2466    2.0630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7920    0.9827   -1.9021 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3741    2.4618   -1.0178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9659    1.7180   -0.8077 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7002    1.9448   -0.8826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3361   -1.8419    1.1588 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1525    1.6837   -0.9082 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7899   -2.0852    1.1235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2049   -0.3277    0.0923 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8817   -1.4223    0.3501 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 31  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16159
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SYTBZMRGLBWNTM-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H](C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13FO2/c1-10(15(17)18)12-7-8-13(14(16)9-12)11-5-3-2-4-6-11/h2-10H,1H3,(H,17,18)/t10-/m0/s1
+
+> <INCHI_KEY>
+SYTBZMRGLBWNTM-JTQLQIEISA-N
+
+> <FORMULA>
+C15H13FO2
+
+> <MOLECULAR_WEIGHT>
+244.265
+
+> <EXACT_MASS>
+244.089957822
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9973660215814436
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.280783641071224
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-{2-fluoro-[1,1'-biphenyl]-4-yl}propanoic acid
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.943907682
+
+> <ALOGPS_LOGS>
+-3.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.421757643734796
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+67.29270000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.49e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB16159
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Esflurbiprofen
+
+> <SYNONYMS>
+Flurbiprofen, (s)-
+
+$$$$

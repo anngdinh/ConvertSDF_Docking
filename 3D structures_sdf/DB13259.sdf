@@ -1,0 +1,126 @@
+6337
+  -OEChem-10061700183D
+
+  8  7  0     0  0  0  0  0  0999 V2000
+    1.4165    0.2652    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1260   -0.6165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2905    0.3513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1506   -1.2536   -0.8886 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1506   -1.2536    0.8885 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2374   -0.1980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2732    0.9925    0.8874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2732    0.9925   -0.8874 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13259
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HRYZWHHZPQKTII-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3
+
+> <INCHI_KEY>
+HRYZWHHZPQKTII-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5Cl
+
+> <MOLECULAR_WEIGHT>
+64.514
+
+> <EXACT_MASS>
+64.007977867
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.424913758595933
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+chloroethane
+
+> <ALOGPS_LOGP>
+1.47
+
+> <JCHEM_LOGP>
+1.192822742
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+16.0609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl chloride
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13259
+
+> <DRUG_GROUPS>
+approved; experimental; investigational
+
+> <GENERIC_NAME>
+Ethyl chloride
+
+> <SYNONYMS>
+chloroethane; monochloroethane
+
+> <PRODUCTS>
+Tuffner Clear Spray
+
+$$$$

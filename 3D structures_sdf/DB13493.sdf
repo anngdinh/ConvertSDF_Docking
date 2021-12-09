@@ -1,0 +1,182 @@
+72065
+  -OEChem-10061700233D
+
+ 31 31  0     1  0  0  0  0  0999 V2000
+   -0.3789    0.1007   -1.5223 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2834   -1.6374    1.0486 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -1.2728   -1.1717 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4316    0.1359   -0.0929 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2755    1.3515    0.3202 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0645   -1.1690    0.4173 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0012    0.2803    0.4232 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7411    1.2089   -0.0947 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5296   -1.3039   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3489   -0.0899    0.4251 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6288    1.5818   -0.0983 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7916   -0.9428   -0.0104 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0724    1.7568    0.3563 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9225    2.2683   -0.1635 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2219    1.5003    1.4058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0022   -1.2114    1.5123 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5393   -2.0485    0.0268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9935    0.3136    1.5212 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8217    1.2378   -1.1883 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3148    2.0611    0.2871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9561   -2.2090    0.4470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5951   -1.4273   -1.0882 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4050   -0.0534    1.5200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3758   -0.1901    0.0562 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0844    2.4551    0.2730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6101    1.6213   -1.1937 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0091   -0.7539   -1.8003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1476    1.7177    1.4477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7239    0.9845   -0.0636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553    2.7280    0.0260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8008   -2.4203    0.7631 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 31  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13493
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NIVFTEMPSCMWDE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCC(C(O)=O)C1(O)CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O3/c1-2-8(9(11)12)10(13)6-4-3-5-7-10/h8,13H,2-7H2,1H3,(H,11,12)
+
+> <INCHI_KEY>
+NIVFTEMPSCMWDE-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O3
+
+> <MOLECULAR_WEIGHT>
+186.251
+
+> <EXACT_MASS>
+186.12559444
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.243577909761356
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(1-hydroxycyclohexyl)butanoic acid
+
+> <ALOGPS_LOGP>
+1.70
+
+> <JCHEM_LOGP>
+1.9070131646666661
+
+> <ALOGPS_LOGS>
+-1.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.564368267076794
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.711749616890387
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1095143600153703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+49.1246
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cyclobutyrol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13493
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cyclobutyrol
+
+> <SYNONYMS>
+ciclobutirol; Cyclobutyrol
+
+$$$$

@@ -1,0 +1,161 @@
+8434
+  -OEChem-10061700263D
+
+ 22 22  0     0  0  0  0  0  0999 V2000
+   -2.1095   -0.3549    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1186   -0.7259   -0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6996    1.9102    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1127    0.3608    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1019    1.3441   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4694   -0.9877    0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2910    0.7414    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5199   -0.1093   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4481    0.9788   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8157   -1.3531    0.0010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8051   -0.3697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2514   -1.4348   -0.0011 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8456    2.4003   -0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2661   -1.7872    0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7899    0.4641    0.8929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7883    0.4636   -0.8952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2094    1.7543   -0.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0881   -2.4050    0.0012 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3345   -1.2838   -0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9757   -2.0266   -0.8801 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9772   -2.0261    0.8788 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6636    0.0798   -0.0023 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13628
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NUVBSKCKDOMJSU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC(=O)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O3/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6,10H,2H2,1H3
+
+> <INCHI_KEY>
+NUVBSKCKDOMJSU-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O3
+
+> <MOLECULAR_WEIGHT>
+166.1739
+
+> <EXACT_MASS>
+166.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.23076487716856
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 4-hydroxybenzoate
+
+> <ALOGPS_LOGP>
+2.76
+
+> <JCHEM_LOGP>
+2.0299654129999998
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.500251683958489
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.06439964678776
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+44.8128
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.49e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethylparaben
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13628
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Ethyl hydroxybenzoate
+
+> <SYNONYMS>
+4-hydroxybenzoic acid ethyl ester; Ethyl p-hydroxybenzoate; Ethyl paraben; Ethylparaben; p-hydroxybenzoic acid ethyl ester; p-Oxybenzoesaeureaethylester
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

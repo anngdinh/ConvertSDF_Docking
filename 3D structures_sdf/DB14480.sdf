@@ -1,0 +1,165 @@
+10176265
+  -OEChem-07061817373D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+    0.9560   -3.0331    0.1872 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0266    1.6524   -1.2101 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9102    0.6525    1.2684 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6574   -0.3584   -0.4138 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0050    1.6109    0.8672 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6337   -0.2734    0.2205 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5854   -1.3793   -0.2354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2099    1.0910   -0.1325 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8240    0.1144    0.1677 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0250   -0.0770   -0.7191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4878   -0.3226    1.3073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7354   -1.3412   -1.3204 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5678   -1.2575    0.2331 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6973   -0.7200   -1.3628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9391    0.0561   -0.1339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0016    0.6605   -1.5258 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0278   -1.0842   -1.1460 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1663    1.1260    1.7441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4621    2.5096    0.7540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1742   -2.9557   -0.5307 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14480
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UJCHIZDEQZMODR-BYPYZUCNSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]N([H])C(=O)[C@H](CS)N([H])C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10N2O2S/c1-3(8)7-4(2-10)5(6)9/h4,10H,2H2,1H3,(H2,6,9)(H,7,8)/t4-/m0/s1
+
+> <INCHI_KEY>
+UJCHIZDEQZMODR-BYPYZUCNSA-N
+
+> <FORMULA>
+C5H10N2O2S
+
+> <MOLECULAR_WEIGHT>
+162.21
+
+> <EXACT_MASS>
+162.046298744
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.866972850309875
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-acetamido-3-sulfanylpropanamide
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-1.5182553560000003
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.1672644919215
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.961254656613459
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.963298745683605
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+39.4896
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.27e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetylcysteinamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14480
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001544
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Acetylcysteine amide
+
+> <SYNONYMS>
+N-Acetyl cysteine amide; N-Acetyl-cysteine-amide; N-Acetyl-L-cysteinamide; N-Acetyl-L-cysteine amide; N-Acetylcysteinamide; N-Acetylcysteine amide; Nac amide; NACA
+
+> <PRODUCTS>
+Puralor
+
+$$$$

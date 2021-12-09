@@ -1,0 +1,177 @@
+5337997
+  -OEChem-10061700323D
+
+ 29 30  0     0  0  0  0  0  0999 V2000
+   -3.5952    0.6872    0.0647 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0290    1.5027    0.1360 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9076   -2.2633   -0.1836 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0807    0.4039    0.0818 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -5.7584    2.1512    0.2151 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9161   -0.1974   -0.0661 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3209   -0.7500   -0.0977 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9152    0.8987    0.1103 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3306   -0.3725   -0.0480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6985   -0.2988   -0.0298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4335   -1.0548    0.4652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4703    0.9401   -0.4988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2391   -1.5239   -0.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0352   -1.0307   -0.1134 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8009    0.0619    0.0266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6763   -0.4244    0.5277 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7131    1.5704   -0.4365 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8161    0.8881    0.0768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6359   -1.2987   -0.0906 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2830    0.1104   -0.0124 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3433   -2.0768    0.8243 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6460    1.4975   -0.9339 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7306   -2.4732   -0.2137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4199   -2.0411   -0.1441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5278   -0.9666    0.9302 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8179    2.5907   -0.7956 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0963    1.1969    0.0771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9716    0.8095    0.0467 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6767    0.8853    0.5171 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 27  1  0  0  0  0
+M  CHG  2   4  -1   8   1
+M  END
+> <DATABASE_ID>
+DB13855
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YCWSUKQGVSGXJO-NTUHNPAUSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(C=C1)C(=O)N\N=C\C1=CC=C(O1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N3O5/c16-9-3-1-8(2-4-9)12(17)14-13-7-10-5-6-11(20-10)15(18)19/h1-7,16H,(H,14,17)/b13-7+
+
+> <INCHI_KEY>
+YCWSUKQGVSGXJO-NTUHNPAUSA-N
+
+> <FORMULA>
+C12H9N3O5
+
+> <MOLECULAR_WEIGHT>
+275.22
+
+> <EXACT_MASS>
+275.054220402
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.998809656245335
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-N'-[(1E)-(5-nitrofuran-2-yl)methylidene]benzohydrazide
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+1.7490912639999996
+
+> <ALOGPS_LOGS>
+-3.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.038650702196108
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.326515824764302
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7356855512212137
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.97000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.1811
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+akabar
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13855
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nifuroxazide
+
+$$$$

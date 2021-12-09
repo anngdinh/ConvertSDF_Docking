@@ -1,0 +1,177 @@
+24871315
+  -OEChem-12152013133D
+
+ 29 28  0     1  0  0  0  0  0999 V2000
+   -1.6717    0.8846    0.6114 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6515   -0.2200   -0.3479 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0941   -1.4998    0.3021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3022   -1.3546    0.9245 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0650   -0.4627   -0.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3575   -1.0071   -0.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1645    0.0704   -0.1148 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6770    2.1650   -0.0782 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1772    0.2339   -1.2176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1579    1.1903    0.8866 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0032    0.0250   -1.1991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0714   -2.3015   -0.4483 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7814   -1.8389    1.0890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5787   -2.3193    1.3689 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2666   -0.6490    1.7578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7667   -0.6917   -0.0677 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4523    0.4000   -1.4288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0717   -1.3130   -1.5692 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4816    0.8118    1.2256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4712   -1.7471   -0.8799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7995    2.2781   -0.7237 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6324    2.9690    0.6637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5827    2.3204   -0.6713 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9832    1.1555   -1.7763 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1566   -0.5967   -1.9311 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1876    0.2865   -0.7991 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1349    1.2612    1.3762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9567    2.1417    0.3826 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4078    1.0770    1.6710 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16136
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XVQUOJBERHHONY-SECBINFHSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN[C@H](C)CCC=C(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19N/c1-8(2)6-5-7-9(3)10-4/h6,9-10H,5,7H2,1-4H3/t9-/m1/s1
+
+> <INCHI_KEY>
+XVQUOJBERHHONY-SECBINFHSA-N
+
+> <FORMULA>
+C9H19N
+
+> <MOLECULAR_WEIGHT>
+141.258
+
+> <EXACT_MASS>
+141.151749616
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9997838845331967
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.47214807797547
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+methyl[(2R)-6-methylhept-5-en-2-yl]amine
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+2.3181725126666666
+
+> <ALOGPS_LOGS>
+-1.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.665220282817
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+47.5864
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.06e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB16136
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dexisometheptene mucate
+
+> <SYNONYMS>
+(R)-isometheptene; Dexisometheptene; Isometheptene, (r)-
+
+$$$$

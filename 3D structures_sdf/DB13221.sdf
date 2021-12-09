@@ -1,0 +1,174 @@
+10715
+  -OEChem-10061700173D
+
+ 29 28  0     1  0  0  0  0  0999 V2000
+   -0.3739   -0.7426   -1.2450 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1520   -0.5386   -0.8721 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4756    0.3012    0.5209 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6972    0.6008    1.0472 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9612    0.3290    0.4847 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3038    1.7786    0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0948   -0.6864    0.2293 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4551    1.9280   -1.4808 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5617    2.3016    0.7375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3469   -0.1140   -0.1891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7284   -2.0711    0.6901 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7402   -3.1519   -0.0982 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7998    0.0655    0.1392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7841    0.3503    1.5702 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4700    2.4261    0.3398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3597   -0.7064   -0.8340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9956   -0.3897    0.7778 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6765    2.9699   -1.7388 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5361    1.6581   -2.0088 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2716    1.3143   -1.8729 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679    1.8013    0.3816 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4918    2.1639    1.8215 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6851    3.3735    0.5474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4558   -2.1926    1.7354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3363    0.8244    1.3810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4728   -4.1246    0.2997 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0127   -3.0873   -1.1456 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3866    1.0960    1.8762 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6984    0.5126    0.9095 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 13  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 28  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13221
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KSUUMAWCGDNLFK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C(CC=C)C(=O)NC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N2O2/c1-4-5-7(6(2)3)8(12)11-9(10)13/h4,6-7H,1,5H2,2-3H3,(H3,10,11,12,13)
+
+> <INCHI_KEY>
+KSUUMAWCGDNLFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H16N2O2
+
+> <MOLECULAR_WEIGHT>
+184.239
+
+> <EXACT_MASS>
+184.121177763
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.81986764112074
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[2-(propan-2-yl)pent-4-enoyl]urea
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+1.185033674333333
+
+> <ALOGPS_LOGS>
+-1.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.7540209913988
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.297762317522436
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+50.305600000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.52e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2-isopropylpent-4-enoyl)urea
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13221
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Apronalide
+
+> <SYNONYMS>
+Apronal
+
+$$$$

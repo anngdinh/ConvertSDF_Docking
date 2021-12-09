@@ -1,0 +1,144 @@
+447466
+  -OEChem-02282017383D
+
+ 11 10  0     0  0  0  0  0  0999 V2000
+   -2.3537    0.2370    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1359   -0.3976    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5002    0.2099    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0089    0.3239   -0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2913   -0.3731   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0939   -1.4838    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0526   -0.1152   -0.8867 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0524   -0.1143    0.8875 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4672    1.3041   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0090    1.4073   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2553   -1.4754    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04381
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MLUCVPSAIODCQM-NSCUHMNNSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(=O)\C=C\C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+
+
+> <INCHI_KEY>
+MLUCVPSAIODCQM-NSCUHMNNSA-N
+
+> <FORMULA>
+C4H6O
+
+> <MOLECULAR_WEIGHT>
+70.0898
+
+> <EXACT_MASS>
+70.041864814
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+11
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+8.112930783087918e-12
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.6305531877965045
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-but-2-enal
+
+> <ALOGPS_LOGP>
+0.88
+
+> <JCHEM_LOGP>
+0.7609660349999998
+
+> <ALOGPS_LOGS>
+-0.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.090822229263441
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+22.0395
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.65e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-saccharopine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04381
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01020
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Crotonaldehyde
+
+> <SYNONYMS>
+(E)-crotonaldehyde; 1-formylpropene; 2-Butenal; Aldehyde crotonique; crotonal; crotonic aldehyde; crotylaldehyde; methylpropenal; propylene aldehyde; trans-2-butenal; trans-2-butenaldehyde; trans-but-2-enal; trans-crotonaldehyde; β-methylacrolein
+
+$$$$

@@ -1,0 +1,153 @@
+5853
+  -OEChem-10051722133D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+    3.2288    0.6477    0.9240 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5223   -1.6782    1.1937 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2391   -0.7081   -1.4454 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9569    0.0717   -0.4660 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1005    1.1667   -0.1262 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3306   -1.1894    0.4834 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8083    1.8868   -0.5101 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8687   -0.2745   -1.9251 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5694    0.6963    0.2449 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8189   -0.1963    0.2188 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4240    1.5051    1.2112 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5061   -1.9277    0.1968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3701    1.0059    1.2766 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0211    1.6160   -1.4196 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4018    1.9931    1.2189 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6801    2.2036    1.6019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4690    0.6181    1.8468 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4066   -2.4171   -0.7753 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3779   -1.2686    0.1930 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6379   -2.6899    0.9686 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11473
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NFACJZMKEDPNKN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COP(=O)(OC)C(O)C(Cl)(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8Cl3O4P/c1-10-12(9,11-2)3(8)4(5,6)7/h3,8H,1-2H3
+
+> <INCHI_KEY>
+NFACJZMKEDPNKN-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8Cl3O4P
+
+> <MOLECULAR_WEIGHT>
+257.437
+
+> <EXACT_MASS>
+255.922578377
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.330678793602324
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl (2,2,2-trichloro-1-hydroxyethyl)phosphonate
+
+> <ALOGPS_LOGP>
+0.81
+
+> <JCHEM_LOGP>
+1.1382621260000003
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.118214666564326
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.934092904844763
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.76
+
+> <JCHEM_REFRACTIVITY>
+47.5918
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.17e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+briten
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11473
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Metrifonate
+
+> <SYNONYMS>
+(±)-Trichlorfon; 1-Hydroxy-2,2,2-trichloroethylphosphonic acid dimethyl ester; Chlorophos; Methyl chlorophos; Métrifonate; Metrifonate; Metrifonato; Metrifonatum; Trichlorfon
+
+$$$$

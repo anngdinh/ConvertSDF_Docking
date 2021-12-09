@@ -1,0 +1,177 @@
+11269353
+  -OEChem-10051722433D
+
+ 30 30  0     1  0  0  0  0  0999 V2000
+   -4.1730    3.0376    0.6484 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4726   -2.0313    0.3533 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6918    0.5087    1.1295 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5232    0.1215    2.4002 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3245    0.0286    1.1788 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4265    1.9516    1.6299 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2385    2.5714   -0.7774 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1580    0.7089   -1.4359 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988    1.2942   -2.1980 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6926   -3.0879   -1.0165 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1380   -2.5045    1.5515 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4308   -2.8344   -0.8530 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1174   -1.5411    0.7383 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9196   -0.8945   -0.3366 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2970    0.5549    0.0602 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1270   -1.7834   -0.6421 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1404    0.6663    1.3309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9840    1.2822   -1.0975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3747   -0.5651   -0.1469 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8516   -0.1571   -1.3465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5142    1.0990   -1.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5009    1.5746    0.0611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3128   -0.8556   -1.2497 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3632    1.0949    0.2607 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3102   -1.2216    1.6952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7176   -1.4095   -1.4788 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7830   -1.9107    0.2223 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1716   -3.4440   -0.2766 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7444   -0.7092   -2.2708 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9748    1.6226   -2.0601 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 11  2  0  0  0  0
+  2 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12263
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PSXOKXJMVRSARX-SCSAIBSYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@@H](NS(=O)(=O)C1=CC=C(Cl)S1)C(C(F)(F)F)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8ClF6NO3S2/c10-5-1-2-6(21-5)22(19,20)17-4(3-18)7(8(11,12)13)9(14,15)16/h1-2,4,7,17-18H,3H2/t4-/m1/s1
+
+> <INCHI_KEY>
+PSXOKXJMVRSARX-SCSAIBSYSA-N
+
+> <FORMULA>
+C9H8ClF6NO3S2
+
+> <MOLECULAR_WEIGHT>
+391.73
+
+> <EXACT_MASS>
+390.9538321
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.600172153637892
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-chloro-N-[(2S)-4,4,4-trifluoro-1-hydroxy-3-(trifluoromethyl)butan-2-yl]thiophene-2-sulfonamide
+
+> <ALOGPS_LOGP>
+3.12
+
+> <JCHEM_LOGP>
+2.4240317573333336
+
+> <ALOGPS_LOGS>
+-3.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.915995248417087
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.9916267192657715
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7852059028848304
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+64.7631
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.30e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-chloro-N-[(2S)-4,4,4-trifluoro-1-hydroxy-3-(trifluoromethyl)butan-2-yl]thiophene-2-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12263
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Begacestat
+
+$$$$

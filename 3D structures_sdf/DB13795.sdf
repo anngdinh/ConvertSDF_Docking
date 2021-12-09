@@ -1,0 +1,188 @@
+68760
+  -OEChem-10061700303D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+    4.6967   -0.0232   -0.9471 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8752    2.3831   -0.2449 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0271   -2.4174    0.0919 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6433    0.8983   -0.5532 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5220   -1.4997   -0.3480 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1287    2.2778    0.6414 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1304   -0.4878   -1.7246 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8366   -0.0047    1.8112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4983   -0.0091    1.1463 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0029   -0.1089    0.8492 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1605   -1.2156    0.9198 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0843    1.1933    0.7506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3327    1.1893    0.1283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4089   -1.2197    0.2976 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9951   -0.0173   -0.0982 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6044    0.9869    0.3033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4870   -1.3375    0.5021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0450   -0.3566   -0.8311 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5672    2.8520   -1.5556 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7545   -3.0832   -1.1390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8901   -0.8489    2.5147 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9340    0.8632    2.4741 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7096   -2.1562    1.2268 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5855    2.1405    0.9348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0673   -2.2593    0.8901 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7959    2.4472    1.5812 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5958    3.0519    0.1833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5172    3.1572   -1.6064 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7675    2.0884   -2.3134 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1939    3.7236   -1.7636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9085   -2.4214   -1.9969 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7264   -3.4589   -1.1414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4365   -3.9335   -1.2267 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4687   -1.4096   -1.9636 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5571    0.3417   -2.1134 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 16  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 16  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 34  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13795
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BFCRRLMMHNLSCP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15BrN4O2/c1-19-9-4-7(5-10(20-2)11(9)14)3-8-6-17-13(16)18-12(8)15/h4-6H,3H2,1-2H3,(H4,15,16,17,18)
+
+> <INCHI_KEY>
+BFCRRLMMHNLSCP-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H15BrN4O2
+
+> <MOLECULAR_WEIGHT>
+339.193
+
+> <EXACT_MASS>
+338.037839
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.9661508678726
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(4-bromo-3,5-dimethoxyphenyl)methyl]pyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+2.06
+
+> <JCHEM_LOGP>
+2.2103312209999997
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.330223356480726
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.155994151291053
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.28
+
+> <JCHEM_REFRACTIVITY>
+82.669
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+brodimoprim
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13795
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Brodimoprim
+
+> <SYNONYMS>
+2,4-diamino-5-(4-bromo-3,5-dimethoxybenzyl)pyrimidine; Brodimoprim; Brodimoprima; Brodimoprime; Brodimoprimum
+
+$$$$

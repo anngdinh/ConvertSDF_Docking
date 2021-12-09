@@ -1,0 +1,154 @@
+9354
+  -OEChem-06181812403D
+
+ 16 15  0     1  0  0  0  0  0999 V2000
+    0.3265   -1.7544   -1.1729 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3186    1.7549   -1.1700 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1431    0.7147    1.3513 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1799   -0.7160    1.3428 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8115   -0.2209   -0.6071 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7942    0.2278   -0.6232 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5242   -0.5696    0.2089 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5164    0.5661    0.2096 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9429   -0.0302    0.2315 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9389    0.0276    0.2290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4095   -1.1762    1.1157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4048    1.1710    1.1177 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8610   -2.2478   -0.7925 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4932    0.8690   -2.1617 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0553    1.0731    1.3931 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0988   -1.0591    1.3605 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14089
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ACTRVOBWPAIOHC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)C(S)C(S)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4S2/c5-3(6)1(9)2(10)4(7)8/h1-2,9-10H,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+ACTRVOBWPAIOHC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6O4S2
+
+> <MOLECULAR_WEIGHT>
+182.218
+
+> <EXACT_MASS>
+181.97075006
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.467663016926029
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-disulfanylbutanedioic acid
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.25882704599999995
+
+> <ALOGPS_LOGS>
+-1.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.44874638068228
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3712346491431497
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+38.46740000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.43e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chemet
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14089
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Dimercaptosuccinic acid
+
+> <SYNONYMS>
+2,3-Dimercaptobutanedioic acid; 2,3-Dimercaptosuccinic acid
+
+> <PRODUCTS>
+Dimercaptosuccinic Acid DMSA; Dmsa; Rotop - Dmsa
+
+> <SALTS>
+Sodium dimercaptosuccinic acid
+
+$$$$

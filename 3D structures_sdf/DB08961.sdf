@@ -1,0 +1,187 @@
+2273
+  -OEChem-10061700083D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+   -2.8598    3.1982    0.0068 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5305    0.4294    0.0202 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2848    0.4211   -1.2468 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9609   -0.8343    0.5964 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0173    1.6843    0.5707 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4248    0.4404    0.0676 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8368    0.4072   -1.6593 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5403   -3.1343    0.6392 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1967   -2.2168   -0.4871 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4567   -3.9920    0.3801 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5066   -3.4918   -0.2860 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0109    0.4291    0.0567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7028   -0.7694    0.0612 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7784    0.4666    0.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0974   -0.7507    0.0495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6702    1.6463    0.0404 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1883    1.6474    0.0628 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0648    1.6650    0.0286 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0281   -2.0408    0.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6600    1.3401    0.0405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028    1.7131    0.9509 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8927    1.2303    0.5862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8630    0.5117   -0.5886 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6561   -1.6835    0.0347 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9075   -0.4487    0.1203 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1444    2.5969    0.0377 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9677    2.2436    0.9574 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9560    2.2607   -0.8176 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3979    2.3002    1.8370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1932   -0.4653   -2.0680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2298    1.2560   -2.0842 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7964    1.4013    1.1564 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6926    0.0353   -1.0917 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4187   -4.9631    0.6705 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 20  1  0  0  0  0
+  3 23  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 32  1  0  0  0  0
+ 23 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08961
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HMEDEBAJARCKCT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CS2)C(=C1)C1=NNN=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11ClN6O2S2/c13-9-5-10(15-6-7-2-1-3-22-7)8(12-16-18-19-17-12)4-11(9)23(14,20)21/h1-5,15H,6H2,(H2,14,20,21)(H,16,17,18,19)
+
+> <INCHI_KEY>
+HMEDEBAJARCKCT-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11ClN6O2S2
+
+> <MOLECULAR_WEIGHT>
+370.838
+
+> <EXACT_MASS>
+370.007342713
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.56310901099636
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-chloro-5-(2H-1,2,3,4-tetrazol-5-yl)-4-[(thiophen-2-ylmethyl)amino]benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+2.36
+
+> <JCHEM_LOGP>
+2.3807335043333335
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.605564695938167
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.383769874389292
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7681074539526156
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.65
+
+> <JCHEM_REFRACTIVITY>
+102.07919999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.29e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+azosemide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08961
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Azosemide
+
+> <SYNONYMS>
+2-chloro-5-(1H-tetrazol-5-yl)-N4-2-thenylsulfanilamide; 5-(4'-chloro-5'-sulfamoyl-2'-thenylaminophenyl)tetrazole; azosemida; azosémide; Azosemide; azosemidum
+
+$$$$

@@ -1,0 +1,126 @@
+6227
+  -OEChem-10051719503D
+
+  8  7  0     0  0  0  0  0  0999 V2000
+    2.1886   -0.0731    0.2286 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7189    0.5836    0.2347 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4837   -1.2931   -0.1064 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5803    0.8553   -0.3057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5663   -0.0727   -0.0512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6496    1.1076   -1.3647 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5113    1.7493    0.3172 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4632   -0.0356    0.3927 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02198
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KDPAWGWELVVRCH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CBr
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H3BrO2/c3-1-2(4)5/h1H2,(H,4,5)
+
+> <INCHI_KEY>
+KDPAWGWELVVRCH-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H3BrO2
+
+> <MOLECULAR_WEIGHT>
+138.948
+
+> <EXACT_MASS>
+137.931641987
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.392641711060023
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-bromoacetic acid
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+0.49949335833333336
+
+> <ALOGPS_LOGS>
+-0.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.63899808037616
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+20.3804
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.07e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+to ntu
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02198
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00753
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Bromoacetyl Group
+
+$$$$

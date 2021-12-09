@@ -1,0 +1,178 @@
+1053
+  -OEChem-10191719383D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+   -3.5356   -0.2490   -0.3330 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9310   -0.4162   -0.4308 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2577    1.3874   -0.7714 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7321    1.2401    0.2662 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9181   -1.2051    0.9137 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2834   -0.5336   -1.6027 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1559   -1.9064    0.3432 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6535    2.8543    0.9526 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1004    0.6533   -0.0408 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2875   -0.3742    0.4250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4403    0.4026   -0.3147 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1541   -0.1631    0.7342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5392    2.0236   -0.2458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9150   -0.8827   -0.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8585   -1.6247    0.5986 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3464   -1.2063   -0.3862 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4617   -0.8608    1.5222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3582    0.8372    1.1262 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0567    2.5259   -1.0726 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5060    1.9871   -0.5712 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2767   -2.4686    0.9567 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0101   -0.6072    0.2453 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5541   -2.2603   -0.1707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5856   -1.0357   -1.4407 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2622    3.7756    0.7598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6381    3.0074    1.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1589    1.0600   -0.9153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6405    1.5983    0.3588 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8643   -1.3523    1.1261 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 29  1  0  0  0  0
+  7 14  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02142
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZMJGSOSNSPKHNH-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(CN)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N2O5P/c1-5-8(11)7(2-9)6(3-10-5)4-15-16(12,13)14/h3,11H,2,4,9H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+ZMJGSOSNSPKHNH-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H13N2O5P
+
+> <MOLECULAR_WEIGHT>
+248.173
+
+> <EXACT_MASS>
+248.056208048
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.136769757122927
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[4-(aminomethyl)-5-hydroxy-6-methylpyridin-3-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.99
+
+> <JCHEM_LOGP>
+-2.224020327902724
+
+> <ALOGPS_LOGS>
+-1.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.741764979854414
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.741758989964274
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.111874163071498
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.9
+
+> <JCHEM_REFRACTIVITY>
+56.63570000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyridoxamine-5'-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02142
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02621
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyridoxamine-5'-Phosphate
+
+> <SYNONYMS>
+Pyridoxamine phosphate
+
+$$$$

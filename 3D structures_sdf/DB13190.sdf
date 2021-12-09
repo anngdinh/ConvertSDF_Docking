@@ -1,0 +1,193 @@
+2017
+  -OEChem-10061700153D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    4.2564   -0.4357    0.3285 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9080    1.5135    0.0225 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3039   -2.6329    0.1203 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6683    0.9154   -0.2178 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5917   -0.3647    0.1323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8088   -0.7175    0.0113 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5086   -1.2270    0.0883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3422    1.0176    0.0966 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9644    0.6786   -0.0195 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9091   -0.8490    0.2098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9328   -1.5607   -0.0341 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336    1.8811    0.1401 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9828    0.0354    0.2521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2564    1.1918   -0.0959 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7441    1.4032    0.2173 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3755    0.3568   -0.1413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2138   -1.0224   -0.1103 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2811    0.3609   -0.2652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996   -0.5445   -0.7349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1482   -1.9070    0.2397 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8666   -2.6431   -0.0129 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2716    2.9574    0.1201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3958    2.2721   -0.1207 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5440    2.1354    0.2755 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0734   -1.6862   -0.1446 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6193   -3.0337    0.1783 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0754   -3.2816    0.0928 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9141    0.9117   -1.1404 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6638    1.0677    0.4792 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7855    1.9196   -0.2415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4791    0.3121   -0.2518 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2093    0.0353   -1.1871 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8047   -1.1227    0.1021 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0286   -1.2665   -1.4700 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 26  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 30  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13190
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CIKWKGFPFXJVGW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCOC1=CC2=C(NC3=C(C=CC(N)=C3)C2=N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15N3O/c1-2-19-10-4-6-13-12(8-10)15(17)11-5-3-9(16)7-14(11)18-13/h3-8H,2,16H2,1H3,(H2,17,18)
+
+> <INCHI_KEY>
+CIKWKGFPFXJVGW-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H15N3O
+
+> <MOLECULAR_WEIGHT>
+253.305
+
+> <EXACT_MASS>
+253.121512115
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.24681338901329
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-ethoxy-9-imino-9,10-dihydroacridin-3-amine
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+2.2821510609999995
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.093012863675245
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.120839472321792
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.13000000000001
+
+> <JCHEM_REFRACTIVITY>
+87.44590000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.92e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+rivanol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13190
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethacridine
+
+> <SYNONYMS>
+Etacridina; Ethacridine; Ethacridinum
+
+> <INTERNATIONAL_BRANDS>
+Rivanol
+
+> <SALTS>
+Ethacridine lactate; Ethacridine lactate monohydrate
+
+$$$$

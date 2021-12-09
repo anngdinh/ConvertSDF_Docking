@@ -1,0 +1,176 @@
+65979
+  -OEChem-10061700313D
+
+ 30 32  0     0  0  0  0  0  0999 V2000
+    0.9205   -0.6073    0.4673 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1547   -1.1996    0.3969 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5779    0.8168   -0.4699 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8106   -1.8950    0.1103 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4817   -0.4354    0.1114 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2063   -1.8844   -0.5313 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8478   -0.5356   -0.1726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6383    0.3363   -0.0494 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2445    0.1601    0.2889 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5814    1.7197   -0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1759    1.5550    0.2909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3360    2.3291    0.1296 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1818   -0.2876    0.1164 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4328   -0.7178   -0.0301 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0547    0.6459   -0.6223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1107   -2.4887   -0.4844 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8502   -2.2743    1.1366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8179   -2.7352   -0.2149 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0998   -1.9519   -1.6231 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3728   -0.5897    0.7865 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5308   -0.1976   -0.9568 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4782    2.3197   -0.1471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7499   -1.5602    0.7748 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7517    2.0903    0.4670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2654    3.4134    0.1505 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8776   -1.3740   -0.7839 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1230   -0.6125    0.8120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5712    1.4575   -0.0989 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3197    0.6996   -1.6835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0139   -2.0951    0.8477 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3 13  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13827
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KUCWWEPJRBANHL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1CC2=C(C1)C(NC1=NCCN1)=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H15N3/c1-3-9-4-2-6-11(10(9)5-1)15-12-13-7-8-14-12/h2,4,6H,1,3,5,7-8H2,(H2,13,14,15)
+
+> <INCHI_KEY>
+KUCWWEPJRBANHL-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H15N3
+
+> <MOLECULAR_WEIGHT>
+201.273
+
+> <EXACT_MASS>
+201.126597495
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.084252945689293
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2,3-dihydro-1H-inden-4-yl)-4,5-dihydro-1H-imidazol-2-amine
+
+> <ALOGPS_LOGP>
+1.70
+
+> <JCHEM_LOGP>
+2.2846848919999996
+
+> <ALOGPS_LOGS>
+-2.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.932103731072658
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.42
+
+> <JCHEM_REFRACTIVITY>
+62.3604
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-(2,3-dihydro-1H-inden-4-yl)-4,5-dihydro-1H-imidazol-2-amine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13827
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Indanazoline
+
+> <SALTS>
+Indanazoline hydrochloride
+
+$$$$

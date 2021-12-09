@@ -1,0 +1,169 @@
+11498153
+  -OEChem-10051722433D
+
+ 28 30  0     1  0  0  0  0  0999 V2000
+    3.8929   -0.7936   -0.4207 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2881    1.1877   -1.0630 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5748    0.7739    1.0525 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7828    0.5707   -1.4999 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8764    1.2181    0.7644 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5026   -1.0483    0.4155 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7315    0.1094    1.4033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6342    0.4120    0.4707 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0052   -0.9308    0.2643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5734    1.6646   -0.5374 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2258   -0.6993   -0.9017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6796    0.8202    0.3537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0701   -1.8924   -0.0628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6345   -0.1481    0.0332 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2635   -1.4903   -0.1728 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0685    0.2461   -0.0992 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6967    2.0466    1.4550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8176   -2.0097    0.8306 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7870    0.3856    1.5032 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3554   -0.1484    2.4035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5445    2.1138   -0.2974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9790    2.4441   -1.0287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0666   -1.4978   -1.6360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3064   -0.6469   -0.7233 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9031    0.4034   -1.9898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9565    1.8583    0.5034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3554   -2.9242   -0.2328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0112   -2.2376   -0.4272 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12244
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RNOBTWYQAWEZHH-JGVFFNPUSA-N/SDF?record_type=3d
+
+> <SMILES>
+FC(F)(F)C1=CC2=C(C=C1)[C@H]1C[C@@H]2CNC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12F3N/c13-12(14,15)9-1-2-10-7-3-8(6-16-5-7)11(10)4-9/h1-2,4,7-8,16H,3,5-6H2/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+RNOBTWYQAWEZHH-JGVFFNPUSA-N
+
+> <FORMULA>
+C12H12F3N
+
+> <MOLECULAR_WEIGHT>
+227.23
+
+> <EXACT_MASS>
+227.092183879
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.844175292687524
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,8R)-4-(trifluoromethyl)-10-azatricyclo[6.3.1.0^{2,7}]dodeca-2(7),3,5-triene
+
+> <ALOGPS_LOGP>
+2.86
+
+> <JCHEM_LOGP>
+2.5596439236666666
+
+> <ALOGPS_LOGS>
+-3.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.856968119017278
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+55.884299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,8R)-4-(trifluoromethyl)-10-azatricyclo[6.3.1.0^{2,7}]dodeca-2(7),3,5-triene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12244
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+CP-601927
+
+$$$$

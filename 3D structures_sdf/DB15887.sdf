@@ -1,0 +1,161 @@
+10011857
+  -OEChem-09252017473D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+    2.7885   -0.2409   -0.0001 F  -1  0  0  0  0  0  0  0  0  0  0  0
+   -0.8715   -0.0241    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4921   -0.6986    0.0424 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9922    0.7965   -1.2761 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9628   -1.0845    0.0264 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0232    0.8902    1.2072 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5691    0.3613    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5567   -1.2956    0.9591 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5699   -1.3762   -0.8155 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6967    0.1735   -2.1254 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0392    1.0990   -1.3841 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3784    1.6979   -1.2073 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8576   -1.6648    0.9480 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9366   -0.5866   -0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8391   -1.7288   -0.8491 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7708    0.3258    2.1097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3865    1.7712    1.0972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0670    1.2178    1.2527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5473    0.9722   -0.9034 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5633    1.0167    0.8732 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+M  CHG  1   2   1
+M  ISO  1   1  18
+M  END
+> <DATABASE_ID>
+DB15887
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WOAGQHQTBSCFJV-KWCOIAHCSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[N+](C)(C)CC[18F]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H13FN/c1-7(2,3)5-4-6/h4-5H2,1-3H3/q+1/i6-1
+
+> <INCHI_KEY>
+WOAGQHQTBSCFJV-KWCOIAHCSA-N
+
+> <FORMULA>
+C5H13FN
+
+> <MOLECULAR_WEIGHT>
+105.166
+
+> <EXACT_MASS>
+105.10518851
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.713656216276854
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[2-(¹⁸F)fluoroethyl]trimethylazanium
+
+> <ALOGPS_LOGP>
+-2.77
+
+> <JCHEM_LOGP>
+-3.771177388805079
+
+> <ALOGPS_LOGS>
+-2.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+40.5019
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.84e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylisothiazolinone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15887
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fluorocholine F-18
+
+> <SYNONYMS>
+(18F)Fluorocholine; 18F-FCH; Fluorocholine(18F); Fluourine-18 Fluoromethylcholine
+
+> <SALTS>
+Fluorocholine chloride F-18
+
+$$$$

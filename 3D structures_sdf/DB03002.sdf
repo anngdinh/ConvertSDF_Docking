@@ -1,0 +1,143 @@
+10894
+  -OEChem-10051720073D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -3.3829   -0.0001    0.0002 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8454    0.0000    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4844   -0.0001   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7871   -1.2080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7870    1.2080   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078   -1.2080   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6079    1.2081   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3054    0.0000   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3250   -2.1522    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3188    2.1557    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1314   -2.1606   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1318    2.1606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1605    0.9202    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03002
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VSMDINRNYYEDRN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC1=CC=C(I)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5IO/c7-5-1-3-6(8)4-2-5/h1-4,8H
+
+> <INCHI_KEY>
+VSMDINRNYYEDRN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5IO
+
+> <MOLECULAR_WEIGHT>
+220.0078
+
+> <EXACT_MASS>
+219.938508202
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.223495518862752
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-iodophenol
+
+> <ALOGPS_LOGP>
+2.92
+
+> <JCHEM_LOGP>
+2.5986249726666664
+
+> <ALOGPS_LOGS>
+-2.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.099910274899514
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.263226837484601
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+41.40140000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.77e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-iodophenol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03002
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01906
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+p-Iodophenol
+
+> <SYNONYMS>
+4-iodophenol
+
+$$$$

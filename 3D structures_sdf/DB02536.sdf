@@ -1,0 +1,143 @@
+79014
+  -OEChem-10051719573D
+
+ 12 11  0     1  0  0  0  0  0999 V2000
+    0.0701    1.4173    0.5693 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5483   -0.8637    0.6519 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8821   -0.5587    0.3869 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0453    0.5723   -0.5601 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4108   -0.0964   -0.5354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0522   -0.4707   -0.5126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0751    1.1704   -1.4686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5412   -0.7670   -1.3902 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2125    0.6489   -0.5458 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0784   -1.1664   -1.3693 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9077    1.9044    0.4866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4239   -0.2613    1.4052 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02536
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MNQZXJOMYWMBOU-VKHMYHEASA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@@H](O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O3/c4-1-3(6)2-5/h1,3,5-6H,2H2/t3-/m0/s1
+
+> <INCHI_KEY>
+MNQZXJOMYWMBOU-VKHMYHEASA-N
+
+> <FORMULA>
+C3H6O3
+
+> <MOLECULAR_WEIGHT>
+90.0779
+
+> <EXACT_MASS>
+90.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.049429148957167
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2,3-dihydroxypropanal
+
+> <ALOGPS_LOGP>
+-1.63
+
+> <JCHEM_LOGP>
+-1.677355737
+
+> <ALOGPS_LOGS>
+0.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.109409674857876
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.804069324666727
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.001809498899698
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+19.4581
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.14e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02536
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00170
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-glyceraldehyde
+
+> <SYNONYMS>
+D-(+)-glyceraldehyde; D-2,3-dihydroxypropanal; D-2,3-dihydroxypropionaldehyde; D-aldotriose; D-glycerose; Triose
+
+$$$$

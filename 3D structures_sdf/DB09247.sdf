@@ -1,0 +1,176 @@
+19063
+  -OEChem-10051722063D
+
+ 31 31  0     0  0  0  0  0  0999 V2000
+   -5.9361   -1.3263    0.2362 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6471    1.1913   -0.1672 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8803    1.6328    0.6475 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0470    0.2872   -0.4666 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7362    0.0868   -0.8664 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6285   -0.9634    0.0019 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8754   -1.4701    1.2288 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1061   -0.7504    0.3153 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7277    0.8068   -0.2487 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3689    0.4579   -0.8175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8849    0.6005   -0.0721 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2962   -0.2870   -1.0565 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7051    0.9025    1.0061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5531   -0.8847   -0.9609 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9618    0.3048    1.1018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3858   -0.5888    0.1183 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5641   -1.7233   -0.7883 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5572    0.6208   -1.2838 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3601   -2.3672    1.6304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8573   -0.7201    2.0280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8414   -1.7451    0.9949 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6527   -0.4117   -0.5718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5689   -1.6845    0.6520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2460   -0.0033    1.1048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5554   -0.5695   -1.6201 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2498   -0.6249   -0.6769 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3675    0.6993   -1.8866 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6893   -0.5213   -1.9255 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3778    1.5981    1.7734 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8732   -1.5744   -1.7377 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5999    0.5449    1.9483 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09247
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GGECDTUJZOXAAR-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)NNC(=O)COC1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15ClN2O2/c1-8(2)13-14-11(15)7-16-10-5-3-9(12)4-6-10/h3-6,8,13H,7H2,1-2H3,(H,14,15)
+
+> <INCHI_KEY>
+GGECDTUJZOXAAR-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H15ClN2O2
+
+> <MOLECULAR_WEIGHT>
+242.7
+
+> <EXACT_MASS>
+242.0822054
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.20632792261789
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-chlorophenoxy)-N'-(propan-2-yl)acetohydrazide
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+1.7912432733333334
+
+> <ALOGPS_LOGS>
+-3.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.582553708577644
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.9674399368428115
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.36
+
+> <JCHEM_REFRACTIVITY>
+73.21179999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.00e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iproclozide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09247
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Iproclozide
+
+$$$$

@@ -1,0 +1,160 @@
+5483
+  -OEChem-01032017343D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+   -2.2092    1.8631    0.0564 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7560   -1.0461    1.1325 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7837    1.3223    0.2937 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5634   -0.0848    0.2972 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1587   -0.3500   -0.8835 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1766    0.1109   -0.4461 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8661   -0.4894    0.0418 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3813   -0.6134    0.1399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4911   -0.8575   -0.6531 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3923    0.1448    0.0211 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2261    0.0614   -1.5392 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0149    0.1496   -1.7507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9154   -1.1067   -1.6296 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4343   -1.7523   -0.0263 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3570   -1.6737   -0.1365 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4003   -0.5679    1.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3206   -0.1950   -0.2382 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1422    2.2490   -0.6589 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3900    1.9564    0.7325 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06823
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YTGJWQPHMWSCST-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(S)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO3S/c1-3(10)5(9)6-2-4(7)8/h3,10H,2H2,1H3,(H,6,9)(H,7,8)
+
+> <INCHI_KEY>
+YTGJWQPHMWSCST-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H9NO3S
+
+> <MOLECULAR_WEIGHT>
+163.19
+
+> <EXACT_MASS>
+163.030314328
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0037378848135123
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.307082482612708
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(2-sulfanylpropanamido)acetic acid
+
+> <JCHEM_LOGP>
+-0.5332992903333332
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.34778337094707
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.86468456685411
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.159857268852209
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+37.770300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-({4-[(2E)-N-({2-amino-4-oxo-1H-pyrido[3,2-d]pyrimidin-6-yl}methyl)-3-{5-carbamoyl-3-[(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]oxolan-2-yl]imidazol-4-yl}prop-2-enamido]phenyl}formamido)pentanedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06823
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tiopronin
+
+> <SYNONYMS>
+Tiopronin; Tiopronine; Tiopronino; Tioproninum
+
+> <PRODUCTS>
+Thiola; Thiola EC
+
+> <INTERNATIONAL_BRANDS>
+Acadione; Capen; Captimer ; Epatiol; Kai Na; Mucosyt; Sutilan; Thiola; Vincol
+
+$$$$

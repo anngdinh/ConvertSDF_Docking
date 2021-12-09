@@ -1,0 +1,174 @@
+71132
+  -OEChem-10061700193D
+
+ 29 31  0     1  0  0  0  0  0999 V2000
+    5.5384   -1.9012    0.0122 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5512    0.9000    0.9758 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7607    2.6330   -0.7282 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6333    1.5518    0.2197 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6277    0.8360   -0.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3992   -0.3465   -0.7068 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8856    0.6685    0.1666 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0966    0.0852   -1.0717 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6312    0.1807    0.5595 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4063   -1.1231   -1.3059 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2777    0.0173    1.3115 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5649    0.5656   -1.0239 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8072   -0.0114    1.2824 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6004   -1.3342   -0.6029 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7946   -0.7873    0.6681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4177   -0.7852    1.2631 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7048   -0.2369   -1.0721 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1312   -0.9123    0.0713 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6023    2.0386    1.2034 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5697   -0.1267   -1.9916 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2695   -1.5545   -2.2929 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7252    0.1116    2.2410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2433    1.0707   -1.9288 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9505    0.4160    2.2676 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3870   -1.9332   -1.0547 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7313   -0.9680    1.1897 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5923    3.0991   -0.5338 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7381   -1.3058    2.1620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2493   -0.3292   -2.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13291
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KBFBRIPYVVGWRS-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(C1=CC2=CC=CC=C2O1)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H11ClO2/c16-12-7-5-10(6-8-12)15(17)14-9-11-3-1-2-4-13(11)18-14/h1-9,15,17H
+
+> <INCHI_KEY>
+KBFBRIPYVVGWRS-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H11ClO2
+
+> <MOLECULAR_WEIGHT>
+258.7
+
+> <EXACT_MASS>
+258.0447573
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.684840241620613
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1-benzofuran-2-yl)(4-chlorophenyl)methanol
+
+> <ALOGPS_LOGP>
+3.99
+
+> <JCHEM_LOGP>
+3.6733054366666664
+
+> <ALOGPS_LOGS>
+-4.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.632482735989711
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.984669390461755
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+70.6801
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cloridarol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cloridarol
+
+$$$$

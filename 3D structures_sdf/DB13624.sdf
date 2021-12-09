@@ -1,0 +1,174 @@
+4117
+  -OEChem-10061700263D
+
+ 30 30  0     1  0  0  0  0  0999 V2000
+    1.2204   -1.8892   -0.2221 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4007   -0.3072   -0.5301 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1455    0.2199    0.0136 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9770   -0.1932   -0.8998 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3618    0.3374   -0.4460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9846   -0.2992    1.4425 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3883   -0.5401   -0.1319 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5364    1.7100   -0.3527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5307    0.1377    0.2683 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6189   -0.0330    0.2856 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7670    2.2169    0.0650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8081    1.3455    0.3842 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3375   -2.7056    0.1234 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2038    1.3150    0.0407 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1546    0.1808   -1.9179 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9587   -1.2864   -0.9911 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0109   -0.0193    1.8584 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0525   -1.3924    1.4871 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7250    0.1227    2.1297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3778   -1.3259   -0.5570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2591    2.4030   -0.6102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4515   -0.0685   -0.2879 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5103    1.2168    0.4547 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6176   -0.3994    1.2175 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4725   -0.6475    0.5498 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9155    3.2903    0.1388 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7661    1.7415    0.7086 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6150   -2.5860    1.1762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1830   -2.5409   -0.5531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0265   -3.7476   -0.0058 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13624
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OEHAYUOVELTAPG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CNC(C)CC1=CC=CC=C1OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H17NO/c1-9(12-2)8-10-6-4-5-7-11(10)13-3/h4-7,9,12H,8H2,1-3H3
+
+> <INCHI_KEY>
+OEHAYUOVELTAPG-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H17NO
+
+> <MOLECULAR_WEIGHT>
+179.2588
+
+> <EXACT_MASS>
+179.131014171
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.78841147448313
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[1-(2-methoxyphenyl)propan-2-yl](methyl)amine
+
+> <ALOGPS_LOGP>
+2.13
+
+> <JCHEM_LOGP>
+2.0791596096666662
+
+> <ALOGPS_LOGS>
+-2.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.044894119895341
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.259999999999998
+
+> <JCHEM_REFRACTIVITY>
+54.943000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.83e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methoxyphenamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13624
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methoxyphenamine
+
+> <SYNONYMS>
+2-Methoxymethamphetamine; Methoxyphenamine; Méthoxyphénamine; Methoxyphenaminum; Metoxifenamina
+
+> <SALTS>
+Methoxyphenamine hydrochloride
+
+$$$$

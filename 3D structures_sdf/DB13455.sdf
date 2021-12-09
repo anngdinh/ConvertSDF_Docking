@@ -1,0 +1,169 @@
+14113
+  -OEChem-10061700223D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+    1.9946    2.5417    0.6200 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3343    1.7999   -1.4201 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4160   -2.7867    0.2328 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8783   -0.8673   -0.2620 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5707   -0.4236   -0.0868 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8376    0.1859    0.3378 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0539   -2.2781    0.3470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5035   -0.8204   -1.0206 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8985    0.3586    0.9996 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6984    1.5641   -0.2765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8285   -0.4149   -0.8605 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2236    0.7639    1.1597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1885    0.3770    0.2297 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0879   -0.9225   -1.3402 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7651    0.2407    1.4291 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8735   -0.1093    0.1275 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3808   -2.9864   -0.1504 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7723   -2.2746    1.4070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2308   -1.4380   -1.8709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2005    0.6576    1.7710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0491   -2.2163    0.7908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7332   -2.7031   -0.7322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5800   -0.7167   -1.5842 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5065    1.3737    2.0128 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2206    0.6909    0.3555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8882    3.4366    0.2327 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 20  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13455
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DAFOCGYVTAOKAJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCC(CC(O)=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13NO2/c11-7-9(6-10(12)13)8-4-2-1-3-5-8/h1-5,9H,6-7,11H2,(H,12,13)
+
+> <INCHI_KEY>
+DAFOCGYVTAOKAJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H13NO2
+
+> <MOLECULAR_WEIGHT>
+179.219
+
+> <EXACT_MASS>
+179.094628663
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.82249685490769
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-3-phenylbutanoic acid
+
+> <ALOGPS_LOGP>
+-1.27
+
+> <JCHEM_LOGP>
+-1.3868852469463204
+
+> <ALOGPS_LOGS>
+-2.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.442236217430038
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.802051322314718
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+50.02440000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.56e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phenibut
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13455
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Phenibut
+
+> <SYNONYMS>
+4-amino-3-phenylbutyric acid
+
+$$$$

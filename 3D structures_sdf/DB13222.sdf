@@ -1,0 +1,157 @@
+65592
+  -OEChem-10061700173D
+
+ 21 22  0     0  0  0  0  0  0999 V2000
+   -3.8397    0.4208    0.0007 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4058    2.3276    0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2478    1.7122    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7239   -0.6400   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2503   -1.6527   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3403    0.7175   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0199    1.0137   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6038   -1.3280   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0931   -0.9387   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9887    0.0070   -0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1131   -3.1050    0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0306    0.0841    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5595    1.3814    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3561   -2.1132   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4599   -1.9615   -0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7728   -3.7499    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6927   -3.3579   -0.8927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6902   -3.3559    0.8975 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0932   -0.1285    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2455    2.2221    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3780    2.3622    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13222
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JMOVFFLYGIQXMM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C2C=CC=NC2=C(O)C(Br)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8BrNO/c1-6-5-8(11)10(13)9-7(6)3-2-4-12-9/h2-5,13H,1H3
+
+> <INCHI_KEY>
+JMOVFFLYGIQXMM-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8BrNO
+
+> <MOLECULAR_WEIGHT>
+238.084
+
+> <EXACT_MASS>
+236.978927
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.403465257800775
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-bromo-5-methylquinolin-8-ol
+
+> <ALOGPS_LOGP>
+3.11
+
+> <JCHEM_LOGP>
+3.1095091643333332
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.842888621808817
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.45978976253757
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+54.6242
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tilbroquinol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13222
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tilbroquinol
+
+$$$$

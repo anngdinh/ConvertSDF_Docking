@@ -1,0 +1,141 @@
+33344
+  -OEChem-07031818133D
+
+ 12 12  0     0  0  0  0  0  0999 V2000
+   -3.1004    0.0418   -0.0008 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4850    1.4995    0.0009 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9618    0.6121   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7887   -0.7631    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2367    1.2926   -0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6603   -1.0845   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3915    0.0328    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0539    0.5660   -0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3149    1.9162    0.8948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3139    1.9166   -0.8961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0282   -2.0988   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14197
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DHNRXBZYEKSXIM-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1SC(Cl)=CC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4ClNOS/c1-6-4(7)2-3(5)8-6/h2H,1H3
+
+> <INCHI_KEY>
+DHNRXBZYEKSXIM-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4ClNOS
+
+> <MOLECULAR_WEIGHT>
+149.59
+
+> <EXACT_MASS>
+148.9702126
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+12
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.123534900892661
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-chloro-2-methyl-2,3-dihydro-1,2-thiazol-3-one
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+1.3513124026666667
+
+> <ALOGPS_LOGS>
+-0.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.901566460725285
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.310000000000002
+
+> <JCHEM_REFRACTIVITY>
+44.51930000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.00e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylchloroisothiazolinone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14197
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Methylchloroisothiazolinone
+
+> <SYNONYMS>
+4-Isothiazolin-3-one, 5-chloro-2-methyl-; 5-Chloro-2-methyl-3(2H)-isothiazolone; 5-Chloro-N-methylisothiazolin-3-one
+
+> <PRODUCTS>
+Anti-Bacterial Multi-Purpose Cleaning Wipes; Hand Sanitizing Wipes; T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

@@ -1,0 +1,166 @@
+10953859
+  -OEChem-07051818473D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+   -0.4273    1.3089   -0.4132 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8338   -1.6003   -1.1297 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7909    0.2780    1.2601 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7831   -1.4155    0.6222 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6974    0.4664   -0.1633 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0105    0.1512    0.3336 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0753   -0.9142    0.0922 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3266   -0.0748   -0.0377 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4002   -0.2305   -0.0763 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8172    1.1636   -0.7553 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4009    0.8672    0.2674 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0325    0.4339    1.3947 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1073   -1.6432    0.9081 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1406   -0.5619   -0.5826 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4628   -0.4439   -1.1493 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8676    1.0401   -1.8420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3454    2.0787   -0.4728 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1563    1.8165   -0.2187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4567    1.0300    1.3485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5683   -2.2232   -1.2636 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5544    0.8692    1.1455 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7300   -1.2322    1.5758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6629    0.3517   -1.1283 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14474
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JNYAEWCLZODPBN-JGWLITMVSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@](O)(CO)[C@@]1([H])OC[C@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5/c7-1-3(8)6-5(10)4(9)2-11-6/h3-10H,1-2H2/t3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+JNYAEWCLZODPBN-JGWLITMVSA-N
+
+> <FORMULA>
+C6H12O5
+
+> <MOLECULAR_WEIGHT>
+164.157
+
+> <EXACT_MASS>
+164.068473486
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.412771695489235
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S)-2-[(1R)-1,2-dihydroxyethyl]oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-2.45
+
+> <JCHEM_LOGP>
+-2.5683152763333332
+
+> <ALOGPS_LOGS>
+0.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.475437419011644
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.749265019598681
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9744307855221006
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+34.893499999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.06e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1,4-dianhydrosorbitol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14474
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sorbitan
+
+> <SYNONYMS>
+1,4-Sorbitan
+
+$$$$

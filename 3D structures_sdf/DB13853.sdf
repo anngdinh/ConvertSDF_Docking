@@ -1,0 +1,162 @@
+2194
+  -OEChem-10061700323D
+
+ 22 23  0     0  0  0  0  0  0999 V2000
+    2.0349    1.8282   -0.3562 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9692    1.1759   -0.3336 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8345   -1.6699    0.1304 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2191   -0.1629    0.3473 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0902    0.1578    0.0715 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3690    0.2703   -0.0262 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7213    0.3187    1.3048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8466   -0.1108   -1.0694 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8654   -0.0576    0.2566 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1090    0.2109    1.3974 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2342   -0.2184   -0.9767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1800   -0.7848    0.1215 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6296   -0.5187   -0.0094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9314   -0.4388   -0.8580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1462    0.5278    2.2037 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3689   -0.2394   -2.0379 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5952    0.3370    2.3609 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7604   -0.4285   -1.9016 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8228   -1.7875    0.3252 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6568   -1.4144   -1.2733 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8164    0.3702   -1.5875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9945   -0.4886   -0.6010 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13853
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KYLIZBIRMBGUOP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC1=CC=C(C=C1)C1=CC(=S)SS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8OS3/c1-11-8-4-2-7(3-5-8)9-6-10(12)14-13-9/h2-6H,1H3
+
+> <INCHI_KEY>
+KYLIZBIRMBGUOP-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8OS3
+
+> <MOLECULAR_WEIGHT>
+240.35
+
+> <EXACT_MASS>
+239.9737284
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.78246841430543
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(4-methoxyphenyl)-3H-1,2-dithiole-3-thione
+
+> <ALOGPS_LOGP>
+3.58
+
+> <JCHEM_LOGP>
+3.2866038476666666
+
+> <ALOGPS_LOGS>
+-4.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.828975083439206
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+70.15090000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.79e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+halpen
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13853
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Anethole trithione
+
+> <SYNONYMS>
+Anetholtrithion
+
+> <PRODUCTS>
+Sialor; Sialor Tab 25mg; Sulfarlem Tab 12.5mg
+
+$$$$

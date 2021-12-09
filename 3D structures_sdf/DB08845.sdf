@@ -1,0 +1,160 @@
+51
+  -OEChem-03172015333D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+    3.7402   -0.6979    0.0666 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2693   -1.6692   -0.0205 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7936    1.3637   -0.0282 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5037   -0.3863    0.0216 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3867    1.6090    0.0221 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1517    0.3062   -0.0298 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3699   -0.6143   -0.0356 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1592   -0.4522   -0.0114 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6775    0.1465    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4140    0.3946    0.0134 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1833    0.9525    0.8551 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1668    0.9439   -0.9210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3614   -1.2357   -0.9383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3362   -1.2740    0.8393 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5921   -0.2119    0.0877 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3343    0.1353    0.0369 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08845
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KPGXRSRHYNQIFN-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(=O)CCC(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O5/c6-3(5(9)10)1-2-4(7)8/h1-2H2,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+KPGXRSRHYNQIFN-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6O5
+
+> <MOLECULAR_WEIGHT>
+146.0981
+
+> <EXACT_MASS>
+146.021523302
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.002315444479680504
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.166536450524555
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxopentanedioic acid
+
+> <ALOGPS_LOGP>
+-0.60
+
+> <JCHEM_LOGP>
+-0.1092632996666667
+
+> <ALOGPS_LOGS>
+-0.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.8661081567892333
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.663960637841894
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.667717541536742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.66999999999999
+
+> <JCHEM_REFRACTIVITY>
+28.883000000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.31e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxoglutarate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08845
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB02926; DB03806; EXPT00137
+
+> <DRUG_GROUPS>
+experimental; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Oxogluric acid
+
+> <SYNONYMS>
+2-Ketoglutaric acid; 2-oxoglutaric acid; 2-oxopentanedioic acid; alpha-Ketoglutaric acid; Ketoglutaric acid; Oxoglurate; α-Ketoglutarate
+
+$$$$

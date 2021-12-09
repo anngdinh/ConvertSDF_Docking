@@ -1,0 +1,137 @@
+68295
+  -OEChem-10061700203D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+   -3.0418   -0.2337   -0.3687 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0405   -0.2286   -0.3703 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0087   -1.2215    0.4518 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0021    0.0536   -0.1932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2605    0.8154    0.2395 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2552    0.8148    0.2407 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0016   -0.1170   -1.2757 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2685    1.8190   -0.1992 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2892    0.9220    1.3301 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2849    0.9194    1.3316 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2622    1.8194   -0.1956 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0016   -1.0728    1.4128 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13383
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DNKPFCQEGBJJTE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OC(CI)CI
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6I2O/c4-1-3(6)2-5/h3,6H,1-2H2
+
+> <INCHI_KEY>
+DNKPFCQEGBJJTE-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6I2O
+
+> <MOLECULAR_WEIGHT>
+311.889
+
+> <EXACT_MASS>
+311.8508
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+12
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.307382214069158
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,3-diiodopropan-2-ol
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.7899007433333334
+
+> <ALOGPS_LOGS>
+-2.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.163704362769185
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1645957117247594
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+43.390499999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.64e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diiodohydroxypropane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13383
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diiodohydroxypropane
+
+$$$$

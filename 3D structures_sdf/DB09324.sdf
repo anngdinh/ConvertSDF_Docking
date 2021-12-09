@@ -1,0 +1,176 @@
+130313
+  -OEChem-10051722093D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+   -1.7330   -0.6838   -0.0123 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5229   -1.5672    0.8230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2201   -0.2741   -1.3164 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4418    2.9575   -0.8655 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0889   -0.4788   -0.7794 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4931    0.0797    1.3488 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0963    0.9522    0.3270 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0296   -1.3806   -0.2051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2284    0.7455    0.9324 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8102   -0.0995   -0.3719 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5800    2.1665    0.4765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1697    2.2029   -0.1437 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0336   -2.2732   -1.4453 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3237   -2.1991    1.0464 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1962   -0.1481    0.1855 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1761    0.5751    2.0113 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8602    0.2120   -1.4235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7215    2.8900    1.2840 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3915    2.2557   -0.2493 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0392   -2.6858   -1.5803 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6693   -3.1096   -1.3633 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2238   -1.7218   -2.3560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573   -3.0493    1.1662 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3382   -2.6073    0.9831 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2540   -1.5985    1.9595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0058   -0.5160   -0.4328 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09324
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FKENQMMABCRJMK-RITPCOANSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@@]12CC(=O)N1[C@@]([H])(C(O)=O)C(C)(C)S2(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO5S/c1-8(2)6(7(11)12)9-4(10)3-5(9)15(8,13)14/h5-6H,3H2,1-2H3,(H,11,12)/t5-,6+/m1/s1
+
+> <INCHI_KEY>
+FKENQMMABCRJMK-RITPCOANSA-N
+
+> <FORMULA>
+C8H11NO5S
+
+> <MOLECULAR_WEIGHT>
+233.242
+
+> <EXACT_MASS>
+233.035793157
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.625083780804296
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,5R)-3,3-dimethyl-4,4,7-trioxo-4λ⁶-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.92
+
+> <JCHEM_LOGP>
+-0.8914055830000002
+
+> <ALOGPS_LOGS>
+-0.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+18.707687773619536
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.0900244946220456
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8440072803582734
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.75
+
+> <JCHEM_REFRACTIVITY>
+48.21450000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.85e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulbactam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09324
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulbactam
+
+> <SYNONYMS>
+(2S,5R)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid 4,4-dioxide; (2S,5R)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide; Penicillanic acid 1,1-dioxide; Penicillanic acid sulfone; Sulbactam; Sulbactamum
+
+> <PRODUCTS>
+Ampicillin Sodium and Sulbactam Sodium; Ampicillin and Sulbactam; Unasyn
+
+> <SALTS>
+Sulbactam benzathine; Sulbactam sodium
+
+$$$$

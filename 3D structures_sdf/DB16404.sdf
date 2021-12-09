@@ -1,0 +1,173 @@
+10364
+  -OEChem-12232011273D
+
+ 25 25  0     0  0  0  0  0  0999 V2000
+   -1.9010    2.0331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3830   -0.3022    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8919   -0.3232    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9626    0.3674    1.2605 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9626    0.3674   -1.2604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1770    0.8746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2120   -1.5413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8975   -0.3639   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2178    0.8543   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1827   -1.5616   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3900   -0.4045    0.0005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7523   -1.3369    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7122    1.4325    1.3106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0545    0.2809    1.2732 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5767   -0.1111    2.1675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5767   -0.1111   -2.1675 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0545    0.2808   -1.2732 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7121    1.4326   -1.3106 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6923    1.8317    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7534   -2.4836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6969   -2.5190   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7889    0.0833    0.8961 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7900    0.0842   -0.8941 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7662   -1.4336    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8588    1.8813   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16404
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RECUKUPTGUEGMW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(C)C1=CC(O)=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4-7,11H,1-3H3
+
+> <INCHI_KEY>
+RECUKUPTGUEGMW-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14O
+
+> <MOLECULAR_WEIGHT>
+150.221
+
+> <EXACT_MASS>
+150.104465071
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.000377457369457909
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.86388711194626
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methyl-5-(propan-2-yl)phenol
+
+> <ALOGPS_LOGP>
+3.20
+
+> <JCHEM_LOGP>
+3.428111034333333
+
+> <ALOGPS_LOGS>
+-2.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.422968132468661
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.466114337746285
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+47.2709
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.70e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{4-[(2S)-2-[(2S)-2-[(methoxycarbonyl)amino]-3-phenylpropanamido]-2-[2-(thiophen-2-yl)-1,3-thiazol-4-yl]ethyl]phenyl}sulfamic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB16404
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carvacrol
+
+> <SYNONYMS>
+5-Isopropyl-o-cresol; p-Cymen-2-ol
+
+$$$$

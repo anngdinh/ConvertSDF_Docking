@@ -1,0 +1,184 @@
+5419
+  -OEChem-10051722043D
+
+ 31 33  0     1  0  0  0  0  0999 V2000
+   -2.8622    0.2422   -0.8270 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5350    0.5008    1.0036 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4786   -0.4780   -0.9904 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5201   -2.0074   -0.8843 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0800   -2.4999    0.4289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8230    0.1293   -0.5163 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5384   -2.0696    0.5479 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7546   -0.6108    0.2357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6394    0.1116   -0.2417 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1010    1.4740   -0.8171 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7980    0.7903    0.1075 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9023    1.0073    1.3365 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9469    0.0010    0.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2843    2.0729   -0.3862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2074    1.3362    0.3489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6093   -0.2228   -2.0513 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0513   -2.4415   -1.7155 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5472   -2.3793   -0.9814 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0163   -3.5928    0.4817 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4971   -2.1093    1.2756 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1496   -2.6600   -0.1463 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8869   -2.2902    1.5641 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1050   -0.0321   -1.7709 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6058    0.0843    0.3216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2240    1.7315   -0.2517 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3912    2.0638   -1.3927 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8412    2.0702    1.5934 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2915    0.4663    2.2054 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6827   -0.5650    1.2203 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4854    3.1127   -0.6264 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1319    1.7989    0.6813 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06764
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BYJAVTDNIXVSPW-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1CN=C(N1)C1CCCC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16N2/c1-2-6-11-10(4-1)5-3-7-12(11)13-14-8-9-15-13/h1-2,4,6,12H,3,5,7-9H2,(H,14,15)
+
+> <INCHI_KEY>
+BYJAVTDNIXVSPW-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H16N2
+
+> <MOLECULAR_WEIGHT>
+200.285
+
+> <EXACT_MASS>
+200.131348523
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.927261535315424
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(1,2,3,4-tetrahydronaphthalen-1-yl)-4,5-dihydro-1H-imidazole
+
+> <ALOGPS_LOGP>
+3.11
+
+> <JCHEM_LOGP>
+2.2408906230000003
+
+> <ALOGPS_LOGS>
+-2.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.166670151811907
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.39
+
+> <JCHEM_REFRACTIVITY>
+61.48380000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+visine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06764
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tetryzoline
+
+> <SYNONYMS>
+(RS)-2-(1,2,3,4-tetrahydronaphthalen-1-yl)-4,5-dihydro-1H-imidazole; 2-(1,2,3,4-Tetrahydro-1-naphthyl)-2-imidazoline; 2-Tetralin-1-yl-4,5-dihydro-1H-imidazole; 4,5-dihydro-2-(1,2,3,4-tetrahydro-1-naphthalenyl)-1H-imidazole; Tetrahydrozoline; Tetrizolina; Tetryzolin; Tetryzolina; Tetryzoline; Tétryzoline; Tetryzolinum
+
+> <PRODUCTS>
+4248 First Aid Kit; 8-symptom Relief; Advance Relief Eye Drops; Advanced Relief; Advanced Relief Eye Drops; Advanced relief; Allergy Eye Drops; Assured Advanced Relief Eye; Assured Original Relief Eye; CAREALL Eyedrops Original; CVS Astringent Eye; CVS Redness Relief Maximum; CVS Redness Relief Original; Care One Eye Drops Seasonal Relief; CareOne Itchy Relief Eye Drops 15mL; Careone Eye Drops Seasonal Relief; Circle K Eye Drops Redness Reliever; Clear Eyes Travelers Eye Relief; Clear Eyes Triple Action; Clear Eyes Triple Action Relief; Colirio Ocusan; Collyrium Eye Drops; Cool Eye Drops; DG Health Advanced Relief Eye Drops; DG Health Sterile Advanced Relief Eye; DG Health Sterile Redness Relief; DG Original Eye Drops; Dg Health Original; Equate Eye Drops; Equate Redness Reliever; Exchange Select Eye Drops Advanced Relief Moisturizer; Eye Drops; Eye Drops 0.5mg/ml; Eye Drops AC; Eye Drops Advanced Relief; Eye Drops Extra; Eye Drops Regular; Family Care Advanced Formula Eye; Family Care Original Eye; Family Wellness Advanced Eye; Family Wellness Irritation Relief Ac Eye Drops; Freds Advanced Eye Drops; Freds Astringent Rdeness Reliever Eye; Freds Original Eye Drops; GNP Eye Drops Seasonal Relief; Good Neighbor Pharmacy Eye Drop; Good Neighbor Pharmacy Eye Drops Advanced Relief; GoodSense Advanced Relief Eye; GoodSense Eye Drops Advanced Relief Moisturizer; GoodSense Eye Drops Irritation Relief; GoodSense Eye Drops Original Formula; GoodSense Irritation Relief Eye; GoodSense Original Formula Eye; Goodsense Advanced Relief Eye; Goodsense Irritation Relief Eye; Goodsense Original Eye Drops; Industrial Strength Eye Drops; Irritation Relief Eye; Leader Advanced Formula; Leader Advanced Formula Eye Drops; Leader Advanced Relief Eye Drops; Leader Original Eye Drops; Leader Original Formula; Leader Original Formula Eye Drops; Leader Relief; Leader Relief Eye; Lil Drug Store Eye Drops Redness Reliever; Major Redness Reliever Eye; Meijer Advanced Redness and Irritation Relief; Meijer Redness Relief; Meijer Seasonal Itching and Redness Relief; Multi- Action Relief Drops; Multi-Action Relief; Murine Plus 2; Murine Plus for Dry Eyes Redness Relief; Murine Tears Plus 3; Nwi Original; OptiClear; Optical Advanced Eye; Optical Original Eye Drops; Optimis7; Original Eye Drops; Preferred Plus Pharmacy Redness Relief Eye Drops; Premier Value Advanced Eye Drops; Premier Value Eye Ac; Premier Value Original; Premier Value Sterile Eye Drops; Quality Choice Eye Drops Irritation Relief; Quality Choice Eye Drops Moisturizing Relief; Quality Choice Original Eye Drops; R.O.-eye Drops; Redness Reliever; Redness reliever; Redness reliever and Lubricant; Rite Aid Advanced Sterile Eye; Rite Aid Original Sterile Eye; Rohto Arctic; Rohto Digi-Eye; Rohto Ice; Rohto Relief; Rugby Eye; Rugby Tetrahydrozoline Ophthalmic Solution; Seasonal itchy and Red eye relief; Shopko Advanced Formula Eye Drops; Shopko Original Formula Eye Drops; Shopko Relief; Signature Care Eye Drops Advanced Relief; Sound Body Original Eye; SoundBody Advanced Relief; Soundbody Advanced relief; Soundbody Seasonal itchy and Red eye relief; Sunmark Eye Drops Advanced Moisturizer/Lubricant; Sunmark Eye Drops Original Formula; T-raojo; Tetrahydrozoline Ophthalmic Solution; TopCare Health Advanced Moisturizing Plus Redness Relief; TopCare Health Original Eye Drops; Topcare Health Ultra Itch Relief Astringent Eye Drops; Tyzine; Tyzine Pediatric; Up and Up Ultra Itchy Relief; Visine A.C.; Visine A.C. Itchy Eye Relief; Visine A.C. Ophthalmic Sol; Visine Advanced Blister 6s Pack; Visine Advanced Relief; Visine Cool; Visine Extra Ophthalmic Sol; Visine Maximum Strength Redness Relief Formula; Visine Multi-symptom; Visine Original; Visine Original Redness Relief; Visine Red Eye Comfort; Visine Red Eye Hydrating Comfort; Visine Red Eye Hydrating Comfort Eye Drops; Visine Red Eye Total Comfort Multi-Symptom; Visine Summer Spectrum Relief; Visine Totality Multi Symptom Relief; Visine for Allergy 3 Symptom Relief; Visine for Red Eye Cool; Visine for Red Eye Triple Action; Visine for Red Eye Workplace; Walgreens Eye Drops Advanced Relief 15mL; Walgreens Eye Drops Original 15mL and twin pack; Walgreens Eye Drops Seasonal Relief 15mL; Walgreens Maximum Relief Eye Drops; Walgreens Multi-Symptom Relief Eye Drops; Walgreens Original Eye Drops; Walgreens Sterile Advance Relief Eye Drops; Walgreens Sterile Original Eye; Walgreens Sterile Original Eye Drops; Winco Original Formula Eye Drops
+
+> <SALTS>
+Tetrahydrozoline hydrochloride
+
+$$$$

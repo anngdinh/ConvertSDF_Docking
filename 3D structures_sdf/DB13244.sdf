@@ -1,0 +1,152 @@
+42552846
+  -OEChem-10061700173D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    3.1686    1.1289    0.1664 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.1681   -1.1290    0.1669 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8897    0.0005    0.8918 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.6923   -0.0001   -0.2811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1777   -0.0006   -0.4157 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9978   -1.2081   -0.2171 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9980    1.2080   -0.2172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0856    0.0002   -0.0253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3911   -1.2079   -0.0892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3909    1.2081   -0.0892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5510    0.0000    0.1098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5291    0.8819   -0.9614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5289   -0.8841   -0.9598 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5279   -2.1557   -0.2637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5283    2.1555   -0.2639 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6534    0.8315    1.4505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6531   -0.8293    1.4520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9095    0.0002    0.7580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9045   -2.1645   -0.0412 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042    2.1647   -0.0414 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+M  CHG  2   1  -1   3   1
+M  END
+> <DATABASE_ID>
+DB13244
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QCTBMLYLENLHLA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCC1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9NO2/c9-5-6-1-3-7(4-2-6)8(10)11/h1-4H,5,9H2,(H,10,11)
+
+> <INCHI_KEY>
+QCTBMLYLENLHLA-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H9NO2
+
+> <MOLECULAR_WEIGHT>
+151.1626
+
+> <EXACT_MASS>
+151.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.527862822846249
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(aminomethyl)benzoic acid
+
+> <ALOGPS_LOGP>
+-2.05
+
+> <JCHEM_LOGP>
+-1.5072031492060625
+
+> <ALOGPS_LOGS>
+-1.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.87124656317069
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.525834016518816
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+41.7876
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.65e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pamba
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13244
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aminomethylbenzoic acid
+
+$$$$

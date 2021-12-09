@@ -1,0 +1,160 @@
+440917
+  -OEChem-10061700083D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+    0.7240    0.0471   -0.3365 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0276    1.2093    0.3806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0318   -1.2814    0.0118 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4515    1.2966   -0.0091 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1489   -0.0396   -0.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4668   -1.1971   -0.0159 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1831   -0.0051    0.0028 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6470   -0.0025   -0.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1353    0.1682   -1.1430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6125   -0.1955    1.2592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6127    0.2109   -1.4182 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5182    2.1614    0.1421 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0919    1.0883    1.4702 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3159   -1.6486    1.0053 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3526   -2.0468   -0.7064 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5387    1.7573   -1.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9567    1.9634    0.7000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0045   -2.1417   -0.0213 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9733    0.5372   -1.0029 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0538    0.5055    0.7724 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0841   -1.0058   -0.1459 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9797   -0.6181   -1.8889 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9803    1.1402   -1.6224 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1809    0.1190   -0.8211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6727   -0.2310    1.4884 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9294   -0.3179    2.0924 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08921
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XMGQYMWWDOXHJM-JTQLQIEISA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=C)[C@@H]1CCC(C)=CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3/t10-/m0/s1
+
+> <INCHI_KEY>
+XMGQYMWWDOXHJM-JTQLQIEISA-N
+
+> <FORMULA>
+C10H16
+
+> <MOLECULAR_WEIGHT>
+136.234
+
+> <EXACT_MASS>
+136.125200512
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.549313169132663
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4R)-1-methyl-4-(prop-1-en-2-yl)cyclohex-1-ene
+
+> <ALOGPS_LOGP>
+4.50
+
+> <JCHEM_LOGP>
+3.2198126516666665
+
+> <ALOGPS_LOGS>
+-2.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+46.4803
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-limonene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08921
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+(4R)-limonene
+
+> <SYNONYMS>
+(+)-(4R)-Limonene; (+)-(R)-Limonene; (+)-4-isopropenyl-1-methylcyclohexene; (+)-Limonene; (4R)-1-methyl-4-isopropenylcyclohex-1-ene; (4R)-4-isopropenyl-1-methylcyclohexene; (R)-(+)-limonene; (R)-(+)-p-mentha-1,8-diene; (R)-1-methyl-4-(1-methylethenyl)cyclohexene; (R)-4-isopropenyl-1-methyl-1-cyclohexene; (R)-p-mentha-1,8-diene; 4βH-p-mentha-1,8-diene; D-(+)-limonene; D-Limonen; D-limonene
+
+$$$$

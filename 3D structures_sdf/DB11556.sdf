@@ -1,0 +1,174 @@
+56032
+  -OEChem-10051722163D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    2.7433   -0.9625   -0.3835 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4746    0.4997    1.1196 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5603    0.3707   -0.6984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7506    0.1512   -1.3797 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3318   -0.7047   -0.2580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5521   -0.4738    0.3769 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9251    0.1014   -0.4237 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0091    1.6770   -0.5039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8512   -2.1053   -0.4679 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0011    0.8325    0.5713 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2295    1.9078    0.1310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3976   -1.6073    0.8579 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3617    0.9921    0.4850 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6774   -0.6788    0.5736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7279   -0.7436   -2.0132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9338    0.9724   -2.0874 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4196    2.5258   -0.8405 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1697   -2.2286   -0.0947 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4373   -2.8656    0.0535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8805   -2.3578   -1.5333 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9490    1.0308    1.0645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5788    2.9250    0.2827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6540   -2.2812    0.0336 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8872   -2.1626    1.6516 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3453   -1.2509    1.2775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6912   -1.8064   -0.9396 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9609    1.9631    0.7361 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4720   -1.3677    0.8225 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11556
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RHDJRPPFURBGLQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=C(C)C(CC2=CN=CN2)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N2/c1-9-4-3-5-11(10(9)2)6-12-7-13-8-14-12/h3-5,7-8H,6H2,1-2H3,(H,13,14)
+
+> <INCHI_KEY>
+RHDJRPPFURBGLQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N2
+
+> <MOLECULAR_WEIGHT>
+186.253
+
+> <EXACT_MASS>
+186.115698458
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.167011644219404
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(2,3-dimethylphenyl)methyl]-1H-imidazole
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.7375062623333335
+
+> <ALOGPS_LOGS>
+-2.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.261831991098738
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.14565089708393
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+58.863899999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.55e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+detomidine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11556
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Detomidine
+
+> <SYNONYMS>
+4-(2,3-dimethylbenzyl)imidazole
+
+> <SALTS>
+Detomidine hydrochloride
+
+$$$$

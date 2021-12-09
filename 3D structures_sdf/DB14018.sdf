@@ -1,0 +1,166 @@
+11808
+  -OEChem-04261821583D
+
+ 21 22  0     0  0  0  0  0  0999 V2000
+    4.5113    0.0808   -0.0002 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7198    2.7233   -0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8647   -1.4538   -0.0018 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5380   -1.4115    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8208    0.6430    0.0005 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8286    1.1708    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8975   -1.0575    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6009   -0.6179   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5301    0.7485   -0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6854    1.4962    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8161   -0.7987   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4109   -2.8634    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1271    1.2927    0.0016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6144    0.0474    0.0004 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1533    2.1287    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3885   -3.3520    0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1388   -3.1721    0.8952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1374   -3.1727   -0.8946 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0580    2.3828    0.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6828    0.9592    0.8839 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6768    0.9723   -0.8892 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14018
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SKTFQHRVFFOHTQ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1C2=C(NC(Br)=N2)C(=O)N(C)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7BrN4O2/c1-11-4-3(9-6(8)10-4)5(13)12(2)7(11)14/h1-2H3,(H,9,10)
+
+> <INCHI_KEY>
+SKTFQHRVFFOHTQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7BrN4O2
+
+> <MOLECULAR_WEIGHT>
+259.063
+
+> <EXACT_MASS>
+257.975238
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.67324502437181
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-bromo-1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+0.23
+
+> <JCHEM_LOGP>
+0.2947454573333333
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.575023920224055
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.00363862255592
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.3
+
+> <JCHEM_REFRACTIVITY>
+52.5593
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.92e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pamabrom
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14018
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bromotheophylline
+
+> <SYNONYMS>
+8-Bromotheophylline
+
+> <PRODUCTS>
+BackAid Max; Cramp Tabs; Crane Safety Cramp; Diurex; Diurex Max; Diurex Water Caplets; Diurex Water Capsules; Extra Strength Multi-symptom Pms Relief; Extra Strength Tylenol Menstrual Caplets; Fem Relief; Femadrine; Green Guard PMS Relief; Leader Premenstrual; Medi First Cramp; Medi First Plus Cramp; Menstrual Pain Relief; Menstrual Pain Relief Maximum Strength; Menstrual Pain Relief Maximum Strength / Multi Symptom; Menstrual Pain Relief Maximum Strength, Multi-Symptom; Menstrual Relief; Menstrual Relief Maximum Strength; Menstrual Relief Maximum Strength Multi Symptom; Menstrual Relief Multi-Symptom; Menstrual relief maximum strength; Midol Extra Strength Pms; Midol Pms; Midol Pms Extra Strength Tab; Midol Teen; Multi-Symptom Menstrual Pain Relief; Multi-Symptom PMS Formula; Multi-symptom Pms Relief; Multi-symptom Pms Relief Caplets; Otis Clapp Femcaps; PANADOL Womens Extra Strength; PMS FORMULA Maximum Strength; PMS Midol Complete; PMS Relief Extra Strength; PMS Relief Maximum Strength; Pain Aid PMF; Painaid Pmf Premenstrual Formula; Pamabrom; Pamprin Cramp Menstrual Pain Relief; Pamprin Extra Strength Caplets; Pamprin Multi-Symptom Maximum Strength; Pamprin Multisymptom Menstrual Pain Relief; Pamprin Pms Caplets; Pamprin Tab; Pre Menstrual relief maximum strength; Premsyn pms Premenstrual Pain Relief; Premsyn pms Premenstrual Syndrome Relief; Relievol Pms Extra Strength Caplets; Relievol Pms Regular Strength Tablets; Syncol; Trendar Pms Caplet; Trendar Pms Tablets; menstrual pain relief Maximum strength
+
+> <SALTS>
+Pamabrom
+
+$$$$

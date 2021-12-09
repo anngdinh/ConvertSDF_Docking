@@ -1,0 +1,171 @@
+76935
+  -OEChem-10051719483D
+
+ 27 27  0     1  0  0  0  0  0999 V2000
+   -0.8887    0.4289    0.7554 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0622   -2.3026    0.6898 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4546   -1.6568   -0.5588 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7047    1.0551    0.3683 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2770    2.0614   -0.5006 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4560   -0.1609    0.0191 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0406   -1.4698   -0.4721 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3746   -0.7280   -0.5946 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1145   -0.4683   -0.3431 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5306    0.2709    0.5521 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3128    1.1949    0.6326 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4539   -1.1548   -0.0975 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8441    2.9299   -0.4507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1033   -2.1328   -1.3318 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.2107   -1.5601 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1967    0.1262   -1.2614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6552   -0.2753    1.4947 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4066    1.8194    1.5295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4567   -1.7294    0.8342 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7157   -1.8220   -0.9239 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0003   -1.7344    1.4760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2802   -1.1453   -0.6096 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7643    1.6741    1.1159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2041    0.4266    0.7521 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7685    3.6281   -1.2891 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8466    3.5099    0.4776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7843    2.3816   -0.5546 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02100
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HOVAGTYPODGVJG-PZRMXXKTSA-N/SDF?record_type=3d
+
+> <SMILES>
+CO[C@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O6/c1-12-7-6(11)5(10)4(9)3(2-8)13-7/h3-11H,2H2,1H3/t3-,4+,5+,6-,7+/m1/s1
+
+> <INCHI_KEY>
+HOVAGTYPODGVJG-PZRMXXKTSA-N
+
+> <FORMULA>
+C7H14O6
+
+> <MOLECULAR_WEIGHT>
+194.1825
+
+> <EXACT_MASS>
+194.07903818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.06587684898184
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.49
+
+> <JCHEM_LOGP>
+-2.2894127143333334
+
+> <ALOGPS_LOGS>
+0.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.200415670112982
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.21139322915757
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981083281156967
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+40.67459999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.62e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl α-galactoside
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02100
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00507
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl alpha-galactoside
+
+$$$$

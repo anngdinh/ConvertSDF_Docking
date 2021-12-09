@@ -1,0 +1,152 @@
+15950826
+  -OEChem-10051722393D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+   -3.4458   -1.6298   -0.6699 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6988    1.6402    0.3262 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3328   -1.4757    1.7545 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6781    0.5100   -1.5637 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4788   -2.2175   -0.3139 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8584    1.1908    1.1912 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9687    0.5538    0.0533 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2184    0.7885   -0.4422 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.2958   -1.3112    0.5204 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0134    0.0485    0.0079 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1251    0.8694    0.9501 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1234    0.0744   -1.0210 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3190    0.7132    0.1942 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1260    0.2454   -0.9872 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0402    0.5065    1.9684 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2936    1.9514    0.9944 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0401    0.8079   -1.8308 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4343   -0.8856   -1.4414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6093    0.3635   -1.9405 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0901    0.7576   -1.0194 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 13  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+M  CHG  4   2  -1   3  -1   8   1   9   1
+M  END
+> <DATABASE_ID>
+DB12060
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JODKFOVZURLVTG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[O-][N+](=O)C1(CN(C1)C(=O)CBr)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6BrN3O5/c6-1-4(10)7-2-5(3-7,8(11)12)9(13)14/h1-3H2
+
+> <INCHI_KEY>
+JODKFOVZURLVTG-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6BrN3O5
+
+> <MOLECULAR_WEIGHT>
+268.023
+
+> <EXACT_MASS>
+266.949083
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.328707271059745
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-bromo-1-(3,3-dinitroazetidin-1-yl)ethan-1-one
+
+> <ALOGPS_LOGP>
+0.92
+
+> <JCHEM_LOGP>
+0.24318237233333323
+
+> <ALOGPS_LOGS>
+-2.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.043844020894548
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.59
+
+> <JCHEM_REFRACTIVITY>
+44.10100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.73e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-bromo-1-(3,3-dinitroazetidin-1-yl)ethanone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12060
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+RRx-001
+
+$$$$

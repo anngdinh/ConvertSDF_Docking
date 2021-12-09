@@ -1,0 +1,141 @@
+237332
+  -OEChem-10051722433D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    0.1235    0.7233   -0.2961 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0503    0.7129    0.7434 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3863    0.3318    0.1929 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1294   -0.1893   -0.2573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6347   -1.4420    0.0224 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4833    0.3241   -0.5092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0261    0.0459   -0.0386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7652   -1.2892    0.1645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2436    0.7825   -0.0220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2090   -2.3528    0.1136 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1236   -0.4474   -0.9469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4798    1.1895   -1.1790 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4894   -2.0600    0.3873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1391    1.8629   -0.2235 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5360    1.4688    1.0759 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12298
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NOEGNKMFWQHSLB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OCC1=CC=C(O1)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O3/c7-3-5-1-2-6(4-8)9-5/h1-3,8H,4H2
+
+> <INCHI_KEY>
+NOEGNKMFWQHSLB-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6O3
+
+> <MOLECULAR_WEIGHT>
+126.11
+
+> <EXACT_MASS>
+126.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.032772825774558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-(hydroxymethyl)furan-2-carbaldehyde
+
+> <ALOGPS_LOGP>
+-0.17
+
+> <JCHEM_LOGP>
+-0.10135383899999993
+
+> <ALOGPS_LOGS>
+-0.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.645732658563311
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3911565351444075
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.44
+
+> <JCHEM_REFRACTIVITY>
+31.726300000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.11e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxymethylfurfural
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12298
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+5-(hydroxymethyl)-2-furaldehyde
+
+$$$$

@@ -1,0 +1,150 @@
+588
+  -OEChem-10051722353D
+
+ 15 15  0     0  0  0  0  0  0999 V2000
+    2.6218    0.0716    0.0015 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7872    0.6308   -0.0016 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6221   -1.1243   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7305   -1.5409    0.0006 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5104    1.2664   -0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6318   -0.7331   -0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3984    0.0280   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0031    1.4013    0.0017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6787    1.8511    0.9067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6798    1.8511   -0.9083 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6053    1.1712   -0.8828 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7932    2.4760   -0.0054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5943    1.1803    0.8958 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6724   -1.1659    0.0015 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6369   -2.5508    0.0021 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11846
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DDRJAANPRJIHGJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CN1CC(=O)NC1=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7N3O/c1-7-2-3(8)6-4(7)5/h2H2,1H3,(H2,5,6,8)
+
+> <INCHI_KEY>
+DDRJAANPRJIHGJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7N3O
+
+> <MOLECULAR_WEIGHT>
+113.1179
+
+> <EXACT_MASS>
+113.058911861
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.738549617015732
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-imino-1-methylimidazolidin-4-one
+
+> <ALOGPS_LOGP>
+-1.65
+
+> <JCHEM_LOGP>
+-1.0644828886666666
+
+> <ALOGPS_LOGS>
+-1.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.062197716268258
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.191229824076018
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.962866377328875
+
+> <JCHEM_POLAR_SURFACE_AREA>
+56.190000000000005
+
+> <JCHEM_REFRACTIVITY>
+38.8128
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.92e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+creatinina
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11846
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Creatinine
+
+> <SYNONYMS>
+creatinina
+
+> <SALTS>
+Creatinine Sulfate
+
+$$$$

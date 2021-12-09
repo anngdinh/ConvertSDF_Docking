@@ -1,0 +1,191 @@
+15671
+  -OEChem-02161815253D
+
+ 35 36  0     1  0  0  0  0  0999 V2000
+    3.4102   -2.9491    1.1501 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5740    2.4369   -0.3176 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9247   -0.7286   -0.6460 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3481   -0.0569    0.0132 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1596   -1.1221   -0.2947 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6955   -0.6338   -1.8446 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3453   -2.3100   -0.4986 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7805    2.6396   -1.7378 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9935    3.4192    0.6620 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5137    0.5790   -0.8882 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6029   -1.6840    0.2157 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0677    2.0358   -0.0636 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6193    0.1380    1.3879 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5943   -1.4751   -2.1457 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3545    1.3795    1.2321 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3561    0.9202    0.1340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6780   -0.0220    0.9227 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8499    1.1001    1.3147 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6516    0.6994   -0.3431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3564   -1.2186    1.2069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3008   -0.4911   -0.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -1.4509    0.7403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1113   -0.1527    0.4023 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8395   -1.0526   -0.5691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0812    2.0676    2.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5804    1.6536   -0.8687 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9831   -0.5601    2.0273 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4154    2.0311    1.1979 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0990    0.6638    2.2882 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1356    1.4556   -0.9545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8581   -1.9806    1.8055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2357   -0.5358    1.4198 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5428    0.8520    0.3572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7603   -0.9270   -2.9985 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8202   -2.4726   -2.2423 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  9  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 10  2  0  0  0  0
+  3 11  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 24  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 32  1  0  0  0  0
+ 23 33  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13989
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RINBGYCKMGDWPY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NS(=O)(=O)C1=CC2=C(NC(CSCC(F)(F)F)NS2(=O)=O)C=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11ClF3N3O4S3/c11-5-1-6-8(2-7(5)23(15,18)19)24(20,21)17-9(16-6)3-22-4-10(12,13)14/h1-2,9,16-17H,3-4H2,(H2,15,18,19)
+
+> <INCHI_KEY>
+RINBGYCKMGDWPY-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11ClF3N3O4S3
+
+> <MOLECULAR_WEIGHT>
+425.84
+
+> <EXACT_MASS>
+424.9552316
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.67346947299695
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-chloro-1,1-dioxo-3-{[(2,2,2-trifluoroethyl)sulfanyl]methyl}-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+0.8808797483333335
+
+> <ALOGPS_LOGS>
+-3.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.748267352499855
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.051277469170115
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1510761312558566
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.35999999999999
+
+> <JCHEM_REFRACTIVITY>
+85.62410000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-chloro-1,1-dioxo-3-{[(2,2,2-trifluoroethyl)sulfanyl]methyl}-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13989
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Epitizide
+
+> <SYNONYMS>
+Epithiazide; Epitizidum; Eptizida
+
+$$$$

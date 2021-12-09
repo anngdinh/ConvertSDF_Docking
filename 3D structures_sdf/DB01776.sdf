@@ -1,0 +1,149 @@
+342
+  -OEChem-10051719423D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    2.3679   -1.0991    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2040   -0.3077   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0181   -1.0422   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1607    1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2108   -0.3826   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5181   -1.0126    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0682    1.7462    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2540    1.0116   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0453   -2.1292    0.0016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0776    1.6700    0.0020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4534   -1.9685   -0.5307 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8419   -1.2032    1.0282 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2866   -0.4176   -0.5049 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1019    2.8317    0.0008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2050    1.5375    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1203   -0.4826    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01776
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RLSSMJSEOOYNOY-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=CC(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3
+
+> <INCHI_KEY>
+RLSSMJSEOOYNOY-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8O
+
+> <MOLECULAR_WEIGHT>
+108.1378
+
+> <EXACT_MASS>
+108.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.910825333510086
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylphenol
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.1831018836666667
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.134322591215804
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.477095511148552
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+33.0801
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.51e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+M-cresol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01776
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01026
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+M-Cresol
+
+> <SYNONYMS>
+3-Cresol; 3-Methylphenol; m-Cresylic acid; m-Kresol; meta-Cresol; Metacresol
+
+$$$$

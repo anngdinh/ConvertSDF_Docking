@@ -1,0 +1,192 @@
+100252
+  -OEChem-09031810373D
+
+ 34 35  0     1  0  0  0  0  0999 V2000
+    4.0283   -1.6121   -0.3336 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4616    0.7830   -0.9463 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3724    2.9217    1.7934 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1696    3.8514   -0.2536 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0120   -0.3824   -0.6100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1216   -2.6872    0.4647 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0042   -1.0238    0.8137 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7284   -2.1414   -1.5510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6505   -2.8410    1.2265 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8943    0.7103   -0.6654 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7926   -0.4307    0.0325 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9166   -0.1123   -0.7548 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7608   -2.5306    0.4227 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6154    1.9730    1.0728 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5323    2.5836    0.2906 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4296    1.3020   -0.0198 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7351    1.5849   -0.8502 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3110    0.1750    0.4879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1594    0.8924   -1.1302 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0427   -0.8908   -0.0514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4308   -2.1250    0.5616 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2167    1.2267    1.7711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4183    2.7419    0.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0471    2.0291   -0.5630 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8753    2.0816   -1.8175 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6968   -0.6089    0.9431 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0245    0.5486    1.2282 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1020    2.4496    2.2289 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9268    4.1712   -0.7734 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4656    1.7470   -1.7167 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5068   -3.5618    0.6858 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7790   -1.5549    1.0960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4392   -1.9839   -0.0980 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0895   -3.3930    0.8441 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 32  1  0  0  0  0
+  9 21  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  2  0  0  0  0
+ 12 19  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14663
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SDWIOXKHTFOULX-AFCXAGJDSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N4O8P/c9-6(15)7-10-2-12(11-7)8-5(14)4(13)3(20-8)1-19-21(16,17)18/h2-5,8,13-14H,1H2,(H2,9,15)(H2,16,17,18)/t3-,4-,5-,8-/m1/s1
+
+> <INCHI_KEY>
+SDWIOXKHTFOULX-AFCXAGJDSA-N
+
+> <FORMULA>
+C8H13N4O8P
+
+> <MOLECULAR_WEIGHT>
+324.1846
+
+> <EXACT_MASS>
+324.047099924
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.392309633309473
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-5-(3-carbamoyl-1H-1,2,4-triazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.67
+
+> <JCHEM_LOGP>
+-2.918694436
+
+> <ALOGPS_LOGS>
+-1.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.250345697114751
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2263180005130367
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1608031120881357
+
+> <JCHEM_POLAR_SURFACE_AREA>
+190.24999999999997
+
+> <JCHEM_REFRACTIVITY>
+75.4473
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.34e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R,5R)-5-(3-carbamoyl-1,2,4-triazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14663
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001876
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ribavirin monophosphate
+
+> <SYNONYMS>
+Ribavirin 5'-monophosphate; Virazole 5'-phosphate
+
+$$$$

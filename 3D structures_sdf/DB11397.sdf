@@ -1,0 +1,152 @@
+3039
+  -OEChem-10051722113D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+   -3.9199    0.6286    0.5887 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6565   -1.4620   -1.0757 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3500    0.1931    0.4786 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3650   -0.6891   -0.4250 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4679    1.6729   -0.1704 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105   -0.3108   -0.0060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5898    0.1229    1.9599 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4096   -2.0900   -0.2169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2543    1.8167   -1.5640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2672    0.2581    0.4085 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4825   -0.1404    0.0224 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1747   -2.5177   -0.8694 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418   -2.5351   -0.4619 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6660   -2.3052    0.8236 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2361    1.5258   -1.8321 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9752    1.2169   -2.1251 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3962    2.8680   -1.8279 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1056    1.0790    1.0936 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11397
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OEBRKCOSUFCWJD-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COP(=O)(OC)OC=C(Cl)Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7Cl2O4P/c1-8-11(7,9-2)10-3-4(5)6/h3H,1-2H3
+
+> <INCHI_KEY>
+OEBRKCOSUFCWJD-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7Cl2O4P
+
+> <MOLECULAR_WEIGHT>
+220.976
+
+> <EXACT_MASS>
+219.945900638
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.816328319267207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2-dichloroethenyl dimethyl phosphate
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+1.3727811316666665
+
+> <ALOGPS_LOGS>
+-1.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.144481421283782
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.760000000000005
+
+> <JCHEM_REFRACTIVITY>
+52.1906
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.77e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dichlorvos
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11397
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Dichlorvos
+
+> <SYNONYMS>
+2,2-Dichloroethenyl dimethyl phosphate; DDVP; Dichlorvos; Dimethyl 2,2-dichlorovinyl phosphate; Dimethyl-2,2-dichlorovinyl phosphate; Phosphoric acid, 2,2-dichloroethenyl dimethyl ester; Phosphoric acid, 2,2-dichlorovinyl dimethyl ester
+
+> <INTERNATIONAL_BRANDS>
+Atgard
+
+$$$$

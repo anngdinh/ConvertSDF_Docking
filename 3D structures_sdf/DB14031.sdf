@@ -1,0 +1,171 @@
+5799
+  -OEChem-05161811273D
+
+ 27 30  0     0  0  0  0  0  0999 V2000
+    2.7929    0.9512   -0.0364 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7694    2.0735    0.0708 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4622   -2.4384   -0.0705 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5187    1.5402    0.0168 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1860   -0.7635   -0.0553 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1435   -0.1904   -0.0010 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8086    0.1287   -0.7061 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7889    0.2394    0.7749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0575    1.7890    0.7163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9741    1.9416   -0.7588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7131   -2.8915   -0.6922 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5363   -2.9661    0.7806 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4315    0.5563   -0.0245 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7472    1.0923    0.0265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1231   -1.0623   -0.0410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5246    0.7197   -1.2587 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -0.7791   -1.1744 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4119   -0.5840    1.3630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4903    0.9069    1.2535 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4225    2.6204    1.3016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1741    0.8033    1.1410 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0169    1.0632   -1.3856 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2804    2.8784   -1.2006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5860   -3.7930   -1.2739 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3461   -2.1240   -1.1115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0321   -2.2429    1.4110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2862   -3.9185    1.2246 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 13  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 14  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14031
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IUCJMVBFZDHPDX-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C1CN1C1=NC(=NC(=N1)N1CC1)N1CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N6/c1-2-13(1)7-10-8(14-3-4-14)12-9(11-7)15-5-6-15/h1-6H2
+
+> <INCHI_KEY>
+IUCJMVBFZDHPDX-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12N6
+
+> <MOLECULAR_WEIGHT>
+204.237
+
+> <EXACT_MASS>
+204.11234441
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.885603143741427
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+tris(aziridin-1-yl)-1,3,5-triazine
+
+> <ALOGPS_LOGP>
+1.08
+
+> <JCHEM_LOGP>
+1.7016468289999993
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.479887709899161
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.699999999999996
+
+> <JCHEM_REFRACTIVITY>
+59.73840000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+triethylenemelamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14031
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tretamine
+
+> <SYNONYMS>
+2,4,6-tri(1-aziridinyl)-1,3,5-triazine; 2,4,6-tris(1-aziridinyl)-1,3,5-triazine; 2,4,6-tris(1-aziridinyl)-s-triazine; 2,4,6-tris(aziridin-1-yl)-1,3,5-triazine; TEM; Tretamina; Tretaminum; Triaethylenmelamin; Triethylenemelamine; Trisaziridinyltriazine
+
+$$$$

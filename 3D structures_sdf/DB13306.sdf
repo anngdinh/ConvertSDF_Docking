@@ -1,0 +1,163 @@
+6301
+  -OEChem-10061700193D
+
+ 21 22  0     0  0  0  0  0  0999 V2000
+    1.2345    3.2807    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6596   -1.4712   -0.0001 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.8987   -2.5868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4248   -1.1587    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1795    0.9045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2479   -0.5045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9473   -1.2182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3825    1.6234   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0664    1.5544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5629   -0.4276    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5966    0.9521   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1862   -0.5723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2462    0.8157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8448   -1.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4104    2.7093   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5313    1.5020   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2107    1.3190    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6597   -2.2708    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4323   -0.9497    0.8914 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4317   -0.9505   -0.8920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8103   -2.9268   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13306
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GPTXWRGISTZRIO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=NC2=C(C=C1)C(Cl)=CC(Cl)=C2O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7Cl2NO/c1-5-2-3-6-7(11)4-8(12)10(14)9(6)13-5/h2-4,14H,1H3
+
+> <INCHI_KEY>
+GPTXWRGISTZRIO-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7Cl2NO
+
+> <MOLECULAR_WEIGHT>
+228.07
+
+> <EXACT_MASS>
+226.9904692
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.6215287023275
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,7-dichloro-2-methylquinolin-8-ol
+
+> <ALOGPS_LOGP>
+3.82
+
+> <JCHEM_LOGP>
+3.1667946713333333
+
+> <ALOGPS_LOGS>
+-3.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.985832616333205
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.000196394781995
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+56.16130000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.38e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlorquinaldol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13306
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorquinaldol
+
+> <SYNONYMS>
+2-methyl-5,7-dichloro-8-hydroxyquinoline; 5,7-dichloro-2-methyl-8-hydroxyquinoline; 5,7-dichloro-2-methyl-8-quinolinol; 5,7-dichloro-8-hydroxy-2-methylquinoline; 5,7-dichloro-8-hydroxyquinaldine; 5,7-dichloro-8-quinaldinol; Chlorquinaldol; Chlorquinaldolum; Clorquinaldol
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

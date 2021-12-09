@@ -1,0 +1,156 @@
+5610
+  -OEChem-10051722083D
+
+ 21 21  0     0  0  0  0  0  0999 V2000
+   -3.5985    0.0061    0.3965 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2131    0.0140    0.3305 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446   -0.0085   -0.6547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4797   -0.0044   -0.3767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7850   -0.0078    0.6288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2083   -1.2105   -0.2445 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2026    1.2055   -0.2491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5787   -1.2068    0.0154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5731    1.2093    0.0108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2612    0.0031    0.1431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1998   -0.8830   -1.2683 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2016    0.8640   -1.2706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5618   -0.8956    1.2314 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5401    0.8646    1.2453 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3123   -2.1598   -0.3398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3224    2.1519   -0.3481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1030   -2.1532    0.1167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0992    2.1549    0.1097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4308    0.8355   -0.2324 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4523   -0.7909   -0.2475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9099   -0.9134    0.4568 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08841
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DZGWFCGJZKJUFP-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NCCC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5-6,9H2
+
+> <INCHI_KEY>
+DZGWFCGJZKJUFP-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11NO
+
+> <MOLECULAR_WEIGHT>
+137.179
+
+> <EXACT_MASS>
+137.084063979
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.332804080654087
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(2-aminoethyl)phenol
+
+> <ALOGPS_LOGP>
+-0.14
+
+> <JCHEM_LOGP>
+0.6797131598312175
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.410817992116419
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.663317955732815
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+41.267300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.72e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tyramine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08841
+
+> <DRUG_GROUPS>
+investigational; nutraceutical
+
+> <GENERIC_NAME>
+Tyramine
+
+> <SALTS>
+Tyramine hydrochloride
+
+$$$$

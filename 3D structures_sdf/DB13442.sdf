@@ -1,0 +1,164 @@
+14520
+  -OEChem-01272015503D
+
+ 19 19  0     1  0  0  0  0  0999 V2000
+   -2.9238    0.2149   -0.1326 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1430    2.1148    0.2848 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4344   -0.8776    0.9927 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9329    0.2870   -0.3547 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2829   -0.1686    0.2550 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8656   -1.3844   -0.4567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3212   -1.4948   -0.0413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3286    0.9154    0.1488 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1985   -0.1067    0.0661 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2993    0.4999   -0.7621 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1134   -0.3851    1.3163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3124   -2.2954   -0.2023 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7939   -1.2703   -1.5476 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8905   -2.1501   -0.7053 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4133   -1.8562    0.9876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8608    0.9113   -1.1537 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2562    0.3803   -0.2465 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3449   -0.0051   -1.7308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1168    1.5673   -0.9159 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13442
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NRFJZTXWLKPZAV-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC(=O)NC1CCSC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9NO2S/c1-4(8)7-5-2-3-10-6(5)9/h5H,2-3H2,1H3,(H,7,8)
+
+> <INCHI_KEY>
+NRFJZTXWLKPZAV-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H9NO2S
+
+> <MOLECULAR_WEIGHT>
+159.2
+
+> <EXACT_MASS>
+159.035399708
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.964645402313401e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.587623563297598
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(2-oxothiolan-3-yl)acetamide
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+-0.4314922720000004
+
+> <ALOGPS_LOGS>
+-1.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.527767413071555
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7531354848530376
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+39.20290000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+prinomastat
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13442
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Citiolone
+
+> <SYNONYMS>
+Citiolona; Citiolone; Citiolonum
+
+> <INTERNATIONAL_BRANDS>
+Citiolase
+
+$$$$

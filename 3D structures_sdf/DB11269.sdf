@@ -1,0 +1,244 @@
+10111431
+  -OEChem-10061700133D
+
+ 60 61  0     0  0  0  0  0  0999 V2000
+    1.6619   -1.8663    0.4934 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1141    1.5025    2.7906 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3809    2.1044    1.6547 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3564   -1.3284    1.9558 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6300    1.4299   -0.2245 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1957   -2.2901    0.4634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4912   -2.8735   -0.1076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1773   -3.3542    0.8692 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2725   -3.7421   -1.3469 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0790   -2.7285    1.4606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2369    1.4590   -0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5483    1.3941    0.8965 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1612    1.4213   -1.5730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4827    1.5159    0.4213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5933   -4.2371   -1.9168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7352    1.4671    1.2958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3609    1.4798   -1.0911 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3575    1.4960    1.5120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0167    1.5087   -0.8749 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8948    0.9559   -0.3170 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9601    1.5485    0.6309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3080   -0.3581   -0.2216 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6727   -0.0222    1.4245 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1730    2.8285   -2.1385 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8024   -1.2254    0.8723 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3866    1.7461   -1.3560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1940   -0.9141   -1.1247 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2821    1.2062   -2.2791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6859   -0.1237   -2.1635 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4455   -1.6764    1.3366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7578   -1.6196   -0.2848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9965   -3.4611    0.6686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1602   -2.0436   -0.3635 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1184   -3.9357   -0.0107 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6209   -4.0444    1.5954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6610   -4.6166   -1.1025 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7384   -3.1701   -2.1142 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7909   -3.5185    1.7256 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8274   -2.1569    2.3618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5439    1.7212    0.5689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2808    2.1037    1.6873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1955    1.0532   -1.5610 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6348    0.7204   -2.2307 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2312   -3.3982   -2.2134 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1367   -4.8393   -1.1818 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4161   -4.8577   -2.8008 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666    1.4530    2.1776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6850    1.4719   -2.1257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674    1.5303   -1.7416 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0364   -0.6988    0.6435 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7262   -0.4245    1.7949 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3912   -0.0517    2.2501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7776    3.4946   -1.5130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1746    3.2679   -2.2130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6105    2.8253   -3.1422 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0829    2.7851   -1.4563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5124   -1.9491   -1.0407 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6656    1.8217   -3.0876 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3831   -0.5440   -2.8824 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0765    1.3813    2.8001 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 60  1  0  0  0  0
+  3 21  2  0  0  0  0
+  4 25  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 30  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 32  1  0  0  0  0
+  7 33  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 34  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 36  1  0  0  0  0
+  9 37  1  0  0  0  0
+ 10 38  1  0  0  0  0
+ 10 39  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 40  1  0  0  0  0
+ 12 41  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 42  1  0  0  0  0
+ 13 43  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 44  1  0  0  0  0
+ 15 45  1  0  0  0  0
+ 15 46  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 47  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 48  1  0  0  0  0
+ 19 49  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 26  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 22 27  2  0  0  0  0
+ 23 50  1  0  0  0  0
+ 23 51  1  0  0  0  0
+ 23 52  1  0  0  0  0
+ 24 53  1  0  0  0  0
+ 24 54  1  0  0  0  0
+ 24 55  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 56  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 57  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 58  1  0  0  0  0
+ 29 59  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11269
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FDATWRLUYRHCJE-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CCCCCCOC(=O)C1=CC=CC=C1C(=O)C1=CC=C(C=C1O)N(CC)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H31NO4/c1-4-7-8-11-16-29-24(28)20-13-10-9-12-19(20)23(27)21-15-14-18(17-22(21)26)25(5-2)6-3/h9-10,12-15,17,26H,4-8,11,16H2,1-3H3
+
+> <INCHI_KEY>
+FDATWRLUYRHCJE-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H31NO4
+
+> <MOLECULAR_WEIGHT>
+397.515
+
+> <EXACT_MASS>
+397.225308482
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.577185227499236
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexyl 2-[4-(diethylamino)-2-hydroxybenzoyl]benzoate
+
+> <ALOGPS_LOGP>
+6.03
+
+> <JCHEM_LOGP>
+6.817206608333335
+
+> <ALOGPS_LOGS>
+-4.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.293078721382764
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.3753438744906172
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.84
+
+> <JCHEM_REFRACTIVITY>
+117.6411
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.02e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hexyl 2-[4-(diethylamino)-2-hydroxybenzoyl]benzoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11269
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Diethylamino hydroxybenzoyl hexyl benzoate
+
+> <SYNONYMS>
+Hexyl 2-(4-(diethylamino)-2-hydroxybenzoyl)benzoate
+
+> <PRODUCTS>
+Age 20s ESSENCE COVER PACT WHITE DARK BE-35; Age 20s ESSENCE COVER PACT WHITE DEEP BE-25; D-one By Tamdoan Bb Light; D-one By Tamdoan Bb Medium; D-one By Tamdoan Sunscreen 50; Fascy Lab Green Plus Sun; Hydro Multi-shield; Kiehls Activated Sun Protector Sunscreen SPF 30 For Face and Body For All Skin Types; Kiehls Activated Sun Protector Sunscreen SPF 50 For Face and Body For All Skin Types; Kiehls Dermatologist Solutions Ultra Light Daily UV Defense Sunscreen SPF 50 High Protection Anti-Pollution Lightweight Formula for All Skin Types; Kiehls Ultra Light Daily UV Defense Aqua Gel SPF 50 Anti-Pollution; Kiehls Ultra Light Daily UV Defense CC SPF 50 Anti Pollution; MEDIKOii Bio-UV Protect Laser Master; Ohui Sunscience Luminous Whitening Sunblock; Ohui The First Cell Revolution Age Control Sun Block; PURITO Centella Green Level Safe Sun; Premium Ultra Uv Pure Sun; Sooryehan Hyo Fermented Sun Block; The History of Whoo Jin Hae Yoon Sun; Wonder Intensive BBCream 21 (Light); Xoul 60days sun
+
+> <INTERNATIONAL_BRANDS>
+Uvinul A Plus
+
+$$$$

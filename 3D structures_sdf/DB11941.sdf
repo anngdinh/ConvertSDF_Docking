@@ -1,0 +1,170 @@
+10160238
+  -OEChem-10051722373D
+
+ 26 27  0     0  0  0  0  0  0999 V2000
+    4.7353   -3.1484   -0.9951 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2206   -2.3378    0.7824 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2053   -0.9538   -0.6967 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7113    1.9446   -0.3511 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9350   -0.5400   -1.2849 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8190    2.7703    0.8354 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1478    2.4223   -1.6484 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0901    0.4720    1.6883 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1092    1.3466   -0.4750 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7639    0.5405    0.0137 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9642    0.2369    0.2741 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6060    0.6696    0.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4456    0.1817    1.1272 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3440   -1.1039    0.3369 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8960    1.2096   -0.0880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1502   -1.0397    0.9227 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9596   -1.5407   -0.3463 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6557   -1.4720    0.0373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2076    0.8416   -0.3876 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5874   -0.4992   -0.3249 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3458    1.4332   -1.3932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.7452    2.0508 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6186    2.2597   -0.1368 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7635   -1.5188    1.6757 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9539   -2.5172    0.0855 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9233    1.6103   -0.6675 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11941
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WWONFUQGBVOKOF-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=CC(Cl)=C(C=C1)C(=O)NS(=O)(=O)C1=CC=C(Br)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H6BrCl2NO3S2/c12-9-3-4-10(19-9)20(17,18)15-11(16)7-2-1-6(13)5-8(7)14/h1-5H,(H,15,16)
+
+> <INCHI_KEY>
+WWONFUQGBVOKOF-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H6BrCl2NO3S2
+
+> <MOLECULAR_WEIGHT>
+415.1
+
+> <EXACT_MASS>
+412.834954
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.94199212317966
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(5-bromothiophen-2-yl)sulfonyl]-2,4-dichlorobenzamide
+
+> <ALOGPS_LOGP>
+3.47
+
+> <JCHEM_LOGP>
+4.511335204
+
+> <ALOGPS_LOGS>
+-5.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.034990333972841
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.24
+
+> <JCHEM_REFRACTIVITY>
+81.11030000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.69e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tasisulamum tasisulam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11941
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tasisulam
+
+> <SYNONYMS>
+LY573636
+
+> <SALTS>
+Tasisulam Sodium
+
+$$$$

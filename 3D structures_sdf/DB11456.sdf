@@ -1,0 +1,159 @@
+9298
+  -OEChem-03191914373D
+
+ 24 24  0     0  0  0  0  0  0999 V2000
+   -0.6271   -3.1981    0.2533 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6718    2.6912   -0.0805 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7415    0.2061   -0.2013 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1505    0.7016   -2.1334 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2215    0.2538   -0.2365 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0443   -0.7018    0.3375 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5471   -0.5551    0.2541 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2036    1.4884    0.8230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3034   -0.4980    0.2119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1900   -1.5699    0.1606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7747    0.8100    0.1360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1432    1.0476    0.0082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5585   -1.3324    0.0326 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0351   -0.0236   -0.0435 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7662   -1.8846   -0.1872 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1119    2.5650    0.6653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1039    1.6601    0.1825 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2527   -2.1693   -0.0075 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6888   -2.2544    0.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8731   -1.9099   -1.2743 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9382   -2.5274    0.1218 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1501    3.1285    1.6008 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7662    3.2273   -0.1322 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1132    2.1910    0.4356 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11456
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JHJOOSLFWRRSGU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COP(=S)(OC)OC1=CC(Cl)=C(Cl)C=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8Cl3O3PS/c1-12-15(16,13-2)14-8-4-6(10)5(9)3-7(8)11/h3-4H,1-2H3
+
+> <INCHI_KEY>
+JHJOOSLFWRRSGU-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8Cl3O3PS
+
+> <MOLECULAR_WEIGHT>
+321.53
+
+> <EXACT_MASS>
+319.8997354
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.736646172849976
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+O,O-dimethyl O-2,4,5-trichlorophenyl phosphorothioate
+
+> <ALOGPS_LOGP>
+4.88
+
+> <JCHEM_LOGP>
+4.473740407333333
+
+> <ALOGPS_LOGS>
+-5.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+27.69
+
+> <JCHEM_REFRACTIVITY>
+70.2817
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.27e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ronnel
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB11456
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Ronnel
+
+> <SYNONYMS>
+Fenchlorphos; Fenclofos; Fenclofosum; Ronnel
+
+$$$$

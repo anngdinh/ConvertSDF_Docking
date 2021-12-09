@@ -1,0 +1,183 @@
+9049
+  -OEChem-05011911483D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+    5.3813   -0.0312   -0.2102 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5466    0.1343    0.1414 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7543   -1.0036   -0.0982 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5802    1.3498   -0.0733 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5857    2.4980    0.1798 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6418    0.2829   -0.4187 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3071   -1.1358    0.1547 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8054   -2.1034   -0.9345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2028   -1.8131    1.5323 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8601    0.0951    0.0582 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2802    1.3141    0.0696 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2907    0.1737   -0.1909 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6508    0.1944    1.2155 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5019   -0.0444   -1.1840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0428    0.1557    1.1329 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8938   -0.0833   -1.2665 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6642    0.0168   -0.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2220   -2.4388   -0.7597 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8667   -1.6482   -1.9294 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4271   -3.0073   -0.9651 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1704   -2.0884    1.7722 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5607   -1.1440    2.3236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8080   -2.7262    1.5756 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1806    0.3049    2.1899 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9218   -0.1022   -2.1017 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4188    2.5389    0.3061 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0747    3.3860    0.1410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6303    0.2352    2.0439 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3644   -0.1871   -2.2407 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0904    1.1892   -0.4963 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2267   -0.5398   -0.5159 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 26  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 30  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14763
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QMNFFXRFOJIOKZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1(C)N=C(N)N=C(N)N1C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14ClN5/c1-11(2)16-9(13)15-10(14)17(11)8-5-3-7(12)4-6-8/h3-6H,1-2H3,(H4,13,14,15,16)
+
+> <INCHI_KEY>
+QMNFFXRFOJIOKZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H14ClN5
+
+> <MOLECULAR_WEIGHT>
+251.715
+
+> <EXACT_MASS>
+251.09377318
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.514939020603542
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-chlorophenyl)-6,6-dimethyl-1,6-dihydro-1,3,5-triazine-2,4-diamine
+
+> <ALOGPS_LOGP>
+1.06
+
+> <JCHEM_LOGP>
+1.7011515446666665
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.130373674425474
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.178226000634139
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.0
+
+> <JCHEM_REFRACTIVITY>
+68.8396
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cycloguanil
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14763
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cycloguanil
+
+> <SYNONYMS>
+CGT; Chlorguanide triazine; Cycloguanilum; Cycloguanyl
+
+> <SALTS>
+Cycloguanil embonate
+
+$$$$

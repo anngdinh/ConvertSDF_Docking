@@ -1,0 +1,223 @@
+10913
+  -OEChem-03032017463D
+
+ 50 50  0     0  0  0  0  0  0999 V2000
+    2.4260    1.3227    0.5331 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8921   -1.6812   -0.3075 Si  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3231    2.2623   -0.7496 Si  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2442   -2.2102   -0.1532 Si  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6489    0.5280    0.5393 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.5961   -0.1585   -0.2372 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2772    2.2521   -0.2553 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2418   -1.4773   -0.3044 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2508    1.4350    0.3718 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4027   -0.9920   -0.1346 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0790    2.2272    0.5143 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9418    1.0833    2.3376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4439   -2.7116    1.1638 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4412   -2.5651   -1.8712 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4694    1.4935   -2.4611 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9306    4.0400   -0.8852 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5596   -3.3699   -1.5949 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3391   -3.2121    1.4329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0718    0.3583    2.3657 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0989    1.3758   -0.3043 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4092    2.3975   -0.5145 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917    3.1962    1.0142 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8437    1.6390    1.0300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9841    0.5605    2.4168 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6997    0.4953    2.8634 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8469    2.0508    2.8392 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0321   -3.7233    1.1040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5348   -2.7871    1.1918 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1069   -2.2584    2.1006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -3.5623   -1.9287 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1365   -2.0008   -2.7574 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5296   -2.6738   -1.8903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1229    0.4569   -2.4563 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1363    2.0515   -3.1813 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5079    1.5077   -2.8043 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3251    4.5986   -1.6049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8642    4.5413    0.0848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9729    4.0657   -1.2165 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8145   -4.1706   -1.6178 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5509   -3.8255   -1.5135 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5084   -2.8264   -2.5429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3414   -3.6306    1.5634 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6230   -4.0387    1.4125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1137   -2.5843    2.2999 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9674   -0.2557    2.4974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2471   -0.1127    2.9086 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2579    1.3409    2.8088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0154    0.7940   -0.1688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2590    2.3733    0.1153 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9148    1.4793   -1.3776 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 16 38  1  0  0  0  0
+ 17 39  1  0  0  0  0
+ 17 40  1  0  0  0  0
+ 17 41  1  0  0  0  0
+ 18 42  1  0  0  0  0
+ 18 43  1  0  0  0  0
+ 18 44  1  0  0  0  0
+ 19 45  1  0  0  0  0
+ 19 46  1  0  0  0  0
+ 19 47  1  0  0  0  0
+ 20 48  1  0  0  0  0
+ 20 49  1  0  0  0  0
+ 20 50  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11244
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XMSXQFUHVRWGNA-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H30O5Si5/c1-16(2)11-17(3,4)13-19(7,8)15-20(9,10)14-18(5,6)12-16/h1-10H3
+
+> <INCHI_KEY>
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H30O5Si5
+
+> <MOLECULAR_WEIGHT>
+370.77
+
+> <EXACT_MASS>
+370.093956741
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+6.45238975936893e-11
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.08552717376326
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+decamethyl-1,3,5,7,9,2,4,6,8,10-pentaoxapentasilecane
+
+> <ALOGPS_LOGP>
+4.08
+
+> <JCHEM_LOGP>
+0.9579999999999993
+
+> <ALOGPS_LOGS>
+-4.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.348965300621655
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.150000000000006
+
+> <JCHEM_REFRACTIVITY>
+66.20800000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.03e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl 6-bromo-4-[(dimethylamino)methyl]-5-hydroxy-2-(hydroxymethyl)-1-methylindole-3-carboxylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11244
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cyclomethicone 5
+
+> <SYNONYMS>
+Ciclopentasiloxane; Cyclomethicone D5; Cyclopentasiloxane; Decamethylcyclopentasiloxane
+
+> <PRODUCTS>
+3ce CR Eamy Water Proof Eye Liner 01 Cats; 3ce CR Eamy Water Proof Eye Liner 02 Zorro; 3ce CR Eamy Water Proof Eye Liner 08 Les Miserables; 3ce CR Eamy Water Proof Eye Liner 13 Caffeine; 3ce Pink Im Good Mascara; Bp; Lightening Serum; Mefactory Super Clear Lip And Eye Remover; Secret Key Tattoo Cover Cushion Spf50 Plus (21 Light Beige); Secret Key Tattoo Cover Cushion Spf50 Plus (23 Natural Beige)
+
+$$$$

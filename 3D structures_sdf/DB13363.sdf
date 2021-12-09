@@ -1,0 +1,163 @@
+65784
+  -OEChem-10061700203D
+
+ 23 23  0     1  0  0  0  0  0999 V2000
+   -3.0973    1.3272    0.0552 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3390   -2.9288    0.3463 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2209   -1.6039   -1.5049 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6159    0.1941    0.5803 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3833    0.5853    0.1125 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1253   -0.6516    0.6900 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6186   -0.4114    0.8567 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9538    0.5628   -0.2727 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7046    1.4285   -0.3761 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1595   -1.7470   -0.2929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7241    0.9335    0.1605 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0568    2.3112   -0.3548 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3887   -0.8552    1.6354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2208   -1.3241    0.8000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8244    0.0555    1.8284 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1323    0.0279   -1.2125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5060    1.7433   -1.4051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7690    2.3240    0.2517 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8353    0.7076    0.1857 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5195    3.0709    0.2188 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7994    2.3889   -1.4143 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1302    2.4921   -0.2449 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5253   -3.6598   -0.2808 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13363
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BAPRUDZDYCKSOQ-RITPCOANSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H][C@]1(O)CN(C(C)=O)[C@@]([H])(C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO4/c1-4(9)8-3-5(10)2-6(8)7(11)12/h5-6,10H,2-3H2,1H3,(H,11,12)/t5-,6+/m1/s1
+
+> <INCHI_KEY>
+BAPRUDZDYCKSOQ-RITPCOANSA-N
+
+> <FORMULA>
+C7H11NO4
+
+> <MOLECULAR_WEIGHT>
+173.168
+
+> <EXACT_MASS>
+173.068807838
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.351111927522712
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4R)-1-acetyl-4-hydroxypyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.40
+
+> <JCHEM_LOGP>
+-1.634896747
+
+> <ALOGPS_LOGS>
+0.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.826514429313338
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6909911575019287
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8413566444101872
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+38.9481
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.40e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+jonctum
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13363
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Oxaceprol
+
+$$$$

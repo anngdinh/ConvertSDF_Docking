@@ -1,0 +1,180 @@
+4578
+  -OEChem-11111916283D
+
+ 29 31  0     0  0  0  0  0  0999 V2000
+    0.4145   -0.1609    0.0242 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9394   -2.1704    0.0033 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2906    1.4495    0.0104 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0757   -1.5342   -0.0154 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6580    0.8607   -0.0110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9586    3.0933   -0.0039 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9196   -0.8048    0.0041 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9210    0.1491    0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3246    0.9320    0.0327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2574   -0.4336   -0.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7278    0.4011    0.0121 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2525   -2.5609   -0.0085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3822    0.1388    1.2106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3610    0.1758   -1.2051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6173    1.7213   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6866   -0.3551    1.1917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6654   -0.3181   -1.2239 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3281   -0.5836   -0.0255 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1742    1.5456    0.9308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1622    1.5730   -0.8441 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1348   -2.7832    0.0101 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5376   -3.6033   -0.0116 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8912    0.3108    2.1644 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8535    0.3768   -2.1445 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2024   -0.5625    2.1247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1650   -0.4967   -2.1717 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3436   -0.9685   -0.0403 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9326    3.3628   -0.0123 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2242    3.7875    0.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 15  1  0  0  0  0
+  6 28  1  0  0  0  0
+  6 29  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 24  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11919
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/KRWMERLEINMZFT-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(OCC2=CC=CC=C2)=C2N=CNC2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11N5O/c13-12-16-10-9(14-7-15-10)11(17-12)18-6-8-4-2-1-3-5-8/h1-5,7H,6H2,(H3,13,14,15,16,17)
+
+> <INCHI_KEY>
+KRWMERLEINMZFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11N5O
+
+> <MOLECULAR_WEIGHT>
+241.2486
+
+> <EXACT_MASS>
+241.096359999
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.628429388228955
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(benzyloxy)-9H-purin-2-amine
+
+> <ALOGPS_LOGP>
+2.09
+
+> <JCHEM_LOGP>
+1.714575143666667
+
+> <ALOGPS_LOGS>
+-1.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.012717576686025
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.979466817755707
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.712806002172376
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.71
+
+> <JCHEM_REFRACTIVITY>
+67.62110000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.63e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11919
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+6-O-benzylguanine
+
+> <SYNONYMS>
+O(6)-Benzylguanine; O6-benzylguanine
+
+$$$$

@@ -1,0 +1,157 @@
+5287600
+  -OEChem-10051720323D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+    2.4448   -0.1098    1.0697 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7978   -1.9132    0.4571 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7655   -0.8801   -0.9529 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1386   -0.6537   -0.8708 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7685    1.4583    0.8234 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5691    0.9896    0.0643 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7046    0.4575    0.7644 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3047    1.4818   -1.3601 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6303   -0.1019   -0.0176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3049   -0.7286    0.0224 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9858    1.8287    0.6361 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4696    0.1450    1.7886 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3705    2.3430   -1.3692 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1206    0.7048   -2.0035 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2412    1.8053   -1.8303 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5746    1.0791    1.3189 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0925    1.6942   -0.1132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1311   -0.8080    1.0070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1820   -2.6745   -0.0277 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04313
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LXRUAYBIUSUULX-STHAYSLISA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@@H]([C@@H](N)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO4/c1-2(4(7)8)3(6)5(9)10/h2-3H,6H2,1H3,(H,7,8)(H,9,10)/t2-,3+/m0/s1
+
+> <INCHI_KEY>
+LXRUAYBIUSUULX-STHAYSLISA-N
+
+> <FORMULA>
+C5H9NO4
+
+> <MOLECULAR_WEIGHT>
+147.1293
+
+> <EXACT_MASS>
+147.053157781
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.144014738520838
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-2-amino-3-methylbutanedioic acid
+
+> <ALOGPS_LOGP>
+-3.30
+
+> <JCHEM_LOGP>
+-2.9678511295775207
+
+> <ALOGPS_LOGS>
+-0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+5.218916889007896
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8740175638422683
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.676481201050818
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.62
+
+> <JCHEM_REFRACTIVITY>
+31.107200000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.74e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2s,3s-3-methylaspartic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04313
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00104
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+(3S)-3-methyl-D-aspartic acid
+
+> <SYNONYMS>
+3-methyl-beta-D-aspartic acid; D-methyl aspartic acid
+
+$$$$

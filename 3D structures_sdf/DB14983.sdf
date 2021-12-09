@@ -1,0 +1,156 @@
+76685198
+  -OEChem-05201910393D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    1.4745    0.2165   -0.3756 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0724   -0.7139   -0.2405 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0668    1.5282   -0.2153 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6181   -0.5184   -1.6159 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3307   -0.9572    0.8245 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9187   -0.7695    0.9551 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2672    0.3681   -0.0743 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3347   -0.3084    0.0576 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0016    1.4600    0.3266 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3442    1.0207    0.4123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3886   -1.3261   -0.0546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221    2.4505    0.5331 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2090    1.6026    0.6974 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4437   -1.7113   -1.0775 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1866   -2.1648    0.6187 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3678   -0.9116    0.2047 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4519   -1.6832    1.0279 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5720   -1.4183    1.6456 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14983
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LIXKIXWSKOENAB-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C(O1)S(=O)(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7NO4S/c1-4-2-3-5(10-4)11(8,9)6-7/h2-3,6-7H,1H3
+
+> <INCHI_KEY>
+LIXKIXWSKOENAB-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7NO4S
+
+> <MOLECULAR_WEIGHT>
+177.17
+
+> <EXACT_MASS>
+177.009578883
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.68646150676771
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-hydroxy-5-methylfuran-2-sulfonamide
+
+> <ALOGPS_LOGP>
+0.14
+
+> <JCHEM_LOGP>
+0.005192710333333531
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.957055842801383
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.933222338314282
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.117348984389268
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.54
+
+> <JCHEM_REFRACTIVITY>
+36.8969
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.12e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14983
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Cimlanod
+
+> <SYNONYMS>
+BMS-986231
+
+$$$$

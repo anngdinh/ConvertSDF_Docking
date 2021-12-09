@@ -1,0 +1,194 @@
+6483431
+  -OEChem-03312018013D
+
+ 33 35  0     1  0  0  0  0  0999 V2000
+   -4.0824   -2.7014   -0.0062 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7424    0.1222    1.0302 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5491   -0.3945   -2.0549 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9511    1.4430   -0.0869 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4634    0.2750    0.1683 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7334    2.1046    0.0870 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1873   -1.4342    0.0874 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4132   -0.4416   -0.0405 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7646    1.9252   -0.0747 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9803    0.1462    0.2894 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5469    0.0713   -1.1748 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7422   -0.5517    0.2381 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3568   -0.8630   -1.1226 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7187    1.4422    0.6102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7544   -0.1646    0.1016 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8048   -1.0063    0.7048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5019    1.6437    0.1574 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5264    0.9852    0.0514 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9051    0.8142   -0.0223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4755   -1.9430    1.0423 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5356   -1.4726    0.0147 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2094    1.0552   -1.5248 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4624   -1.4717    0.7637 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6731   -0.7239   -1.9665 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6907   -1.9075   -1.1598 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9263    1.5255    1.6833 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1371    2.3278    0.3308 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1447   -0.4924   -2.9337 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3893    2.2551    0.1970 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7564    1.4920   -1.0382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0703   -2.7741    1.3414 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3882    2.8634   -0.0596 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7630    1.7750   -0.1262 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 15  2  0  0  0  0
+  7 21  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 21  2  0  0  0  0
+  9 19  1  0  0  0  0
+  9 32  1  0  0  0  0
+  9 33  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 20  3  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15653
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IKKXOSBHLYMWAE-QRPMWFLTSA-N/SDF?record_type=3d
+
+> <SMILES>
+NC1=NC(F)=NC2=C1N=CN2[C@H]1C[C@H](O)[C@@](CO)(O1)C#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12FN5O3/c1-2-12(4-19)6(20)3-7(21-12)18-5-15-8-9(14)16-11(13)17-10(8)18/h1,5-7,19-20H,3-4H2,(H2,14,16,17)/t6-,7+,12+/m0/s1
+
+> <INCHI_KEY>
+IKKXOSBHLYMWAE-QRPMWFLTSA-N
+
+> <FORMULA>
+C12H12FN5O3
+
+> <MOLECULAR_WEIGHT>
+293.258
+
+> <EXACT_MASS>
+293.092417429
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.6762464412458474e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.018316981569587
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,5R)-5-(6-amino-2-fluoro-9H-purin-9-yl)-2-ethynyl-2-(hydroxymethyl)oxolan-3-ol
+
+> <ALOGPS_LOGP>
+-0.34
+
+> <JCHEM_LOGP>
+-0.417512951333333
+
+> <ALOGPS_LOGS>
+-2.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.161407144517815
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.324294058018623
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.785858873192255
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.31
+
+> <JCHEM_REFRACTIVITY>
+70.0183
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+valomaciclovir stearate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15653
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Islatravir
+
+> <SYNONYMS>
+4'-ethynyl-2-fluoro-2'-deoxyadenosine; Islatravir
+
+$$$$

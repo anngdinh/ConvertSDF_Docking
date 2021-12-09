@@ -1,0 +1,181 @@
+6323266
+  -OEChem-11211716153D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    0.8628    2.7640   -0.4978 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.3047    1.7452    0.8019 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4608   -2.7506    0.2752 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8400    0.2197   -0.4492 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9406   -1.2214   -0.5193 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3162   -2.1377   -0.1448 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8928   -0.5044    0.5457 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4846    1.4697   -0.0853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3399    1.0554    1.1136 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7005   -0.4086    0.8562 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5237   -0.8770    0.0307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7753    0.2003   -1.4213 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5299    0.0797   -0.7198 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2875    1.1052   -0.2948 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5808    0.8389    0.3978 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1202   -1.5784    0.1111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1142    1.8225   -0.9095 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7851    2.2574    0.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2213    1.6906    1.2397 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7419    1.1251    2.0312 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6121   -0.4992    0.2571 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8041   -0.9801    1.7818 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9208   -0.6233   -2.1325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8114    1.1045   -2.0411 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3369   -1.9676   -0.8529 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0263   -2.6907    0.3469 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7671   -0.7262    1.0137 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3 16  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 26  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09343
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QQHMKNYGKVVGCZ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+ClC1=C(CN2CCCC2=N)NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11ClN4O2/c10-7-5(12-9(16)13-8(7)15)4-14-3-1-2-6(14)11/h11H,1-4H2,(H2,12,13,15,16)
+
+> <INCHI_KEY>
+QQHMKNYGKVVGCZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H11ClN4O2
+
+> <MOLECULAR_WEIGHT>
+242.662
+
+> <EXACT_MASS>
+242.057053323
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.48323009207064
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-chloro-6-[(2-iminopyrrolidin-1-yl)methyl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-1.9810753469509712
+
+> <ALOGPS_LOGS>
+-2.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.694650414934149
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.277145223168521
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.55192395505324
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.29
+
+> <JCHEM_REFRACTIVITY>
+69.8867
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.31e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+C9H11clN4O2
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09343
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tipiracil
+
+> <SYNONYMS>
+5-chloro-6-(2-iminopyrrolidin-1-yl)methyl-2,4(1H,3H)-pyrimidinedione; 5-chloro-6-[(2-iminopyrrolidin-1-yl)methyl]-1H-pyrimidine-2,4-dione; Tipiracil; Tipiracilo
+
+> <PRODUCTS>
+Lonsurf
+
+> <SALTS>
+Tipiracil hydrochloride
+
+$$$$

@@ -1,0 +1,178 @@
+512864
+  -OEChem-11232009133D
+
+ 27 28  0     1  0  0  0  0  0999 V2000
+   -3.0635   -0.8450    0.1516 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4715    1.9492    0.2025 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1051   -0.4257    0.4891 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5491    0.7021   -0.4292 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1585   -1.3187    0.2615 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2405   -0.0227   -1.7580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1876   -1.4296   -1.2888 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3026   -0.4145    0.7765 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8415    0.9027    0.1941 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3324   -0.0164    1.9588 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4333   -1.0470    0.0063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3646    1.9655   -0.5645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1273   -2.2944    0.7535 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1143   -0.0808   -2.4156 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5669    0.4640   -2.3175 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1563   -1.7195   -1.7020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5275   -2.1831   -1.6372 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399   -0.3627    1.8668 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2555    0.5665    2.0613 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4281   -0.9050    2.5927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5391    0.6075    2.3791 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4476   -1.3212   -1.0506 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6556   -1.9557    0.5775 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2653   -0.3488    0.1538 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8693    2.6808   -1.2303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4934    2.4621    0.4029 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3574    1.7580   -0.9759 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15915
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NJQADTYRAYFBJN-FWWHASMVSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1(C)[C@@H]2CC[C@@]1(C)C(=O)[C@H]2Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15BrO/c1-9(2)6-4-5-10(9,3)8(12)7(6)11/h6-7H,4-5H2,1-3H3/t6-,7+,10+/m1/s1
+
+> <INCHI_KEY>
+NJQADTYRAYFBJN-FWWHASMVSA-N
+
+> <FORMULA>
+C10H15BrO
+
+> <MOLECULAR_WEIGHT>
+231.133
+
+> <EXACT_MASS>
+230.030628
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8245370694558622e-19
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.970730585324663
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3S,4S)-3-bromo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+> <ALOGPS_LOGP>
+3.28
+
+> <JCHEM_LOGP>
+3.2999605180000002
+
+> <ALOGPS_LOGS>
+-3.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.73884733356868
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.76569876590286
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+51.9417
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,3S,4S)-3-bromo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15915
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Camphor monobromide
+
+> <SYNONYMS>
+3-Bromo-d-camphor; 3-Bromocamphor; Camphor bromide; Camphor, monobromated
+
+$$$$

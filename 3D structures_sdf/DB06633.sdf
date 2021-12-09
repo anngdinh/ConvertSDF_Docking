@@ -1,0 +1,144 @@
+108018
+  -OEChem-03191913133D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+   -3.8430   -0.4165    0.0181 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5346   -0.1680    0.0124 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5615    1.0902   -0.1387 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5918   -0.9652   -1.1993 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7182   -0.7645    1.3230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4164    0.6176   -0.0031 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0331    0.7604    0.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1798   -0.1541   -0.0283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0314    1.3816    0.9179 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0506    1.4130   -0.8638 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1465   -0.7740   -0.9325 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1501   -0.8346    0.8315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4434    1.2486   -0.8032 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5697    1.5276   -1.0224 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06633
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NMMHHSLZJLPMEG-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+OS(=O)(=O)CCNCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6ClNO3S/c3-4-1-2-8(5,6)7/h4H,1-2H2,(H,5,6,7)
+
+> <INCHI_KEY>
+NMMHHSLZJLPMEG-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H6ClNO3S
+
+> <MOLECULAR_WEIGHT>
+159.58
+
+> <EXACT_MASS>
+158.9756919
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+14
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.067935290763828
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(chloroamino)ethane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+-1.58
+
+> <JCHEM_LOGP>
+-1.8554873612075125
+
+> <ALOGPS_LOGS>
+-0.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.1896895176280795
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.0675775510268872
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+40.434200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flupirtine maleate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06633
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+N-chlorotaurine
+
+> <SYNONYMS>
+N-chlorotaurine; N-monochlorotaurine; NCT; Taurine chloramine; Taurine monochloramine; Taurochloramine
+
+$$$$

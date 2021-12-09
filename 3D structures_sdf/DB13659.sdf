@@ -1,0 +1,158 @@
+19646
+  -OEChem-10061700273D
+
+ 21 22  0     0  0  0  0  0  0999 V2000
+   -1.8738    1.1511   -0.0278 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3770   -0.9963   -0.0028 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5560   -1.9207   -0.0077 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4354   -0.3765    0.0322 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -4.7402    1.7053   -0.0112 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5636    0.1871   -0.0336 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2793   -1.3644    0.0105 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4919    0.4653    0.0080 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7911   -0.1637   -0.0144 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9609   -0.0336   -0.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6858   -0.6743   -0.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1643    0.0219    0.0029 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2510    1.3129    0.0098 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6566   -1.2603    0.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6546    1.5575    0.0281 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3836    0.3887    0.0236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7095    1.1916   -0.0486 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5196    2.1101    0.0108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2457   -2.1680    0.0418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1068    2.5406    0.0441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4591    0.2819    0.0345 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+M  CHG  2   4  -1   8   1
+M  END
+> <DATABASE_ID>
+DB13659
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZLOXYEZYWCTXHU-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+O=C(NC1=NC=C(S1)N(=O)=O)C1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H5N3O3S2/c12-7(5-2-1-3-15-5)10-8-9-4-6(16-8)11(13)14/h1-4H,(H,9,10,12)
+
+> <INCHI_KEY>
+ZLOXYEZYWCTXHU-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H5N3O3S2
+
+> <MOLECULAR_WEIGHT>
+255.27
+
+> <EXACT_MASS>
+254.977233381
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.932380004010945
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(5-nitro-1,3-thiazol-2-yl)thiophene-2-carboxamide
+
+> <ALOGPS_LOGP>
+2.13
+
+> <JCHEM_LOGP>
+2.4270349409999996
+
+> <ALOGPS_LOGS>
+-3.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.075433559114943
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.226805005401068
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.81
+
+> <JCHEM_REFRACTIVITY>
+59.64770000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.10e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+atrican
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13659
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tenonitrozole
+
+$$$$

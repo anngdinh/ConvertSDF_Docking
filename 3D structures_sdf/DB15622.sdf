@@ -1,0 +1,163 @@
+3113817
+  -OEChem-03042012023D
+
+ 19 20  0     0  0  0  0  0  0999 V2000
+   -4.1986   -0.7434   -0.2154 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2768   -2.1560    0.0756 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7635   -1.0179    0.1340 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.8178    1.1946    0.0587 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3964   -0.5320   -0.0596 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5405   -1.2517   -0.0791 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1022    0.9406   -0.1791 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1315    1.7598   -0.1130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5005    1.3891   -0.0437 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2382    0.1010    0.0732 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7267    0.7963   -0.1172 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8653   -1.0136    0.0137 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5251   -0.3045   -0.1547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8145    0.1342    0.0131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9186    0.7034    0.5935 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5895   -2.2603   -0.0607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9936    0.5466    0.7173 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7702    1.6005   -0.0136 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4748    0.8531    1.5817 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+M  CHG  2   3  -1  10   1
+M  END
+> <DATABASE_ID>
+DB15622
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IDVQGNMSSHPZSJ-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CSC1=NN2C(NN=C(C2=O)[N+]([O-])=O)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N6O3S/c1-15-5-6-4-8-7-2(11(13)14)3(12)10(4)9-5/h1H3,(H,6,8,9)
+
+> <INCHI_KEY>
+IDVQGNMSSHPZSJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N6O3S
+
+> <MOLECULAR_WEIGHT>
+228.19
+
+> <EXACT_MASS>
+228.006559187
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.6952714563364527
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.181375243578834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-(methylsulfanyl)-3-nitro-1H,4H-[1,2,4]triazolo[3,2-c][1,2,4]triazin-4-one
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+1.6702979586666669
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.641758735897117
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.68853306092467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.31
+
+> <JCHEM_REFRACTIVITY>
+51.45150000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.67e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-bromo-4-[(dimethylamino)methyl]-3-(ethoxycarbonyl)-2-[(phenylsulfanyl)methyl]-1H-indol-5-yl sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15622
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Triazavirin
+
+> <SYNONYMS>
+Riamilovir; Triazavirin
+
+$$$$

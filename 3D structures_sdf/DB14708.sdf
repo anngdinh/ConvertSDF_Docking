@@ -1,0 +1,160 @@
+31388
+  -OEChem-09301815473D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    3.9283   -0.7669    1.2092 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7575    0.2534   -0.4384 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0782    1.6460   -0.7240 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1700   -0.7834   -1.3758 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3374   -0.1328    1.1215 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0327    0.1136   -0.2074 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7240   -0.1093    0.1583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7097    1.2242    0.1936 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6032   -1.1086   -0.4253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0881    1.1128    0.3764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9815   -1.2201   -0.2425 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1976   -0.2290    0.3543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2341    2.1841    0.3747 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0442   -1.9883   -0.7315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6558    1.9854    0.6885 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4657   -2.1776   -0.4157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4718   -1.2373    0.6827 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5519    0.4656    1.1236 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7201   -0.0109   -0.5825 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1742    0.5797    1.8450 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14708
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NXTVQNIVUKXOIL-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1=CC=C(C=C1)S(=O)(=O)NCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8ClNO2S/c1-6-2-4-7(5-3-6)12(10,11)9-8/h2-5,9H,1H3
+
+> <INCHI_KEY>
+NXTVQNIVUKXOIL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8ClNO2S
+
+> <MOLECULAR_WEIGHT>
+205.66
+
+> <EXACT_MASS>
+204.9964274
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.31019617655261
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-chloro-4-methylbenzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+-1.63
+
+> <JCHEM_LOGP>
+1.854912559333333
+
+> <ALOGPS_LOGS>
+-2.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.887464325110907
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+48.593399999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.88e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-chloro-p-toluenesulfonamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14708
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tosylchloramide
+
+> <SYNONYMS>
+N-chloro-p-toluenesulfonamide; N-chlorotoluene-p-sulfonamide
+
+> <INTERNATIONAL_BRANDS>
+Chloramin T; Chloraseptin; Chlorazol; Clorina; Disifin; Halamid; Minachlor; Trichlorol
+
+> <SALTS>
+Chloramine-T; Chloramine-T trihydrate
+
+$$$$

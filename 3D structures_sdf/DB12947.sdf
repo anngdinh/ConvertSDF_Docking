@@ -1,0 +1,186 @@
+18343
+  -OEChem-02012015063D
+
+ 28 29  0     1  0  0  0  0  0999 V2000
+    2.7792    2.3138    0.3405 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5028    0.7843   -1.1401 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9890   -1.8418    1.2529 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9471   -0.7258   -0.2829 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7521   -2.6257   -0.5182 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3775    0.1153    0.2844 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3695   -0.3302   -0.2934 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5562   -1.2609   -0.1197 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8116   -0.5080    0.8220 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.1233    0.1624    0.4720 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0499   -0.4138   -0.4888 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.6714    1.2838   -0.4535 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2789    2.5548    0.2878 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1862   -1.4878   -0.3257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9373    0.9189   -0.0687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2423    1.0994    0.1235 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1738   -0.0386    0.1081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3123    0.0498    1.6233 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6976    0.4923    1.3415 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2705   -1.2659   -1.1429 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4232    1.5204   -1.2143 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5619    2.3628    1.0914 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8114    3.2703   -0.3969 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1604    3.0257    0.7344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1056   -2.2294    1.3738 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4963   -0.9464   -1.1149 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2915    1.7840   -0.0450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1583   -2.0792   -0.1392 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 17  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12947
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZWAOHEXOSAUJHY-ZIYNGMLESA-N/SDF?record_type=3d
+
+> <SMILES>
+C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=C(F)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11FN2O5/c1-3-5(13)6(14)8(17-3)12-2-4(10)7(15)11-9(12)16/h2-3,5-6,8,13-14H,1H3,(H,11,15,16)/t3-,5-,6-,8-/m1/s1
+
+> <INCHI_KEY>
+ZWAOHEXOSAUJHY-ZIYNGMLESA-N
+
+> <FORMULA>
+C9H11FN2O5
+
+> <MOLECULAR_WEIGHT>
+246.1924
+
+> <EXACT_MASS>
+246.065199677
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.07774199234887937
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.986521742730226
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-methyloxolan-2-yl]-5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-1.1688892649999998
+
+> <ALOGPS_LOGS>
+-0.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.65748522962968
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.074210785214104
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6273636606527755
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.1
+
+> <JCHEM_REFRACTIVITY>
+51.2248
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.77e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12947
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Doxifluridine
+
+> <SYNONYMS>
+1-(β-D-5-desoxyribofuranoxyl)-5-fluoruracil; 5-fluoro-5'-deoxyuridine; 5'-deoxy-5-fluorouridine; 5'-DFUR; Doxifluridina; Doxifluridine; Doxifluridinum
+
+> <INTERNATIONAL_BRANDS>
+Flutron; Furtulon
+
+$$$$

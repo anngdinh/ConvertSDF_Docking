@@ -1,0 +1,170 @@
+6616
+  -OEChem-11232009453D
+
+ 26 27  0     1  0  0  0  0  0999 V2000
+    0.4716   -1.1360    0.4226 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8814   -0.4897   -0.0276 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9939    1.0363    0.3963 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0208   -0.0998    1.4167 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5561   -1.0449   -0.6752 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8603    0.4636   -0.7379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4549    0.9746   -0.0492 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3688   -0.9861   -1.3958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9876   -0.7517    1.0113 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2100    2.0337   -0.3611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3640   -2.1443    0.8309 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3207    2.0084    0.7702 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0322   -0.3363    1.7668 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3818    0.0741    2.2874 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2504   -1.4544   -1.6407 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4558   -1.5894   -0.3632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9249    0.6399   -0.5474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6125    0.8893   -1.7163 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7244   -0.6548   -2.2168 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4147   -2.0805   -1.4185 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3732   -0.6076   -1.6195 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7427   -0.3555    2.0017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9339   -0.2880    0.7088 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1667   -1.8273    1.1207 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2466    1.9165   -0.6569 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8034    3.0386   -0.3274 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15917
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CRPUJAZIXJMDBK-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+CC1(C)C2CCC(C2)C1=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16/c1-7-8-4-5-9(6-8)10(7,2)3/h8-9H,1,4-6H2,2-3H3
+
+> <INCHI_KEY>
+CRPUJAZIXJMDBK-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H16
+
+> <MOLECULAR_WEIGHT>
+136.238
+
+> <EXACT_MASS>
+136.125200515
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.953437314830023
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+2.859595116666666
+
+> <ALOGPS_LOGS>
+-3.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0.0
+
+> <JCHEM_REFRACTIVITY>
+43.6498
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.21e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,3S,4S)-3-bromo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15917
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Camphene
+
+> <SYNONYMS>
+DL-Camphene
+
+$$$$

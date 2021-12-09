@@ -1,0 +1,159 @@
+5460407
+  -OEChem-10061700123D
+
+ 17 16  0     1  0  0  0  0  0999 V2000
+   -1.1273   -1.3404   -0.8018 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7376    1.7974   -0.6861 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8592    0.1101    0.7984 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4754   -1.6077    0.1521 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1119    0.3655    1.0724 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9026    0.0600   -0.6426 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5861    0.3855   -0.8211 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4947    0.4825    0.6978 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4728   -0.2529    0.2309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758    0.5610   -1.4328 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9465    0.0840   -1.8106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4185    1.5635    0.8501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9773   -0.0152    1.5240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7738   -1.5963   -1.6707 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6552    2.0160   -0.9229 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3353    0.5433    0.0697 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0452   -2.0132    0.8400 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11192
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JPIJQSOTBSSVTP-STHAYSLISA-N/SDF?record_type=3d
+
+> <SMILES>
+OC[C@H](O)[C@@H](O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O5/c5-1-2(6)3(7)4(8)9/h2-3,5-7H,1H2,(H,8,9)/t2-,3+/m0/s1
+
+> <INCHI_KEY>
+JPIJQSOTBSSVTP-STHAYSLISA-N
+
+> <FORMULA>
+C4H8O5
+
+> <MOLECULAR_WEIGHT>
+136.1033
+
+> <EXACT_MASS>
+136.037173366
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.609117870375558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-2,3,4-trihydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-2.11
+
+> <JCHEM_LOGP>
+-2.149074426666667
+
+> <ALOGPS_LOGS>
+0.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.025178139889814
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4007287139451505
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981778620620938
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99
+
+> <JCHEM_REFRACTIVITY>
+26.345999999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.88e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+threonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11192
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-threonic acid
+
+> <SYNONYMS>
+(2R,3S)-2,3,4-trihydroxy-butanoic acid; L-threonate; L-threonic acid; Threonate
+
+> <PRODUCTS>
+EnBrace HR; EnLyte; Puralor
+
+> <SALTS>
+Magnesium L-threonate
+
+$$$$

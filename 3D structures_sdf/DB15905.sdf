@@ -1,0 +1,146 @@
+10371
+  -OEChem-11202012103D
+
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -2.8327   -0.4067   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2612   -1.3410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5595    0.2497    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3498    1.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0573   -1.0417    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7143    1.0338   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1148   -0.2927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9908    0.4970    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0099    2.3337    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7097   -1.9096    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4413    1.8377   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1677   -0.5548   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3094    1.5533    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15905
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QJZUKDFHGGYHMC-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+[H]C(=O)C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5NO/c8-5-6-2-1-3-7-4-6/h1-5H
+
+> <INCHI_KEY>
+QJZUKDFHGGYHMC-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5NO
+
+> <MOLECULAR_WEIGHT>
+107.112
+
+> <EXACT_MASS>
+107.037113785
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+13
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9998668121208986
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.356135717233537
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridine-3-carbaldehyde
+
+> <ALOGPS_LOGP>
+0.20
+
+> <JCHEM_LOGP>
+0.46807573366666677
+
+> <ALOGPS_LOGS>
+0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.8754774501691434
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.96
+
+> <JCHEM_REFRACTIVITY>
+30.4851
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.87e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-pyridinecarboxaldehyde
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15905
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nicotinaldehyde
+
+> <SYNONYMS>
+3-Formylpyridine; 3-Pyridinaldehyde; 3-Pyridinecarboxaldehyde; Nicotinic aldehyde
+
+$$$$

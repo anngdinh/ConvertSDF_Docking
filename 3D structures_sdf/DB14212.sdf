@@ -1,0 +1,161 @@
+7456
+  -OEChem-07041815383D
+
+ 19 19  0     0  0  0  0  0  0999 V2000
+   -2.4002   -0.8394   -0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8165   -0.3105   -0.0014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3204    1.4612    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3041    0.1886    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5334    1.3039    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2429   -1.0946    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9181    1.1361   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6277   -1.2625    0.0007 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4654   -0.1470    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7479    0.3633    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8313   -0.7992   -0.0014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1278    2.3123   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3698   -1.9917    0.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5600    2.0131   -0.0010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0486   -2.2643    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2008   -1.8280   -0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1933   -0.2939   -0.9017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1950   -0.2941    0.8982 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2399    0.5652   -0.0019 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14212
+
+> <DATABASE_NAME>
+drugbank
+
+> <ORIGINAL_SOURCE>
+PUBCHEM
+
+> <ORIGINAL_SOURCE_URL>
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LXCFILQKKLGQFO-UHFFFAOYSA-N/SDF?record_type=3d
+
+> <SMILES>
+COC(=O)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c1-11-8(10)6-2-4-7(9)5-3-6/h2-5,9H,1H3
+
+> <INCHI_KEY>
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.146895116351764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+methyl 4-hydroxybenzoate
+
+> <ALOGPS_LOGP>
+2.17
+
+> <JCHEM_LOGP>
+1.6731574583333335
+
+> <ALOGPS_LOGS>
+-1.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.50311531147631
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.0642205225851145
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+40.0642
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+paraben
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14212
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methylparaben
+
+> <SYNONYMS>
+Methyl 4-hydroxybenzoate; methyl p-hydroxybenzoate; Methyl paraben; Methylparaben; p-Hydroxybenzoic acid methyl ester; p-Methoxycarbonylphenol; p-Oxybenzoesauremethylester
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test; isLeaf Long Lasting Waterproof Eyeliner Black; isLeaf Long Lasting Waterproof Eyeliner Brown; isLeaf Tattoo Eyebrow Brown
+
+> <SALTS>
+Methylparaben sodium
+
+$$$$
